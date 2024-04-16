@@ -1,0 +1,256 @@
+[
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-445 ユーザーのダミーデータで後続のユーザーストーリーを進められるか調査 from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1690336514.312499",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10467::7657d1c02b5711eea9dd91939b3ba651",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-445?atlOrigin=eyJpIjoiMzIwNmIxMWJmZGZkNDQ4Nzk2YzcyM2Y0NmNjMDFjMWUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-445 ユーザーのダミーデータで後続のユーザーストーリーを進められるか調査>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10467::7657d1c12b5711eea9dd91939b3ba651",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10467::7657d1c22b5711eea9dd91939b3ba651",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10467\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10467\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "deleted": false,
+            "name": "Jira Cloud",
+            "updated": 1682467833,
+            "app_id": "A2RPP3NFR",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata commented on AT-445 ユーザーのダミーデータで後続のユーザーストーリーを進められるか調査",
+        "user": "U055AKE99KK",
+        "ts": "1690336541.203299",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10467::ca2733e02b5711eea175d32cd1ac0339",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> commented on a タスク in `進行中`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-445?atlOrigin=eyJpIjoiYmFmMDg4MDYxNjExNDllODg0YTI3YmU0Y2NjMzFhOTQiLCJwIjoiamlyYS1zbGFjay1pbnQifQ&amp;focusedCommentId=10150&amp;page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-10150|AT-445 ユーザーのダミーデータで後続のユーザーストーリーを進められるか調査>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "cn:nb:issue-commented-hook%3AsubscriptionHooks%3A1534139%3A63987e6af78d12c0f47112a9%3A10150::ca2733e12b5711eea175d32cd1ac0339",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "&gt;&gt;&gt;ユーザーをロードする箇所でダミーモック噛ませたらいけそう\nその間に別ブランチ + cherrypick運用で並行して認証周りやる方針",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10467::ca2733e22b5711eea175d32cd1ac0339",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10467\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10467\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B054V2LRMFX",
+            "ts": "1690336654.000000"
+        }
+    }
+]

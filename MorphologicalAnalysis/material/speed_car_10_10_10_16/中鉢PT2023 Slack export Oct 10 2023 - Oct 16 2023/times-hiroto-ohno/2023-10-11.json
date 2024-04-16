@@ -1,0 +1,448 @@
+[
+    {
+        "client_msg_id": "7d3e71e2-4bdd-4488-bef5-078ad65434f0",
+        "type": "message",
+        "text": "書式が崩れるという話なので、多分PDF化した後にぐちゃっとしちゃったとかそういう類の話を言っていますね\n\n前回はfont sizeを小さくして対応した気がします\n<https:\/\/www.notion.so\/2Q-daa4edc8e08f42819b9eb73622240798>",
+        "user": "U04T9TDB58W",
+        "ts": "1697007659.758259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ry47g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書式が崩れるという話なので、多分PDF化した後にぐちゃっとしちゃったとかそういう類の話を言っていますね\n\n前回はfont sizeを小さくして対応した気がします\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/2Q-daa4edc8e08f42819b9eb73622240798"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697007687.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1686650760,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/2Q-daa4edc8e08f42819b9eb73622240798",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": "2Qプロジェクト計画書",
+                "text": "FABIANMARCELO FERNANDEZ　大野寛人　鈴木真希　中山建太　平田聖　水野 響　宮原大",
+                "title": "2Qプロジェクト計画書",
+                "title_link": "https:\/\/www.notion.so\/2Q-daa4edc8e08f42819b9eb73622240798?utm_content=daa4edc8-e08f-4281-9b9e-b73622240798&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl&pvs=6",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1abb11a4-1503-4fd9-8339-812066ab4d4d",
+        "type": "message",
+        "text": "お疲れ様です。大野さん、水野さん。ありがとうございます:woman-bowing:一旦Notionをpdf化して、水野さんのプロジェクト計画書のコメント事項を反映したものを提出しました。1Q、2Qのプロジェクト計画書に比べてヘッダーに日付がない？など書式の違いがありますが、気になりましたら再提出お願いします:pray:あと時間の関係上、きちんと確認してません。不備があったらすみませんが再提出お願いします:woman-bowing:",
+        "user": "U04TDHFKJ85",
+        "ts": "1697008658.905919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7dm8P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。大野さん、水野さん。ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一旦Notionをpdf化して、水野さんのプロジェクト計画書のコメント事項を反映したものを提出しました。1Q、2Qのプロジェクト計画書に比べてヘッダーに日付がない？など書式の違いがありますが、気になりましたら再提出お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あと時間の関係上、きちんと確認してません。不備があったらすみませんが再提出お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697008658.905919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697032709.241599",
+        "reply_users": [
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697032709.241599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6C345CDF-842F-41CD-8981-8FAD9973CB2B",
+        "type": "message",
+        "text": "了解です！ありがとうございます",
+        "user": "U04U66DNCRE",
+        "ts": "1697009069.011509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWdlC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0ae3c9dc-3584-49cf-b602-2b17fb792e27",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\ngit resetした後にgit statusしてみて思ったんですが、git restoreコマンドをcommit不要なファイルに対して実行したら各ファイルの変更内容取り消しできたりしますか？(ぱっと見できそうですが)\n```(base) oonohirotonoMacBook-Pro:Product hiroto$ git reset\nUnstaged changes after reset:\nM       app\/MobileHeader.stories.tsx\nM       app\/__components__\/Buttons\/Button.client.stories.tsx\nM       app\/__components__\/Buttons\/HeaderButton.stories.tsx\nM       app\/__components__\/Product\/DiscontinuedProductCardContent.client.stories.tsx\nM       app\/__components__\/Product\/ProductCard.client.stories.tsx\nM       app\/__components__\/Product\/ProductCardContent.client.stories.tsx\nM       app\/__components__\/Product\/ProductDetails\/ProductDescription.client.stories.tsx\nM       app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client.stories.tsx\n(base) oonohirotonoMacBook-Pro:Product hiroto$ git status\nOn branch feature\/AT-515\/AddedProductedCard\nChanges not staged for commit:\n  (use \"git add &lt;file&gt;...\" to update what will be committed)\n  (use \"git restore &lt;file&gt;...\" to discard changes in working directory)\n        modified:   ..\/..\/MobileHeader.stories.tsx\n        modified:   ..\/Buttons\/Button.client.stories.tsx\n        modified:   ..\/Buttons\/HeaderButton.stories.tsx\n        modified:   DiscontinuedProductCardContent.client.stories.tsx\n        modified:   ProductCard.client.stories.tsx\n        modified:   ProductCardContent.client.stories.tsx\n        modified:   ProductDetails\/ProductDescription.client.stories.tsx\n        modified:   ProductDetails\/RecommendedProductCard.client.stories.tsx\n\nUntracked files:\n  (use \"git add &lt;file&gt;...\" to include in what will be committed)\n        AddedProductCardContent.stories.tsx\n        AddedProductCardContent.tsx\n\nno changes added to commit (use \"git add\" and\/or \"git commit -a\")\n(base) oonohirotonoMacBook-Pro:Product hiroto$ ```",
+        "user": "U04U66DNCRE",
+        "ts": "1697031175.558479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+qKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ngit resetした後にgit statusしてみて思ったんですが、git restoreコマンドをcommit不要なファイルに対して実行したら各ファイルの変更内容取り消しできたりしますか？(ぱっと見できそうですが)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(base) oonohirotonoMacBook-Pro:Product hiroto$ git reset\nUnstaged changes after reset:\nM       app\/MobileHeader.stories.tsx\nM       app\/__components__\/Buttons\/Button.client.stories.tsx\nM       app\/__components__\/Buttons\/HeaderButton.stories.tsx\nM       app\/__components__\/Product\/DiscontinuedProductCardContent.client.stories.tsx\nM       app\/__components__\/Product\/ProductCard.client.stories.tsx\nM       app\/__components__\/Product\/ProductCardContent.client.stories.tsx\nM       app\/__components__\/Product\/ProductDetails\/ProductDescription.client.stories.tsx\nM       app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client.stories.tsx\n(base) oonohirotonoMacBook-Pro:Product hiroto$ git status\nOn branch feature\/AT-515\/AddedProductedCard\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git restore <file>...\" to discard changes in working directory)\n        modified:   ..\/..\/MobileHeader.stories.tsx\n        modified:   ..\/Buttons\/Button.client.stories.tsx\n        modified:   ..\/Buttons\/HeaderButton.stories.tsx\n        modified:   DiscontinuedProductCardContent.client.stories.tsx\n        modified:   ProductCard.client.stories.tsx\n        modified:   ProductCardContent.client.stories.tsx\n        modified:   ProductDetails\/ProductDescription.client.stories.tsx\n        modified:   ProductDetails\/RecommendedProductCard.client.stories.tsx\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n        AddedProductCardContent.stories.tsx\n        AddedProductCardContent.tsx\n\nno changes added to commit (use \"git add\" and\/or \"git commit -a\")\n(base) oonohirotonoMacBook-Pro:Product hiroto$ "
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "58a53840-d1df-4f4f-b347-f7c6bbf1c3a8",
+        "type": "message",
+        "text": "<@U04TDHFKJ85> (<@U04T9TDB58W> )\n内容確認しましたが、機になるところは特にありませんでした！\n提出いただきありがとうございます！",
+        "user": "U04U66DNCRE",
+        "ts": "1697032709.241599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EILyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n内容確認しましたが、機になるところは特にありませんでした！\n提出いただきありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697008658.905919",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "635d5bc2-f5ec-4cd8-b812-6c0586fe1b43",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nあ～できる気がします、盲点でした :sorry:",
+        "user": "U04T9TDB58W",
+        "ts": "1697037554.604819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9H\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあ～できる気がします、盲点でした :sorry:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "0d1a1bba-3923-4840-8874-8316b1fed4c2",
+        "type": "message",
+        "text": "gitって何年使っててもちょっとイレギュラーなことやろうとすると悩みますよね\n間違って修正消えたらどうしよって思っていつも仕様調べるか他のリポジトリでテストしたりする笑",
+        "user": "U04T201950F",
+        "ts": "1697063787.743469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DiNRf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gitって何年使っててもちょっとイレギュラーなことやろうとすると悩みますよね\n間違って修正消えたらどうしよって思っていつも仕様調べるか他のリポジトリでテストしたりする笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "4F8BE682-7414-4BD1-8920-AA61E7387AB6",
+        "type": "message",
+        "text": "<@U04T9TDB58W> \nありがとうございます！\n色んなやり方がある事がわかったので助かります、、！\n今日の夜試してみます",
+        "user": "U04U66DNCRE",
+        "ts": "1697073957.599659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOTn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます！\n色んなやり方がある事がわかったので助かります、、！\n今日の夜試してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

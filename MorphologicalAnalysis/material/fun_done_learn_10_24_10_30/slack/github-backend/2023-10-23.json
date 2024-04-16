@@ -1,0 +1,139 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698098415.662889",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1685444374,
+            "app_id": "A01BP7R4KNY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1698107019.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698098408,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/activerecord-hackery\/ransack|ransack> from 4.0.0 to 4.1.0.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/activerecord-hackery\/ransack\/releases|ransack's releases>._\n\n&gt; *v4.1.0*\n&gt; *:rocket: Features*\n&gt; \n&gt; • Add Rails 7.1.0 support by <https:\/\/github.com\/yuki24|`@​yuki24`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1439|activerecord-hackery\/ransack#1439>\n&gt; \n&gt; *:bug: Bug Fixes*\n&gt; \n&gt; • Fix wrong table aliases in Rails 6.1 by <https:\/\/github.com\/oneiros|`@​oneiros`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1447|activerecord-hackery\/ransack#1447>\n&gt; \n&gt; *:sweat_drops: Compatibility*\n&gt; \n&gt; • Drop Ruby 2.7 support by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1449|activerecord-hackery\/ransack#1449>\n&gt; \n&gt; *:memo: Documentation*\n&gt; \n&gt; • Update blog post link by <https:\/\/github.com\/meg-gutshall|`@​meg-gutshall`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1425|activerecord-hackery\/ransack#1425>\n&gt; • Add namespaced example of Polymorphic search by <https:\/\/github.com\/craigmcnamara|`@​craigmcnamara`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1422|activerecord-hackery\/ransack#1422>\n&gt; • Update sorting example to be self-contained by <https:\/\/github.com\/kinduff|`@​kinduff`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1442|activerecord-hackery\/ransack#1442>\n&gt; \n&gt; *:nail_care: Polish*\n&gt; \n&gt; • Minor updates for Rails 7.1 by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1448|activerecord-hackery\/ransack#1448>\n&gt; • Don't mention Ruby compatibility in contribution instructions by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1452|activerecord-hackery\/ransack#1452>\n&gt; \n&gt; *:house: Internal*\n&gt; \n&gt; • Bump `@​sideway\/formula` from 3.0.0 to 3.0.1 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1417|activerecord-hackery\/ransack#1417>\n&gt; • Bump webpack from 5.74.0 to 5.76.1 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1412|activerecord-hackery\/ransack#1412>\n&gt; • Bump semver from 5.7.1 to 5.7.2 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1431|activerecord-hackery\/ransack#1431>\n&gt; • Bump `@​babel\/traverse` from 7.18.2 to 7.23.2 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1446|activerecord-hackery\/ransack#1446>\n&gt; • Bump postcss from 8.4.14 to 8.4.31 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1443|activerecord-hackery\/ransack#1443>\n&gt; • Bump dns-packet from 5.3.1 to 5.6.1 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1450|activerecord-hackery\/ransack#1450>\n&gt; • Test with Ruby 3.2 by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1451|activerecord-hackery\/ransack#1451>\n&gt; • Misc CI bumps by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1453|activerecord-hackery\/ransack#1453>\n&gt; • RuboCop tweaks by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1454|activerecord-hackery\/ransack#1454>\n&gt; \n&gt; *New Contributors*\n&gt; \n&gt; • <https:\/\/github.com\/meg-gutshall|`@​meg-gutshall`> made their first contribution in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1425|activerecord-hackery\/ransack#1425>\n&gt; • <https:\/\/github.com\/craigmcnamara|`@​craigmcnamara`> made their first contribution in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1422|activerecord-hackery\/ransack#1422>\n&gt; • <https:\/\/github.com\/yuki24|`@​yuki24`> made their first contribution in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1439|activerecord-hackery\/ransack#1439>\n&gt; • <https:\/\/github.com\/kinduff|`@​kinduff`> made their first contribution in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1442|activerecord-hackery\/ransack#1442>\n&gt; • <https:\/\/github.com\/oneiros|`@​oneiros`> made their first contribution in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1447|activerecord-hackery\/ransack#1447>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/activerecord-hackery\/ransack\/compare\/v4.0.0...v4.1.0|activerecord-hackery\/ransack@v4.0.0...v4.1.0>\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/activerecord-hackery\/ransack\/blob\/main\/CHANGELOG.md|ransack's changelog>._\n\n&gt; *Change Log*\n&gt; *Unreleased*\n&gt; *:rocket: Features*\n&gt; \n&gt; • Add Rails 7.1.0 support by <https:\/\/github.com\/yuki24|`@​yuki24`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1439|activerecord-hackery\/ransack#1439>\n&gt; \n&gt; *:bug: Bug Fixes*\n&gt; \n&gt; • Fix wrong table aliases in Rails 6.1 by <https:\/\/github.com\/oneiros|`@​oneiros`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1447|activerecord-hackery\/ransack#1447>\n&gt; \n&gt; *:sweat_drops: Compatibility*\n&gt; \n&gt; • Drop Ruby 2.7 support by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1449|activerecord-hackery\/ransack#1449>\n&gt; \n&gt; *:memo: Documentation*\n&gt; \n&gt; • Update blog post link by <https:\/\/github.com\/meg-gutshall|`@​meg-gutshall`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1425|activerecord-hackery\/ransack#1425>\n&gt; • Add namespaced example of Polymorphic search by <https:\/\/github.com\/craigmcnamara|`@​craigmcnamara`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1422|activerecord-hackery\/ransack#1422>\n&gt; • Update sorting example to be self-contained by <https:\/\/github.com\/kinduff|`@​kinduff`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1442|activerecord-hackery\/ransack#1442>\n&gt; \n&gt; *:nail_care: Polish*\n&gt; \n&gt; • Minor updates for Rails 7.1 by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1448|activerecord-hackery\/ransack#1448>\n&gt; • Don't mention Ruby compatibility in contribution instructions by <https:\/\/github.com\/deivid-rodriguez|`@​deivid-rodriguez`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1452|activerecord-hackery\/ransack#1452>\n&gt; \n&gt; *:house: Internal*\n&gt; \n&gt; • Bump `@​sideway\/formula` from 3.0.0 to 3.0.1 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1417|activerecord-hackery\/ransack#1417>\n&gt; • Bump webpack from 5.74.0 to 5.76.1 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1412|activerecord-hackery\/ransack#1412>\n&gt; • Bump semver from 5.7.1 to 5.7.2 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1431|activerecord-hackery\/ransack#1431>\n&gt; • Bump `@​babel\/traverse` from 7.18.2 to 7.23.2 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-hackery\/ransack\/pull\/1446|activerecord-hackery\/ransack#1446>\n&gt; • Bump postcss from 8.4.14 to 8.4.31 in \/docs by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/activerecord-…",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/96|#96 build(deps): bump ransack from 4.0.0 to 4.1.0>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:96,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/96&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps): bump ransack from 4.0.0 to 4.1.0&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698107013.539519",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/ba20288d56579191f1e4b729a6056cc58a72cca0|ba20288d>` - build(deps): bump ransack from 4.0.0 to 4.1.0 (#96)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/fd034a3116be...ba20288d5657|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698107015.695859",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698098408,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/96|#96 build(deps): bump ransack from 4.0.0 to 4.1.0>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    }
+]

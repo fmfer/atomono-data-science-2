@@ -1,0 +1,1360 @@
+[
+    {
+        "client_msg_id": "3ad3eec6-108d-4d99-950e-42e9d97b7725",
+        "type": "message",
+        "text": "<!channel>\n前期発表資料の本論の草案を作成しました。\n確認していただき、違和感・不明点等あれば教えて下さい。\n修正はコメント確認し適宜行います。\n<https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6>\n\nこちらを踏まえて各スライドの作成担当決める流れで行きたいと思います。",
+        "user": "U04T201950F",
+        "ts": "1690374348.255709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n前期発表資料の本論の草案を作成しました。\n確認していただき、違和感・不明点等あれば教えて下さい。\n修正はコメント確認し適宜行います。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこちらを踏まえて各スライドの作成担当決める流れで行きたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1688809140,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": ":triumph: 前期成果発表",
+                "text": "本論",
+                "title": ":triumph: 前期成果発表",
+                "title_link": "https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=6&utm_content=de73215f-0087-475e-a683-17eb8d55c35e&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl#62bff5c8352f45d994198bb2514b65f6",
+                "footer": "Created by 大野寛人"
+            }
+        ],
+        "thread_ts": "1690374348.255709",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1690678932.323079",
+        "reply_users": [
+            "U04T201950F",
+            "U04TV4NASPK",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1690411050.300379"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690411896.153939"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690674068.200669"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690678932.323079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d7aafaf-8bfc-427b-8fd9-9445c719cfe6",
+        "type": "message",
+        "text": "こちらですが、修正コメント等記載いただきましたらこのスレッドに返信いただけると幸いです。\nなる早で対応してみなさんに展開できるようにするので。",
+        "user": "U04T201950F",
+        "ts": "1690411050.300379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dn8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらですが、修正コメント等記載いただきましたらこのスレッドに返信いただけると幸いです。\nなる早で対応してみなさんに展開できるようにするので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690374348.255709",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "51165f55-0d64-45d0-ac5f-1fd2d8a5502e",
+        "type": "message",
+        "text": "コメントしました。修正というより思いついたこと記載したのみです。",
+        "user": "U04TV4NASPK",
+        "ts": "1690411896.153939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqN9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コメントしました。修正というより思いついたこと記載したのみです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690374348.255709",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b74a799e-cc67-4fee-a5b2-d38308b25d44",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nおはようございます:sunny:\nインタビューの資料ってどこに共有されてます？？",
+        "user": "U04T201950F",
+        "ts": "1690412539.879269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X=43q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nインタビューの資料ってどこに共有されてます？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1690436615.766649",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T201950F",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690413240.140379"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690413246.901999"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690413280.097409"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690413412.991939"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690413431.968029"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690413453.733719"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690413497.984389"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690413546.345069"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690413709.717359"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690413791.908729"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690429186.589909"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690429428.587819"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690429834.558659"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690434777.518099"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690436615.766649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b7de279f-cd64-4eb8-9112-8613febbdf20",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690127868402049>",
+        "user": "U04TV4NASPK",
+        "ts": "1690413240.140379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690127868402049"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690127868402049",
+                "ts": "1690127868.402049",
+                "author_id": "U04TV4NASPK",
+                "channel_id": "C04T9T2TW22",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C04T9T2TW22",
+                        "ts": "1690127868.402049",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "H0oO",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nアイスタイル様へのインタビュー用のスライドを作成しました。何かあればこのslackスレにコメントください。\n質問も時間あれば聞くので、追加質問も受け付けてます。\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/docs.google.com\/presentation\/d\/1aTbVFj-aBYb0wgNpO2Nf2rd7Ypny1XSP9VWo3jFOlgA\/edit?usp=sharing"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690127868402049",
+                "fallback": "[July 23rd, 2023 8:57 AM] a2231kn: <!channel>\nアイスタイル様へのインタビュー用のスライドを作成しました。何かあればこのslackスレにコメントください。\n質問も時間あれば聞くので、追加質問も受け付けてます。\n<https:\/\/docs.google.com\/presentation\/d\/1aTbVFj-aBYb0wgNpO2Nf2rd7Ypny1XSP9VWo3jFOlgA\/edit?usp=sharing>",
+                "text": "<!channel>\nアイスタイル様へのインタビュー用のスライドを作成しました。何かあればこのslackスレにコメントください。\n質問も時間あれば聞くので、追加質問も受け付けてます。\n<https:\/\/docs.google.com\/presentation\/d\/1aTbVFj-aBYb0wgNpO2Nf2rd7Ypny1XSP9VWo3jFOlgA\/edit?usp=sharing>",
+                "author_name": "Nakayama (a2231kn)",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TV4NASPK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_48.jpg",
+                "author_subname": "Nakayama (a2231kn)",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "988acce1-fdc6-4c2c-9a1d-fc5c41663876",
+        "type": "message",
+        "text": "ここすね",
+        "user": "U04TV4NASPK",
+        "ts": "1690413246.901999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここすね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "7a8b819e-1f1b-4931-8e40-915e4385b6ac",
+        "type": "message",
+        "text": "ありがとうございます！見落としておりすみませんでした:sweat_drops:",
+        "user": "U04T201950F",
+        "ts": "1690413280.097409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85ts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！見落としておりすみませんでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bd3a671-3319-496a-a14f-7bc6a15571fb",
+        "type": "message",
+        "text": "自己紹介セッション、先生いないのに先生の画像使ってるのなんか面白いですね笑",
+        "user": "U04T201950F",
+        "ts": "1690413412.991939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9se",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自己紹介セッション、先生いないのに先生の画像使ってるのなんか面白いですね笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "cf8aadd7-b2d4-4720-9a05-618f81f1eba3",
+        "type": "message",
+        "text": "まあ中鉢PBLなんで代表みたいなもんだしね。",
+        "user": "U04TV4NASPK",
+        "ts": "1690413431.968029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wsr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まあ中鉢PBLなんで代表みたいなもんだしね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "bcceacf3-53c4-418f-b322-175866da1034",
+        "type": "message",
+        "text": "中山先生の写真でもいいと思います",
+        "user": "U04T201950F",
+        "ts": "1690413453.733719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNlkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中山先生の写真でもいいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "nanto",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d119eac6-e3cf-419f-bc0b-a90ed068ffdd",
+        "type": "message",
+        "text": "東大GCIのクラス受けた時も授業も松尾研で最初に教授挨拶した以外は出なかったな。",
+        "user": "U04TV4NASPK",
+        "ts": "1690413497.984389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYMX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東大GCIのクラス受けた時も授業も松尾研で最初に教授挨拶した以外は出なかったな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "25721bb2-3af0-4e74-a86d-9bf2486cbddc",
+        "type": "message",
+        "text": "そうなんですね！！\nてか東大の授業受けてたんですね！",
+        "user": "U04T201950F",
+        "ts": "1690413546.345069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C4ft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなんですね！！\nてか東大の授業受けてたんですね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "c076b125-a53d-4b5b-afd6-e9b32ccc7b61",
+        "type": "message",
+        "text": "学生なら誰でも受けれる。結構重い。授業と仕事で最終課題提出できなかった。\n<https:\/\/gci.t.u-tokyo.ac.jp\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1690413709.717359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生なら誰でも受けれる。結構重い。授業と仕事で最終課題提出できなかった。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gci.t.u-tokyo.ac.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "http:\/\/gci.t.u-tokyo.ac.jp\/wp-content\/themes\/gci\/images\/big-data-long.png",
+                "image_width": 1140,
+                "image_height": 400,
+                "image_bytes": 282625,
+                "from_url": "https:\/\/gci.t.u-tokyo.ac.jp\/",
+                "service_icon": "https:\/\/gci.t.u-tokyo.ac.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gci.t.u-tokyo.ac.jp\/",
+                "fallback": "東京大学グローバル消費インテリジェンス寄附講座",
+                "text": "東京大学グローバル消費インテリジェンス寄附講座の公式ウェブサイトです。東大からマーケットに精通したデータサイエンティストを養成します。",
+                "title": "東京大学グローバル消費インテリジェンス寄附講座",
+                "title_link": "https:\/\/gci.t.u-tokyo.ac.jp\/",
+                "service_name": "gci.t.u-tokyo.ac.jp"
+            }
+        ],
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "c4b6292c-efb8-438d-87e1-0b4be44aa680",
+        "type": "message",
+        "text": "さすが天下の東大",
+        "user": "U04T201950F",
+        "ts": "1690413791.908729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さすが天下の東大"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "4c4cee48-955f-4405-830c-9aa287eef9ec",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n中山さん、お疲れ様です。細かいですが、スライド P12が代価品になっておりました。\n意図的に記載されてるのであればご放念下さい！",
+        "user": "U04U66DNCRE",
+        "ts": "1690429186.589909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8t31",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n中山さん、お疲れ様です。細かいですが、スライド P12が代価品になっておりました。\n意図的に記載されてるのであればご放念下さい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf3c4a2e-5fe9-4fce-8879-450a36cb7cc9",
+        "type": "message",
+        "text": "意図的じゃないのでご放念できなそうです。修正しました。",
+        "user": "U04TV4NASPK",
+        "ts": "1690429428.587819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pd6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "意図的じゃないのでご放念できなそうです。修正しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aec1268b-1f39-4ce1-99c4-e1757f5cfb90",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nなんか打ち合わせいります？\n早めに入れますよ",
+        "user": "U04T201950F",
+        "ts": "1690429834.558659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなんか打ち合わせいります？\n早めに入れますよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04U66DNCRE",
+                    "U04TV4NASPK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86a351ef-d611-47dd-bef4-9d6968e48f4e",
+        "type": "message",
+        "text": "<@U04TV4NASPK> <@U04U66DNCRE>\nインタビューお疲れ様でした！\n中山さんファシリありがとうございましたー！",
+        "user": "U04T201950F",
+        "ts": "1690434777.518099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MglK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nインタビューお疲れ様でした！\n中山さんファシリありがとうございましたー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F44383BF-2DEB-406E-A962-2D213CCFE12C",
+        "type": "message",
+        "text": "お疲れ様でした！\n色々聞けたし、良い経験でした ！\n中山先生お疲れ様でした :なかやまきんに君: ",
+        "user": "U04U66DNCRE",
+        "ts": "1690436615.766649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmSn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様でした！\n色々聞けたし、良い経験でした ！\n中山先生お疲れ様でした "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "なかやまきんに君"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690412539.879269",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69f2e36c-39e7-4f32-8467-7bc80946f8f5",
+        "type": "message",
+        "text": "<!here>\n今日のインタビュー動画です。いろいろお話し伺えたので是非見てください。\n<https:\/\/drive.google.com\/file\/d\/1uSAO1Y9bLOnA0bNmOiDjyFNybYsh3hpa\/view>",
+        "user": "U04TV4NASPK",
+        "ts": "1690437576.040429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bsrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日のインタビュー動画です。いろいろお話し伺えたので是非見てください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1uSAO1Y9bLOnA0bNmOiDjyFNybYsh3hpa\/view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690437576.040429",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1690447408.914849",
+        "reply_users": [
+            "U04T201950F",
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1690437876.195419"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690438539.589939"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690447408.914849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53fe8516-a93e-46ac-b634-677ff5676c26",
+        "type": "message",
+        "text": "歯抜けですがメモです\n```廃盤商品情報\n  メーカーさんからいただくのが基本\n  新商品の情報共有と同じ時期にいただいている\n  新規のメーカーさんの場合こちらからアプローチしている\n  @cosmeのbeauty boardに登録する仕様？らしい\n\n掲載期限があるか\n  メーカーから掲載中止の依頼がなければ半永久的に掲載されている\n\n代替品の提案\n  似たようなカテゴリやブランド内のみで関連商品を提案している\n  ブランド様との関係性を大事にしているため、メーカーをまたいだものを代替品として掲載はしない。\n\n代替品のリコメンド\n  今後も含めて表示する予定はない\n\n基本的には同ブランド内での展開を大切にしている\n\nプロダクトとしての目的を明確にしたほうがいい\n廃盤品だけでなく現行品も掲載した方がいい\n軸を明確にした方がいい\n  例えば成分による代替品提案は良さそう\n    美容感度の高い方ほど、成分に対しての意識が強い\n  肌タイプ別の割合\n\nカテゴリによって探し方が異なるという点を考慮する```\n",
+        "user": "U04T201950F",
+        "ts": "1690437876.195419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48=9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "歯抜けですがメモです\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "廃盤商品情報\n  メーカーさんからいただくのが基本\n  新商品の情報共有と同じ時期にいただいている\n  新規のメーカーさんの場合こちらからアプローチしている\n  @cosmeのbeauty boardに登録する仕様？らしい\n\n掲載期限があるか\n  メーカーから掲載中止の依頼がなければ半永久的に掲載されている\n\n代替品の提案\n  似たようなカテゴリやブランド内のみで関連商品を提案している\n  ブランド様との関係性を大事にしているため、メーカーをまたいだものを代替品として掲載はしない。\n\n代替品のリコメンド\n  今後も含めて表示する予定はない\n\n基本的には同ブランド内での展開を大切にしている\n\nプロダクトとしての目的を明確にしたほうがいい\n廃盤品だけでなく現行品も掲載した方がいい\n軸を明確にした方がいい\n  例えば成分による代替品提案は良さそう\n    美容感度の高い方ほど、成分に対しての意識が強い\n  肌タイプ別の割合\n\nカテゴリによって探し方が異なるという点を考慮する"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690437576.040429",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "1e579b42-5ad0-4aed-a39f-e96b218e5eb5",
+        "type": "message",
+        "text": "アイスタイル様にmeetに貼っていただいているリンク\n• <https:\/\/www.cosme.net\/products\/10238643\/review\/>\n• <https:\/\/play.google.com\/store\/apps\/details?id=kr.co.company.hwahae&amp;pli=1>\n• <https:\/\/cosme-ken.org\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1690438539.589939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アイスタイル様にmeetに貼っていただいているリンク\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.cosme.net\/products\/10238643\/review\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/play.google.com\/store\/apps\/details?id=kr.co.company.hwahae&pli=1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/cosme-ken.org\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/play.google.com\/store\/apps\/details?id=kr.co.company.hwahae&pli=1",
+                "image_url": "https:\/\/play-lh.googleusercontent.com\/2FInYhiGQtD9qxpMSQmmGaeaoXF4V5wdWgNfxxsfZcEQ7hGHF2JLVCDS8Ul7uvJ_N-I",
+                "image_width": 512,
+                "image_height": 512,
+                "image_bytes": 17623,
+                "service_icon": "http:\/\/www.gstatic.com\/android\/market_images\/web\/favicon_v3.ico",
+                "id": 1,
+                "original_url": "https:\/\/play.google.com\/store\/apps\/details?id=kr.co.company.hwahae&amp;pli=1",
+                "fallback": "Hwahae - analyzing cosmetics - Apps on Google Play",
+                "text": "For people who want to check the ingredients of cosmetics. Join 'Hwahae' now!",
+                "title": "Hwahae - analyzing cosmetics - Apps on Google Play",
+                "title_link": "https:\/\/play.google.com\/store\/apps\/details?id=kr.co.company.hwahae&pli=1",
+                "service_name": "play.google.com"
+            },
+            {
+                "image_url": "https:\/\/cosme-ken.org\/newsite\/wp-content\/themes\/jcla2023\/images\/top\/ogimg_01.png",
+                "image_width": 640,
+                "image_height": 360,
+                "image_bytes": 22452,
+                "from_url": "https:\/\/cosme-ken.org\/",
+                "id": 2,
+                "original_url": "https:\/\/cosme-ken.org\/",
+                "fallback": "日本化粧品検定",
+                "text": "日本化粧品検定の公式サイトです。日本化粧品検定は文部科学省の後援事業として許可された、化粧品・美容の知識に関する検定としては初めての検定で受験後も役立つ“活かせる検定”です。コスメコンシェルジュ・コスメライター・コスメコンシェルジュインストラクターも取得でき、美容職・ライターのキャリアアップにもおすすめ。",
+                "title": "日本化粧品検定",
+                "title_link": "https:\/\/cosme-ken.org\/",
+                "service_name": "cosme-ken.org"
+            }
+        ],
+        "thread_ts": "1690437576.040429",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

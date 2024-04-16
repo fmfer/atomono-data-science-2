@@ -1,0 +1,658 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n<!channel>\n【質問】\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n ③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\n\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F0626V08ZL3",
+                "created": 1697892906,
+                "timestamp": 1697892906,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TDHFKJ85",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 79741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626V08ZL3\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626V08ZL3\/download\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 189,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 252,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 379,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 421,
+                "original_w": 886,
+                "original_h": 466,
+                "thumb_tiny": "AwAZADDQ2r6CjCggYHNOprZyMfyoAXav90UbV\/uikGfWjB\/vfpQAuBSFQO1OpG6UALTWJBHyk\/SloPUUALiikooAWkNFB6UAf\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TDHFKJ85\/F0626V08ZL3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0626V08ZL3-b846699b58",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TDHFKJ85",
+        "display_as_bot": false,
+        "ts": "1697892919.426139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSyBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【質問】\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=> Booting Puma\n=> Rails 7.0.5 application starting in development\n=> Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/127.0.0.1:3010"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n > dev:local-api\n> . .\/scripts\/endpoint_settings\/start_with_local_api.sh && next dev --turbo\n\n>>> TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.link\/with-turbopack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease direct feedback to: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.link\/turbopack-feedback"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nready - started server on [::]:3000, url: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n しかし、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "になにも表示されません。\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n ③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=> Booting Puma\n=> Rails 7.0.5 application starting in development\n=> Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/127.0.0.1:3010"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n > dev:local-api\n> . .\/scripts\/endpoint_settings\/start_with_local_api.sh && next dev --turbo\n\n>>> TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.link\/with-turbopack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease direct feedback to: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.link\/turbopack-feedback"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nready - started server on [::]:3000, url: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n しかし、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "になにも表示されません。\n\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d3d8d553-14c8-40e3-916e-0ebd7956c626"
+    },
+    {
+        "client_msg_id": "d14f9ad5-8d43-40b3-8b34-5c2ef9efd475",
+        "type": "message",
+        "text": "package.json にはwsl:dev:local-api という定義もありましたが、これはもしかして　wsl上実行した時に使うコマンドかもしれません。\nフロントの方をnpm run wsl:dev:local-api で実行することで解消できますでしょうか",
+        "user": "U04U66DSPEU",
+        "ts": "1697894221.004959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oLrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "package.json にはwsl:dev:local-api という定義もありましたが、これはもしかして　wsl上実行した時に使うコマンドかもしれません。\nフロントの方をnpm run wsl:dev:local-api で実行することで解消できますでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04U66DSPEU>\n上記のコマンドで実行して、localhost:3000繋げたところatomonoの画面がでたのでうまくつなげたみたいです:raised_hands:ありがとうございます！ちなみにもう一つ質問があり:pray:レスポンシブ対応した画面（モバイル画面）はlocalhost:3000でみることはできないのでしょうか？（localhost:3000でつなげた画面はweb版の画面ですかね？）",
+        "files": [
+            {
+                "id": "F0620EBAVN2",
+                "created": 1697895166,
+                "timestamp": 1697895166,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TDHFKJ85",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 143179,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0620EBAVN2\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0620EBAVN2\/download\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 189,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 253,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 379,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 421,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_960.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 505,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620EBAVN2-d68d631aaa\/image_1024.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 539,
+                "original_w": 1920,
+                "original_h": 1010,
+                "thumb_tiny": "AwAZADC\/gBjlVA7UvyegpWUmm+WfWgBfk9BR8o6AU3yec5pfKPrQAnV+QuPXPNO2qRkAUbD60oGFNADqKKKACiiigAoPSikPSgD\/2Q==",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TDHFKJ85\/F0620EBAVN2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0620EBAVN2-0725c8c86b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TDHFKJ85",
+        "display_as_bot": false,
+        "ts": "1697895251.109579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKPnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n上記のコマンドで実行して、localhost:3000繋げたところatomonoの画面がでたのでうまくつなげたみたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！ちなみにもう一つ質問があり"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "レスポンシブ対応した画面（モバイル画面）はlocalhost:3000でみることはできないのでしょうか？（localhost:3000でつなげた画面はweb版の画面ですかね？）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1697895486.000000"
+        },
+        "client_msg_id": "50ad6c37-df56-4720-991a-82ccee5c4198"
+    },
+    {
+        "client_msg_id": "bce8fc98-2314-4140-857d-8de3e52ca580",
+        "type": "message",
+        "text": "キーボードのF12キーでデベロッパーツールが表示され、画面サイズの調整ができます。画面を小さくし、モバイルでどう見えるかの確認ができます。",
+        "user": "U04U66DSPEU",
+        "ts": "1697895643.304519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tPCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キーボードのF12キーでデベロッパーツールが表示され、画面サイズの調整ができます。画面を小さくし、モバイルでどう見えるかの確認ができます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0629H8RDE0",
+                "created": 1697895716,
+                "timestamp": 1697895716,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04U66DSPEU",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 16296,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0629H8RDE0\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0629H8RDE0\/download\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 33,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 44,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 66,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0629H8RDE0-d5eccea811\/image_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 73,
+                "original_w": 801,
+                "original_h": 73,
+                "thumb_tiny": "AwAEADDRYZB5PSmIMA4qRuhqNeh\/CgOgo47mnbRnv6dab3p9NgJtHHXijFLRSA\/\/2Q==",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04U66DSPEU\/F0629H8RDE0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0629H8RDE0-ba5c04b118",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04U66DSPEU",
+        "display_as_bot": false,
+        "ts": "1697895725.254989",
+        "client_msg_id": "440ca252-97b5-49a5-a3dc-c7e62bb2aef4"
+    },
+    {
+        "client_msg_id": "0667a472-db20-454b-9f8d-f29f7d64f1ab",
+        "type": "message",
+        "text": "Chromeならデベロッパーツールで分かります。",
+        "user": "U04TV4NASPK",
+        "ts": "1697895895.625499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3Bdl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chromeならデベロッパーツールで分かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697895895.625499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697896002.812639",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697896002.812639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "437347ab-df1a-492d-ab5d-e98571315464",
+        "type": "message",
+        "text": "Edgeなら、これだと思います\n<https:\/\/learn.microsoft.com\/ja-jp\/microsoft-edge\/devtools-guide-chromium\/device-mode\/>",
+        "user": "U04U66DSPEU",
+        "ts": "1697895999.835829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aHU3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Edgeなら、これだと思います\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.microsoft.com\/ja-jp\/microsoft-edge\/devtools-guide-chromium\/device-mode\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/learn.microsoft.com\/en-us\/media\/open-graph-image.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 93141,
+                "from_url": "https:\/\/learn.microsoft.com\/ja-jp\/microsoft-edge\/devtools-guide-chromium\/device-mode\/",
+                "service_icon": "https:\/\/learn.microsoft.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/learn.microsoft.com\/ja-jp\/microsoft-edge\/devtools-guide-chromium\/device-mode\/",
+                "fallback": "モバイル デバイスをエミュレートする (デバイス エミュレーション) - Microsoft Edge Development",
+                "text": "Microsoft Edge の仮想デバイスを使用して、モバイルファースト Web サイトを構築します。",
+                "title": "モバイル デバイスをエミュレートする (デバイス エミュレーション) - Microsoft Edge Development",
+                "title_link": "https:\/\/learn.microsoft.com\/ja-jp\/microsoft-edge\/devtools-guide-chromium\/device-mode\/",
+                "service_name": "learn.microsoft.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af422ada-e688-4aaf-8357-361d18e8f221",
+        "type": "message",
+        "text": "<https:\/\/willcloud.jp\/knowhow\/dev-tools-01\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1697896002.812639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suz2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/willcloud.jp\/knowhow\/dev-tools-01\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/willcloud.jp\/knowhow\/dev-tools-01\/",
+                "ts": 1620279586,
+                "image_url": "https:\/\/willcloud.jp\/wp-content\/uploads\/2021\/03\/eye-devtools-06.png",
+                "image_width": 800,
+                "image_height": 420,
+                "image_bytes": 21993,
+                "service_icon": "https:\/\/willcloud.jp\/wp-content\/themes\/willmail\/ico\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/willcloud.jp\/knowhow\/dev-tools-01\/",
+                "fallback": "Google Chromeデベロッパーツールの基本的な使い方をわかりやすく解説",
+                "text": "Google Chromeのデベロッパーツールの中でも利用頻度の高い、HTMLとCSSのテスト検証方法と、スマートフォン表示の検証方法について、初心者向けに詳しく解説しています。",
+                "title": "Google Chromeデベロッパーツールの基本的な使い方をわかりやすく解説",
+                "title_link": "https:\/\/willcloud.jp\/knowhow\/dev-tools-01\/",
+                "service_name": "willcloud.jp",
+                "fields": [
+                    {
+                        "value": "WiLL Cloud マーケティングチーム",
+                        "title": "執筆者",
+                        "short": true
+                    },
+                    {
+                        "value": "2分",
+                        "title": "推定読み取り時間",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1697895895.625499",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "cb3ceb57-2820-4258-a785-b936be36a970",
+        "type": "message",
+        "text": "<@U04U66DSPEU>\n<@U04TV4NASPK>\nお二人ともありがとうございます！F12のデベロッパーツールでモバイル版表示できること初めて知りました・・！すごいですね、あとで色々みてみます。",
+        "user": "U04TDHFKJ85",
+        "ts": "1697896458.482739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OChP9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお二人ともありがとうございます！F12のデベロッパーツールでモバイル版表示できること初めて知りました・・！すごいですね、あとで色々みてみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

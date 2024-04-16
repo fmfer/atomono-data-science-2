@@ -1,0 +1,388 @@
+[
+    {
+        "client_msg_id": "d43f361b-8b5e-4ca3-a93c-5fe30deefb30",
+        "type": "message",
+        "text": "所持品削除編集機能関連\n\ndropdown menuのutil化(component, hooks等)\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-615>\n\n三点リーダーを設置し、編集・削除を表示\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-616>\n\nFE: 削除を実装(PC)\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-613>\n\nFE: 編集用のモーダルを実装し、編集できるようにする\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-614>\n\nモバイル対応（AT-617~619）",
+        "user": "U04U66DSPEU",
+        "ts": "1699060531.222269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Db\/Yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品削除編集機能関連\n\ndropdown menuのutil化(component, hooks等)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n三点リーダーを設置し、編集・削除を表示\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-616"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFE: 削除を実装(PC)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-613"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFE: 編集用のモーダルを実装し、編集できるようにする\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-614"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nモバイル対応（AT-617~619）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1699061510.077589",
+        "reply_users": [
+            "U04U66DSPEU",
+            "U04TV4NASPK",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1699060688.481269"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699060879.217579"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1699061036.883019"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699061052.122569"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1699061163.664329"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699061510.077589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "368cde10-086c-4561-b0d7-6c1b4733eb11",
+        "type": "message",
+        "text": "分担できそうな部分ありますね。少なくともモバイル版",
+        "user": "U04U66DSPEU",
+        "ts": "1699060688.481269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3jHy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分担できそうな部分ありますね。少なくともモバイル版"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU"
+    },
+    {
+        "client_msg_id": "c5214b49-fdc6-4c5d-b0c3-874e657d7c5c",
+        "type": "message",
+        "text": "分担できそうなら教えてください",
+        "user": "U04TV4NASPK",
+        "ts": "1699060879.217579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DT2JL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分担できそうなら教えてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1699060889.000000"
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32f26d11-8178-4b25-a03f-a9874f1c5321",
+        "type": "message",
+        "text": "メニューが表示できるところまで完了できれば、削除と編集も分担できます。\nとりあえずメニューやってみます。",
+        "user": "U04U66DSPEU",
+        "ts": "1699061036.883019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaUWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メニューが表示できるところまで完了できれば、削除と編集も分担できます。\nとりあえずメニューやってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU"
+    },
+    {
+        "client_msg_id": "2601c0cf-7d44-4af3-9a05-1c055e84a672",
+        "type": "message",
+        "text": "ok",
+        "user": "U04TV4NASPK",
+        "ts": "1699061052.122569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luWBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU"
+    },
+    {
+        "client_msg_id": "88817ff8-fa67-41ea-9239-51e61078b658",
+        "type": "message",
+        "text": "util化難しかったら言ってください <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1699061163.664329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zpRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "util化難しかったら言ってください "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99c92ea1-3a64-4dd4-afbc-b6af4a88a324",
+        "type": "message",
+        "text": "<@U04T9TDB58W> フィルタもタスク化できたら教えてください",
+        "user": "U04TV4NASPK",
+        "ts": "1699061510.077589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nytD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " フィルタもタスク化できたら教えてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699060531.222269",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

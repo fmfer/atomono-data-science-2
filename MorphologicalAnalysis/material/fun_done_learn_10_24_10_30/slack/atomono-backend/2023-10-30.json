@@ -1,0 +1,780 @@
+[
+    {
+        "client_msg_id": "a823a772-0491-407c-bde1-092f8569165f",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\nお時間ある時で大丈夫です〜\nrailsの仕様について教えて下さい。\n今AWS環境でデプロイしようとしているのですが、ActiveRecord関連のエラーが発生しています。\n```ActiveRecord::ConnectionNotEstablished (Can't connect to server on '127.0.0.1' (115)):```\nDBのHostがローカルホスト向いているので、それを変更する必要があるかなと考えているのですが\n`config\/database.yml`の57行目以降の設定を参照するために以下教えていただけますか。\n\n1. productionの設定を読み込ませる方法\n2. 上記設定が読み込めるようになった上で、`ENV[\"ATOMONO_API_DATABASE_NAME\"]`等を読み込む方法（下記2パターンかなと）\n    a. 展開されるインスタンスもしくはDockerイメージにあるENVを見ている\n    b. 別で`.env`等のファイルがあってそちらを参照している\n\n上記が解決した上で、以下2つの作業が必要です。\n1. マイグレーション実行\n    a. ※これはデプロイのたびに都度走る想定でコマンドを`docker\/rails\/entrypoint.sh`に記載する想定\n1. 初期データ挿入用Seeder or SQL実行\n    a. おそらく初回のみでいいので実行するコマンド等教えていただければこちらで実行します。\nこれらについてもどのようにすればよいか教えて下さい。",
+        "user": "U04T201950F",
+        "ts": "1698650990.714639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "++1Vj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお時間ある時で大丈夫です〜\nrailsの仕様について教えて下さい。\n今AWS環境でデプロイしようとしているのですが、ActiveRecord関連のエラーが発生しています。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ActiveRecord::ConnectionNotEstablished (Can't connect to server on '127.0.0.1' (115)):"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DBのHostがローカルホスト向いているので、それを変更する必要があるかなと考えているのですが\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "config\/database.yml",
+                                "style": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strike": false,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の57行目以降の設定を参照するために以下教えていただけますか。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "productionの設定を読み込ませる方法"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上記設定が読み込めるようになった上で、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ENV[\"ATOMONO_API_DATABASE_NAME\"]",
+                                        "style": {
+                                            "bold": false,
+                                            "italic": false,
+                                            "strike": false,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "等を読み込む方法（下記2パターンかなと）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "展開されるインスタンスもしくはDockerイメージにあるENVを見ている"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "別で"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ".env",
+                                        "style": {
+                                            "bold": false,
+                                            "italic": false,
+                                            "strike": false,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "等のファイルがあってそちらを参照している"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n上記が解決した上で、以下2つの作業が必要です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マイグレーション実行"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "※これはデプロイのたびに都度走る想定でコマンドを"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "docker\/rails\/entrypoint.sh",
+                                        "style": {
+                                            "bold": false,
+                                            "italic": false,
+                                            "strike": false,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "に記載する想定"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "初期データ挿入用Seeder or SQL実行"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "おそらく初回のみでいいので実行するコマンド等教えていただければこちらで実行します。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nこれらについてもどのようにすればよいか教えて下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1698652378.000000"
+        },
+        "thread_ts": "1698650990.714639",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1699022632.370709",
+        "reply_users": [
+            "U04TGBZ4XEX",
+            "U04T201950F",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698652632.216149"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698653413.571079"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698654924.105709"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698655833.291789"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698659083.095269"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699022632.370709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04U66DSPEU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00a144d9-460f-4fef-95e3-23405ec5e538",
+        "type": "message",
+        "text": "<@U04T201950F>\n> 2. 上記設定が読み込めるようになった上で、ENV[\"ATOMONO_API_DATABASE_NAME\"]等を読み込む方法（下記2パターンかなと）\nその2パターンのどちらかになると思います:pray:\nまだどちらにするか決めていないですがどちらでも可能です。\n\na. ならparameter storeに `ATOMONO_API_DATABASE_NAME` をキー名にしてもらったらそれを読みに行くと思います\nb. なら リポジトリ内に本番環境のpassを記載した `.env` ファイルを用意してそれをデプロイ時にコピーとかでしょうか\n(Railsで専用のライブラリがあるのですぐ対応できます:raised_hands: → <https:\/\/github.com\/bkeepers\/dotenv|dotenv-rails>\n\nb. で懸念しているところがプライベートリポジトリとはいえ、リポジトリ内に本番のpassを書いたファイルが載ってしまうことです\nこのあたり実運用で知見がありましたらお伺いしたいです..:pray:\n\n>  上記が解決した上で、以下2つの作業が必要です。\nあとでこのスレッドに整理して追記します:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698652632.216149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FFlaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. 上記設定が読み込めるようになった上で、ENV[\"ATOMONO_API_DATABASE_NAME\"]等を読み込む方法（下記2パターンかなと）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nその2パターンのどちらかになると思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまだどちらにするか決めていないですがどちらでも可能です。\n\na. ならparameter storeに "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ATOMONO_API_DATABASE_NAME",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " をキー名にしてもらったらそれを読みに行くと思います\nb. なら リポジトリ内に本番環境のpassを記載した "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".env",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ファイルを用意してそれをデプロイ時にコピーとかでしょうか\n(Railsで専用のライブラリがあるのですぐ対応できます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " → "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/bkeepers\/dotenv",
+                                "text": "dotenv-rails"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nb. で懸念しているところがプライベートリポジトリとはいえ、リポジトリ内に本番のpassを書いたファイルが載ってしまうことです\nこのあたり実運用で知見がありましたらお伺いしたいです.."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 上記が解決した上で、以下2つの作業が必要です。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nあとでこのスレッドに整理して追記します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698652937.000000"
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef3a7ac0-3039-4b2f-b33f-0caf285ced49",
+        "type": "message",
+        "text": "<@U04T201950F>\n1. への答えが抜けてました:pray:\n本番環境に\n\n名前 : `RAILS_ENV`\n値: `production`\n\nの環境変数設定してもらうと、productionの設定を読み込むようになります",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698653413.571079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTkIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1. への答えが抜けてました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本番環境に\n\n名前 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RAILS_ENV",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n値: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "production",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nの環境変数設定してもらうと、productionの設定を読み込むようになります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf651ad0-57b3-47a4-80e2-63a312888316",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\nありがとうございます。\n一旦、下記で実装してみますね。\n&gt; a. ならparameter storeに `ATOMONO_API_DATABASE_NAME` をキー名にしてもらったらそれを読みに行くと思います\nそれで難しそうなら`dotenv-rails`ライブラリの導入お願いしようと思います。\n（たぶん大丈夫だとは思いますが）",
+        "user": "U04T201950F",
+        "ts": "1698654924.105709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hceeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n一旦、下記で実装してみますね。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a. ならparameter storeに "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ATOMONO_API_DATABASE_NAME",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " をキー名にしてもらったらそれを読みに行くと思います"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それで難しそうなら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "dotenv-rails",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ライブラリの導入お願いしようと思います。\n（たぶん大丈夫だとは思いますが）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yoroshikuonegaishimasu",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f4b908c-eeb8-4d46-80e3-0bd07dcc0809",
+        "type": "message",
+        "text": "ご都合が良ければ設定のしかたみてみたいです:grinning:",
+        "user": "U04U66DSPEU",
+        "ts": "1698655833.291789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hr50u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご都合が良ければ設定のしかたみてみたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "bb9931ce-09fa-48c6-b395-1d803c2d21e7",
+        "type": "message",
+        "text": "<@U04U66DSPEU>\n了解です！\n設定完成してから復習的な形で共有するので、その時改めてご連絡しますね！",
+        "user": "U04T201950F",
+        "ts": "1698659083.095269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPazL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n了解です！\n設定完成してから復習的な形で共有するので、その時改めてご連絡しますね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

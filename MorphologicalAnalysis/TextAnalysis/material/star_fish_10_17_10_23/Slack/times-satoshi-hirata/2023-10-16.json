@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "adf26135-9106-4e63-8853-8f15167ead6c",
+        "type": "message",
+        "text": "所持品追加APIできた。~明日マージしてデプロイします~ マージしてしまう\n\nfeature: AT-490 ユーザの所持品リストに商品を追加するAPIを作成する by huro3h · Pull Request #92\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/92>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697472605.947659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dsw03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品追加APIできた。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日マージしてデプロイします",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " マージしてしまう\n\nfeature: AT-490 ユーザの所持品リストに商品を追加するAPIを作成する by huro3h · Pull Request #92\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/92"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697474922.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1697472411,
+                "color": "36a64f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/92",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#92 feature: AT-490 ユーザの所持品リストに商品を追加するAPIを作成する",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-490|AT-490> ユーザの所持品リストに商品を追加するAPIを作成する\n\n*概要*\n*実装内容*\n\n☑︎ ユーザの所持品リストに商品を追加するAPIの実装\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "title": "#92 feature: AT-490 ユーザの所持品リストに商品を追加するAPIを作成する",
+                "title_link": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/92",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4a260f6-f2ed-4a8d-8f03-93ef4c68f8a5",
+        "type": "message",
+        "text": "動くけど認可一つ入れ忘れた。次の編集タスクで対応\nURI内のuser_idとheader内のuidが同一ユーザのものか見てないじゃん.. 直POSTリクエストで誰でも更新できてしまう...\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-550>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697505748.804789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1AgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "動くけど認可一つ入れ忘れた。次の編集タスクで対応\nURI内のuser_idとheader内のuidが同一ユーザのものか見てないじゃん.. 直POSTリクエストで誰でも更新できてしまう...\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-550"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697526704.000000"
+        }
+    }
+]

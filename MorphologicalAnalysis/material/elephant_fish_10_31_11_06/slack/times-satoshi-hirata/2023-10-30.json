@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "1e7dea67-4f8e-456a-882e-206c36adfe2c",
+        "type": "message",
+        "text": "黒のMBPすごくギークでかっこいいー..\nM3 Max ストレージ1TBからなのかー。開発目的なら512GBで十分なんだけどなー...",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698712881.234629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJO8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "黒のMBPすごくギークでかっこいいー..\nM3 Max ストレージ1TBからなのかー。開発目的なら512GBで十分なんだけどなー..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698715786.000000"
+        }
+    }
+]

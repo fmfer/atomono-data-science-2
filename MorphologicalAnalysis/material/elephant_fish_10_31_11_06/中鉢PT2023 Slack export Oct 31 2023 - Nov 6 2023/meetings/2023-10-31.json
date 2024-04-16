@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "e1b3f6f7-dce5-4226-b1a2-eaf4794eb1fd",
+        "type": "message",
+        "text": "<@U04T201950F>\nお疲れ様です。来月のマンスリーレビューを11\/20~11\/30のどこかの夜で実施しようかと思っているのですが、参加不可の日程があれば教えてください。（ちなみに私は11\/27の夜は参加できないので、その日付は候補から外します）11\/6くらいに先生方にメールを出す予定なので、11\/5までに教えてくださると助かります:pray:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698758928.881839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bVp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。来月のマンスリーレビューを11\/20~11\/30のどこかの夜で実施しようかと思っているのですが、参加不可の日程があれば教えてください。（ちなみに私は11\/27の夜は参加できないので、その日付は候補から外します）11\/6くらいに先生方にメールを出す予定なので、11\/5までに教えてくださると助かります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698758928.881839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698763412.624699",
+        "reply_users": [
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1698763412.624699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "E2333896-69E2-4110-926B-BED83F9C82D0",
+        "type": "message",
+        "text": "11\/26の夜は、三好PBLの取り組みに参加する予定なのでNGです。\nそれ以外の日でしたら大丈夫です。",
+        "user": "U04T201950F",
+        "ts": "1698763412.624699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQ\/Zd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/26の夜は、三好PBLの取り組みに参加する予定なのでNGです。\nそれ以外の日でしたら大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698758928.881839",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

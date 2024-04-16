@@ -1,0 +1,191 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "~Issue~ discussion 上がってました\n\nSeverity HIGH security problem to be announced with curl 8.4.0 on Oct 11 · curl\/curl · Discussion #12026\n<https:\/\/github.com\/curl\/curl\/discussions\/12026>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697005455.293639",
+        "thread_ts": "1696472683.544019",
+        "root": {
+            "client_msg_id": "a4fe5203-6e07-47f9-8579-f0ed8c9ea761",
+            "type": "message",
+            "text": "詳細と続報なにもわからない..本当?:hushed:\n<https:\/\/twitter.com\/hogehuga\/status\/1709374601510138039?s=20>",
+            "user": "U04TGBZ4XEX",
+            "ts": "1696472683.544019",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "A+OXr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "詳細と続報なにもわからない..本当?"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "hushed",
+                                    "unicode": "1f62f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/twitter.com\/hogehuga\/status\/1709374601510138039?s=20"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04TGBZ4XEX",
+                "ts": "1696472897.000000"
+            },
+            "attachments": [
+                {
+                    "from_url": "https:\/\/twitter.com\/hogehuga\/status\/1709374601510138039?s=20",
+                    "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.3.ico",
+                    "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/1683425058990194688\/mWI8be4F_200x200.jpg",
+                    "thumb_width": 200,
+                    "thumb_height": 200,
+                    "id": 1,
+                    "original_url": "https:\/\/twitter.com\/hogehuga\/status\/1709374601510138039?s=20",
+                    "fallback": "X (formerly Twitter): 四川麻婆豆腐 on X",
+                    "text": "10\/11に、curlの長い歴史の中で最悪のセキュリティ問題を修正した8.4.0が、リリースサイクル外で提供される。\n作者によるCVE severityはHIGHで、curl及びlibcurlに影響あり。\n10\/11迄は詳細は明かさない方が良いと考えているようで、リリース後にCVEも併せて公開する。準備しておいた方が良いです。",
+                    "title": "四川麻婆豆腐 on X",
+                    "title_link": "https:\/\/twitter.com\/hogehuga\/status\/1709374601510138039?s=20",
+                    "service_name": "X (formerly Twitter)"
+                }
+            ],
+            "thread_ts": "1696472683.544019",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1697005455.293639",
+            "reply_users": [
+                "U04TGBZ4XEX"
+            ],
+            "replies": [
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1697005455.293639"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIAdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Issue",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " discussion 上がってました\n\nSeverity HIGH security problem to be announced with curl 8.4.0 on Oct 11 · curl\/curl · Discussion #12026\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/curl\/curl\/discussions\/12026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1696400264,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/curl\/curl\/discussions\/12026",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#12026 Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11",
+                "text": "We are cutting the release cycle short and will release curl 8.4.0 on *October 11*, including fixes for a severity HIGH CVE and one severity LOW. The one rated HIGH is probably the worst curl security flaw in a long time.\n\nThe new version and details about the two CVEs will be published around 06:00 UTC on the release day.\n\n• CVE-2023-38545: severity HIGH (affects both libcurl and the curl tool)\n• CVE-2023-38546: severity LOW (affects libcurl only, not the tool)\n\nThere is no API nor ABI change in the coming curl release.\n\nI cannot disclose any information about which version range that is affected, as that would help identify the problem (area) with a very high accuracy so I cannot do that ahead of time. The \"last several years\" of versions is as specific as I can get.\n\nWe have notified the <https:\/\/oss-security.openwall.org\/wiki\/mailing-lists\/distros|distros mailing list> allowing the member distributions to prepare patches. (*No one* else gets details about these problems before October 11 without a support contract and a good reason.)\n\nNow you know. Plan accordingly.",
+                "title": "#12026 Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11",
+                "title_link": "https:\/\/github.com\/curl\/curl\/discussions\/12026",
+                "footer": "<https:\/\/github.com\/curl\/curl|curl\/curl>",
+                "fields": [
+                    {
+                        "value": "General",
+                        "title": "Category",
+                        "short": true
+                    },
+                    {
+                        "value": "6",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "client_msg_id": "e80cea33-455c-4701-9150-569ba87125c2",
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697005679.000000"
+        }
+    },
+    {
+        "client_msg_id": "62605872-88a1-4269-aa3f-e1e056e6358e",
+        "type": "message",
+        "text": "curlかあ.. RubyとRailsの裏側で動いているかもしれない。セキュリティアップデートくるかも:no_mouth:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697005564.640929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8raQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "curlかあ.. RubyとRailsの裏側で動いているかもしれない。セキュリティアップデートくるかも"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth",
+                                "unicode": "1f636"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

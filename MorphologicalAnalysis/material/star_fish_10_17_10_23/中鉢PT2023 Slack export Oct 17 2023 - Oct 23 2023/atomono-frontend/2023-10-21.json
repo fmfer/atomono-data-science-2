@@ -1,0 +1,2871 @@
+[
+    {
+        "client_msg_id": "42ebd6b7-9d2b-4d9c-8f1f-15bda40e5228",
+        "type": "message",
+        "text": "<@U04TV4NASPK> レビュー返しました!",
+        "user": "U04T9TDB58W",
+        "ts": "1697872219.071959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYUPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " レビュー返しました!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697867562.930829",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "759149ea-7e86-4699-9089-573c12473358",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n再度修正しました。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62>",
+        "user": "U04TV4NASPK",
+        "ts": "1697873884.469419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BG0Qp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n再度修正しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697867562.930829",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "b3451b73-af1e-4151-a2fa-8b3a3532b25a",
+        "type": "message",
+        "text": "<@U04TV4NASPK> マージしました!",
+        "user": "U04T9TDB58W",
+        "ts": "1697875040.070359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZh\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " マージしました!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697867562.930829",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1005eba2-2db0-4fb7-9ae5-b4e077050dd5",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n一旦レビュー修正して質問してます。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68#discussion_r1367693226>\nご確認お願いします。",
+        "user": "U04T201950F",
+        "ts": "1697878814.533749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+VL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一旦レビュー修正して質問してます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68#discussion_r1367693226"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697678085.703919",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13472bfe-c854-4c4f-a3d3-44b721d7af85",
+        "type": "message",
+        "text": "<!here>\n\n超初歩的な質問で申し訳ないですが、\n2点確認させて下さい。\n\n1. 所持品リスト追加画面用のモーダルのリスポンシブ対応を対応中なのですが、\n　　モーダルにあるチェックボックスは既に実装済みとお聞きしました。\n　　このチェックボックスはstorybookには上げてないとのことですが、\n　　チェックボックスのコーディングを見たい時はGithubののどこ見れば確認できますでしょうか？\n\n2. 　Storybook以外で現在実装されている最新のUIを視覚的に確認したい場合は、\n　　どこで確認できますでしょうか？以下のリンクでしょうか？\n        <https:\/\/front-jabelic.vercel.app\/userProduct>\n\nこの後、引っ越し作業で離席するので質問逃げ的な形になってしまい申し訳ないですが、\nよろしくお願いします:man-bowing:",
+        "user": "U04U66DNCRE",
+        "ts": "1697880797.767019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VkNuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n超初歩的な質問で申し訳ないですが、\n2点確認させて下さい。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "所持品リスト追加画面用のモーダルのリスポンシブ対応を対応中なのですが、"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "　　モーダルにあるチェックボックスは既に実装済みとお聞きしました。\n　　このチェックボックスはstorybookには上げてないとのことですが、\n　　チェックボックスのコーディングを見たい時はGithubののどこ見れば確認できますでしょうか？\n\n2. 　Storybook以外で現在実装されている最新のUIを視覚的に確認したい場合は、\n　　どこで確認できますでしょうか？以下のリンクでしょうか？\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-jabelic.vercel.app\/userProduct"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこの後、引っ越し作業で離席するので質問逃げ的な形になってしまい申し訳ないですが、\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1697899129.097509",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DNCRE",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697880887.690059"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697881076.186329"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697881299.483519"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697881319.437819"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697881340.077719"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697881428.186879"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697881519.397739"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697881551.110739"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697881622.647869"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697899129.097509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ed7502a9-f510-48ec-bf83-abd25e8f5426",
+        "type": "message",
+        "text": "１はたぶんフェルナンデスさんに確認だけど、2は手元でlocalで立ち上げれば見れますよ。\n<https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4>",
+        "user": "U04TV4NASPK",
+        "ts": "1697880887.690059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOAEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "１はたぶんフェルナンデスさんに確認だけど、2は手元でlocalで立ち上げれば見れますよ。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697880918.000000"
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "8e593128-e772-424f-b112-c6a167288c28",
+        "type": "message",
+        "text": "あれ、1のチェックボックスの実装ってフェルナンデスさんでしたっけ。。？\n<@U04U66DSPEU> この件どうでしょうか？\nこれですか？\n\n<https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#bc369d52c8cc405da72042e152da5ad5>",
+        "user": "U04U66DNCRE",
+        "ts": "1697881076.186329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TsICP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ、1のチェックボックスの実装ってフェルナンデスさんでしたっけ。。？\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " この件どうでしょうか？\nこれですか？\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#bc369d52c8cc405da72042e152da5ad5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1682345940,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#bc369d52c8cc405da72042e152da5ad5",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": ":black_joker: Front-End",
+                "text": "local で立ち上げた api サーバーを使う時",
+                "title": ":black_joker: Front-End",
+                "title_link": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=6&utm_content=ed372017-19db-41b6-b5b7-0e883488b295&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl#bc369d52c8cc405da72042e152da5ad5",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ],
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "17dfe025-9355-4ae4-aacd-9f13ed1e9882",
+        "type": "message",
+        "text": "確か。担当はうろ覚え。",
+        "user": "U04TV4NASPK",
+        "ts": "1697881299.483519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/Uzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確か。担当はうろ覚え。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "7185236f-66ce-4dea-94c5-8842e05ea0b7",
+        "type": "message",
+        "text": "&gt; これですか？\nそう",
+        "user": "U04TV4NASPK",
+        "ts": "1697881319.437819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zik+0",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これですか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "a9ba5411-584a-46b7-816c-db9c0f46b2e7",
+        "type": "message",
+        "text": "承知です！\n後で試してみます。",
+        "user": "U04U66DNCRE",
+        "ts": "1697881340.077719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNjT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知です！\n後で試してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "cb2be60b-66a4-4796-b1cd-c44883b28ba4",
+        "type": "message",
+        "text": "最悪localで実行して、開発ツール通したら実装内容見れますよね？",
+        "user": "U04U66DNCRE",
+        "ts": "1697881428.186879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOgqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最悪localで実行して、開発ツール通したら実装内容見れますよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "3bdeb761-a2ce-47be-9fbe-b2acadecf4a6",
+        "type": "message",
+        "text": "そうすね。",
+        "user": "U04TV4NASPK",
+        "ts": "1697881519.397739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSo5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうすね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "f996d67b-94f9-4011-ac7d-5e7fb373dc37",
+        "type": "message",
+        "text": "開発する時は手元で確認するからlocalは必須かな。",
+        "user": "U04TV4NASPK",
+        "ts": "1697881551.110739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGK43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開発する時は手元で確認するからlocalは必須かな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "eda6b503-6d9d-4f94-8dca-3c2ea76de5a8",
+        "type": "message",
+        "text": "確認方法として、local で立ち上げて、 ローカルapi サーバーを使っています。\n\natomono-frontにてnpm run dev:local-api；\natomono-apiにてrails s\nそして、<http:\/\/localhost:3000>で確認しています。",
+        "user": "U04U66DSPEU",
+        "ts": "1697881622.647869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QF7XT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認方法として、local で立ち上げて、 ローカルapi サーバーを使っています。\n\natomono-frontにてnpm run dev:local-api；\natomono-apiにてrails s\nそして、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で確認しています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1697881651.000000"
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "8cc2a294-3ef3-4e6e-872b-7fd74370c935",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68> コメント返しました <@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1697881641.100139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CstiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメント返しました "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697678085.703919",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "95e515a4-6f13-47fc-b6af-414eaaff59a9",
+        "type": "message",
+        "text": "検索結果画面進捗",
+        "user": "U04TV4NASPK",
+        "ts": "1697882346.207789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "heYd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "検索結果画面進捗"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697882346.207789",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697947838.013489",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697882400.366989"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697947838.013489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0626PCGY9H",
+                "created": 1697882388,
+                "timestamp": 1697882388,
+                "name": "Cursor_and_アトモノ.png",
+                "title": "Cursor_and_アトモノ.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 64973,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626PCGY9H\/cursor_and_____________.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626PCGY9H\/download\/cursor_and_____________.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 211,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 281,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 422,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 469,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________960.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_960_w": 562,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626PCGY9H-91f39bea6f\/cursor_and______________1024.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_1024_w": 600,
+                "thumb_1024_h": 1024,
+                "original_w": 798,
+                "original_h": 1362,
+                "thumb_tiny": "AwAwABy5DGptkwq5KDkj2p4i4HCZ7\/LSQZ8iLj+EfyqWgBgjXPKp\/wB81TvFUSjCgfL6Vfqje\/64f7tAFmDPkRcfwj+VS1FBnyIuP4R\/KpaACqN7\/rh\/u1eqje\/64f7tAFmDPkRem0fyqWoYHUQRjI+6O\/tUm9f7w\/OgB1Ub3\/XD\/dq35gxnIz6ZqpeEGUYIPy0Af\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F0626PCGY9H\/cursor_and_____________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0626PCGY9H-a9d485221c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1697882400.366989",
+        "client_msg_id": "dc7fa110-af04-44fd-9551-dd7473ced4ae",
+        "thread_ts": "1697882346.207789",
+        "parent_user_id": "U04TV4NASPK",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "95e515a4-6f13-47fc-b6af-414eaaff59a9",
+            "type": "message",
+            "text": "検索結果画面進捗",
+            "user": "U04TV4NASPK",
+            "ts": "1697882346.207789",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "heYd\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "検索結果画面進捗"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1697882346.207789",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1697947838.013489",
+            "reply_users": [
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697882400.366989"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697947838.013489"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ありがとうございます！修正をいれました、\nこういう効果ですが、ヘッダーは0:07あたり崩れることに気がつきました。\nこれは別途対応されている感じでしょうか（いろんな画面の共通部分のため）",
+        "files": [
+            {
+                "id": "F0620DUTP7Y",
+                "created": 1697894343,
+                "timestamp": 1697894343,
+                "name": "Peek 2023-10-21 22-06.mp4",
+                "title": "Peek 2023-10-21 22-06.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U04U66DSPEU",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 269555,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620DUTP7Y-011862c399\/peek_2023-10-21_22-06.mp4?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620DUTP7Y-011862c399\/peek_2023-10-21_22-06.mp4?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0620DUTP7Y\/download\/peek_2023-10-21_22-06.mp4?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620DUTP7Y-011862c399\/file.m3u8?_xcb=fbbc5&t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NjQxODE2LEFWRVJBR0UtQkFORFdJRFRIPTQ1MTI1MCxDT0RFQ1M9ImF2YzEuNjQwMDI4LG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xNDIyeDEwODAsRlJBTUUtUkFURT0yOS45NzAKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTBWRWRHUjAxTE4wTXRSakEyTWpCRVZWUlFOMWt0TURFeE9EWXlZek01T1M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEwVkVkR1IwMUxOME10UmpBMk1qQkVWVlJRTjFrdE1ERXhPRFl5WXpNNU9TOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TWk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMFZFZEdSMDFMTjBNdFJqQTJNakJFVlZSUU4xa3RNREV4T0RZeVl6TTVPUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd015NTBjd29qUlZoVVNVNUdPakl1TURBeUxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTBWRWRHUjAxTE4wTXRSakEyTWpCRVZWUlFOMWt0TURFeE9EWXlZek01T1M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOQzUwY3dvalJWaFVMVmd0UlU1RVRFbFRWQW89CiNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD00MDgxNzgsQVZFUkFHRS1CQU5EV0lEVEg9MzEyMTg1LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTk0OHg3MjAsRlJBTUUtUkFURT0yOS45NzAKaHR0cHM6Ly9maWxlcy5zbGFjay5jb20vZmlsZXMtdG1iL1QwNFRHRkdNSzdDLUYwNjIwRFVUUDdZLTAxMTg2MmMzOTkvZmlsZV9IXzI2NF8xMjgweDcyMF8zNTAwS0JQU183UVZCUi5tM3U4Cg==",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620DUTP7Y-011862c399\/peek_2023-10-21_22-06_trans.mp4?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "duration_ms": 20020,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0620DUTP7Y-011862c399\/peek_2023-10-21_22-06_thumb_video.jpeg?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_video_w": 1738,
+                "thumb_video_h": 1320,
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04U66DSPEU\/F0620DUTP7Y\/peek_2023-10-21_22-06.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0620DUTP7Y-431805c039",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04U66DSPEU",
+        "display_as_bot": false,
+        "ts": "1697894351.982049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOKnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！修正をいれました、\nこういう効果ですが、ヘッダーは0:07あたり崩れることに気がつきました。\nこれは別途対応されている感じでしょうか（いろんな画面の共通部分のため）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1697899399.000000"
+        },
+        "client_msg_id": "06ac445d-4bcf-41ed-9343-ed7fa1fedd25",
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU"
+    },
+    {
+        "client_msg_id": "26181cdd-68b3-4b7e-ae2a-b6ab846f22cf",
+        "type": "message",
+        "text": "今日は、localhost:3000がうまくたちあげらない理由を調べたり、対応したら23時前になってしまったので、明日こそレスポンシブ対応（代替品詳細）に着手できるようにします。（このままだと火曜日に間に合わない可能性があるので、ペアプロとかやったほうがよいのかも。とりあえず明日、また時間とってやってみます。）\n\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139|https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139>",
+        "user": "U04TDHFKJ85",
+        "ts": "1697896869.682289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tRkk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は、localhost:3000がうまくたちあげらない理由を調べたり、対応したら23時前になってしまったので、明日こそレスポンシブ対応（代替品詳細）に着手できるようにします。（このままだと火曜日に間に合わない可能性があるので、ペアプロとかやったほうがよいのかも。とりあえず明日、また時間とってやってみます。）\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1697897414.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139",
+                "ts": "1697892919.426139",
+                "author_id": "U04TDHFKJ85",
+                "channel_id": "C057ZLPJEG3",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C057ZLPJEG3",
+                        "ts": "1697892919.426139",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "pSyBl",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T9TDB58W"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n【質問】\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=> Booting Puma\n=> Rails 7.0.5 application starting in development\n=> Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/127.0.0.1:3010"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n > dev:local-api\n> . .\/scripts\/endpoint_settings\/start_with_local_api.sh && next dev --turbo\n\n>>> TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/nextjs.link\/with-turbopack"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nPlease direct feedback to: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/nextjs.link\/turbopack-feedback"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nready - started server on [::]:3000, url: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/localhost:3000"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n しかし、"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/localhost:3000"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "になにも表示されません。\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n ③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=> Booting Puma\n=> Rails 7.0.5 application starting in development\n=> Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/127.0.0.1:3010"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n > dev:local-api\n> . .\/scripts\/endpoint_settings\/start_with_local_api.sh && next dev --turbo\n\n>>> TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/nextjs.link\/with-turbopack"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nPlease direct feedback to: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/nextjs.link\/turbopack-feedback"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nready - started server on [::]:3000, url: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/localhost:3000"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n しかし、"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/localhost:3000"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "になにも表示されません。\n\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F0626V08ZL3",
+                        "created": 1697892906,
+                        "timestamp": 1697892906,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U04TDHFKJ85",
+                        "user_team": "T04TGFGMK7C",
+                        "editable": false,
+                        "size": 79741,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626V08ZL3\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0626V08ZL3\/download\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 189,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 252,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 379,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0626V08ZL3-d8a4d1943b\/image_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 421,
+                        "original_w": 886,
+                        "original_h": 466,
+                        "thumb_tiny": "AwAZADDQ2r6CjCggYHNOprZyMfyoAXav90UbV\/uikGfWjB\/vfpQAuBSFQO1OpG6UALTWJBHyk\/SloPUUALiikooAWkNFB6UAf\/\/Z",
+                        "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TDHFKJ85\/F0626V08ZL3\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0626V08ZL3-b846699b58",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697892919426139",
+                "fallback": "[October 21st, 2023 5:55 AM] a2216ms: <@U04T9TDB58W>\n<!channel>\n【質問】\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n ③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\n\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。",
+                "text": "<@U04T9TDB58W>\n<!channel>\n【質問】\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\nお疲れ様です。最新のUIを確認しようと、local環境をたちあげようとしたのですが、うまく立ち上がらなかったので質問させてください。\n＜やったこと＞\n①   atomono-frontにてnpm ciを実行\n➁atomono-apiにてrails sを実行\n ③atomono-front にてnpm run dev:local-api；を実行\n\n\n➁のログ\n root@LAPTOP-0H6M6AS5:\/mnt\/c\/Users\/MAKI\/git\/atomono-api# rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (\"Mugi No Toki Itaru\")\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*         PID: 10685\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop\nStarted GET \"\/\" for ::1 at 2023-10-21 21:39:59 +0900\nStarted GET \"\/\" for 127.0.0.1 at 2023-10-21 21:39:59 +0900\n ActiveRecord::SchemaMigration Pluck (43.0ms) SELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC\nProcessing by Api::V1::TopsController#index as HTML\nProcessing by Api::V1::TopsController#index as HTML\nCompleted 200 OK in 429ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3253)\n\n\nCompleted 200 OK in 327ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2800)\n\n ③のログ\n &gt; dev:local-api\n&gt; . .\/scripts\/endpoint_settings\/start_with_local_api.sh &amp;&amp; next dev --turbo\n\n&gt;&gt;&gt; TURBOPACK (beta)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in beta and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nLearn more about Next.js v13 and Turbopack: <https:\/\/nextjs.link\/with-turbopack>\nPlease direct feedback to: <https:\/\/nextjs.link\/turbopack-feedback>\n\nready - started server on [::]:3000, url: <http:\/\/localhost:3000>\n\n しかし、<http:\/\/localhost:3000>になにも表示されません。\n\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。\n\n以前の環境構築の際も、mock立ち上げの時ににたようなエラーがあったような気がしたのですが、どのように解決したか覚えていらっしゃいますか？（過去のメッセ―ジを見返したのですが、どのように解決したか思い出せず・・）\n 以上、よろしくお願いいたします。",
+                "author_name": "鈴木真希",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TDHFKJ85",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_48.jpg",
+                "author_subname": "鈴木真希",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04U66DSPEU",
+                    "U04T9TDB58W",
+                    "U04T201950F"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D518E4C5-776C-4AE7-87D0-05C2AD4DFCBB",
+        "type": "message",
+        "text": "ありがとうございます！\n今日はパッキングで作業出来なさそうなので、明日試してみます。。",
+        "user": "U04U66DNCRE",
+        "ts": "1697899129.097509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkKkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\n今日はパッキングで作業出来なさそうなので、明日試してみます。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697880797.767019",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a7384e1-09f4-49ab-b771-511a2e11d3b2",
+        "type": "message",
+        "text": "<@U04U66DSPEU> headerが崩れていることは気づいていますが、issue化できていないです。 別途対応で。",
+        "user": "U04T9TDB58W",
+        "ts": "1697917141.120329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWiCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " headerが崩れていることは気づいていますが、issue化できていないです。 別途対応で。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "レビューへ",
+        "files": [
+            {
+                "id": "F061TFLRKUP",
+                "created": 1697947830,
+                "timestamp": 1697947830,
+                "name": "アトモノ.png",
+                "title": "アトモノ.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 193178,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061TFLRKUP\/____________.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061TFLRKUP\/download\/____________.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 214,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 285,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 428,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1346,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________960.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_960_w": 570,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061TFLRKUP-9b05d9ddb1\/_____________1024.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_1024_w": 608,
+                "thumb_1024_h": 1024,
+                "original_w": 814,
+                "original_h": 1370,
+                "thumb_tiny": "AwAwABy5BGptUwq5KDkj2pwjGB9zPf5abCpa2hwcYANSBR1LZoATYg5YJj6VnaiALgAAAbR0rUJXHJGPesvUv+Pkf7ooAvQrutoecYANSgKKihXdbQ84wAalGwdMUAKWUDkjFZepf8fI\/wB0VqFlAyTxWXqX\/HyP90UAXoVDW0OTjABqUbR0qCJo2t4QXUYAPUVKJIh0ZOPcUAPZgoyelZepf8fI\/wB0Vo+cmM7lz6bhWdqLBrgFSCNo6GgD\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F061TFLRKUP\/____________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061TFLRKUP-ac2392a37e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1697947838.013489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zl4hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レビューへ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7f6bf556-5e9f-4d3b-849a-6c1067423ba6",
+        "thread_ts": "1697882346.207789",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "16e58325-586c-41cd-9d2b-50a7cc3ca8f5",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n検索結果画面作成したのでレビューをお願いします。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71>",
+        "user": "U04TV4NASPK",
+        "ts": "1697948119.917969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZU09f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n検索結果画面作成したのでレビューをお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1697954522.902789",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697950727.825199"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697951960.404399"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697952015.821079"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697952528.065579"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697953134.897619"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697953474.542509"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697954522.902789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f51bcd8-9b16-4188-b87f-9b1fd84d61fc",
+        "type": "message",
+        "text": "イッシュー化しましたー <https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-567>",
+        "user": "U04U66DSPEU",
+        "ts": "1697950717.670549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MIN4a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "イッシュー化しましたー "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-567"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10589::aa4cb330709711eeb217b1b60581d4d9",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-567?atlOrigin=eyJpIjoiNzM0NTAyMTE3ZDY4NGIzYzkyNjNmZmMwNzg0ZTNlNTUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-567 小さい画面サイズでヘッダーが崩れる不具合を修正>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10589::aa4cb332709711eeb217b1b60581d4d9",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:744719ff-9f36-45ea-ad59-e50534df8206\/c61e7a11-605f-4bf5-96e9-a736e141a941\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "Fernández"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Fernández*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10589::aa4cb331709711eeb217b1b60581d4d9",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10589\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10589\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-567",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90011c93-ea43-4a33-af73-7c4bf26c9708",
+        "type": "message",
+        "text": "レビュー返しました <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1697950727.825199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFGhJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レビュー返しました "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54a2a851-2d59-4605-a14f-dc14994e9795",
+        "type": "message",
+        "text": "PR　<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/69> 再レビューのボタンを押していなかった（汗　すみません:pray:",
+        "user": "U04U66DSPEU",
+        "ts": "1697951461.500519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uto9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PR　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/69"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 再レビューのボタンを押していなかった（汗　すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a0694e5-cbaa-4bb7-90b0-205e713f0e07",
+        "type": "message",
+        "text": "~<@U04T9TDB58W>~\n~再度ご確認ください。~\n~<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71>~",
+        "user": "U04TV4NASPK",
+        "ts": "1697951960.404399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaGlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "再度ご確認ください。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697952022.000000"
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "968c0e2f-f898-4d52-8c23-cd7fb8be1095",
+        "type": "message",
+        "text": "↑ あ、文字崩れてるので無しで",
+        "user": "U04TV4NASPK",
+        "ts": "1697952015.821079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYCre",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ あ、文字崩れてるので無しで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "f2a34fbb-bd6f-429d-9836-54071e11ea65",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n修正したのでご確認ください。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71>",
+        "user": "U04TV4NASPK",
+        "ts": "1697952528.065579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEepm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正したのでご確認ください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "f6d997a6-55c9-4eaa-bad1-a4029f7b9172",
+        "type": "message",
+        "text": "コメントしましたー <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1697953134.897619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jye7r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コメントしましたー "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "77472f94-4d15-4e39-a18a-b247e86f3da0",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n追加レビューの修正対応しました。\nご確認お願いします。",
+        "user": "U04T201950F",
+        "ts": "1697953278.183419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0RKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n追加レビューの修正対応しました。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697678085.703919",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "d6ed0f7e-907a-418e-a5f2-c9c45363695b",
+        "type": "message",
+        "text": "<@U04T9TDB58W> 修正しました。\nflex-1でいけそう。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71>",
+        "user": "U04TV4NASPK",
+        "ts": "1697953474.542509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZQjD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正しました。\nflex-1でいけそう。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/71"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00ce98d9-de55-4691-9d99-e55bdce0ce4c",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/69#pullrequestreview-1691376006> コメントしました! <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1697954461.113269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EM\/3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/69#pullrequestreview-1691376006"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントしました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "522564ba-25d7-47b8-9d4c-adcdb8bca9f5",
+        "type": "message",
+        "text": "マージしました! <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1697954522.902789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMHMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マージしました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697948119.917969",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f695272-6a6c-4211-8b92-e1855564a827",
+        "type": "message",
+        "text": "<@U04T201950F> LGTM. マージしました :tada:",
+        "user": "U04T9TDB58W",
+        "ts": "1697955202.471239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAroa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " LGTM. マージしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697678085.703919",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbd1c35a-201a-474c-9be4-9b9146671762",
+        "type": "message",
+        "text": "ありがとうございます！\nこのPRでモバイルでない商品カードにも修正を適用してもよいでしょうか、それとも別途チケットを切った方が良いでしょうか　objectFitの修正も必要",
+        "user": "U04U66DSPEU",
+        "ts": "1697955954.933419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSECv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\nこのPRでモバイルでない商品カードにも修正を適用してもよいでしょうか、それとも別途チケットを切った方が良いでしょうか　objectFitの修正も必要"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU"
+    },
+    {
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n参考までに知りたいのですが、プルリクmergeするときsquashかrebsaeしてます？\ncommitログ見てて気になりました。",
+        "files": [
+            {
+                "id": "F062X5MB42U",
+                "created": 1697956672,
+                "timestamp": 1697956672,
+                "name": "Screen Shot 2023-10-22 at 15.37.44.png",
+                "title": "Screen Shot 2023-10-22 at 15.37.44.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04T201950F",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 263454,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062X5MB42U\/screen_shot_2023-10-22_at_15.37.44.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062X5MB42U\/download\/screen_shot_2023-10-22_at_15.37.44.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 264,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 351,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 527,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 586,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_960.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 703,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062X5MB42U-90eaec7ad4\/screen_shot_2023-10-22_at_15.37.44_1024.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 750,
+                "original_w": 1970,
+                "original_h": 1442,
+                "thumb_tiny": "AwAjADCkGOKN59aAeOgpC3oBQAmfrRk0lFAC5NJRRQA\/HHWkKgd6UDjrSFfVhQA2ilpKACiiigCQdaRuhpR96kboaAGUUUUAFFFFAH\/\/2Q==",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04T201950F\/F062X5MB42U\/screen_shot_2023-10-22_at_15.37.44.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062X5MB42U-520d6c7e59",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04T201950F",
+        "display_as_bot": false,
+        "ts": "1697956680.127929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBH0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n参考までに知りたいのですが、プルリクmergeするときsquashかrebsaeしてます？\ncommitログ見てて気になりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ed3af5eb-27eb-460a-af4e-35bd80d35fca",
+        "thread_ts": "1697956680.127929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697957001.377559",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697956926.797749"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697957001.377559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a481ec6c-6fe3-47a4-80cc-7a6a2ea34471",
+        "type": "message",
+        "text": "んー、一応別にしてください！ <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1697956903.950529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTluo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "んー、一応別にしてください！ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697819933.686719",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3724969-5082-45bb-a1b1-4cf59b91bf92",
+        "type": "message",
+        "text": "squash mergeです <@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1697956926.797749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6Rdm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "squash mergeです "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697956680.127929",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3391d820-9b4a-4403-b7a0-cd372448db56",
+        "type": "message",
+        "text": "ありがとうございます！\n細かいcommitがPRごとにまとまるのでいいですね！\n普段利用してないので勉強になります！",
+        "user": "U04T201950F",
+        "ts": "1697957001.377559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaNCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\n細かいcommitがPRごとにまとまるのでいいですね！\n普段利用してないので勉強になります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697956680.127929",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cdb7ff3-6700-4acc-bb1c-54346bd94d0f",
+        "type": "message",
+        "text": "<@U04T9TDB58W> <!here>\nmergeありがとうございました！\n最新のdevelopmentで動作確認しようと思い、storybookを開いた所エラーになりました。\n主に`atomono\/app\/__components__\/Product\/`のファイルです。\n7行目の参照するtsxファイルのpathが間違っていたようだったので、修正しました。\n\n```【pathの__components__の後にProductディレクトリが抜けてる】\n\n変更前\ntitle: 'atomono\/app\/__components__\/ProductDetails\/RecommendedProductCard.client',\n\n変更後\ntitle: 'atomono\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client',```\n上記修正後、再度storybookを起動した所、別のエラーがでました。\n```Unable to index .\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client.stories.tsx,.\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCardMobile.client.stories.tsx:\n\nError: Duplicate stories with id: atomono-app-components-product-productdetails-recommendedproductcard-client--default```\n`Duplicate Stories with id`とあるので、複数のstorybookで同じcomponentファイルを参照しているからエラーになっているのかなと思ったのですが、そもそも皆さんの環境では発生してないでしょうか？？",
+        "user": "U04T201950F",
+        "ts": "1697957764.574069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6ghs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nmergeありがとうございました！\n最新のdevelopmentで動作確認しようと思い、storybookを開いた所エラーになりました。\n主に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "atomono\/app\/__components__\/Product\/",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "のファイルです。\n7行目の参照するtsxファイルのpathが間違っていたようだったので、修正しました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【pathの__components__の後にProductディレクトリが抜けてる】\n\n変更前\ntitle: 'atomono\/app\/__components__\/ProductDetails\/RecommendedProductCard.client',\n\n変更後\ntitle: 'atomono\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client',"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n上記修正後、再度storybookを起動した所、別のエラーがでました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unable to index .\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCard.client.stories.tsx,.\/app\/__components__\/Product\/ProductDetails\/RecommendedProductCardMobile.client.stories.tsx:\n\nError: Duplicate stories with id: atomono-app-components-product-productdetails-recommendedproductcard-client--default"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Duplicate Stories with id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "とあるので、複数のstorybookで同じcomponentファイルを参照しているからエラーになっているのかなと思ったのですが、そもそも皆さんの環境では発生してないでしょうか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697957764.574069",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1697964056.651099",
+        "reply_users": [
+            "U04T201950F",
+            "U04TV4NASPK",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1697957914.383599"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697958084.643389"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958292.935029"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697958333.190729"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697958420.346659"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958503.524059"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958527.441909"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958546.180429"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958551.216609"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697958636.120439"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697958946.354429"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697961115.997689"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697963767.116899"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697964056.651099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3049164d-4db8-4035-9ab7-75b105fe4d78",
+        "type": "message",
+        "text": "1つめのエラー修正のために別ブランチ作成しているので、修正方針決まったら私の方で対応するので遠慮なく振ってください。",
+        "user": "U04T201950F",
+        "ts": "1697957914.383599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGkOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1つめのエラー修正のために別ブランチ作成しているので、修正方針決まったら私の方で対応するので遠慮なく振ってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697957764.574069",
+        "parent_user_id": "U04T201950F"
+    }
+]

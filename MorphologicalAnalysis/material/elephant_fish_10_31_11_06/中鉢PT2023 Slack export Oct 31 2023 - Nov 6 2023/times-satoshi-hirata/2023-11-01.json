@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "c3fb303d-4283-4c26-ac89-28ebd4682af9",
+        "type": "message",
+        "text": "memo: RDBで木構造\nActiveRecord(Rails)で効率的にツリー構造を扱うときに意識したいこと+開発例 | Wantedly Engineer Blog\n<https:\/\/www.wantedly.com\/companies\/wantedly\/post_articles\/305592>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698857841.859179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BmEnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "memo: RDBで木構造\nActiveRecord(Rails)で効率的にツリー構造を扱うときに意識したいこと+開発例 | Wantedly Engineer Blog\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wantedly.com\/companies\/wantedly\/post_articles\/305592"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698857849.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.wantedly.com\/companies\/wantedly\/post_articles\/305592",
+                "image_url": "https:\/\/d2v9k5u4v94ulw.cloudfront.net\/small_light(dw=1200,dh=630,da=s,ds=s,cw=1200,ch=630,cc=FFFFFF)\/assets\/images\/6210100\/original\/9f5a05f9-fad7-4436-b69b-55eb22815d06?1612417699",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 400232,
+                "service_icon": "https:\/\/www.wantedly.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wantedly.com\/companies\/wantedly\/post_articles\/305592",
+                "fallback": "ActiveRecord(Rails)で効率的にツリー構造を扱うときに意識したいこと+開発例 | Wantedly Engineer Blog",
+                "text": "こんにちは、Wantedly で Webエンジニアをしている渡邉(@eityans) です。モチベーション・マネジメントサービスの Wantedly Pulse を開発しています。Pulseはチ...",
+                "title": "ActiveRecord(Rails)で効率的にツリー構造を扱うときに意識したいこと+開発例 | Wantedly Engineer Blog",
+                "title_link": "https:\/\/www.wantedly.com\/companies\/wantedly\/post_articles\/305592",
+                "service_name": "Wantedly"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20b1bde3-e1b3-4631-9e52-313e0dd391ae",
+        "type": "message",
+        "text": "memo: 管理機能\n<https:\/\/blog.smartbank.co.jp\/entry\/2023\/11\/01\/kaigi-on-rails-2023-admin-architecture>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698881006.820949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHDdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "memo: 管理機能\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.smartbank.co.jp\/entry\/2023\/11\/01\/kaigi-on-rails-2023-admin-architecture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.smartbank.co.jp\/entry\/2023\/11\/01\/kaigi-on-rails-2023-admin-architecture",
+                "ts": 1698800400,
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/o\/ohbarye\/20231031\/20231031175154.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 503601,
+                "service_icon": "https:\/\/blog.smartbank.co.jp\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/blog.smartbank.co.jp\/entry\/2023\/11\/01\/kaigi-on-rails-2023-admin-architecture",
+                "fallback": "inSmartBank: Kaigi on Rails 2023『管理機能アーキテクチャパターンの考察と実践』の余談や質問への回答 - inSmartBank",
+                "text": "先日開催されたKaigi on Rails 2023に「管理機能アーキテクチャパターンの考察と実践」というタイトルで登壇させてもらいました。発表資料はすでに公開しており*1、本記事で発表内容をそのままなぞっても新規性がないな〜と考え、発表前に行った\"余興\"や懇親会やXでいただいたフィードバックや質問について回答する記事としてみます。 余興について 本記事で初めて上記の発表を見知った方や、発表をオンラインで見られた方にとっては「余興って何？」という疑問が浮かぶかと思うので説明すると、今回は登壇前の転換時間に\"前説\"をセルフでやってみました。*2 お笑いの世界には前説というものがあります。 舞台で…",
+                "title": "Kaigi on Rails 2023『管理機能アーキテクチャパターンの考察と実践』の余談や質問への回答 - inSmartBank",
+                "title_link": "https:\/\/blog.smartbank.co.jp\/entry\/2023\/11\/01\/kaigi-on-rails-2023-admin-architecture",
+                "service_name": "inSmartBank"
+            }
+        ]
+    }
+]

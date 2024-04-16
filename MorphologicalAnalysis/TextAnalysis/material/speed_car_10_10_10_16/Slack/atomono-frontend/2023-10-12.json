@@ -1,0 +1,1401 @@
+[
+    {
+        "client_msg_id": "ca0c5b3c-9eff-4b06-8a32-0e62f6acd32f",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nお疲れ様です！\nプルリク作成したので、お手すきの時にご確認お願いいたします:man-bowing:\n\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/56>",
+        "user": "U04U66DNCRE",
+        "ts": "1697117166.143849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GuR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です！\nプルリク作成したので、お手すきの時にご確認お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/56"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697117166.143849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697156548.611179",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697126434.422759"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697156548.611179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dedc05ad-a94c-4f9d-8f6d-c639c42cb3d6",
+        "type": "message",
+        "text": "レビュー返しました！ <@U04U66DNCRE>",
+        "user": "U04T9TDB58W",
+        "ts": "1697126434.422759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQtWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レビュー返しました！ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697117166.143849",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "613852b4-654a-416a-9d02-500569257e9a",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/48> merged :i_love_you_hand_sign: <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1697127078.131459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHc8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/48"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merged "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "i_love_you_hand_sign",
+                                "unicode": "1f91f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696651833.722029",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7007a77-7e75-4e20-96cf-c00122c99d46",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/54> マージしました! <@U04TDHFKJ85>",
+        "user": "U04T9TDB58W",
+        "ts": "1697128431.682759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtAal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/54"
+                            },
+                            {
+                                "type": "text",
+                                "text": " マージしました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697001603.648569",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b2973d7-d8ee-4769-99d4-130cefcb990e",
+        "type": "message",
+        "text": "<@U04T9TDB58W> 修正したので再度ご確認ください\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/55>",
+        "user": "U04TV4NASPK",
+        "ts": "1697128906.706959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRAdt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正したので再度ご確認ください\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/55"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696962480.035639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ページ作成の件ですが、\nこういうのを作りました\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/feature\/AT-529\/inventory-page\/app\/inventory\/page.tsx>\nトップページから、所持品リストボタンを押すと遷移できます。\n続きとしては、Cookieから現在のuser-idをこのページのリストコンポーネントに渡して、現在のユーザーのリストを表示させるロジックという認識であってますでしょうか:thinking_face:\nログイン部分とつなげる方針はありますでしょうか",
+        "files": [
+            {
+                "id": "F061LB9V9G8",
+                "created": 1697133086,
+                "timestamp": 1697133086,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04U66DSPEU",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 79604,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061LB9V9G8\/image.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061LB9V9G8\/download\/image.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 360,
+                "thumb_360_h": 278,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 480,
+                "thumb_480_h": 371,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 720,
+                "thumb_720_h": 557,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 619,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 960,
+                "thumb_960_h": 743,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 792,
+                "original_w": 1541,
+                "original_h": 1192,
+                "thumb_tiny": "AwAlADC20EayZKxhMdMc0oggPREP4VORmgDFA7sh+zw5\/wBUv5UjWseDtjjz24qeigLsrpaqCd6Rn0wtP+zRf881\/KpaKAuwooooEFFFFABRRRQAUUUUAFFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04U66DSPEU\/F061LB9V9G8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061LB9V9G8-559f3ccf80",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04U66DSPEU",
+        "display_as_bot": false,
+        "ts": "1697133296.093859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jTsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ページ作成の件ですが、\nこういうのを作りました\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/feature\/AT-529\/inventory-page\/app\/inventory\/page.tsx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nトップページから、所持品リストボタンを押すと遷移できます。\n続きとしては、Cookieから現在のuser-idをこのページのリストコンポーネントに渡して、現在のユーザーのリストを表示させるロジックという認識であってますでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nログイン部分とつなげる方針はありますでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5917fd16-ff7b-4c9a-b79a-698409506a1d",
+        "thread_ts": "1697133296.093859",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1697164615.979709",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697159892.244449"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697161222.421729"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697163231.636209"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697163960.772119"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697164309.639699"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697164349.319049"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697164615.979709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9106627D-4535-4EB6-B9F8-3EE695CDB1A8",
+        "type": "message",
+        "text": "ありがとうございます！\n夜確認いたします :pray: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697156548.611179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AC5kB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\n夜確認いたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697117166.143849",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04U66DSPEU>\n将来的にはstore(jotai)からuidを取得して、それを元にfetchすることになると思います\n認証はまだ取り込まれていないので決めうちで良いです〜\n\n<@U04TGBZ4XEX>  GETの時は(というか共通して)どこから認証情報を取りますか？",
+        "user": "U04T9TDB58W",
+        "ts": "1697159892.244449",
+        "thread_ts": "1697133296.093859",
+        "root": {
+            "type": "message",
+            "text": "ページ作成の件ですが、\nこういうのを作りました\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/feature\/AT-529\/inventory-page\/app\/inventory\/page.tsx>\nトップページから、所持品リストボタンを押すと遷移できます。\n続きとしては、Cookieから現在のuser-idをこのページのリストコンポーネントに渡して、現在のユーザーのリストを表示させるロジックという認識であってますでしょうか:thinking_face:\nログイン部分とつなげる方針はありますでしょうか",
+            "files": [
+                {
+                    "id": "F061LB9V9G8",
+                    "created": 1697133086,
+                    "timestamp": 1697133086,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U04U66DSPEU",
+                    "user_team": "T04TGFGMK7C",
+                    "editable": false,
+                    "size": 79604,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061LB9V9G8\/image.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061LB9V9G8\/download\/image.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 278,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 371,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 557,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 619,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 743,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061LB9V9G8-1ab9df9f81\/image_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 792,
+                    "original_w": 1541,
+                    "original_h": 1192,
+                    "thumb_tiny": "AwAlADC20EayZKxhMdMc0oggPREP4VORmgDFA7sh+zw5\/wBUv5UjWseDtjjz24qeigLsrpaqCd6Rn0wtP+zRf881\/KpaKAuwooooEFFFFABRRRQAUUUUAFFFFABRRRQB\/9k=",
+                    "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04U66DSPEU\/F061LB9V9G8\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061LB9V9G8-559f3ccf80",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U04U66DSPEU",
+            "display_as_bot": false,
+            "ts": "1697133296.093859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7jTsI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ページ作成の件ですが、\nこういうのを作りました\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/feature\/AT-529\/inventory-page\/app\/inventory\/page.tsx"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nトップページから、所持品リストボタンを押すと遷移できます。\n続きとしては、Cookieから現在のuser-idをこのページのリストコンポーネントに渡して、現在のユーザーのリストを表示させるロジックという認識であってますでしょうか"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "thinking_face",
+                                    "unicode": "1f914"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nログイン部分とつなげる方針はありますでしょうか"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "5917fd16-ff7b-4c9a-b79a-698409506a1d",
+            "thread_ts": "1697133296.093859",
+            "reply_count": 7,
+            "reply_users_count": 2,
+            "latest_reply": "1697164615.979709",
+            "reply_users": [
+                "U04T9TDB58W",
+                "U04TGBZ4XEX"
+            ],
+            "replies": [
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697159892.244449"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1697161222.421729"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697163231.636209"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1697163960.772119"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697164309.639699"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697164349.319049"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1697164615.979709"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pe2fA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n将来的にはstore(jotai)からuidを取得して、それを元にfetchすることになると思います\n認証はまだ取り込まれていないので決めうちで良いです〜\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  GETの時は(というか共通して)どこから認証情報を取りますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b06de182-8b55-4323-910e-605a76760d54",
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697159976.000000"
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bfb525b-5d97-4f87-b9a3-1f40e1c2e422",
+        "type": "message",
+        "text": "<@U04T9TDB58W> よくよく考えるとGETの時は認証情報(本人からのリクエストであるか?)\n取れなさそうです。リクエストヘッダーにBearerなどで認証済の本人とわかる何らかの情報を入れるとかでしょうか\n\nバックエンドの機能を使って都度専用トークンを発行してレスポンスまたはレスポンスヘッダーに含めて、それを次回リクエストの際にヘッダーに含めて\n一緒に投げてもらう.. のような方法もあります。(この場合もFEからリクエストを投げる際にheaderに設定が必要になります)\n\n<https:\/\/techracho.bpsinc.jp\/hachi8833\/2021_11_26\/46891>\n\n<https:\/\/zenn.dev\/leaner_dev\/articles\/20210930-rails-api-spa-csrf>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697161222.421729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FG6t3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " よくよく考えるとGETの時は認証情報(本人からのリクエストであるか?)\n取れなさそうです。リクエストヘッダーにBearerなどで認証済の本人とわかる何らかの情報を入れるとかでしょうか\n\nバックエンドの機能を使って都度専用トークンを発行してレスポンスまたはレスポンスヘッダーに含めて、それを次回リクエストの際にヘッダーに含めて\n一緒に投げてもらう.. のような方法もあります。(この場合もFEからリクエストを投げる際にheaderに設定が必要になります)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techracho.bpsinc.jp\/hachi8833\/2021_11_26\/46891"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/leaner_dev\/articles\/20210930-rails-api-spa-csrf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697162523.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/techracho.bpsinc.jp\/hachi8833\/2021_11_26\/46891",
+                "ts": 1637915578,
+                "id": 1,
+                "original_url": "https:\/\/techracho.bpsinc.jp\/hachi8833\/2021_11_26\/46891",
+                "fallback": "TechRacho: RailsのCSRF保護を詳しく調べてみた（翻訳）｜TechRacho by BPS株式会社",
+                "text": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A Deep Dive into CSRF Protection in Rails 公開日: 2017\/07\/31 著者: Alex Taylor サイト: Ruby Inside 2017\/10\/23: 初版公開 2021\/11\/26: 更新 RailsのCSRF保護を詳しく調べてみた（翻訳） 現在Railsを使っていればCSRF保護を使うことがあるでしょう。この機能はRailsのほぼ初期から存在し、即座に導入して開発を楽にできるRailsの機能のひとつです。 CSRF（Cross-Site Request Forgery）を簡単に説明すると、悪意のあ […]",
+                "title": "RailsのCSRF保護を詳しく調べてみた（翻訳）｜TechRacho by BPS株式会社",
+                "title_link": "https:\/\/techracho.bpsinc.jp\/hachi8833\/2021_11_26\/46891",
+                "service_name": "TechRacho"
+            },
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--xBikNwcg--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rails%2520API%2520%252B%2520SPA%25E3%2581%25AECSRF%25E5%25AF%25BE%25E7%25AD%2596%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100\/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160\/g_south_west%2Cl_text:notosansjp-medium.otf_34:corocn%2Cx_220%2Cy_108\/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhNjFkZTAyMDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102\/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NjYxZjAzMzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 28387,
+                "from_url": "https:\/\/zenn.dev\/leaner_dev\/articles\/20210930-rails-api-spa-csrf",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/zenn.dev\/leaner_dev\/articles\/20210930-rails-api-spa-csrf",
+                "fallback": "Zenn: Rails API + SPAのCSRF対策例",
+                "title": "Rails API + SPAのCSRF対策例",
+                "title_link": "https:\/\/zenn.dev\/leaner_dev\/articles\/20210930-rails-api-spa-csrf",
+                "service_name": "Zenn"
+            }
+        ],
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2f6e68e-d8b7-466f-b54a-7aa3ec6df81a",
+        "type": "message",
+        "text": "&gt;  バックエンドの機能を使って都度専用トークンを発行してレスポンスまたはレスポンスヘッダーに含めて、それを次回リクエストの際にヘッダーに含めて\n&gt; 一緒に投げてもらう.. のような方法もあります。(この場合もFEからリクエストを投げる際にheaderに設定が必要になります)\nなるほど\nこれって認証情報を元に, pingが必要だったりしますか？(すでにログイン済みのユーザーの場合, アプリケーション起動時などにAPIにpingして, 新しいtokenを受け取るなどするやつ？)\n\nとりあえずfirebase authenticationのuidをbearer tokenに入れるのが行儀良さそうな感じがしてます（？）\n\n<@U04TGBZ4XEX>",
+        "user": "U04T9TDB58W",
+        "ts": "1697163231.636209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epOqH",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " バックエンドの機能を使って都度専用トークンを発行してレスポンスまたはレスポンスヘッダーに含めて、それを次回リクエストの際にヘッダーに含めて\n一緒に投げてもらう.. のような方法もあります。(この場合もFEからリクエストを投げる際にheaderに設定が必要になります)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど\nこれって認証情報を元に, pingが必要だったりしますか？(すでにログイン済みのユーザーの場合, アプリケーション起動時などにAPIにpingして, 新しいtokenを受け取るなどするやつ？)\n\nとりあえずfirebase authenticationのuidをbearer tokenに入れるのが行儀良さそうな感じがしてます（？）\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95b2168c-4043-4e80-9b72-d871bcd4abf1",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nAPIモードでここの部分実装したことがないので予想ですが、\npingまたは最初に何らかのPOSTでrequest bodyにuidを含めて投げてもらって、ヘッダーにトークン含めてレスポンス返すので、\n次回以降(1回アプリケーション終了して再起動)はクライアント側で保存しているトークンでやり取りになると思います\nトークンの期限が切れていたりトークン自体消失していたら 401を返すので再度ログイン処理からです\n\n>  とりあえずfirebase authenticationのuidをbearer tokenに入れるのが行儀良さそうな感じがしてます\nはい僕も賛成です、bearer tokenに入れてもらえれば、ヘッダー情報から読み取れば良いだけになるのでAPI側も実装がシンプルになります:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697163960.772119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EE3e2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAPIモードでここの部分実装したことがないので予想ですが、\npingまたは最初に何らかのPOSTでrequest bodyにuidを含めて投げてもらって、ヘッダーにトークン含めてレスポンス返すので、\n次回以降(1回アプリケーション終了して再起動)はクライアント側で保存しているトークンでやり取りになると思います\nトークンの期限が切れていたりトークン自体消失していたら 401を返すので再度ログイン処理からです\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " とりあえずfirebase authenticationのuidをbearer tokenに入れるのが行儀良さそうな感じがしてます"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nはい僕も賛成です、bearer tokenに入れてもらえれば、ヘッダー情報から読み取れば良いだけになるのでAPI側も実装がシンプルになります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697164012.000000"
+        },
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4e83154-d242-42d6-af01-36fda6b99289",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-532> cc <@U04TGBZ4XEX>",
+        "user": "U04T9TDB58W",
+        "ts": "1697164309.639699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKFOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-532"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10554::aa7e1f70697011eeb163a96345048eba",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-532?atlOrigin=eyJpIjoiOGZlMWE4Y2QzMjg4NDhiZmFiNzk5ZGUyODM3ZDY5NDYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-532 外部設計変更：UIDはbearer tokenで受け渡しをする>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10554::aa7e1f72697011eeb163a96345048eba",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "HibikiMizuno"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *HibikiMizuno*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10554::aa7e1f71697011eeb163a96345048eba",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10554\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10554\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-532",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "504f24b4-240b-4cc9-b59d-b111adf9f082",
+        "type": "message",
+        "text": "pingの件は後回しにしますか。検証のticketを切っておいてもらえると助かります :bow:  <@U04TGBZ4XEX>",
+        "user": "U04T9TDB58W",
+        "ts": "1697164349.319049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AfdOY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pingの件は後回しにしますか。検証のticketを切っておいてもらえると助かります "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21b2043d-e4c0-40e4-8fe8-7f7f3d1c5d6b",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-534> (cc: <@U04T9TDB58W>)",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697164615.979709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNK7r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-534"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10556::60d50c20697111eeb104cb267e4173bf",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-534?atlOrigin=eyJpIjoiYjA1OTVmZDJjODhiNDNkMGFlMDNjYjYxMzQwNDI4NzUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-534 BE: 認証情報をpingまたはPOST処理で送り専用トークンを返す挙動の検証>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10556::60d50c22697111eeb104cb267e4173bf",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "satoshi.hirata"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *satoshi.hirata*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/low.png",
+                                "alt_text": "Low"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Low*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10556::60d50c21697111eeb104cb267e4173bf",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10556\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10556\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-534",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697133296.093859",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

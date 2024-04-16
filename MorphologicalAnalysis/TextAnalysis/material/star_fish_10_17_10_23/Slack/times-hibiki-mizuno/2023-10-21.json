@@ -1,0 +1,258 @@
+[
+    {
+        "client_msg_id": "37eb95ae-ef3e-4a8e-976f-0ec0a3f6fc7f",
+        "type": "message",
+        "text": "NextAuth, anyだらけなんだけど…",
+        "user": "U04T9TDB58W",
+        "ts": "1697876457.883979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypCMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NextAuth, anyだらけなんだけど…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ea04d38-7aa3-4fc7-b3ac-bbefe4aac4c3",
+        "type": "message",
+        "text": "firebase, documentが古い",
+        "user": "U04T9TDB58W",
+        "ts": "1697916831.855649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxnEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "firebase, documentが古い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a3f535cd-c41f-4423-9871-c68f389f0b95",
+        "type": "message",
+        "text": "NextAuth, 結構動作怪しい\nまだ早いかなー",
+        "user": "U04T9TDB58W",
+        "ts": "1697949548.427819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQn8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NextAuth, 結構動作怪しい\nまだ早いかなー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2bb842f5-4cec-4536-8253-ca79dec894f1",
+        "type": "message",
+        "text": "認証の必要なところだけCSRにしてもいいかもな",
+        "user": "U04T9TDB58W",
+        "ts": "1697949580.299409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFyBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "認証の必要なところだけCSRにしてもいいかもな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697949580.299409",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697960032.773619",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697960015.877739"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697960032.773619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e76413fb-0bb5-4dd6-9c58-f6554fb03b4e",
+        "type": "message",
+        "text": "あーやべ、面談の日程忘れてた",
+        "user": "U04T9TDB58W",
+        "ts": "1697957042.903949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZexT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あーやべ、面談の日程忘れてた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0b1e3fd2-baa2-420b-bf12-07abcd8b228f",
+        "type": "message",
+        "text": "てかその時間働いてる…",
+        "user": "U04T9TDB58W",
+        "ts": "1697957053.802409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEYB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "てかその時間働いてる…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

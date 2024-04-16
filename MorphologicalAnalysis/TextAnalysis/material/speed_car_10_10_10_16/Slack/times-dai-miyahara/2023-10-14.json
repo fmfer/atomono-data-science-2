@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "097bb89b-d42a-45d0-b296-0142e3a7212f",
+        "type": "message",
+        "text": "GitHub Education Plan申請完了。\n返信きたらbranch ruleいじってみる",
+        "user": "U04T201950F",
+        "ts": "1697351758.470939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HkokU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GitHub Education Plan申請完了。\n返信きたらbranch ruleいじってみる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "d3e108b0-2ece-46e4-908c-93fa42184010",
+        "type": "message",
+        "text": "```cloudfront -&gt; alb -&gt; frontend\n                  -&gt; backend```\nってなるからキャッシュとかどうなるのか後で確認\nまずは動いてからだな",
+        "user": "U04T201950F",
+        "ts": "1699253404.482009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPwwO",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cloudfront -> alb -> frontend\n                  -> backend"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ってなるからキャッシュとかどうなるのか後で確認\nまずは動いてからだな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

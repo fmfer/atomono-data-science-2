@@ -1,0 +1,143 @@
+[
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Hibiki Mizuno transitioned AT-420 フロントエンド実装：代替品候補カード from To Do ⟶ Done",
+        "user": "U055AKE99KK",
+        "ts": "1690862836.142909",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10442::e6973520302011ee94ea476300fc2c19",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T9TDB58W|@Hibiki Mizuno> transitioned a Task from `To Do` ⟶ `Done`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-420?atlOrigin=eyJpIjoiNjQ4MWIzM2I5ZTI0NDkxOWIwYTM4M2Q1MmEzN2VmYzUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-420 フロントエンド実装：代替品候補カード>*\nPR: <https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/35>",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10442::e6973521302011ee94ea476300fc2c19",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *Done*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "HibikiMizuno"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *HibikiMizuno*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10442::e6975c30302011ee94ea476300fc2c19",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10442\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10442\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04T9TDB58W\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "6b4db31e-d99b-44ef-901d-2d5f0f55d463",
+        "type": "message",
+        "text": "20時半くらいからやります",
+        "user": "U04TV4NASPK",
+        "ts": "1690800572.979529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vi0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "20時半くらいからやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2a16057-b5f7-4d77-9cda-e9b600323411",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81|https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81>",
+        "user": "U04TV4NASPK",
+        "ts": "1690873184.162359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jk22=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81",
+                                "text": "https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9UnVieSUyMG9uJTIwUmFpbHMlMjAlQzMlOTclMjBTaG9waWZ5JTIwTXVsdGlwYXNzJTIwQVBJJUUzJTgxJUE3U1NPJUVGJUJDJTg4JUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgzJUFCJUUzJTgzJUJCJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJUJCJUUzJTgyJUFBJUUzJTgzJUIzJUVGJUJDJTg5JUUzJTgyJTkyJUU4JUE5JUE2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJThCJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1jNWNjZGRkMzc2NWRlYTA1YmY4MWExMDNiNzE5NGNlZg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwa2F6YW1hMTIwOSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZTc5NzczYTBmOTk5NWFhMDVhOTc4MmVlMzNiMWI5NDE&blend-x=142&blend-y=491&blend-mode=normal&s=b0d910db3e0e0c9243106f78cf312171",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 62266,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81",
+                "fallback": "Qiita: Ruby on Rails × Shopify Multipass APIでSSO（シングル・サイン・オン）を試してみる - Qiita",
+                "text": "概要\n\n業務の一環でShopifyのMultipass APIを使いSSO（シングル・サイン・オン）を実装する機会があったので、手順などについてメモ書きしておきたいと思います。\n\nSSO: 単一の資格情報（IDやメールアドレス）で...",
+                "title": "Ruby on Rails × Shopify Multipass APIでSSO（シングル・サイン・オン）を試してみる - Qiita",
+                "title_link": "https:\/\/qiita.com\/kazama1209\/items\/7e16b2701cf9e27b1ca9?utm_source=pocket_mylist#%E6%A6%82%E8%A6%81",
+                "service_name": "Qiita"
+            }
+        ]
+    }
+]

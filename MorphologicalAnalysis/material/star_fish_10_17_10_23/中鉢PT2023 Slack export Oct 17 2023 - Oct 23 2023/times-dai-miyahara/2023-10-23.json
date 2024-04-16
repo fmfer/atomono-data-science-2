@@ -1,0 +1,161 @@
+[
+    {
+        "client_msg_id": "4678ac63-68c9-419f-82fe-84c50e5d229b",
+        "type": "message",
+        "text": "中山先生とのメモ\n• プロダクトゴールを決める（再確認）　→　Notionの議事録に記載\n• プロダクトバックログアイテムの粒度を統一\n• イベントも含めてエピックとして登録する\n• 追加が必要な場合は、リファインメントの際に登録\n目標：マンスリーレビュー（早ければ明日のスプリントレビューで）",
+        "user": "U04T201950F",
+        "ts": "1698058907.212819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PnMrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中山先生とのメモ\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プロダクトゴールを決める（再確認）　→　Notionの議事録に記載"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プロダクトバックログアイテムの粒度を統一"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イベントも含めてエピックとして登録する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "追加が必要な場合は、リファインメントの際に登録"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n目標：マンスリーレビュー（早ければ明日のスプリントレビューで）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1698059005.000000"
+        },
+        "thread_ts": "1698058907.212819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698059184.482459",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698059184.482459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "db03c8dc-7644-4c33-ad54-1ddaa8010833",
+        "type": "message",
+        "text": "1月に１回はプロダクトバックログのリファイメントを行う。",
+        "user": "U04TV4NASPK",
+        "ts": "1698059184.482459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQqcz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1月に１回はプロダクトバックログのリファイメントを行う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698058907.212819",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

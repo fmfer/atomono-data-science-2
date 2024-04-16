@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "fe9c53fc-87fa-45fc-a36c-297c729fe725",
+        "type": "message",
+        "text": "自分月曜飲み会なので夜対応できないです :pray: できればすべてを日曜に終わらせたい。",
+        "user": "U04T9TDB58W",
+        "ts": "1697283275.292379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LGb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分月曜飲み会なので夜対応できないです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " できればすべてを日曜に終わらせたい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697283284.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04U66DSPEU",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

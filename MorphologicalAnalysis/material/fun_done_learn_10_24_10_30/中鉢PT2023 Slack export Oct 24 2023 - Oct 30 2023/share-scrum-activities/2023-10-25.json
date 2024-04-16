@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "941c9c85-0c33-42b0-8f89-70b8d4f65ef3",
+        "type": "message",
+        "text": "マンスリーレビュー資料作成",
+        "user": "U04TV4NASPK",
+        "ts": "1698226566.907589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5xwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マンスリーレビュー資料作成"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698192008.052289",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1698278417.706549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698278417.706549",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698289389.012899",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698284668.735099"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698289389.012899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f05762f5-9590-4087-8a0f-3873677676ab",
+        "type": "message",
+        "text": "マンスリーレビュー資料作成",
+        "user": "U04TV4NASPK",
+        "ts": "1698284668.735099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5xwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マンスリーレビュー資料作成"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278417.706549",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "35d99971-b263-41f8-a2ba-2a09a25a5644",
+        "type": "message",
+        "text": "昨日の業務のトラブルの延長であまり動けませんでした。。。",
+        "user": "U04U66DSPEU",
+        "ts": "1698289261.510109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z93F4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の業務のトラブルの延長であまり動けませんでした。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1698289278.000000"
+        },
+        "thread_ts": "1698192008.052289",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5d23be3c-0f12-4aba-beb8-8c0d422e4427",
+        "type": "message",
+        "text": "今日こそログイン関連のもの調べます",
+        "user": "U04U66DSPEU",
+        "ts": "1698289389.012899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezDcq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日こそログイン関連のもの調べます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278417.706549",
+        "parent_user_id": "USLACKBOT"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "d87d7eee-140a-4244-9b16-11cc61dfe3f1",
+        "type": "message",
+        "text": "ユーザの所持品情報が正常に更新できなかった件、昨晩修正してリリース済です\n\nRelease 20231106 · chubachi-pt-2023\/atomono-api\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231106>\n\n&gt;  hotfix\n&gt; • ユーザ所持品更新の際、user_product_idとproduct_idを取り違えて正常に更新できていなかった箇所の修正",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699233933.974719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XdHaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザの所持品情報が正常に更新できなかった件、昨晩修正してリリース済です\n\nRelease 20231106 · chubachi-pt-2023\/atomono-api\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231106"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " hotfix"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザ所持品更新の際、user_product_idとproduct_idを取り違えて正常に更新できていなかった箇所の修正"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "416c898a-71fe-4e91-a94a-3cc94d4b1c9f",
+        "type": "message",
+        "text": "<!here> 【代替品候補について】\nデータ上では廃盤品もレコメンドされるようになっていますが, 一旦FE側で廃盤品を表示しないようにフィルターをかけます. いずれBE側でフィルターしてもらう予定です.",
+        "user": "U04T9TDB58W",
+        "ts": "1690708280.304819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMzLr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【代替品候補について】\nデータ上では廃盤品もレコメンドされるようになっていますが, 一旦FE側で廃盤品を表示しないようにフィルターをかけます. いずれBE側でフィルターしてもらう予定です."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

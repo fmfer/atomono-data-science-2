@@ -1,0 +1,62 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698940203.596419",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699032976.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698940197,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by fmfer",
+                "text": "*JIRAへのリンク*\n\nAT-441: 資生堂のRaketaskで取得するimage_urlが相対パスになっている不具合を修正\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-441|https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-441>\n\n*概要*\n*実装内容*\n\n☐ currentとdiscontinuedを修正\n\n*テスト*\n\n☐ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☐ 既存のCIがパスすること\n\n*備考*\n\n自己確認結果：\n\n```\nMariaDB [atomono]&gt; select origin_image_url from products WHERE origin_image_url IS NOT NULL limit 10;\n+--------------------------------------------------------------------------------------------------------------+\n| origin_image_url                                                                                             |\n+--------------------------------------------------------------------------------------------------------------+\n| <https:\/\/example.com\/cosme.png>                                                                                |\n| <https:\/\/example.com\/example_cosme.png>                                                                        |\n| <https:\/\/example.com\/example_cosme.png>                                                                        |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230914\/SHOHIN_PL_C1_H08801.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230914\/SHOHIN_PL_C1_H08801.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230914\/SHOHIN_PL_C1_H08801.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230914\/SHOHIN_PL_C1_H08801.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230829\/SHOHIN_PL_C1_G86501.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230829\/SHOHIN_PL_C1_G86601.jpg> |\n| <https:\/\/imagecdn.shiseido.co.jp\/c\/a=0,f=webp:jpeg\/resources\/sw\/products\/img\/20230829\/SHOHIN_PL_C1_G86601.jpg> |\n+--------------------------------------------------------------------------------------------------------------+\n```\n\n```\nMariaDB [atomono]&gt; select name, origin_image_url from products WHERE origin_image_url LIKE '..%';\nEmpty set (0.007 sec)\n```",
+                "pretext": "Pull request opened by <https:\/\/github.com\/fmfer|fmfer>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103|#103 現行品、廃盤品、画像取得部分を修正:絶対パスを使用>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:103,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;現行品、廃盤品、画像取得部分を修正:絶対パスを使用&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

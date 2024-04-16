@@ -1,0 +1,417 @@
+[
+    {
+        "client_msg_id": "413c66c7-e59f-4254-9ab6-417d5d15ec79",
+        "type": "message",
+        "text": "patchリクエストでregisteredAtを変更できるようになったんでしたっけ <@U04TGBZ4XEX>",
+        "user": "U04T9TDB58W",
+        "ts": "1696940968.459149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPpev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "patchリクエストでregisteredAtを変更できるようになったんでしたっけ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5475b09e-7608-4641-b86d-219adefe80ca",
+        "type": "message",
+        "text": "↑これ、FEのswaggerにまだ乗っていないので、チケットだけ切ってもらえると助かります",
+        "user": "U04T9TDB58W",
+        "ts": "1696940997.684949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E7nx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑これ、FEのswaggerにまだ乗っていないので、チケットだけ切ってもらえると助かります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e4f70a66-5601-4eee-af45-b067089d94ec",
+        "type": "message",
+        "text": "<@U04T9TDB58W> patchでregisteredAt変更できるようにします、チケット切りました:woman-gesturing-ok:\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1696941542.352129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKjzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " patchでregisteredAt変更できるようにします、チケット切りました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10550::fe6ff080676911ee8d3d4b3c41ae0757",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiNzljZjNhMGRiNWVlNDg4MTllM2M4ZTBkNjNiYWEyNmMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10550::fe6ff082676911ee8d3d4b3c41ae0757",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10550::fe6ff081676911ee8d3d4b3c41ae0757",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1696941542.352129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698107614.215129",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1696942657.365209"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698107614.215129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "165ded3b-b41a-4d46-8567-91ad214a695e",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696812416151989?thread_ts=1696755367.605489&amp;cid=C053FF1M4AY> これだ",
+        "user": "U04T9TDB58W",
+        "ts": "1696942657.365209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5dCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696812416151989?thread_ts=1696755367.605489&cid=C053FF1M4AY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696812416151989?thread_ts=1696755367.605489&amp;cid=C053FF1M4AY",
+                "ts": "1696812416.151989",
+                "author_id": "U04TGBZ4XEX",
+                "channel_id": "C053FF1M4AY",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053FF1M4AY",
+                        "ts": "1696812416.151989",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "SMqBt",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "使用期間も更新できるようにテーブル設計したので\nリピート回数を更新するPATCHで、使用期間も一緒に投げてもらうイメージで更新処理かけられると思います(後々の話) "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "pray",
+                                                    "unicode": "1f64f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "{\n  repeats: number\n  registeredAt: (値があれば更新。なければそのまま)\n  userUid: string \/\/ uuid  \n}"
+                                                }
+                                            ],
+                                            "border": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696812416151989?thread_ts=1696755367.605489&amp;cid=C053FF1M4AY",
+                "fallback": "[October 8th, 2023 5:46 PM] a2236sh: 使用期間も更新できるようにテーブル設計したので\nリピート回数を更新するPATCHで、使用期間も一緒に投げてもらうイメージで更新処理かけられると思います(後々の話) :pray:\n```{\n  repeats: number\n  registeredAt: (値があれば更新。なければそのまま)\n  userUid: string \/\/ uuid  \n}```",
+                "text": "使用期間も更新できるようにテーブル設計したので\nリピート回数を更新するPATCHで、使用期間も一緒に投げてもらうイメージで更新処理かけられると思います(後々の話) :pray:\n```{\n  repeats: number\n  registeredAt: (値があれば更新。なければそのまま)\n  userUid: string \/\/ uuid  \n}```",
+                "author_name": "satoshi.​hirata",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TGBZ4XEX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_48.jpg",
+                "author_subname": "satoshi.​hirata",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1696941542.352129",
+        "parent_user_id": "U04TGBZ4XEX",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

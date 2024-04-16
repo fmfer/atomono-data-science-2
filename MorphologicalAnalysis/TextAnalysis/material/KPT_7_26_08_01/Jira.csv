@@ -1,0 +1,27 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Actual end),Custom field (Actual start),Custom field (Atlas project key),Custom field (Atlas project status),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Custom field (Reviewer),Sprint,Sprint,Sprint,Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Parent,Parent summary,Status Category
+BE: 【開発用】uidがパラメータに含まれていたらログイン済の挙動になるよう実装,AT-448,10470,Task,Done,AT,ATOMONO,software,satoshi.hirata,63987e6af78d12c0f47112a9,,,Medium,Done,satoshi.hirata,63987e6af78d12c0f47112a9,satoshi.hirata,63987e6af78d12c0f47112a9,satoshi.hirata,63987e6af78d12c0f47112a9,28/Jul/23 10:33 AM,09/Sep/23 2:16 PM,21/Dec/23 9:45 PM,09/Sep/23 2:16 PM,,0,Backend,"時間がかかりそうなので並行して後続のユーザーストーリが進められるように
+ダミーユーザを内部で作って返す
+ユーザー認証周りが完成したらフィーチャーフラグ方式で切り替えた後に旧コードを削除する",,satoshi.hirata,63987e6af78d12c0f47112a9,,,,,,,,,,,,,,,,,,{},,AT-268,ユーザーがサインアップ・サインアウトできること【共通】,,,,,,,0|i002k7:,,,,,,,,3.0,,,,,,,,"09/Sep/23 2:16 PM;63987e6af78d12c0f47112a9;認証周りの実装コストが減ったため、一旦ダミーを作らない方向とする
+9月下旬時点の進捗で再度検討する。closeします",10290,ユーザーがサインアップ・サインアウトできること【共通】,Done
+今後の展望スライド作成,AT-449,10471,Sub-task,Done,AT,ATOMONO,software,satoshi.hirata,63987e6af78d12c0f47112a9,,,Medium,Done,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,29/Jul/23 4:42 PM,15/Aug/23 9:57 PM,21/Dec/23 9:39 PM,15/Aug/23 9:57 PM,,0,,,,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,,,,,,,,,,,,,,,,,,{},,,,,,,,,,0|i002kf:,,,prepare-mid-presen/mon-review,buffer-sprint,sprint14-presentation,summer-activity1,,,,,,,,,,,10358,中間発表準備,Done
+個人の感想パートのスライド作成,AT-450,10472,Sub-task,Done,AT,ATOMONO,software,satoshi.hirata,63987e6af78d12c0f47112a9,,,Medium,Done,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,29/Jul/23 4:43 PM,15/Aug/23 9:57 PM,21/Dec/23 9:44 PM,15/Aug/23 9:57 PM,,0,,,,Ohno Hiroto,712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14,,,,,,,,,,,,,,,,,,{},,,,,,,,,,0|i002kn:,,,prepare-mid-presen/mon-review,buffer-sprint,sprint14-presentation,summer-activity1,,,,,,,,,,,10358,中間発表準備,Done
+代替品候補として廃盤品が返る場合モデルの値を返さないように修正する,AT-451,10473,Task,Done,AT,ATOMONO,software,satoshi.hirata,63987e6af78d12c0f47112a9,,,Medium,Done,satoshi.hirata,63987e6af78d12c0f47112a9,satoshi.hirata,63987e6af78d12c0f47112a9,satoshi.hirata,63987e6af78d12c0f47112a9,30/Jul/23 6:10 PM,24/Sep/23 11:58 AM,21/Dec/23 9:46 PM,24/Sep/23 11:58 AM,,0,Backend,"参考:
+
+[https://chubachi-pt-2023.slack.com/archives/C054UK45D7Y/p1690705857156819|https://chubachi-pt-2023.slack.com/archives/C054UK45D7Y/p1690705857156819]",,satoshi.hirata,63987e6af78d12c0f47112a9,,,,,,,,,,,,,,,,,,{},,AT-263,ユーザーが廃盤品に関連する代替品を一つ見つけることができること,,,,,,,0|i002qi:i,,,summer-activity7,,,,,3.0,,,,,,,,"30/Jul/23 6:18 PM;63987e6af78d12c0f47112a9;{{Api::ProductsHelper#format_new_product_data_item}} 
+
+でReplacesProductモデルから該当する値を全て引いているので
+モデル側でscopeを定義して、リレーションで引く時に廃盤品を含まないようにフィルターをかける
+
+実装時はここのビジネスロジックを確認するModelのテスト必須",10285,ユーザーが廃盤品に関連する代替品を一つ見つけることができること,Done
+発表資料：準備,AT-452,10474,Sub-task,Done,AT,ATOMONO,software,satoshi.hirata,63987e6af78d12c0f47112a9,,,Medium,Done,Kenta Nakayama,712020:5c9c58b6-2671-4bd8-8163-76419e5820db,HibikiMizuno,62d6d768657fc166e26036e9,HibikiMizuno,62d6d768657fc166e26036e9,30/Jul/23 8:53 PM,08/Aug/23 2:01 AM,21/Dec/23 9:44 PM,08/Aug/23 2:01 AM,,0,,"* 準備
+** プロダクトについて
+*** プロダクト開発の背景と目的
+*** 叶えたいカスタマージャーニー
+*** 想定されるボトルネック
+*** ちょいデモ(別の説明しながら流す程度)
+** その他特筆すべき前提知識
+*** 作成するプロダクトの説明
+** 目標
+*** 個々の目標も書く",,HibikiMizuno,62d6d768657fc166e26036e9,,,,,,,,,,,,,,,,,,{},,,,,,,,,,0|i002l3:,,,prepare-mid-presen/mon-review,buffer-sprint,sprint14-presentation,summer-activity1,,,,,,,,,,"30/Jul/23 9:47 PM;62d6d768657fc166e26036e9;* プロダクト開発の背景と目的
+** テーマ選定は背景で話すのでここでは取り上げない
+** ",10358,中間発表準備,Done

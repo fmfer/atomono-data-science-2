@@ -1,0 +1,1511 @@
+[
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "鈴木真希 created a Task AT-565 代替品詳細画面",
+        "user": "U055AKE99KK",
+        "ts": "1697615498.118189",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10587::2abff9106d8b11eeaba725bfdebd1bfa",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*鈴木真希 created a Task*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-565?atlOrigin=eyJpIjoiNzBmNGY3YTkyOGI4NDYxYjliNTJiY2UzZTJhNDM4MDkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-565 代替品詳細画面>*\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=3014-1678&amp;mode=design&amp;t=0tGRKpaltUXNnLS8-4>",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "no:cx:10587::2abff9116d8b11eeaba725bfdebd1bfa",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *To Do*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:0a83f6c8-7964-448e-bde0-fc65c55240bc\/6b897bc0-8f78-4ba8-9a09-f5a224b41ae1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "鈴木真希"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *鈴木真希*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10587::2abff9126d8b11eeaba725bfdebd1bfa",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10587\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_CREATED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10587\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_CREATED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Fernández assigned AT-564 【UI修正】所持品コンポーネント from Unassigned ⟶ Fernández",
+        "user": "U055AKE99KK",
+        "ts": "1697637596.223679",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10586::9e4156806dbe11ee8e4c055ddfab1c42",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Fernández assigned a Task from Unassigned ⟶ Fernández*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-564?atlOrigin=eyJpIjoiZDRiYjg1MDNhZmFhNDA3ZWFkNDVkYzlhMDBkMzYzYzciLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-564 【UI修正】所持品コンポーネント>*\n`app\/__components__\/Product\/UserProductCard.client.tsx`\n:camera:\n• カードの枠内に要素が収まっていない。\n• 廃盤ラベルがある場合に大きくスタイルが崩れる(縦長になる)\nあとはnitですが、少々文字が大きいので全体的に小さめに変えてほしいです。1~2px小さくするイメージ。",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10586::9e4156816dbe11ee8e4c055ddfab1c42",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *To Do*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:744719ff-9f36-45ea-ad59-e50534df8206\/c61e7a11-605f-4bf5-96e9-a736e141a941\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Fernández"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Fernández*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10586::9e4156826dbe11ee8e4c055ddfab1c42",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Fernández transitioned AT-564 【UI修正】所持品コンポーネント from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1697637601.718769",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10586::a18a18e06dbe11ee98109ffb2afe593d",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Fernández transitioned a Task from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-564?atlOrigin=eyJpIjoiMDViZjNlYjU2OWQxNDgwNmFiMDhjOGQwNWZhZDNmYmQiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-564 【UI修正】所持品コンポーネント>*\n`app\/__components__\/Product\/UserProductCard.client.tsx`\n:camera:\n• カードの枠内に要素が収まっていない。\n• 廃盤ラベルがある場合に大きくスタイルが崩れる(縦長になる)\nあとはnitですが、少々文字が大きいので全体的に小さめに変えてほしいです。1~2px小さくするイメージ。",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10586::a18a18e16dbe11ee98109ffb2afe593d",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:744719ff-9f36-45ea-ad59-e50534df8206\/c61e7a11-605f-4bf5-96e9-a736e141a941\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Fernández"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Fernández*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10586::a18a18e26dbe11ee98109ffb2afe593d",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Ohno Hiroto(10\/21, 22引っ越し) transitioned AT-555 所持品リスト追加モダル from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1697638415.069599",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10577::8659bb006dc011ee9840597bf5d995f2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04U66DNCRE|@Ohno Hiroto(10\/21, 22引っ越し)> transitioned a Sub-task from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-555?atlOrigin=eyJpIjoiZWMxMDYyYjk5YzFiNDEwMjk5ZGQyNjViOGIyMTY5MmYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-555 所持品リスト追加モダル>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10577::8659bb016dc011ee9840597bf5d995f2",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Sub-task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:dd08bf27-e5e5-463e-aa50-9c3deb52bc14\/863aaf91-9927-470f-9c26-2a2288f35585\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Ohno Hiroto"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Ohno Hiroto*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10577::8659bb026dc011ee9840597bf5d995f2",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10577\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10577\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04U66DNCRE\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Fernández transitioned AT-564 【UI修正】所持品コンポーネント from In Progress ⟶ In Review",
+        "user": "U055AKE99KK",
+        "ts": "1697641738.059549",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10586::43008b606dc811ee8f8c89d758061bb1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Fernández transitioned a Task from `In Progress` ⟶ `In Review`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-564?atlOrigin=eyJpIjoiZWNlZDhiOWI0MmY0NGE2YmJlM2VkOTRlOTEwMDFhZTkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-564 【UI修正】所持品コンポーネント>*\n`app\/__components__\/Product\/UserProductCard.client.tsx`\n:camera:\n• カードの枠内に要素が収まっていない。\n• 廃盤ラベルがある場合に大きくスタイルが崩れる(縦長になる)\nあとはnitですが、少々文字が大きいので全体的に小さめに変えてほしいです。1~2px小さくするイメージ。",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10586::43008b616dc811ee8f8c89d758061bb1",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Review*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:744719ff-9f36-45ea-ad59-e50534df8206\/c61e7a11-605f-4bf5-96e9-a736e141a941\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Fernández"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Fernández*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10586::4300b2706dc811ee8f8c89d758061bb1",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10586\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama transitioned AT-469 廃盤品詳細画面 from In Progress ⟶ In Review",
+        "user": "U055AKE99KK",
+        "ts": "1697650538.807429",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10491::c0a5d4306ddc11ee98109ffb2afe593d",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama transitioned a Task from `In Progress` ⟶ `In Review`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-469?atlOrigin=eyJpIjoiMTBmOWI4MmU2ODhjNGM4Njg3NGY3OTQ5OTllZGQzMjciLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-469 廃盤品詳細画面>*\nFigma: <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=3014-1677&amp;mode=design&amp;t=imACBBvDQbT3utu6-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/アトモノ?type=design&amp;node-id=3014-1677&amp;mode=design&amp;t=imACBBvDQbT3utu6-4>",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10491::c0a5d4316ddc11ee98109ffb2afe593d",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Review*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Kenta Nakayama"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Kenta Nakayama*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10491::c0a5d4326ddc11ee98109ffb2afe593d",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10491\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10491\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama transitioned AT-468 検索結果画面 from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1697650575.559059",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10490::d6902e306ddc11eea648bdbc8d204213",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama transitioned a Task from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-468?atlOrigin=eyJpIjoiODM1OWEwMzM5M2IyNGVjZWI2ZmFkOTYyODUzM2UyYzIiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-468 検索結果画面>*\nwidthでレスポンシブ対応するのが常套ですが, 最近はagentをみて判断するのが最先端って感じらしい\nタッチデバイスか否かを判別したいモチベーションはわかるので, agentを見る機構はinfraに書いても良さそう\nあと <https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/clamp>  これも気になる",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10490::d6902e316ddc11eea648bdbc8d204213",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                        "alt_text": "Unassigned"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Unassigned*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10490::d6902e326ddc11eea648bdbc8d204213",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10490\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10490\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama assigned AT-468 検索結果画面 from Unassigned ⟶ Kenta Nakayama",
+        "user": "U055AKE99KK",
+        "ts": "1697650588.947689",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10490::de8cdbb06ddc11ee8c3aa559419face6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama assigned a Task from Unassigned ⟶ Kenta Nakayama*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-468?atlOrigin=eyJpIjoiZWJiMWU0ZDBhYzMzNGVjMGEyZWY5N2ViY2Q5ZTJhZTciLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-468 検索結果画面>*\nwidthでレスポンシブ対応するのが常套ですが, 最近はagentをみて判断するのが最先端って感じらしい\nタッチデバイスか否かを判別したいモチベーションはわかるので, agentを見る機構はinfraに書いても良さそう\nあと <https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/clamp>  これも気になる",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10490::de8cdbb16ddc11ee8c3aa559419face6",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Kenta Nakayama"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Kenta Nakayama*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10490::de8cdbb26ddc11ee8c3aa559419face6",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10490\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10490\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Dai Miyahara commented on AT-531 frontリポジトリのRule作成・反映",
+        "user": "U055AKE99KK",
+        "ts": "1697675288.122729",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10553::60667f906e1611ee892b4d2d67759358",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T201950F|@Dai Miyahara> commented on a タスク in `進行中`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531?atlOrigin=eyJpIjoiNzM3ZjM3NzEzYjhhNDJjMjkzMmY2MjczNGQ5NjIwMzYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ&amp;focusedCommentId=10206&amp;page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-10206|AT-531 frontリポジトリのRule作成・反映>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "cn:nb:issue-commented-hook%3AsubscriptionHooks%3A1534139%3A712020%3A018c35d4-6ec5-41ac-a897-9037924f51e7%3A10206::60667f916e1611ee892b4d2d67759358",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "&gt;&gt;&gt;GitHub Educationの申請が通ったが、Organization内のPrivate Repositoryにルールを反映する場合Enterpriseじゃないとだめっぽい",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10553::60667f926e1611ee892b4d2d67759358",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"menu\",\"actor\":\"U04T201950F\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Dai Miyahara transitioned AT-531 frontリポジトリのRule作成・反映 from In Progress ⟶ Done",
+        "user": "U055AKE99KK",
+        "ts": "1697675291.253819",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10553::62421d606e1611eea27e19bf63942f2f",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T201950F|@Dai Miyahara> transitioned a Task from `In Progress` ⟶ `Done`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531?atlOrigin=eyJpIjoiYWYxMTU3MjhmZGQwNGIzZDgxZDkxZjc2NDYzY2ZmM2MiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-531 frontリポジトリのRule作成・反映>*\n• merge権限を絞る？\n• TL以外は1人以上のapproveを必要とする",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10553::62421d616e1611eea27e19bf63942f2f",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *Done*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:018c35d4-6ec5-41ac-a897-9037924f51e7\/f572447c-3b9f-46d7-9ba0-4ad29f4b693b\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Dai Miyahara"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Dai Miyahara*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10553::62421d626e1611eea27e19bf63942f2f",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04T201950F\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Dai Miyahara transitioned AT-537 モバイル用ヘッダーコンポーネント作成（検索フォームあり） from In Progress ⟶ In Review",
+        "user": "U055AKE99KK",
+        "ts": "1697678049.133089",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10559::ce16e2906e1c11ee9b2257f62e4eb852",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T201950F|@Dai Miyahara> transitioned a Sub-task from `In Progress` ⟶ `In Review`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-537?atlOrigin=eyJpIjoiMjY5YzEyYmFjOGY5NDY5Zjg1ZWQyZWY3ZTdiZmEwYzkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-537 モバイル用ヘッダーコンポーネント作成（検索フォームあり）>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10559::ce16e2916e1c11ee9b2257f62e4eb852",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Review*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Sub-task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:018c35d4-6ec5-41ac-a897-9037924f51e7\/f572447c-3b9f-46d7-9ba0-4ad29f4b693b\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Dai Miyahara"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Dai Miyahara*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10559::ce16e2926e1c11ee9b2257f62e4eb852",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10559\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10559\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04T201950F\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    }
+]

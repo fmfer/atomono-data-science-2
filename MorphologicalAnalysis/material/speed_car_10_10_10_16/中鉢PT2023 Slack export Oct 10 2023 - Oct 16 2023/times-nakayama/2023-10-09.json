@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "e910a162-d86b-4a7d-8988-0a2e6b818b15",
+        "type": "message",
+        "text": "Mobile対応沼っただけでしんちょくなかったな。",
+        "user": "U04TV4NASPK",
+        "ts": "1696911650.397729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x22KO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mobile対応沼っただけでしんちょくなかったな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

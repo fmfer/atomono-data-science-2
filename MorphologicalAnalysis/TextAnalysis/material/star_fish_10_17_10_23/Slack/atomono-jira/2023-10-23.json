@@ -1,0 +1,1630 @@
+[
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama created a Story AT-572 検索フィルターの要件定義",
+        "user": "U055AKE99KK",
+        "ts": "1698067413.634729",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10594::5d6b8a3071a711ee9e99db149908c23f",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama created a Story*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572?atlOrigin=eyJpIjoiMWYzMzM2OWZiZjMzNDRmM2JjY2FhOWM2MjFmZTU5MTEiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-572 検索フィルターの要件定義>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "no:cx:10594::5d6b8a3171a711ee9e99db149908c23f",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *To Do*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/story.png",
+                        "alt_text": "Story"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Story*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                        "alt_text": "Unassigned"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Unassigned*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10594::5d6b8a3271a711ee9e99db149908c23f",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_CREATED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_CREATED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama assigned AT-572 検索フィルターの要件定義 from Unassigned ⟶ Kenta Nakayama",
+        "user": "U055AKE99KK",
+        "ts": "1698067429.311999",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10594::66bfb16071a711eeb14f112b3264762e",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama assigned a Story from Unassigned ⟶ Kenta Nakayama*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572?atlOrigin=eyJpIjoiOTBiOWE4Y2Y1Y2RjNGRiMWI1M2Y5NjBhYmI4N2U3MzAiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-572 検索フィルターの要件定義>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10594::66bfb16171a711eeb14f112b3264762e",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *To Do*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/story.png",
+                        "alt_text": "Story"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Story*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Kenta Nakayama"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Kenta Nakayama*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10594::66bfb16271a711eeb14f112b3264762e",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama transitioned AT-572 検索フィルターの要件定義 from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1698067543.550709",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10594::aad818b071a711ee81c5ff852c6a2801",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama transitioned a Story from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572?atlOrigin=eyJpIjoiNWNiZDE0M2IwMThhNDM2Yjk2OGIyNzFiNGVjOGJiNzUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-572 検索フィルターの要件定義>*\n検索フィルターを既存のデータで作成するとどうなるのか確認する",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10594::aad818b171a711ee81c5ff852c6a2801",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/story.png",
+                        "alt_text": "Story"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Story*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "Kenta Nakayama"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *Kenta Nakayama*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10594::aad818b271a711ee81c5ff852c6a2801",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "Kenta Nakayama commented on AT-572 検索フィルターの要件定義",
+        "user": "U055AKE99KK",
+        "ts": "1698070789.042779",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10594::3952fea071af11ee919faf4f047a6ab8",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Kenta Nakayama commented on a Story in `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572?atlOrigin=eyJpIjoiOGY2MTg3ZTFhZWMzNGY4YWEwY2MxOTM4YjRjYjBlNzIiLCJwIjoiamlyYS1zbGFjay1pbnQifQ&amp;focusedCommentId=10210&amp;page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-10210|AT-572 検索フィルターの要件定義>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "cn:nb:issue-commented-hook%3AsubscriptionHooks%3A1534139%3A712020%3A5c9c58b6-2671-4bd8-8163-76419e5820db%3A10210::39534cc071af11ee919faf4f047a6ab8",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "&gt;&gt;&gt;現状だと以下の項目が使える。\nここからどうしたいかは別に考える。\n```|  検索フィルタ名  | 対応するDBデータ | ex |\n| ---- | ---- | ---- |\n|  ブランド  | master_brands | エリクシール, ナイーブなど |\n| カテゴリ | master_categories | 化粧水, 保湿液など |\n| 会社名 | master_companies | クラシエ, 資生堂など |\n| 原産国 | master_countries | アメリカ, イタリアなど |\n| 価格 | products.price | 100, 2100など |\n| 生産終了時期 | products.discontinued_on |  |\n| サイズ | products.size | 幅85mm×高さ135mm×奥行き8mmなど |\n| 容量 | products.capacity | 500ml, 8gなど |\n| 成分 | products.composition | 保湿液など |```",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10594::395373d071af11ee919faf4f047a6ab8",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10594\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"menu\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-506 BE: ユーザが所持品リストの商品リピート回数を更新するAPIを作成する from In Progress ⟶ In Review",
+        "user": "U055AKE99KK",
+        "ts": "1698070981.918459",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10528::ac46a33071af11ee8a295546adfbddfd",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `In Progress` ⟶ `In Review`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-506?atlOrigin=eyJpIjoiM2Q5YmJhYmVmZDFmNDJjOWFjMTY5YzZjYzBjMmRmNzAiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-506 BE: ユーザが所持品リストの商品リピート回数を更新するAPIを作成する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10528::ac46a33171af11ee8a295546adfbddfd",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Review*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10528::ac46a33271af11ee8a295546adfbddfd",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10528\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10528\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-506 BE: ユーザが所持品リストの商品リピート回数を更新するAPIを作成する from In Review ⟶ Done",
+        "user": "U055AKE99KK",
+        "ts": "1698070983.293639",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10528::ad18c04071af11ee86cf5dc0e6b06348",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `In Review` ⟶ `Done`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-506?atlOrigin=eyJpIjoiMTcyZjBmZjE3MDU3NDZjYmFmMjc3MDNhZDRjOWI1MjMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-506 BE: ユーザが所持品リストの商品リピート回数を更新するAPIを作成する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10528::ad18c04171af11ee86cf5dc0e6b06348",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *Done*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10528::ad18c04271af11ee86cf5dc0e6b06348",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10528\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10528\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata assigned AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する from Unassigned ⟶ @satoshi.hirata",
+        "user": "U055AKE99KK",
+        "ts": "1698071110.542859",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10550::f8f3d95071af11ee919faf4f047a6ab8",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> assigned a Task from Unassigned ⟶ <slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata>*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiNTI5ZWEwZGU4Njc1NDE0ZmI1OWE2ZDBjYThiYmM5MjMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10550::f8f3d95171af11ee919faf4f047a6ab8",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *To Do*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10550::f8f4006071af11ee919faf4f047a6ab8",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"transition\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Transition",
+                            "emoji": true
+                        },
+                        "value": "transition"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_ASSIGNED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Comment",
+                                    "emoji": true
+                                },
+                                "value": "comment"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata commented on AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する",
+        "user": "U055AKE99KK",
+        "ts": "1698071156.629819",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10550::146a2ef071b011ee9e99db149908c23f",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> commented on a タスク in `To Do`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiNDMzNjE0MzA1NTVkNGQwNDk4NmVmY2U3ZDVmYmY5NjYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ&amp;focusedCommentId=10211&amp;page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-10211|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "cn:nb:issue-commented-hook%3AsubscriptionHooks%3A1534139%3A63987e6af78d12c0f47112a9%3A10211::146a560071b011ee9e99db149908c23f",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "&gt;&gt;&gt;<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-506> で同時に対応しました。クローズします",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10550::146a560171b011ee9e99db149908c23f",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_COMMENTED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する from To Do ⟶ In Progress",
+        "user": "U055AKE99KK",
+        "ts": "1698071159.146619",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10550::15e9f12071b011eea5e5ebc7e3e26884",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `To Do` ⟶ `In Progress`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiOTVjMTI2OGY1NTUyNDM4YmE1NDY2OTEzMGI3NWRlYjciLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10550::15e9f12171b011eea5e5ebc7e3e26884",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Progress*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10550::15e9f12271b011eea5e5ebc7e3e26884",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する from In Progress ⟶ In Review",
+        "user": "U055AKE99KK",
+        "ts": "1698071160.808009",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10550::16e95fc071b011ee812f5d7cff1ba241",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `In Progress` ⟶ `In Review`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiNjA0ZTVkMjczOWY2NDYwOWFjOWY5N2RlM2ZmNjM5MjMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10550::16e95fc171b011ee812f5d7cff1ba241",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *In Review*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10550::16e95fc271b011ee812f5d7cff1ba241",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@satoshi.hirata transitioned AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する from In Review ⟶ Done",
+        "user": "U055AKE99KK",
+        "ts": "1698071187.518779",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10550::26d6faf071b011eebfa18d492b9feeba",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04TGBZ4XEX|@satoshi.hirata> transitioned a Task from `In Review` ⟶ `Done`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-528?atlOrigin=eyJpIjoiMzIzYzQ0ODEwYzZmNDMxMWFmOTQ3M2MzYWY2YzFiMGQiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-528 BE: ユーザが所持品リストの商品使用期間を更新するAPIをPATCHで実装する>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10550::26d6faf171b011eebfa18d492b9feeba",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *Done*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "satoshi.hirata"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *satoshi.hirata*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10550::26d6faf271b011eebfa18d492b9feeba",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10550\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04TGBZ4XEX\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    },
+    {
+        "bot_id": "B054V2LRMFX",
+        "type": "message",
+        "text": "@Jabelic[10\/28(土)不在] transitioned AT-569 FE: 週次リリース from In Progress ⟶ Done",
+        "user": "U055AKE99KK",
+        "ts": "1698073109.303799",
+        "app_id": "A2RPP3NFR",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "no:ih:10591::a04df6a071b411eeafbd553b17577807",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T9TDB58W|@Jabelic[10\/28(土)不在]> transitioned a Task from `In Progress` ⟶ `Done`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-569?atlOrigin=eyJpIjoiZjExNTQzYTJkMjhjNDBlNDgwZTk1YTNkZDBjODZiYTIiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-569 FE: 週次リリース>*\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/76>",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": ":cx:10591::a04df6a171b411eeafbd553b17577807",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Status: *Done*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                        "alt_text": "Task"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Type: *Task*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                        "alt_text": "HibikiMizuno"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Assignee: *HibikiMizuno*",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                        "alt_text": "Medium"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Priority: *Medium*",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "no:issueFooterActions:10591::a04df6a271b411eeafbd553b17577807",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "{\"issueId\":\"10591\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"comment\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"main\"}",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Comment",
+                            "emoji": true
+                        },
+                        "value": "comment"
+                    },
+                    {
+                        "type": "static_select",
+                        "action_id": "{\"issueId\":\"10591\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_TRANSITIONED\",\"nPlace\":\"menu\",\"actor\":\"U04T9TDB58W\"}",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "More actions...",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Assign",
+                                    "emoji": true
+                                },
+                                "value": "assign"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Transition",
+                                    "emoji": true
+                                },
+                                "value": "transition"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Why am I seeing this?",
+                                    "emoji": true
+                                },
+                                "value": "why"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":tada: Give kudos",
+                                    "emoji": true
+                                },
+                                "value": "kudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B054V2LRMFX",
+            "app_id": "A2RPP3NFR",
+            "name": "Jira Cloud",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_72.png"
+            },
+            "deleted": false,
+            "updated": 1682467833,
+            "team_id": "T04TGFGMK7C"
+        }
+    }
+]

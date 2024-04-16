@@ -1,0 +1,472 @@
+[
+    {
+        "client_msg_id": "9d04fea9-9eb4-40ce-a407-fa9d879bad82",
+        "type": "message",
+        "text": "カテゴリのネスト(階層)って何階層くらいを想定しているんだろう",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698908723.033149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tfCPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カテゴリのネスト(階層)って何階層くらいを想定しているんだろう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "931a96fd-df9c-4ea0-8f6d-1102125b2115",
+        "type": "message",
+        "text": "一般的にはMaxどんなもんなんですか？\nあと、設計的に上限を設ける感じですか？",
+        "user": "U04T9TDB58W",
+        "ts": "1698908804.802849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fkak2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一般的にはMaxどんなもんなんですか？\nあと、設計的に上限を設ける感じですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2bca511d-a70c-41ee-936e-ecb7bc3f8b1f",
+        "type": "message",
+        "text": "一般的なMax... 今zozoとメルカリのカテゴリフィルター見たら2か3でした\n\n3階層くらいまでならRDBでツリー構造の設計を実運用で扱ったことがあります\n設計的には便宜上上限を入れました。再帰処理を入れた時にループにならないように取れる階層上限のデフォルトを定義するイメージです\nただその時扱った設計が隣接リストモデルで、今回の閉包テーブルモデルは初です",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698909492.236649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqgu3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一般的なMax... 今zozoとメルカリのカテゴリフィルター見たら2か3でした\n\n3階層くらいまでならRDBでツリー構造の設計を実運用で扱ったことがあります\n設計的には便宜上上限を入れました。再帰処理を入れた時にループにならないように取れる階層上限のデフォルトを定義するイメージです\nただその時扱った設計が隣接リストモデルで、今回の閉包テーブルモデルは初です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698909732.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d22b7c8e-814e-494c-ae9a-52a18c66bb96",
+        "type": "message",
+        "text": "閉包テーブルだと特に上限ないけど、パンくずは3つくらいまで想定してた",
+        "user": "U04TV4NASPK",
+        "ts": "1698909551.277649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81VXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉包テーブルだと特に上限ないけど、パンくずは3つくらいまで想定してた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8a59fc8-12a9-4f5f-a57b-fa6497f08f19",
+        "type": "message",
+        "text": "todo: 環境変数諸々\n\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698916832126689>\n\n\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698920574711309>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698935515.371699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2kEG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todo: 環境変数諸々\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698916832126689"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698920574711309"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698935556.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698916832126689",
+                "ts": "1698916832.126689",
+                "author_id": "U04T201950F",
+                "channel_id": "C054UK45D7Y",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054UK45D7Y",
+                        "ts": "1698916832.126689",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "5Uh9\/",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TGBZ4XEX"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n※お手好きのときに返信いただければ大丈夫です。\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "database.yml",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "の件ですが、production用の定義されている値が\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "database: <%= ENV[\"ATOMONO_API_DATABASE_NAME\"] %>\nusername: <%= ENV[\"ATOMONO_API_DATABASE_USER_NAME\"] %>\npassword: <%= ENV[\"ATOMONO_API_DATABASE_PASSWORD\"] %>"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "のみとなってますが、"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "host",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "と"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "port",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "も追加する形でよろしいですか？\n以下追加しようと思っています。\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "host: <%= ENV[\"ATOMONO_DATABASE_HOST\"] %>\nport: <%= ENV[\"ATOMONO_DATABASE_PORT\"] %>"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n上記５つの環境変数をAWSのパラメータストアに定義して参照させようとしてます。\n（厳密にはパラメータストアの値を環境変数名を指定して"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "docker build",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "時に"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "docker image",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "に書き込む想定）\n\nちなみにrailsで必要な環境変数は\n上記DB関連の値と"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "RAILS_ENV",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "のみで現状は足りておりますでしょうか？"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698916832126689",
+                "fallback": "[November 2nd, 2023 2:20 AM] a2240dm: <@U04TGBZ4XEX>\n※お手好きのときに返信いただければ大丈夫です。\n\n`database.yml`の件ですが、production用の定義されている値が\n```database: &lt;%= ENV[\"ATOMONO_API_DATABASE_NAME\"] %&gt;\nusername: &lt;%= ENV[\"ATOMONO_API_DATABASE_USER_NAME\"] %&gt;\npassword: &lt;%= ENV[\"ATOMONO_API_DATABASE_PASSWORD\"] %&gt;```\nのみとなってますが、`host`と`port`も追加する形でよろしいですか？\n以下追加しようと思っています。\n```host: &lt;%= ENV[\"ATOMONO_DATABASE_HOST\"] %&gt;\nport: &lt;%= ENV[\"ATOMONO_DATABASE_PORT\"] %&gt;```\n上記５つの環境変数をAWSのパラメータストアに定義して参照させようとしてます。\n（厳密にはパラメータストアの値を環境変数名を指定して`docker build`時に`docker image`に書き込む想定）\n\nちなみにrailsで必要な環境変数は\n上記DB関連の値と`RAILS_ENV`のみで現状は足りておりますでしょうか？",
+                "text": "<@U04TGBZ4XEX>\n※お手好きのときに返信いただければ大丈夫です。\n\n`database.yml`の件ですが、production用の定義されている値が\n```database: &lt;%= ENV[\"ATOMONO_API_DATABASE_NAME\"] %&gt;\nusername: &lt;%= ENV[\"ATOMONO_API_DATABASE_USER_NAME\"] %&gt;\npassword: &lt;%= ENV[\"ATOMONO_API_DATABASE_PASSWORD\"] %&gt;```\nのみとなってますが、`host`と`port`も追加する形でよろしいですか？\n以下追加しようと思っています。\n```host: &lt;%= ENV[\"ATOMONO_DATABASE_HOST\"] %&gt;\nport: &lt;%= ENV[\"ATOMONO_DATABASE_PORT\"] %&gt;```\n上記５つの環境変数をAWSのパラメータストアに定義して参照させようとしてます。\n（厳密にはパラメータストアの値を環境変数名を指定して`docker build`時に`docker image`に書き込む想定）\n\nちなみにrailsで必要な環境変数は\n上記DB関連の値と`RAILS_ENV`のみで現状は足りておりますでしょうか？",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            },
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698920574711309",
+                "ts": "1698920574.711309",
+                "author_id": "U04T201950F",
+                "channel_id": "C054UK45D7Y",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054UK45D7Y",
+                        "ts": "1698920574.711309",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "E3a6z",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TGBZ4XEX"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nちなみに上記設定を適用してデプロイしてみたところ、"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639",
+                                                    "text": "以前共有したActiveRecord関連のエラー"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "とは別のエラーが発生しました。\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "2023-11-02 10:20:37 +0000 Rack app (\"GET \/\" - (10.11.13.182)): #<ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `bin\/rails credentials:edit`>"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "こちらもお手好きの際にご確認お願いします。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 2,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698920574711309",
+                "fallback": "[November 2nd, 2023 3:22 AM] a2240dm: <@U04TGBZ4XEX>\nちなみに上記設定を適用してデプロイしてみたところ、<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639|以前共有したActiveRecord関連のエラー>とは別のエラーが発生しました。\n```2023-11-02 10:20:37 +0000 Rack app (\"GET \/\" - (10.11.13.182)): #&lt;ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `bin\/rails credentials:edit`&gt;```\nこちらもお手好きの際にご確認お願いします。",
+                "text": "<@U04TGBZ4XEX>\nちなみに上記設定を適用してデプロイしてみたところ、<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639|以前共有したActiveRecord関連のエラー>とは別のエラーが発生しました。\n```2023-11-02 10:20:37 +0000 Rack app (\"GET \/\" - (10.11.13.182)): #&lt;ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `bin\/rails credentials:edit`&gt;```\nこちらもお手好きの際にご確認お願いします。",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    }
+]

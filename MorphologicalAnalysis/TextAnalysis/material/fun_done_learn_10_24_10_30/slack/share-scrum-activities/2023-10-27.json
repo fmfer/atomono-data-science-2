@@ -1,0 +1,145 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1698451229.038259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698451229.038259",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1698550763.678339",
+        "reply_users": [
+            "U04U66DSPEU",
+            "U04TV4NASPK",
+            "U04TDHFKJ85",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698451471.288519"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698454283.632189"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698488558.831369"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698500841.249309"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698550763.678339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3321e6b6-11ec-4a88-99c6-3bfd77542d9d",
+        "type": "message",
+        "text": "ログアウト機能の実装",
+        "user": "U04U66DSPEU",
+        "ts": "1698451471.288519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zpTcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ログアウト機能の実装"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451229.038259",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "08a4aedb-f543-4aa1-a458-2077e506464b",
+        "type": "message",
+        "text": "週報、０件表示対応　夕方から",
+        "user": "U04TV4NASPK",
+        "ts": "1698454283.632189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxGo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報、０件表示対応　夕方から"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1698454295.000000"
+        },
+        "thread_ts": "1698451229.038259",
+        "parent_user_id": "USLACKBOT"
+    }
+]

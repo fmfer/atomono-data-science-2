@@ -1,0 +1,576 @@
+[
+    {
+        "client_msg_id": "e4291408-1942-4068-8ae7-f96dfb30a2d5",
+        "type": "message",
+        "text": "PR protect",
+        "user": "U04T9TDB58W",
+        "ts": "1697242612.343259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2X50",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PR protect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697242612.343259",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1697243227.167059",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697242623.481649"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697242640.613589"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697242843.797029"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697242912.002459"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697243227.167059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d1f1b87d-95ff-4306-92a8-4f653437a783",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-stub\/pull\/12> これはみんなマージできる？",
+        "user": "U04T9TDB58W",
+        "ts": "1697242623.481649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIGHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-stub\/pull\/12"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これはみんなマージできる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697242612.343259",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "8531ed55-a6ba-423d-82af-5b976d94b67d",
+        "type": "message",
+        "text": "JIRA: <https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531>",
+        "user": "U04T9TDB58W",
+        "ts": "1697242640.613589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eLqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JIRA: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10553::0b431ac06a2711ee8608c3f5c7b37dbc",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531?atlOrigin=eyJpIjoiZDE2ZjY5OGExNDhlNDI2OGE1ZTAyYjkyM2ZiNmQ3OGYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-531 frontリポジトリのRule作成・反映>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10553::0b431ac26a2711ee8608c3f5c7b37dbc",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "HibikiMizuno"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *HibikiMizuno*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10553::0b431ac16a2711ee8608c3f5c7b37dbc",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10553\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-531",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697242612.343259",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "12e35a94-e793-4db6-9c2f-718c09447973",
+        "type": "message",
+        "text": "マージボタンが見えます",
+        "user": "U04U66DSPEU",
+        "ts": "1697242843.797029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aL0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マージボタンが見えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697242612.343259",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e82d9efb-5973-4308-84f0-5242a1727089",
+        "type": "message",
+        "text": "とりあえずfrontとstubの mainとdevelopmentのforce pushを禁止した",
+        "user": "U04T9TDB58W",
+        "ts": "1697242912.002459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKUKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえずfrontとstubの mainとdevelopmentのforce pushを禁止した"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697242612.343259",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "b31b373c-1d49-48f4-8359-85b9ab91289a",
+        "type": "message",
+        "text": "&gt;  Repository Rulesets are only available with a GitHub Team or Enterprise. Upgrade your account to activate this ruleset.\n",
+        "user": "U04T9TDB58W",
+        "ts": "1697243227.167059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DbBoo",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Repository Rulesets are only available with a GitHub Team or Enterprise. Upgrade your account to activate this ruleset."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697242612.343259",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "moneybag",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e341c2e5-b6db-459a-b9eb-3239031fd352",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/4cedb93592284b51ab1114aadb7cbe35> bearer tokenにuidを入れる旨を記述。request bodyに入れる予定だったuserUidは削除しました。<@U04TGBZ4XEX>\n\n認証機能が入るまではuidは決め打ちで入れる予定です",
+        "user": "U04T9TDB58W",
+        "ts": "1697249701.810529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/oL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/4cedb93592284b51ab1114aadb7cbe35"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bearer tokenにuidを入れる旨を記述。request bodyに入れる予定だったuserUidは削除しました。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n認証機能が入るまではuidは決め打ちで入れる予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1685618220,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/4cedb93592284b51ab1114aadb7cbe35",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": "外部設計",
+                "text": "目次",
+                "title": "外部設計",
+                "title_link": "https:\/\/www.notion.so\/4cedb93592284b51ab1114aadb7cbe35?utm_content=4cedb935-9228-4b51-ab11-14aadb7cbe35&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl&pvs=6",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ],
+        "thread_ts": "1697249701.810529",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697417969.008679",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697252016.514429"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697417969.008679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b28d37a-d77a-4122-a0ef-ae709afb1e1c",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/60> 変更 :done:",
+        "user": "U04T9TDB58W",
+        "ts": "1697252016.514429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Dzy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 変更 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249701.810529",
+        "parent_user_id": "U04T9TDB58W"
+    }
+]

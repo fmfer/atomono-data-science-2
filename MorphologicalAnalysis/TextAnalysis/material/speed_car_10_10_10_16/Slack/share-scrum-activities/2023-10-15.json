@@ -1,0 +1,191 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697414427.220099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697414427.220099",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1697502153.370219",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TV4NASPK",
+            "U04U66DNCRE",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697415894.036549"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697417667.660539"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697418663.012939"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697502153.370219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "685179d7-836d-46e5-a5da-4d63bfac06a2",
+        "type": "message",
+        "text": "今日は多分なんもできません！:man-bowing::man-bowing:\n(Slackは見てる)",
+        "user": "U04T9TDB58W",
+        "ts": "1697415894.036549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oj8nR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は多分なんもできません！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(Slackは見てる)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697414427.220099",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "fcb6aca1-d35d-45e9-9c43-aa09854e8740",
+        "type": "message",
+        "text": "レスポンシブ対応",
+        "user": "U04TV4NASPK",
+        "ts": "1697417667.660539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8mo1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697414427.220099",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "EB7AAC96-4794-48A9-A30A-9FBADD3FED91",
+        "type": "message",
+        "text": "レスポンシブ対応",
+        "user": "U04U66DNCRE",
+        "ts": "1697418663.012939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5La61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697414427.220099",
+        "parent_user_id": "USLACKBOT"
+    }
+]

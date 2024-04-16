@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "74DB1F55-946D-4F2B-865D-3ECB0E6426A0",
+        "type": "message",
+        "text": "トラブル発生したので、本日動けないかもしれないです、、、",
+        "user": "U04U66DNCRE",
+        "ts": "1697441399.079039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRLSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "トラブル発生したので、本日動けないかもしれないです、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04TV4NASPK",
+                    "U04T201950F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "561748AE-26D3-4EBA-9463-68D87DA67169",
+        "type": "message",
+        "text": "物件の引き渡しとトラブル対応で1日が終わった",
+        "user": "U04U66DNCRE",
+        "ts": "1697466485.329589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOA7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "物件の引き渡しとトラブル対応で1日が終わった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "astonished",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "otsukaresamadeshita",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

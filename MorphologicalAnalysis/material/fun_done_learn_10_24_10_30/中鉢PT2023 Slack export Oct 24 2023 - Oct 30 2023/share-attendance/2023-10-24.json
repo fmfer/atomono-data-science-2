@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "2693b394-c823-4f1a-b4ef-a715d12edb5c",
+        "type": "message",
+        "text": "リリース作業(の前段準備)がトラブルで少し長引いていまして、すみません今日30分くらい遅れるかもしれません:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698135114.576639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8vC5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リリース作業(の前段準備)がトラブルで少し長引いていまして、すみません今日30分くらい遅れるかもしれません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698135155.000000"
+        }
+    },
+    {
+        "client_msg_id": "d541a660-16c0-4330-b230-4fe26a097723",
+        "type": "message",
+        "text": "業務でトラブルが発生し、本日のミーティングに遅れて参加すると思います、申し訳ありません:pray:",
+        "user": "U04U66DSPEU",
+        "ts": "1698138230.059479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TEVpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "業務でトラブルが発生し、本日のミーティングに遅れて参加すると思います、申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

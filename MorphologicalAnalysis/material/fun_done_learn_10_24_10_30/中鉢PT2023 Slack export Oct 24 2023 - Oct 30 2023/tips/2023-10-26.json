@@ -1,0 +1,270 @@
+[
+    {
+        "client_msg_id": "68791e77-bed5-48ba-b31f-1b8bf61111d9",
+        "type": "message",
+        "text": "いいね！Vimもできます",
+        "user": "U04U66DSPEU",
+        "ts": "1698329745.505739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFIxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいね！Vimもできます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698154191.610599",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "381763e3-1a83-4666-875b-454060ba997f",
+        "type": "message",
+        "text": "<https:\/\/github.com\/knu\/docset-tailwindcss|https:\/\/github.com\/knu\/docset-tailwindcss>",
+        "user": "U04TV4NASPK",
+        "ts": "1698381428.544969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07xWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/knu\/docset-tailwindcss",
+                                "text": "https:\/\/github.com\/knu\/docset-tailwindcss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/knu\/docset-tailwindcss",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "knu\/docset-tailwindcss",
+                "title": "knu\/docset-tailwindcss",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Ruby",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de88fc67-a13e-476e-8be0-a0931a0a7cfb",
+        "type": "message",
+        "text": ":arrow_up:Mushaさんがtailwindのdashのドックセットメンテしたので使いたい人入れば",
+        "user": "U04TV4NASPK",
+        "ts": "1698381492.483589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQEil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up",
+                                "unicode": "2b06-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mushaさんがtailwindのdashのドックセットメンテしたので使いたい人入れば"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1698381502.000000"
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25d16ffe-239f-4b7f-9312-19bff5fd3318",
+        "type": "message",
+        "text": "dashというものを初めて知りました  <https:\/\/kapeli.com\/dash>",
+        "user": "U04T9TDB58W",
+        "ts": "1698382066.311839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YWvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dashというものを初めて知りました  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kapeli.com\/dash"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kapeli.com\/dash",
+                "service_icon": "https:\/\/kapeli.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/kapeli.com\/dash",
+                "fallback": "Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli",
+                "text": "Dash is an API Documentation Browser and Code Snippet Manager. Dash searches offline documentation of 200+ APIs and stores snippets of code. You can also generate your own documentation sets.",
+                "title": "Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli",
+                "title_link": "https:\/\/kapeli.com\/dash",
+                "service_name": "kapeli.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e0b33e2-e81b-4def-bcc2-c5d26606d1d9",
+        "type": "message",
+        "text": "要はリファレンス集めましたみたいなやつ。ググるより早い",
+        "user": "U04TV4NASPK",
+        "ts": "1698383162.832999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLMQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "要はリファレンス集めましたみたいなやつ。ググるより早い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

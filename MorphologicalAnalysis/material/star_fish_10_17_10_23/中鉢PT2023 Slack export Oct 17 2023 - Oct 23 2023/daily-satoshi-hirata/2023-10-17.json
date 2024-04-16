@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "e0f2d345-16d3-4b8a-b3ac-ff21997ff4a3",
+        "type": "message",
+        "text": "2023\/10\/18火\nコアMTG 3h\nAPI不具合調査と修正 5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697567341.293089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Goc5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/18火\nコアMTG 3h\nAPI不具合調査と修正 5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

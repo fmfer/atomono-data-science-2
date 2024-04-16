@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d|Incident: Users unable to connect to Slack or send messages>\nSome users have been experiencing issues with being unable to connect to Slack or send messages. We are seeing a spike in connectivity errors and our team is currently investigating. We'll be back with another update as soon as we have more info to share.",
+        "ts": "1699058438.554669",
+        "username": "Slack System Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B05KN076YF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5ADs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d",
+                                "text": "Incident: Users unable to connect to Slack or send messages"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSome users have been experiencing issues with being unable to connect to Slack or send messages. We are seeing a spike in connectivity errors and our team is currently investigating. We'll be back with another update as soon as we have more info to share."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "from_url": "https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d",
+                "thumb_url": "https:\/\/status.slack.com\/img\/v2_rebrand\/slack_hash_256.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/status.slack.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d",
+                "fallback": "Slack: Slack System Status",
+                "text": "Resources for real-time and historical information about the Slack service.",
+                "title": "Slack System Status",
+                "title_link": "https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d",
+                "service_name": "Slack"
+            }
+        ],
+        "edited": {
+            "user": "B05KN076YF9",
+            "ts": "1699058438.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d|Incident: Users unable to connect to Slack or send messages>\nWe resolved the issue users experienced when trying to connect to Slack or send messages. We appreciate your patience while we sorted this out and apologize for any disruption to your day.",
+        "ts": "1699062036.779319",
+        "username": "Slack System Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B05KN076YF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.slack.com\/\/2023-11\/ef3e4b0ebcf16d8d",
+                                "text": "Incident: Users unable to connect to Slack or send messages"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe resolved the issue users experienced when trying to connect to Slack or send messages. We appreciate your patience while we sorted this out and apologize for any disruption to your day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "5fd1bc5f-0cf6-4741-8b03-accb2a53d472",
+        "type": "message",
+        "text": "完全に忘れていたんですが、本日10時から歯医者があり、移動しながら参加します。。\nNotionは記載済みです。",
+        "user": "U04U66DNCRE",
+        "ts": "1698452879.549179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0rrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "完全に忘れていたんですが、本日10時から歯医者があり、移動しながら参加します。。\nNotionは記載済みです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

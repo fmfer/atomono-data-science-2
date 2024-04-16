@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "9d714a71-6251-4066-a43e-2e5f8ae806a3",
+        "type": "message",
+        "text": "<https:\/\/github.com\/renovatebot\/renovate|https:\/\/github.com\/renovatebot\/renovate>",
+        "user": "U04TV4NASPK",
+        "ts": "1690538125.451419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/renovatebot\/renovate",
+                                "text": "https:\/\/github.com\/renovatebot\/renovate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/renovatebot\/renovate",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "renovatebot\/renovate",
+                "text": "Universal dependency update tool that fits into your workflows.",
+                "title": "renovatebot\/renovate",
+                "fields": [
+                    {
+                        "value": "<https:\/\/renovatebot.com>",
+                        "title": "Website",
+                        "short": true
+                    },
+                    {
+                        "value": "12888",
+                        "title": "Stars",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "debdb27a-5b5b-4b98-9aa0-607ae521720c",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1686915202601569?thread_ts=1686914005.993309&amp;cid=C053RR7UABB>",
+        "user": "U04TV4NASPK",
+        "ts": "1690558486.006239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MlT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1686915202601569?thread_ts=1686914005.993309&cid=C053RR7UABB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1686915202601569?thread_ts=1686914005.993309&amp;cid=C053RR7UABB",
+                "ts": "1686915202.601569",
+                "author_id": "U04TV4NASPK",
+                "channel_id": "C053RR7UABB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053RR7UABB",
+                        "ts": "1686915202.601569",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Dmt",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "識別器そう\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/speakerdeck.com\/kenjih\/factorization-machines"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1686915202601569?thread_ts=1686914005.993309&amp;cid=C053RR7UABB",
+                "fallback": "[June 16th, 2023 4:33 AM] a2231kn: 識別器そう\n<https:\/\/speakerdeck.com\/kenjih\/factorization-machines>",
+                "text": "識別器そう\n<https:\/\/speakerdeck.com\/kenjih\/factorization-machines>",
+                "author_name": "Nakayama (a2231kn)",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TV4NASPK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_48.jpg",
+                "author_subname": "Nakayama (a2231kn)",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    }
+]

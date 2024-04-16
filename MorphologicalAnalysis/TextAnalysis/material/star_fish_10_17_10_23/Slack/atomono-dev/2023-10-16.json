@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "bf6b24b2-b6cf-4771-acb5-3e1c3f9d368c",
+        "type": "message",
+        "text": "<@U04T201950F>\n遅くなり、すみません:pray:こちら記入いたしました。",
+        "user": "U04TDHFKJ85",
+        "ts": "1697504205.836059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oS\/F7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなり、すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちら記入いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697385683.932299",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

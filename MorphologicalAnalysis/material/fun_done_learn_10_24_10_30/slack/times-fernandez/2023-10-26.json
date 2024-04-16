@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "0479ab98-e863-41e8-a745-81518902b22b",
+        "type": "message",
+        "text": "BE ログイン関連実装\n```git diff 5356855013b0bd6444fa5e639dd59c793bb87fd0 b300dc8611018df8091cfcd3b0ea81550b15ee86```\nFE ログインPOC\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/tree\/feature\/AT-421\/poc-sign-up>",
+        "user": "U04U66DSPEU",
+        "ts": "1698330564.625989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z21cm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BE ログイン関連実装\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git diff 5356855013b0bd6444fa5e639dd59c793bb87fd0 b300dc8611018df8091cfcd3b0ea81550b15ee86"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFE ログインPOC\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/tree\/feature\/AT-421\/poc-sign-up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1698330825.000000"
+        }
+    },
+    {
+        "client_msg_id": "cfba64c8-2b17-4028-8510-b43e05b54471",
+        "type": "message",
+        "text": "Firebase APIの環境変数\n<https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#c5b43738828b47cb91b23b4c6af2111b>",
+        "user": "U04U66DSPEU",
+        "ts": "1698335034.515469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBhN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Firebase APIの環境変数\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#c5b43738828b47cb91b23b4c6af2111b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

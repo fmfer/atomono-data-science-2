@@ -1,0 +1,309 @@
+[
+    {
+        "client_msg_id": "234591cc-9f80-4d0c-8d40-d0aeb1be9adb",
+        "type": "message",
+        "text": "<https:\/\/gyazo.com\/ba0594bc08e74674e367dcff365881dd>",
+        "user": "U04T9TDB58W",
+        "ts": "1697277031.359159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Roy17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gyazo.com\/ba0594bc08e74674e367dcff365881dd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gyazo.com\/ba0594bc08e74674e367dcff365881dd",
+                "image_url": "https:\/\/i.gyazo.com\/ba0594bc08e74674e367dcff365881dd.png",
+                "image_width": 914,
+                "image_height": 863,
+                "image_bytes": 287716,
+                "service_icon": "https:\/\/gyazo.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gyazo.com\/ba0594bc08e74674e367dcff365881dd",
+                "fallback": "Gyazo Photo:",
+                "service_name": "Gyazo",
+                "service_url": "https:\/\/gyazo.com\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04TV4NASPK",
+                    "U04U66DNCRE",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92181369-4fa6-420b-81b2-3d47cee0d31e",
+        "type": "message",
+        "text": "いい感じ",
+        "user": "U04T9TDB58W",
+        "ts": "1697277035.838279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsHd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いい感じ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddb92e89-b336-4f54-9d57-18f160b77133",
+        "type": "message",
+        "text": ":flag-ar: の価値がほぼ確定した RWC",
+        "user": "U04T9TDB58W",
+        "ts": "1697302485.139069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c59uI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "flag-ar",
+                                "unicode": "1f1e6-1f1f7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の価値がほぼ確定した RWC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697302485.139069",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697335428.563639",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697307115.069039"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697335428.563639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c7a40645-fde8-43eb-b56a-2269eb547bde",
+        "type": "message",
+        "text": "Win",
+        "user": "U04T9TDB58W",
+        "ts": "1697307115.069039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/vNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Win"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697302485.139069",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "rugby_football",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9b77354-4468-4e6b-89da-c71fd45fd394",
+        "type": "message",
+        "text": "一瞬ペソの話かと思った:sweat_smile:",
+        "user": "U04U66DSPEU",
+        "ts": "1697335428.563639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmPBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一瞬ペソの話かと思った"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697302485.139069",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d8bfa16-7748-409b-8387-b5d726c3279f",
+        "type": "message",
+        "text": "プロマネ課題してる",
+        "user": "U04T9TDB58W",
+        "ts": "1697347713.318439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZ9oF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロマネ課題してる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

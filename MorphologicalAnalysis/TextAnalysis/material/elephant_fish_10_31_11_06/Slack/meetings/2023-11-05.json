@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "d77f4a8d-7b68-4296-aa4e-d3d8fcff1cf1",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。今月からスクラムマスターになるのでよろしくお願いいたします。1点依頼と2点確認させてください:woman-bowing:\n＜依頼（全員）＞\n・今週のアウトプット内容を各自でJIRチケットと紐づけて記載をお願いします。\n<https:\/\/www.notion.so\/11-7-ca079d3def084baba9c6ad7784c17b4a?pvs=4>\n＜確認①（全員）＞\n今週のスプリントゴールは以下だと思っています。\n・ログインログアウトのリリース\n・所持品リストの編集削除\nこちらは、今週のアウトプットの共有で共有できそうでしょうか？他にも今週のアウトプット共有で共有できそうなものがあれば教えてください。\n＜確認➁（中山さん）＞\n<@U04TV4NASPK>\n先月から振り返り手法を色々試してきたと思うのですが、今週の振り返りからどの振り返り手法を行いますか？それとも、どの振り返り手法を行うかを明日決めるんでしたっけ？よろしくお願いいたします:woman-bowing:",
+        "user": "U04TDHFKJ85",
+        "ts": "1699255988.096049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qbVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。今月からスクラムマスターになるのでよろしくお願いいたします。1点依頼と2点確認させてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n＜依頼（全員）＞\n・今週のアウトプット内容を各自でJIRチケットと紐づけて記載をお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/11-7-ca079d3def084baba9c6ad7784c17b4a?pvs=4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n＜確認①（全員）＞\n今週のスプリントゴールは以下だと思っています。\n・ログインログアウトのリリース\n・所持品リストの編集削除\nこちらは、今週のアウトプットの共有で共有できそうでしょうか？他にも今週のアウトプット共有で共有できそうなものがあれば教えてください。\n＜確認➁（中山さん）＞\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先月から振り返り手法を色々試してきたと思うのですが、今週の振り返りからどの振り返り手法を行いますか？それとも、どの振り返り手法を行うかを明日決めるんでしたっけ？よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1697648940,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/11-7-ca079d3def084baba9c6ad7784c17b4a?pvs=4",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": "11\/7",
+                "text": "プロダクトビジョン",
+                "title": "11\/7",
+                "title_link": "https:\/\/www.notion.so\/11-7-ca079d3def084baba9c6ad7784c17b4a?pvs=6&utm_content=ca079d3d-ef08-4bab-a9c6-ad7784c17b4a&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl",
+                "footer": "Created by Kenta Nakayama"
+            }
+        ],
+        "thread_ts": "1699255988.096049",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1699284920.508189",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699262456.014829"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1699265470.104769"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699267649.350519"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699284920.508189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04U66DNCRE",
+                    "U04T9TDB58W",
+                    "U04U66DSPEU",
+                    "U04TV4NASPK",
+                    "U04T201950F"
+                ],
+                "count": 6
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

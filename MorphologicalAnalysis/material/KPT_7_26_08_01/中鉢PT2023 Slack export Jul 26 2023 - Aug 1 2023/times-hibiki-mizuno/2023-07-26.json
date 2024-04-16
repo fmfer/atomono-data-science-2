@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "02060ec5-51be-47f4-b79d-97c4c63d92a6",
+        "type": "message",
+        "text": "夜色々みます、多分11:30",
+        "user": "U04T9TDB58W",
+        "ts": "1690376227.687509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜色々みます、多分11:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

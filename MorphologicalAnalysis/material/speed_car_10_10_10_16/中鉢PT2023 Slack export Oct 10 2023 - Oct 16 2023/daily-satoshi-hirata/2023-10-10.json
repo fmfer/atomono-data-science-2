@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "07f7ae74-4689-41b2-9082-14caa01710fa",
+        "type": "message",
+        "text": "2023\/10\/10(火)\nコアMTG 3.5h\nユーザの所持品リストに商品を追加するAPI 設計 1h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1696946732.473729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXwq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/10(火)\nコアMTG 3.5h\nユーザの所持品リストに商品を追加するAPI 設計 1h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697045693.000000"
+        }
+    }
+]

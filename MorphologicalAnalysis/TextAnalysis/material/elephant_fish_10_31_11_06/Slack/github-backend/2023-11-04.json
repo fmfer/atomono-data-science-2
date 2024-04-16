@@ -1,0 +1,177 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699152879.943459",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699159054.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699152877,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-610|AT-610> 商品画像を外部URLから取得する\n\n*概要*\n*実装内容*\n\n☑︎ 商品画像を外部URLから取得する為の実装\n☑︎ 商品画像が存在しない場合、NO IMAGEを返すように修正\n☑︎ seederで `image_url` に入っていた URLを `origin_image_url` に格納するように修正\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-442|AT-442> BE: Raketaskで処理する画像取得元URLをorigin_image_urlに入るように修正する  \nも同時にこのPRで対応しました",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/107|#107 AT-610 商品画像を外部URLから取得する>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:107,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/107&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-610 商品画像を外部URLから取得する&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699157791.833549",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699157790,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #107",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/107#issuecomment-1793631198|Comment on #107 AT-610 商品画像を外部URLから取得する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699157797.323049",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/52f59752dfec150b1ca0fc5b0d9acbdcbb78bae4|52f59752>` - AT-610 商品画像を外部URLから取得する (#107)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/955ae9f5ebe9...52f59752dfec|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699157797.519569",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699152877,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/107|#107 AT-610 商品画像を外部URLから取得する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    }
+]

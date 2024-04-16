@@ -1,0 +1,198 @@
+[
+    {
+        "client_msg_id": "fbaffe29-7ed6-4d97-a35d-a8483bd26f98",
+        "type": "message",
+        "text": "テスト用のrelativesデータ作成：\n\n```mysql --user=root --password=root --database=atomono_api_development```\n```insert into replaces_products (old_product_id, new_product_id, source_kind, created_at, updated_at) VALUES (1, 2, 1, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);```\nバックエンドで確認：\n```curl <http:\/\/localhost:3010\/api\/v1\/products\/1> | jq```\nフロントで確認： <http:\/\/localhost:3000\/productDetails\/1>",
+        "user": "U04U66DSPEU",
+        "ts": "1698679223.802859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRTRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テスト用のrelativesデータ作成：\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mysql --user=root --password=root --database=atomono_api_development"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "insert into replaces_products (old_product_id, new_product_id, source_kind, created_at, updated_at) VALUES (1, 2, 1, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nバックエンドで確認：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "curl "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3010\/api\/v1\/products\/1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " | jq"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nフロントで確認： "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/productDetails\/1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1698679683.000000"
+        }
+    },
+    {
+        "client_msg_id": "1e716f18-1d33-4336-b50c-fe5f8f3214e5",
+        "type": "message",
+        "text": "Windows環境WSL2でnext.js\/reactがリアルタイムで更新できない場合、WSL1にダウングレード\n\n管理者として実行したPowerShellにて\n\n```wsl --set-version Ubuntu 1```\n\"Linux 用 Windows サブシステム\"が必要と出たら、オプションを有効にする\n\n```dism.exe \/online \/enable-feature \/featurename:Microsoft-Windows-Subsystem-Linux \/all \/norestart```\n再起動後、WSLになっているはず",
+        "user": "U04U66DSPEU",
+        "ts": "1698679609.851189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Pm0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Windows環境WSL2でnext.js\/reactがリアルタイムで更新できない場合、WSL1にダウングレード\n\n管理者として実行したPowerShellにて\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wsl --set-version Ubuntu 1"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\"Linux 用 Windows サブシステム\"が必要と出たら、オプションを有効にする\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dism.exe \/online \/enable-feature \/featurename:Microsoft-Windows-Subsystem-Linux \/all \/norestart"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n再起動後、WSLになっているはず"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

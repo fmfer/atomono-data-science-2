@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "1ee424bf-877a-4618-af08-cc47979c548e",
+        "type": "message",
+        "text": "所持品リスト追加画面用モーダルのリスポンシブ対応",
+        "user": "U04TDHFKJ85",
+        "ts": "1697721458.341729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwtVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リスト追加画面用モーダルのリスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1697721900.000000"
+        },
+        "thread_ts": "1697673614.357389",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : <!here> \"明日は9:30~10:00 中間共有MTGです。参加できない方は<https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4|Notion>に記載しましょう。\"  eve.",
+        "user": "USLACKBOT",
+        "ts": "1697760007.549429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOR85",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"明日は9:30~10:00 中間共有MTGです。参加できない方は"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4",
+                                "text": "Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に記載しましょう。\"  eve."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697760011.801009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697760011.801009",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697951840.035999",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TDHFKJ85",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697764319.411629"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1697804078.443209"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697951840.035999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ecac38b6-4111-4381-96f8-e9bb47eeea13",
+        "type": "message",
+        "text": "昨日レビュー返しました。あとsign-inのPOCブランチのコンフリクトだけ対処しました。\n今日は授業課題があって作業難しいかもです...",
+        "user": "U04T9TDB58W",
+        "ts": "1697764319.411629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAAaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日レビュー返しました。あとsign-inのPOCブランチのコンフリクトだけ対処しました。\n今日は授業課題があって作業難しいかもです..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697760011.801009",
+        "parent_user_id": "USLACKBOT"
+    }
+]

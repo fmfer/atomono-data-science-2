@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "63286394-e237-4c4b-bbd9-d73f3f5b18a8",
+        "type": "message",
+        "text": "ユーザ所持品一覧APIできた。リリースしてherokuに最新バージョンデプロイ済\nRelease 20231010 · chubachi-pt-2023\/atomono-api\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231010>\n\n開発用エンドポイント\n<https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products>\n\nnemasu-:sleeping:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1696875560.287009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7IOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ所持品一覧APIできた。リリースしてherokuに最新バージョンデプロイ済\nRelease 20231010 · chubachi-pt-2023\/atomono-api\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231010"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n開発用エンドポイント\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nnemasu-"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sleeping",
+                                "unicode": "1f634"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a0d2483-845e-43ae-ba8d-d8a0e2dffca4",
+        "type": "message",
+        "text": "どこかでこれやろう `SeedFu::Writer.write`\n\nseed_fuを使う \/ 既存のDBからseedファイルを作成するrakeタスク\n<https:\/\/zenn.dev\/link\/comments\/fa068f13c663dd>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1696908092.408469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eANPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこかでこれやろう "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SeedFu::Writer.write",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nseed_fuを使う \/ 既存のDBからseedファイルを作成するrakeタスク\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/link\/comments\/fa068f13c663dd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

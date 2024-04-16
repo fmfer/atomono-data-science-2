@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "e9b29550-c2d0-4230-90dd-0544f73089b5",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/gap> gap プロパティ便利。merginとかpaddingとかjustify-contentとかしか手段を知らなかった",
+        "user": "U04T9TDB58W",
+        "ts": "1698049959.124769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKM2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/gap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gap プロパティ便利。merginとかpaddingとかjustify-contentとかしか手段を知らなかった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.cd6c4a5a.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 23824,
+                "from_url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/gap",
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.6803c6f0.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/gap",
+                "fallback": "gap (grid-gap) - CSS: カスケーディングスタイルシート | MDN",
+                "text": "gap は CSS のプロパティで、行や列の間のすき間 (溝) を定義します。これは row-gap および column-gap の一括指定です。",
+                "title": "gap (grid-gap) - CSS: カスケーディングスタイルシート | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/gap",
+                "service_name": "developer.mozilla.org"
+            }
+        ]
+    }
+]

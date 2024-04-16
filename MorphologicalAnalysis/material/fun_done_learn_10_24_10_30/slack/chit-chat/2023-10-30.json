@@ -1,0 +1,191 @@
+[
+    {
+        "client_msg_id": "29877bd7-15eb-4e0e-9af1-b948b3631530",
+        "type": "message",
+        "text": "<https:\/\/rebuild.fm\/372\/>",
+        "user": "U04T9TDB58W",
+        "ts": "1698649567.142359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tyf0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rebuild.fm\/372\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/rebuild.fm\/372\/",
+                "service_icon": "https:\/\/rebuild.fm\/favicon.ico",
+                "thumb_url": "https:\/\/cdn.rebuild.fm\/images\/icon240.png",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "id": 1,
+                "original_url": "https:\/\/rebuild.fm\/372\/",
+                "fallback": "Rebuild: Rebuild: 372: It Works 90% of the Time (naoya)",
+                "text": "Naoya Ito さんをゲストに迎えて、HHKB Studio, iPhone 15 Pro, Apple イベント、Twitter, Passkey などについて話しました。",
+                "title": "Rebuild: 372: It Works 90% of the Time (naoya)",
+                "title_link": "https:\/\/rebuild.fm\/372\/",
+                "service_name": "Rebuild"
+            }
+        ],
+        "thread_ts": "1698649567.142359",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698651443.841359",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698651332.559049"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698651443.841359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ad1b14c8-2e46-45c7-a8d3-8f2cfe65742d",
+        "type": "message",
+        "text": "え、この人復活したのか。前のゴシップで消えたのかと思った。",
+        "user": "U04TV4NASPK",
+        "ts": "1698651332.559049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAoOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "え、この人復活したのか。前のゴシップで消えたのかと思った。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698649567.142359",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "f90a11d2-f141-48ee-9f2d-4eb79fded6df",
+        "type": "message",
+        "text": "<https:\/\/rebuild.fm\/people\/naoya\/>\n\nゴシップ：\n<https:\/\/summary.fc2.com\/summary.php?summary_cd=100085451>",
+        "user": "U04T9TDB58W",
+        "ts": "1698651443.841359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p0Q+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rebuild.fm\/people\/naoya\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nゴシップ：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/summary.fc2.com\/summary.php?summary_cd=100085451"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/rebuild.fm\/people\/naoya\/",
+                "service_icon": "https:\/\/rebuild.fm\/favicon.ico",
+                "thumb_url": "https:\/\/cdn.rebuild.fm\/images\/icon240.png",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "id": 1,
+                "original_url": "https:\/\/rebuild.fm\/people\/naoya\/",
+                "fallback": "Rebuild: Rebuild: naoya (naoya)",
+                "text": "ウェブ開発、プログラミング、モバイル、ガジェットなどにフォーカスしたテクノロジー系ポッドキャストです。 #rebuildfm",
+                "title": "Rebuild: naoya (naoya)",
+                "title_link": "https:\/\/rebuild.fm\/people\/naoya\/",
+                "service_name": "Rebuild"
+            },
+            {
+                "from_url": "https:\/\/summary.fc2.com\/summary.php?summary_cd=100085451",
+                "service_icon": "http:\/\/static.fc2.com\/share\/image\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/summary.fc2.com\/summary.php?summary_cd=100085451",
+                "fallback": "知らなかった真実！？伊藤直也さんの不倫事件 - FC2まとめ",
+                "text": "知らなかった真実！？伊藤直也さんの不倫事件",
+                "title": "知らなかった真実！？伊藤直也さんの不倫事件 - FC2まとめ",
+                "title_link": "https:\/\/summary.fc2.com\/summary.php?summary_cd=100085451",
+                "service_name": "summary.fc2.com"
+            }
+        ],
+        "thread_ts": "1698649567.142359",
+        "parent_user_id": "U04T9TDB58W"
+    }
+]

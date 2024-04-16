@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "99214247-1875-4a3d-aa59-3e7580c0264b",
+        "type": "message",
+        "text": "ふりかえりについては、まだまとめられてないので明日は、どういう振り返りをするかは鈴木さんの判断でオケです。KPTならKPTでとか。間に合えば明日ふりかえりについて話したいです。",
+        "user": "U04TV4NASPK",
+        "ts": "1699262456.014829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJnpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ふりかえりについては、まだまとめられてないので明日は、どういう振り返りをするかは鈴木さんの判断でオケです。KPTならKPTでとか。間に合えば明日ふりかえりについて話したいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1699262474.000000"
+        },
+        "thread_ts": "1699255988.096049",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "fd910ecf-9d9d-4409-9f5a-5c916b0badcc",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nそしたら、明日今週の振り返りを行う前に、振り返り手法について話す時間とりましょうか。時間がかかりそうなら、また別途ふりかえりについて話し合う時間をとりましょう。",
+        "user": "U04TDHFKJ85",
+        "ts": "1699265470.104769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVdra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそしたら、明日今週の振り返りを行う前に、振り返り手法について話す時間とりましょうか。時間がかかりそうなら、また別途ふりかえりについて話し合う時間をとりましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699255988.096049",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "017b23d2-6169-4baf-ba22-5d228e97983f",
+        "type": "message",
+        "text": "そうですね。お願いいたします",
+        "user": "U04TV4NASPK",
+        "ts": "1699267649.350519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4Gix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。お願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699255988.096049",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "ryokai",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

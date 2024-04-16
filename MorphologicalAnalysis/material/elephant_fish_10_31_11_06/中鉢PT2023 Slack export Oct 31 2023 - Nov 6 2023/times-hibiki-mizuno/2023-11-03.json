@@ -1,0 +1,776 @@
+[
+    {
+        "client_msg_id": "d7cbe65c-eaad-43d5-a9d6-93d0811b6525",
+        "type": "message",
+        "text": "vscodeのtsのversionとrepositoryのtypescriptのversionがあっていないとlintエラーが起きたりする",
+        "user": "U04T9TDB58W",
+        "ts": "1699025924.147489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWhe+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vscodeのtsのversionとrepositoryのtypescriptのversionがあっていないとlintエラーが起きたりする"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1fe0cbbf-1b24-4faf-856b-e0f750ceb91f",
+        "type": "message",
+        "text": "slackみてないときは閉じないと、通知吸われるわ",
+        "user": "U04T9TDB58W",
+        "ts": "1699026334.979429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYaJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slackみてないときは閉じないと、通知吸われるわ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9908029d-100b-4af6-bdaa-2acf316caa22",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1699021056828709?thread_ts=1699020417.217149&amp;cid=C054R4216MB>",
+        "user": "U04T9TDB58W",
+        "ts": "1699027553.574699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiY6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1699021056828709?thread_ts=1699020417.217149&cid=C054R4216MB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1699021056828709?thread_ts=1699020417.217149&amp;cid=C054R4216MB",
+                "ts": "1699021056.828709",
+                "author_id": "U04T201950F",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1699021056.828709",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Xra2L",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "PR出すターゲットのブランチの更新分を取り込む"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "border": 1
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "例えば、developmentブランチに対してプルリク出してるなら、私の場合こうします。\n\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "developmentブランチに切り替える"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "git checkout development",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "最新のdevelopmentブランチの更新をローカルに取り込む"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "git pull origin development",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "作業ブランチに切り替える"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 2,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "git checkout feature\/AT-xxx\/hogehoge",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "developmentの更新分を取り込む"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 3,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "git merge development",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "border": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1699021056828709?thread_ts=1699020417.217149&amp;cid=C054R4216MB",
+                "fallback": "[November 3rd, 2023 7:17 AM] a2240dm: > 1. PR出すターゲットのブランチの更新分を取り込む\n例えば、developmentブランチに対してプルリク出してるなら、私の場合こうします。\n\n1. developmentブランチに切り替える\n    a. `git checkout development`\n2. 最新のdevelopmentブランチの更新をローカルに取り込む\n    a. `git pull origin development`\n3. 作業ブランチに切り替える\n    a. `git checkout feature\/AT-xxx\/hogehoge`\n4. developmentの更新分を取り込む\n    a. `git merge development`",
+                "text": "> 1. PR出すターゲットのブランチの更新分を取り込む\n例えば、developmentブランチに対してプルリク出してるなら、私の場合こうします。\n\n1. developmentブランチに切り替える\n    a. `git checkout development`\n2. 最新のdevelopmentブランチの更新をローカルに取り込む\n    a. `git pull origin development`\n3. 作業ブランチに切り替える\n    a. `git checkout feature\/AT-xxx\/hogehoge`\n4. developmentの更新分を取り込む\n    a. `git merge development`",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d1a44f3-2760-4cca-ad25-3353aaa20b6a",
+        "type": "message",
+        "text": "そっち派かぁ〜 :laughing:",
+        "user": "U04T9TDB58W",
+        "ts": "1699027590.267659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tCdOs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そっち派かぁ〜 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smirk",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8633eee9-9172-44c2-95fc-85ab447112da",
+        "type": "message",
+        "text": "こういう話好き",
+        "user": "U04T9TDB58W",
+        "ts": "1699027596.234569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg+ec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういう話好き"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e5f6733-f9ac-4c22-9d7d-7bbc0f432743",
+        "type": "message",
+        "text": "rebase -i とかやってる人いるのかな",
+        "user": "U04T9TDB58W",
+        "ts": "1699027868.335519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7XOkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rebase -i とかやってる人いるのかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07b21916-4a14-414b-9814-bae138e23c55",
+        "type": "message",
+        "text": "個人的にrebaseはやらんでいいやろと思ってる派",
+        "user": "U04T9TDB58W",
+        "ts": "1699027880.067709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91W3r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的にrebaseはやらんでいいやろと思ってる派"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "onajiku",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9be52431-7af3-44e4-9bb9-958683402f6e",
+        "type": "message",
+        "text": "revertしまくったりコミット履歴がよっぽど汚くならない限りrebase使わない派です\nPRマージする時もSquash mergeでまとめてますし:relaxed:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699028196.630909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HyN\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "revertしまくったりコミット履歴がよっぽど汚くならない限りrebase使わない派です\nPRマージする時もSquash mergeでまとめてますし"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699028236.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5967915e-d4e5-4cb2-bebf-4ea52bb3ed95",
+        "type": "message",
+        "text": "Squash merge、便利。squash mergeしていると、気軽にcommitしてもらいやすくなると思ってます",
+        "user": "U04T9TDB58W",
+        "ts": "1699028462.503779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocyxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Squash merge、便利。squash mergeしていると、気軽にcommitしてもらいやすくなると思ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1699028483.000000"
+        },
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25b4fef8-b944-45e3-8afb-1a2ea8ae8072",
+        "type": "message",
+        "text": "最終発表、バチバチに化粧していきたいな",
+        "user": "U04T9TDB58W",
+        "ts": "1699028970.835489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0C3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最終発表、バチバチに化粧していきたいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97091067-8b8e-4c12-b22a-89749bf67bd4",
+        "type": "message",
+        "text": "TODO: 週報",
+        "user": "U04T9TDB58W",
+        "ts": "1699059238.044639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPhu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TODO: 週報"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db3f7c9a-1a41-421f-ba06-18212e1ae69b",
+        "type": "message",
+        "text": "あーmeet閉じちゃった",
+        "user": "U04T9TDB58W",
+        "ts": "1699059361.555799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ytu3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あーmeet閉じちゃった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9c8c8742-3018-4258-a410-adc9582a75fc",
+        "type": "message",
+        "text": "filterはversionを3つに分ける",
+        "user": "U04T9TDB58W",
+        "ts": "1699065692.289449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBBrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "filterはversionを3つに分ける"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

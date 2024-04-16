@@ -1,0 +1,727 @@
+[
+    {
+        "client_msg_id": "270dc672-a8e9-41ab-b4ee-be489a88521b",
+        "type": "message",
+        "text": "所用があり夜からやります",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698996492.646369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvzQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所用があり夜からやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698996506.000000"
+        },
+        "thread_ts": "1698996492.646369",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1699029835.264649",
+        "reply_users": [
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699018788.213909"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699029835.264649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "休憩。夜またやります。",
+        "user": "U04TV4NASPK",
+        "ts": "1699005995.513469",
+        "thread_ts": "1698977525.089589",
+        "root": {
+            "client_msg_id": "b2f06a89-dc24-4b81-8a52-9bc287039c57",
+            "type": "message",
+            "text": "午後からやります",
+            "user": "U04TV4NASPK",
+            "ts": "1698977525.089589",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pZi5p",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "午後からやります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1698977525.089589",
+            "reply_count": 4,
+            "reply_users_count": 1,
+            "latest_reply": "1699026785.904039",
+            "reply_users": [
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1698986972.839799"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699005995.513469"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699022133.961809"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699026785.904039"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPg4b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "休憩。夜またやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "300d01b4-a4d2-4dd5-bd96-8f840aa0bf1f"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "ぼちぼちやります:abe_hiroshi:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699018788.213909",
+        "thread_ts": "1698996492.646369",
+        "root": {
+            "client_msg_id": "270dc672-a8e9-41ab-b4ee-be489a88521b",
+            "type": "message",
+            "text": "所用があり夜からやります",
+            "user": "U04TGBZ4XEX",
+            "ts": "1698996492.646369",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hvzQN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "所用があり夜からやります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698996506.000000"
+            },
+            "thread_ts": "1698996492.646369",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1699029835.264649",
+            "reply_users": [
+                "U04TGBZ4XEX"
+            ],
+            "replies": [
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1699018788.213909"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1699029835.264649"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVOxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぼちぼちやります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "abe_hiroshi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6dfc692d-9b28-4bcf-910a-1de32dd17e99"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "戻りました。今からやります。",
+        "user": "U04U66DNCRE",
+        "ts": "1699019052.445389",
+        "thread_ts": "1698977508.263639",
+        "root": {
+            "client_msg_id": "78b78fa4-164e-4eda-8f31-74580543e481",
+            "type": "message",
+            "text": "一旦朝の作業終了。\n夜くらいに戻る予定です。",
+            "user": "U04U66DNCRE",
+            "ts": "1698977508.263639",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qZE\/r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "一旦朝の作業終了。\n夜くらいに戻る予定です。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1698977508.263639",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1699028477.028769",
+            "reply_users": [
+                "U04U66DNCRE"
+            ],
+            "replies": [
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1699019052.445389"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1699028477.028769"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4N2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "戻りました。今からやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2cb755c2-9ba1-4440-a6e9-4f00f2d31d1b"
+    },
+    {
+        "client_msg_id": "cb9ebe58-55b1-4cfe-a7e0-e3cda278662c",
+        "type": "message",
+        "text": "23:30~ スタート",
+        "user": "U04TV4NASPK",
+        "ts": "1699022133.961809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONkF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "23:30~ スタート"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1699022142.000000"
+        },
+        "thread_ts": "1698977525.089589",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "01:00ぐらいで終わります",
+        "user": "U04TV4NASPK",
+        "ts": "1699026785.904039",
+        "thread_ts": "1698977525.089589",
+        "root": {
+            "client_msg_id": "b2f06a89-dc24-4b81-8a52-9bc287039c57",
+            "type": "message",
+            "text": "午後からやります",
+            "user": "U04TV4NASPK",
+            "ts": "1698977525.089589",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pZi5p",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "午後からやります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1698977525.089589",
+            "reply_count": 4,
+            "reply_users_count": 1,
+            "latest_reply": "1699026785.904039",
+            "reply_users": [
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1698986972.839799"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699005995.513469"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699022133.961809"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1699026785.904039"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38o\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "01:00ぐらいで終わります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5dd14e50-5277-4156-b201-6131cc633340"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "今日はここまでにします。お疲れ様です。",
+        "user": "U04U66DNCRE",
+        "ts": "1699028477.028769",
+        "thread_ts": "1698977508.263639",
+        "root": {
+            "client_msg_id": "78b78fa4-164e-4eda-8f31-74580543e481",
+            "type": "message",
+            "text": "一旦朝の作業終了。\n夜くらいに戻る予定です。",
+            "user": "U04U66DNCRE",
+            "ts": "1698977508.263639",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qZE\/r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "一旦朝の作業終了。\n夜くらいに戻る予定です。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1698977508.263639",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1699028477.028769",
+            "reply_users": [
+                "U04U66DNCRE"
+            ],
+            "replies": [
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1699019052.445389"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1699028477.028769"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfrVo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はここまでにします。お疲れ様です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f5ce1e78-f2f0-45ac-a7cb-7a443a35b4ed",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "nemasu :bed: :abe_hiroshi::zzz:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699029835.264649",
+        "thread_ts": "1698996492.646369",
+        "root": {
+            "client_msg_id": "270dc672-a8e9-41ab-b4ee-be489a88521b",
+            "type": "message",
+            "text": "所用があり夜からやります",
+            "user": "U04TGBZ4XEX",
+            "ts": "1698996492.646369",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hvzQN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "所用があり夜からやります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698996506.000000"
+            },
+            "thread_ts": "1698996492.646369",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1699029835.264649",
+            "reply_users": [
+                "U04TGBZ4XEX"
+            ],
+            "replies": [
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1699018788.213909"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1699029835.264649"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V69JH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nemasu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bed",
+                                "unicode": "1f6cf-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "abe_hiroshi"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zzz",
+                                "unicode": "1f4a4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e378c6d3-bf18-4fa8-b7ae-5e826dac3def",
+        "reactions": [
+            {
+                "name": "sleeping",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a96062ea-993d-428b-9fad-3029e45e3b6a",
+        "type": "message",
+        "text": "15時くらいまで予定あるので、戻ったら作業します",
+        "user": "U04U66DNCRE",
+        "ts": "1699062369.269619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCIJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15時くらいまで予定あるので、戻ったら作業します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699062369.269619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699088445.926089",
+        "reply_users": [
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1699088445.926089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "936c27bc-242e-4d9a-8a80-c7940a3ec21b",
+        "type": "message",
+        "text": "~午後からやります~",
+        "user": "U04TV4NASPK",
+        "ts": "1699062536.540879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NEtvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "午後からやります",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1699108036.000000"
+        }
+    },
+    {
+        "client_msg_id": "d08025c8-61a8-4cdc-9095-74e41f65b062",
+        "type": "message",
+        "text": "メニューコンポーネント化やってます",
+        "user": "U04U66DSPEU",
+        "ts": "1699063764.739429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAgX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メニューコンポーネント化やってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

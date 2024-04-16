@@ -1,0 +1,3182 @@
+[
+    {
+        "client_msg_id": "92932fbe-d1c8-4522-8913-01936e18c5a7",
+        "type": "message",
+        "text": "そう",
+        "user": "U04TV4NASPK",
+        "ts": "1697353214.281329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFaHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "35fb91f4-2f7e-4d6d-83e5-c82b1d00fc89",
+        "type": "message",
+        "text": "<@U04T9TDB58W>  <@U04T201950F> <@U04U66DNCRE>\n途中までの経過。なんか怪しいとかあれば指摘ください。参考になるとかあれば参考にしてください。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62\/commits\/4f6c641ecd3593d39f33bcf17de9d734e6a18d0a>",
+        "user": "U04TV4NASPK",
+        "ts": "1697356637.218069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0nup0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n途中までの経過。なんか怪しいとかあれば指摘ください。参考になるとかあれば参考にしてください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62\/commits\/4f6c641ecd3593d39f33bcf17de9d734e6a18d0a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697356637.218069",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1697471781.121709",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697356692.016049"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697356765.865679"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697361796.156789"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697379035.696239"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697379052.180289"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697471781.121709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0616HC7C4A",
+                "created": 1697356688,
+                "timestamp": 1697356688,
+                "name": "アトモノ.png",
+                "title": "アトモノ.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 66032,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616HC7C4A\/____________.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616HC7C4A\/download\/____________.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 222,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 296,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 444,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1298,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 592,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616HC7C4A-4816b71d23\/_____________1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 631,
+                "thumb_1024_h": 1024,
+                "original_w": 838,
+                "original_h": 1360,
+                "thumb_tiny": "AwAwAB23boptY\/lXJUckU8RfKMhM9ztptsu63iz\/AHBUvlr6UgEEa55VP++azdTAWZAoA+XtWn5a+lZmqcTpj+7TA0LX\/j1i\/wB0VLUVr\/x6xf7oqWgArL1T\/Xp\/u1qVl6p\/r0\/3aAL9r\/x6xf7oqWoLZgLaIZH3R3qXeM9R+dADqy9U\/wBen+7\/AFrS3jGePpmszVCDMmDn5f60Af\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F0616HC7C4A\/____________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0616HC7C4A-ae5cc883cc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1697356692.016049",
+        "client_msg_id": "602a8ad7-9afb-47d9-bf4d-ff3dad45db26",
+        "thread_ts": "1697356637.218069",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "712b959e-43c5-46d7-b269-ce55fc3a4550",
+        "type": "message",
+        "text": "切り分けで時間かかった。今は上から順に画面に載せてっているとこ。",
+        "user": "U04TV4NASPK",
+        "ts": "1697356765.865679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+8nj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "切り分けで時間かかった。今は上から順に画面に載せてっているとこ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697356637.218069",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : \"コードフリーズです。今の時点でapproveなPRをリプに並べてください <@U04T9TDB58W|a2239hm> \"",
+        "user": "USLACKBOT",
+        "ts": "1697356828.326859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2G8XB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : \"コードフリーズです。今の時点でapproveなPRをリプに並べてください "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    },
+    {
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n【全然急いでないのでお手好きのときに返信で大丈夫です。】\n戻るアイコンとかって何で作成しますか？\n検索アイコンみたいにSVGですかね？\n\nちなみに今<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-537|このチケット>やってます。\n以下想定です。\n• モバイル用検索フォームコンポーネントを新たに作成（PC用のコンポーネントを参考に作成）\n    ◦ 検索フォームのwidthは一旦figmaの値に合わせている\n    ◦ モバイル端末のサイズによって変更する場合、60%とかで指定する感じか？\n• ロゴは既存のSVGを流用\n    ◦ 各ロゴとロゴの名前が一致していない感じがする（後で聞く）\n• 戻るアイコンはなさそうなのでSVGかなにかで作成？",
+        "files": [
+            {
+                "id": "F0613KWFES1",
+                "created": 1697357108,
+                "timestamp": 1697357108,
+                "name": "Screen Shot 2023-10-15 at 17.04.11.png",
+                "title": "Screen Shot 2023-10-15 at 17.04.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04T201950F",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 35876,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0613KWFES1\/screen_shot_2023-10-15_at_17.04.11.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0613KWFES1\/download\/screen_shot_2023-10-15_at_17.04.11.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 360,
+                "thumb_360_h": 83,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 480,
+                "thumb_480_h": 111,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 720,
+                "thumb_720_h": 166,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 185,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 960,
+                "thumb_960_h": 222,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0613KWFES1-21c5277e04\/screen_shot_2023-10-15_at_17.04.11_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 237,
+                "original_w": 1220,
+                "original_h": 282,
+                "thumb_tiny": "AwALADC7\/F3pwGTTlA29KdigBm360bfrT6KAI2U\/wjNJhsDC5Oe5qWigD\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04T201950F\/F0613KWFES1\/screen_shot_2023-10-15_at_17.04.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0613KWFES1-1c757aecd4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04T201950F",
+        "display_as_bot": false,
+        "ts": "1697357245.010709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDyuc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【全然急いでないのでお手好きのときに返信で大丈夫です。】\n戻るアイコンとかって何で作成しますか？\n検索アイコンみたいにSVGですかね？\n\nちなみに今"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-537",
+                                "text": "このチケット"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やってます。\n以下想定です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "モバイル用検索フォームコンポーネントを新たに作成（PC用のコンポーネントを参考に作成）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "検索フォームのwidthは一旦figmaの値に合わせている"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "モバイル端末のサイズによって変更する場合、60%とかで指定する感じか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ロゴは既存のSVGを流用"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各ロゴとロゴの名前が一致していない感じがする（後で聞く）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "戻るアイコンはなさそうなのでSVGかなにかで作成？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1697357378.000000"
+        },
+        "client_msg_id": "480fd1c1-c156-4884-b5e7-26109456e4ed",
+        "thread_ts": "1697357245.010709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697546451.814809",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697546421.897999"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697546451.814809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10559::e0d689f06b3111ee9d7b1999db00eb38",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-537?atlOrigin=eyJpIjoiMWJmOTkxMGMzMzk1NGZhMDk0MWQ2YzkxN2YxNmNlOTkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-537 モバイル用ヘッダーコンポーネント作成>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10559::e0d689f26b3111ee9d7b1999db00eb38",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Sub-task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:018c35d4-6ec5-41ac-a897-9037924f51e7\/f572447c-3b9f-46d7-9ba0-4ad29f4b693b\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "Dai Miyahara"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Dai Miyahara*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10559::e0d689f16b3111ee9d7b1999db00eb38",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10559\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10559\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-537",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF900137-2DA4-40D6-9254-EDD0D8F5C6BD",
+        "type": "message",
+        "text": "レスポンシブ対応についてなんか参考にされた記事とかありますか？\nゼロからなので、もしあれば共有頂けると助かります、、 :man-bowing: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697358001.538049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kd1Z9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レスポンシブ対応についてなんか参考にされた記事とかありますか？\nゼロからなので、もしあれば共有頂けると助かります、、 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "d54f2078-771e-4864-ba68-a1a77af2973a",
+        "type": "message",
+        "text": "figmaとtailwindの公式サイト見ただけ。あとはmizunoさんの実装",
+        "user": "U04TV4NASPK",
+        "ts": "1697358399.446459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cGg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "figmaとtailwindの公式サイト見ただけ。あとはmizunoさんの実装"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c17e10c7-3ae5-4e60-94cc-e44e608d6b1d",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/14dd20191d62234ccce4e217b143dd4515b54fd6\/app\/__fragments__\/Header.tsx#L4>",
+        "user": "U04TV4NASPK",
+        "ts": "1697358528.595709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIlV3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/blob\/14dd20191d62234ccce4e217b143dd4515b54fd6\/app\/__fragments__\/Header.tsx#L4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "type": "message",
+        "text": "今こんな感じ",
+        "files": [
+            {
+                "id": "F061011QZGW",
+                "created": 1697361787,
+                "timestamp": 1697361787,
+                "name": "アトモノ-2.png",
+                "title": "アトモノ-2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 230015,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061011QZGW\/____________-2.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061011QZGW\/download\/____________-2.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 213,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 284,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 426,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1352,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 568,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061011QZGW-82a0c67261\/____________-2_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 606,
+                "thumb_1024_h": 1024,
+                "original_w": 818,
+                "original_h": 1382,
+                "thumb_tiny": "AwAwAByxbW8TWqMY0LFepFPFsm0Ziiz34otVzbRem2myXEKMQxfI44pASC2izzFH+VUr2KNJgFRQNvYVdhdJlJQtgetVL\/icf7tMC3Z\/8ekf+7UJhWSSTPK5ORjvTrdFa2h3Y6Y6VN5MX90UAR2kflqwxgZFVtQ\/14\/3au+RH\/cFUb4BZlA4AUUATQeabaHYARt9utOxc9lT8hTrRgLWIZHT1qbeueo\/OgCDN36L+lVrzd5ib\/vbBn9av+YuM5H0zVG+IMwwQfl\/qaAP\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F061011QZGW\/____________-2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061011QZGW-f6fbe0d88c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1697361796.156789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfgoZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今こんな感じ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9ad67d6d-1a0c-45c6-9c4a-d238b0c61577",
+        "thread_ts": "1697356637.218069",
+        "parent_user_id": "U04TV4NASPK",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "35fb91f4-2f7e-4d6d-83e5-c82b1d00fc89",
+            "type": "message",
+            "text": "<@U04T9TDB58W>  <@U04T201950F> <@U04U66DNCRE>\n途中までの経過。なんか怪しいとかあれば指摘ください。参考になるとかあれば参考にしてください。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62\/commits\/4f6c641ecd3593d39f33bcf17de9d734e6a18d0a>",
+            "user": "U04TV4NASPK",
+            "ts": "1697356637.218069",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0nup0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04T9TDB58W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04T201950F"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04U66DNCRE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n途中までの経過。なんか怪しいとかあれば指摘ください。参考になるとかあれば参考にしてください。\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62\/commits\/4f6c641ecd3593d39f33bcf17de9d734e6a18d0a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1697356637.218069",
+            "reply_count": 6,
+            "reply_users_count": 1,
+            "latest_reply": "1697471781.121709",
+            "reply_users": [
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697356692.016049"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697356765.865679"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697361796.156789"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697379035.696239"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697379052.180289"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697471781.121709"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "898aee2d-b6bb-4511-9bb1-63d09d46f1bc",
+        "type": "message",
+        "text": "<@U04U66DNCRE> なんかよくわかんなかったら聞いてもらえると。",
+        "user": "U04TV4NASPK",
+        "ts": "1697361955.392879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0iEi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんかよくわかんなかったら聞いてもらえると。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "805a844c-036f-4779-9fa9-2b58748cb0f0",
+        "type": "message",
+        "text": "<!channel>\nすいません、超初歩的な質問なのですが、\nプルリクがmergeされた後の流れについて質問したいです。\n以下の流れで作業する認識なのですが、\nという流れで認識相違ないでしょうか？\n\n①ファイルに変更を加えプルリク\n②プルリクがmergeされる\n③ローカル上でmainブランチに戻る\n④mainブランチ最新化(git pull)\n⑤mergeされた変更を行ったfeatureブランチを削除\n\n質問の背景としては、\n⑤でgit branch -d feature\/AT-515\/AddedProductedCardを実行したところ、\n以下のエラーが発生しまして、作業の進め方が合っているか気になりました。\n\n```(base) oonohirotonoMacBook-Pro:Product hiroto$ git branch -d feature\/AT-515\/AddedProductedCard\nerror: The branch 'feature\/AT-515\/AddedProductedCard' is not fully merged.```\n",
+        "user": "U04U66DNCRE",
+        "ts": "1697366771.808829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KlkhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、超初歩的な質問なのですが、\nプルリクがmergeされた後の流れについて質問したいです。\n以下の流れで作業する認識なのですが、\nという流れで認識相違ないでしょうか？\n\n①ファイルに変更を加えプルリク\n②プルリクがmergeされる\n③ローカル上でmainブランチに戻る\n④mainブランチ最新化(git pull)\n⑤mergeされた変更を行ったfeatureブランチを削除\n\n質問の背景としては、\n⑤でgit branch -d feature\/AT-515\/AddedProductedCardを実行したところ、\n以下のエラーが発生しまして、作業の進め方が合っているか気になりました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(base) oonohirotonoMacBook-Pro:Product hiroto$ git branch -d feature\/AT-515\/AddedProductedCard\nerror: The branch 'feature\/AT-515\/AddedProductedCard' is not fully merged."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "reply_count": 11,
+        "reply_users_count": 2,
+        "latest_reply": "1697367538.595739",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697366966.570589"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697366984.046149"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697367176.192499"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697367214.389109"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697367225.813539"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697367290.502319"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697367327.861769"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697367390.799079"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697367406.418089"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697367442.873829"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697367538.595739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "48458a16-160c-4fd7-87bf-41d05273112f",
+        "type": "message",
+        "text": "3、4で、ローカル上でdevelopmentブランチに戻る認識です",
+        "user": "U04U66DSPEU",
+        "ts": "1697366911.679709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVtjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3、4で、ローカル上でdevelopmentブランチに戻る認識です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69943e3b-5a43-4094-9700-c567b48bf872",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9|https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9>",
+        "user": "U04TV4NASPK",
+        "ts": "1697366966.570589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIvIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9",
+                                "text": "https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9R2l0JUUzJTgxJUE3JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJUIzJUUzJTgzJTgxJUUzJTgyJTkyJUU1JTg5JThBJUU5JTk5JUE0JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTgwJTkyJUUzJTgyJTg5JUUzJTgyJThDJUUzJTgxJTlGJUU2JTk5JTgyJUUzJTgxJUFFJUU1JUFGJUJFJUU1JUJGJTlDJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lMmQ0MDRmYzNmYjExNTYxZmMzMTI1NTE1MzQwYWY3ZQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwcG9uc3VrZTA1MzEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTAwYWY1NzFhZDc5MGJlNDVjYTFhN2ExOTRjZTI2MzQ4&blend-x=142&blend-y=491&blend-mode=normal&s=e3039e9f0634682335283c5a2ea34955",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 54950,
+                "from_url": "https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9",
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9",
+                "fallback": "Qiita: Gitでブランチを削除しようとして怒られた時の対応方法 - Qiita",
+                "text": "error: Cannot delete the branch 'ブランチ名' which you are currently on.原因 : カレントのブランチを削除しようとしている対応 : …",
+                "title": "Gitでブランチを削除しようとして怒られた時の対応方法 - Qiita",
+                "title_link": "https:\/\/qiita.com\/ponsuke0531\/items\/7835eaf129f212a6c8e9",
+                "service_name": "Qiita"
+            }
+        ],
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "d05c9d3c-64ec-4813-a12b-6f7135b0df2e",
+        "type": "message",
+        "text": "多分マージされてなさそうな。",
+        "user": "U04TV4NASPK",
+        "ts": "1697366984.046149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xu+Sv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分マージされてなさそうな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "aa1391fe-0496-4329-940e-7b5c6ab076a5",
+        "type": "message",
+        "text": "github上だとmergeになっているのでmergeされたものだと思って作業していたんですが、\nmergeされていないってことですかね。。？",
+        "user": "U04U66DNCRE",
+        "ts": "1697367176.192499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UkbkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "github上だとmergeになっているのでmergeされたものだと思って作業していたんですが、\nmergeされていないってことですかね。。？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "64c93dda-97d5-4057-8cc3-33748caf39a3",
+        "type": "message",
+        "text": "Mergeされてfetchとかで状態取得しないとだめかも。",
+        "user": "U04TV4NASPK",
+        "ts": "1697367214.389109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RQlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mergeされてfetchとかで状態取得しないとだめかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "e0f81d60-5489-48c0-80fa-a9639ca3cb56",
+        "type": "message",
+        "text": "Git fetch",
+        "user": "U04TV4NASPK",
+        "ts": "1697367225.813539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LgQDZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Git fetch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "d57c2649-49a2-40b4-a64d-a704a8dcf3cd",
+        "type": "message",
+        "text": "developmentブランチ≠featureブランチですよね？",
+        "user": "U04U66DNCRE",
+        "ts": "1697367232.202349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72itX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "developmentブランチ≠featureブランチですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "093d4c30-cd85-43a6-8b05-ec274becbfb0",
+        "type": "message",
+        "text": "なるほどfeature\/AT-515\/AddedProductedCardブランチ上でgit fetchするってことですよね？",
+        "user": "U04U66DNCRE",
+        "ts": "1697367290.502319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jdtbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどfeature\/AT-515\/AddedProductedCardブランチ上でgit fetchするってことですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "97d4e2e4-982a-47a0-9aab-8d034a1035e3",
+        "type": "message",
+        "text": "Localのどのブランチでも大丈夫。全部の状態取得するので",
+        "user": "U04TV4NASPK",
+        "ts": "1697367327.861769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlJ44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Localのどのブランチでも大丈夫。全部の状態取得するので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "4a7796d6-f81f-4e53-9436-dbcb5ad19e23",
+        "type": "message",
+        "text": "<https:\/\/git-scm.com\/docs\/git-fetch|https:\/\/git-scm.com\/docs\/git-fetch>",
+        "user": "U04TV4NASPK",
+        "ts": "1697367390.799079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N2PO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git-scm.com\/docs\/git-fetch",
+                                "text": "https:\/\/git-scm.com\/docs\/git-fetch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "d9b4c08d-4b22-4d2a-92f8-1c9dd7182e5d",
+        "type": "message",
+        "text": "了解です！\nありがとうございます！",
+        "user": "U04U66DNCRE",
+        "ts": "1697367406.418089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/98e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！\nありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "bf14ec13-125d-4e81-9ead-5c4d54de5da3",
+        "type": "message",
+        "text": "試しにやってダメなら、大文字のDにすると強制で消せる",
+        "user": "U04TV4NASPK",
+        "ts": "1697367442.873829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5CF2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試しにやってダメなら、大文字のDにすると強制で消せる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "4d15a6f1-b39a-4621-9fd5-24388bb1ee19",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U04U66DNCRE",
+        "ts": "1697367538.595739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvi5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697366771.808829",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "8cb49574-7219-4bcb-ac67-e6e44d852a07",
+        "type": "message",
+        "text": "<!here>\n\nお疲れ様です。度々申し訳ありません。\nちょっとブランチの扱いで若干混乱していたんですが、\nプルリク承認後(merge)の流れは以下で認識相違ないでしょうか？\n\n①ファイルに変更を加えプルリク\n②プルリクがmergeされる\n③ローカル上でdevelopmentブランチに戻る\n④developmentブランチで最新化(git pull)\n⑤developmentブランチとmainブランチをmerge(mainブランチ最新化)\n⑦変更を行ったfeatureブランチを削除\n\n\nまた、先ほどmainブランチでgit pullしたところ、\nmainブランチが最新化されなかったんですが、\nこれは本来developmentブランチを最新化し、mainブランチとmergeすることで\nmainブランチを最新化しているため、mainブランチでgit pullしても最新化されなかったという理解で合ってますでしょうか。。？",
+        "user": "U04U66DNCRE",
+        "ts": "1697373127.465339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3AfnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nお疲れ様です。度々申し訳ありません。\nちょっとブランチの扱いで若干混乱していたんですが、\nプルリク承認後(merge)の流れは以下で認識相違ないでしょうか？\n\n①ファイルに変更を加えプルリク\n②プルリクがmergeされる\n③ローカル上でdevelopmentブランチに戻る\n④developmentブランチで最新化(git pull)\n⑤developmentブランチとmainブランチをmerge(mainブランチ最新化)\n⑦変更を行ったfeatureブランチを削除\n\n\nまた、先ほどmainブランチでgit pullしたところ、\nmainブランチが最新化されなかったんですが、\nこれは本来developmentブランチを最新化し、mainブランチとmergeすることで\nmainブランチを最新化しているため、mainブランチでgit pullしても最新化されなかったという理解で合ってますでしょうか。。？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697373127.465339",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697374605.012089",
+        "reply_users": [
+            "U04T201950F",
+            "U04U66DSPEU",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1697373509.160059"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697373612.962549"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697373967.624939"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697374605.012089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9d93dc7b-d6a5-46b8-bfbe-808c25f45908",
+        "type": "message",
+        "text": "一旦mainブランチは無視していいと思います。\n別チケットの作業するときは、基本的にdevelopmentブランチからfeatureブランチを作成すると思うので。",
+        "user": "U04T201950F",
+        "ts": "1697373509.160059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQhXK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦mainブランチは無視していいと思います。\n別チケットの作業するときは、基本的にdevelopmentブランチからfeatureブランチを作成すると思うので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697373127.465339",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "f2f90a87-15e2-4574-a043-ab92a7fabdea",
+        "type": "message",
+        "text": "mainブランチは、リリースするときにdevelopmentにたまった変化をマージすると思います（自分の職場のやりかた）。\nいろんなやり方がありますね\n私たちはこちらだとおもいます\n<https:\/\/www.notion.so\/409d82003b9f48dda63acf8b8746479a#3bcdab48ff8c4ae2a41e9e42f169e459>",
+        "user": "U04U66DSPEU",
+        "ts": "1697373612.962549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V8bf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mainブランチは、リリースするときにdevelopmentにたまった変化をマージすると思います（自分の職場のやりかた）。\nいろんなやり方がありますね\n私たちはこちらだとおもいます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/409d82003b9f48dda63acf8b8746479a#3bcdab48ff8c4ae2a41e9e42f169e459"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DSPEU",
+            "ts": "1697373632.000000"
+        },
+        "thread_ts": "1697373127.465339",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "74668d5a-c180-4dc7-9704-7b4e37e5c521",
+        "type": "message",
+        "text": "全体の流れは以下になると思います。\n\n機能Aを作成した後に機能Bを作成する\n1. ローカルの`development`ブランチを最新化\n    a. `git fetch`\n    b. `git pull`\n2. 機能A用のブランチを作成\n    a. `git checkout -b feature\/AT-xxx\/feature_a`\n3. 機能Aを実装しプルリク\n    a. `git add`\n    b. `git commit`\n    c. `git push`\n    d. プルリク作成\n4. 機能Aが`development`ブランチにmergeされる\n5. ローカルの`development`ブランチを最新化\n    a. `git fetch`\n    b. `git pull`\n6. 機能B用のブランチを作成\n    a. `git checkout -b feature\/AT-xxx\/feature_b`\n7. 機能Bを実装しプルリク\n    a. `git add`\n    b. `git commit`\n    c. `git push`\n    d. プルリク作成\n8. 機能Bが`development`ブランチにmergeされる\n9. ローカルの`development`ブランチを最新化\n    a. `git fetch`\n    b. `git pull`\nこの繰り返しです。\n\n`main`ブランチは必要に応じてでいいと思います。\nこちらから`push`したりプルリクだしたりすることは基本的にないと思うので。",
+        "user": "U04T201950F",
+        "ts": "1697373967.624939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1sN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体の流れは以下になると思います。\n\n機能Aを作成した後に機能Bを作成する\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ローカルの"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "development",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ブランチを最新化"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git fetch",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git pull",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能A用のブランチを作成"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git checkout -b feature\/AT-xxx\/feature_a",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能Aを実装しプルリク"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git add",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git commit",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git push",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プルリク作成"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能Aが"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "development",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ブランチにmergeされる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ローカルの"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "development",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ブランチを最新化"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git fetch",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git pull",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能B用のブランチを作成"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 5,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git checkout -b feature\/AT-xxx\/feature_b",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能Bを実装しプルリク"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 6,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git add",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git commit",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git push",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プルリク作成"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機能Bが"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "development",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ブランチにmergeされる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ローカルの"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "development",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ブランチを最新化"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 7,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git fetch",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git pull",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nこの繰り返しです。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "main",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ブランチは必要に応じてでいいと思います。\nこちらから"
+                            },
+                            {
+                                "type": "text",
+                                "text": "push",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したりプルリクだしたりすることは基本的にないと思うので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1697374046.000000"
+        },
+        "thread_ts": "1697373127.465339",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25F8E4E4-37C6-4C74-9676-0590263ACC5A",
+        "type": "message",
+        "text": "<@U04T201950F> <@U04U66DSPEU> \nありがとうございます！！\nめちゃくちゃクリアになりました :man-bowing: :man-bowing: :man-bowing: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697374605.012089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWs3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます！！\nめちゃくちゃクリアになりました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697373127.465339",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nmobileの商品口コミボタンって必要ないでしょうか？\nPCだとあるけど。",
+        "files": [
+            {
+                "id": "F0616URH8RG",
+                "created": 1697378778,
+                "timestamp": 1697378778,
+                "name": "アトモノ-2.png",
+                "title": "アトモノ-2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 230015,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616URH8RG\/____________-2.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616URH8RG\/download\/____________-2.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 213,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 284,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 426,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1352,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 568,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616URH8RG-7a7cfc3b12\/____________-2_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 606,
+                "thumb_1024_h": 1024,
+                "original_w": 818,
+                "original_h": 1382,
+                "thumb_tiny": "AwAwAByxbW8TWqMY0LFepFPFsm0Ziiz34otVzbRem2myXEKMQxfI44pASC2izzFH+VUr2KNJgFRQNvYVdhdJlJQtgetVL\/icf7tMC3Z\/8ekf+7UJhWSSTPK5ORjvTrdFa2h3Y6Y6VN5MX90UAR2kflqwxgZFVtQ\/14\/3au+RH\/cFUb4BZlA4AUUATQeabaHYARt9utOxc9lT8hTrRgLWIZHT1qbeueo\/OgCDN36L+lVrzd5ib\/vbBn9av+YuM5H0zVG+IMwwQfl\/qaAP\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F0616URH8RG\/____________-2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0616URH8RG-c8a2165f30",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061VUJSLJC",
+                "created": 1697378843,
+                "timestamp": 1697378843,
+                "name": "アトモノ.png",
+                "title": "アトモノ.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 466194,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061VUJSLJC\/____________.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061VUJSLJC\/download\/____________.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 360,
+                "thumb_360_h": 290,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 480,
+                "thumb_480_h": 386,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 720,
+                "thumb_720_h": 579,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 643,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 960,
+                "thumb_960_h": 772,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061VUJSLJC-1da25626c2\/_____________1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 824,
+                "original_w": 1860,
+                "original_h": 1496,
+                "thumb_tiny": "AwAmADDR2ASF8nJ7Z4pjTRISGcA1LVGeASPJnHrn3pAW96FQdwwfekyjfx9eODUaDbEgJAwvenq0eOXGfrRcByRBDkFvTk0+mBoz0YfnT6dwCo5EYsNhC568VJUUxZcEFQB1LUAN8qb\/AJ6j\/vmk8mb\/AJ6r\/wB8ikDTkAr5ZB6EEml3XH\/TOgB8cbqTvYMP93FS1HEZST5m3HtUlABTXQOMHpTqKAGCMKoVeAKXaO4B\/CnUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F061VUJSLJC\/____________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061VUJSLJC-8ad6858465",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "ts": "1697378852.751899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JmqWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nmobileの商品口コミボタンって必要ないでしょうか？\nPCだとあるけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3233202f-08b8-4c06-99f7-f2d5ef4ae009",
+        "thread_ts": "1697378852.751899",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1697385906.861509",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697384446.557509"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697385896.619789"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697385906.861509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0616S1QKSP",
+                "created": 1697379031,
+                "timestamp": 1697379031,
+                "name": "アトモノ-3.png",
+                "title": "アトモノ-3.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 224132,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616S1QKSP\/____________-3.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F0616S1QKSP\/download\/____________-3.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 213,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 285,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 427,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1350,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 569,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F0616S1QKSP-a0ee8bb0e3\/____________-3_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 607,
+                "thumb_1024_h": 1024,
+                "original_w": 824,
+                "original_h": 1390,
+                "thumb_tiny": "AwAwAByxaQxtaoxjQsR1IqQW67RmKLPf5abZrm1i+n9aSS4hjYq27jjikBILePPMUf8A3zVS8iRJQFRQNvYVageOdSU3YHrVe9GJlH+z\/U0AWLL\/AI84\/p\/WozEryyZ6c5GOtLaqptIdw7elTeTEeiL+VMCO0j8oMOg4qC+\/1w\/3f6mrfkxf3F\/Kql6AsqgDAC\/1NAE1mu60i+Zhx2PvUvlf9NJP++qhs5UW1jBdQccgnpU3nR5\/1if99CgA8r\/ppJ\/31VS8GJVGSfl7\/U1b8+PGd6Z9NwqneOjSgqyn5exoA\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F0616S1QKSP\/____________-3.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F0616S1QKSP-84721bc9d9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1697379035.696239",
+        "client_msg_id": "bd85f060-be5e-422b-a259-99e56f4a42ed",
+        "thread_ts": "1697356637.218069",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "411525ee-53b1-4c3c-9cf1-9d538c1d4d1c",
+        "type": "message",
+        "text": "あと代替品候補出す感じ。今日はここまで。",
+        "user": "U04TV4NASPK",
+        "ts": "1697379052.180289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUfNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと代替品候補出す感じ。今日はここまで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697356637.218069",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "bb4eae91-5deb-4361-baa2-3edfb37c4298",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nちょっとリスポンシブ対応で修正する部分がイマイチわかっていないので、ちょっと明日相談させて下さい。。",
+        "user": "U04U66DNCRE",
+        "ts": "1697381734.634679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53GAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nちょっとリスポンシブ対応で修正する部分がイマイチわかっていないので、ちょっと明日相談させて下さい。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1831c02c-9e5a-4a99-873a-47f0c8f95920",
+        "type": "message",
+        "text": "あー必要ですね\n一旦なしで勧めてもらえますか？ <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1697384446.557509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBfR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー必要ですね\n一旦なしで勧めてもらえますか？ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697378852.751899",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8197bbba-c7eb-4c27-b8f7-f04563606d69",
+        "type": "message",
+        "text": "<!here>\n【20231016】\n所持品リスト第一弾、リリースしました。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/releases\/tag\/20231016>\n<https:\/\/front-jabelic.vercel.app\/userProduct>",
+        "user": "U04T9TDB58W",
+        "ts": "1697385466.762639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5faMU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【20231016】\n所持品リスト第一弾、リリースしました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/releases\/tag\/20231016"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-jabelic.vercel.app\/userProduct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04T201950F",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b9615f7-3fc3-4fa2-ad25-0b78b9363fb2",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545>",
+        "user": "U04T9TDB58W",
+        "ts": "1697385896.619789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNSJO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10567::967a74506b7411ee815ed71af8c8b645",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545?atlOrigin=eyJpIjoiOTc5YzY2MDczZmIyNGQ4MDg5MTkxYjExZmRjYzZmYTciLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-545 UI設計：廃盤品と現行品 の詳細画面に口コミ投稿のbutton配置>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10567::967a74526b7411ee815ed71af8c8b645",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10567::967a74516b7411ee815ed71af8c8b645",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10567\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10567\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697378852.751899",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "20f93e94-458b-4a14-a039-b99181100e96",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-546>",
+        "user": "U04T9TDB58W",
+        "ts": "1697385906.861509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4X7PM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-546"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10568::9c7ed4406b7411ee9767f9a5f2388487",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-546?atlOrigin=eyJpIjoiZTgzZDg5NWZiNzQ0NDlhNDhlNmI2OGNjNTc0NjRhNDIiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-546 FE：廃盤品と現行品 の詳細画面に口コミ投稿のbutton配置>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10568::9c7ed4426b7411ee9767f9a5f2388487",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10568::9c7ed4416b7411ee9767f9a5f2388487",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10568\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10568\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-546",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697378852.751899",
+        "parent_user_id": "U04TV4NASPK"
+    }
+]

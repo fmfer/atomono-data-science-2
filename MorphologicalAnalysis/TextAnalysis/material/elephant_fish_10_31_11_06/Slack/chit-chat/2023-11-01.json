@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "bf52b39d-2a4e-4532-be2c-2726febeaa97",
+        "type": "message",
+        "text": "<https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7994&cid=17&nid=10944927&module_id=grn.bulletin|https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7994&cid=17&nid=10944927&module_id=grn.bulletin>  健康診断忘れてた(ﾉ≧ڡ≦)☆",
+        "user": "U04T9TDB58W",
+        "ts": "1698838310.603329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5D6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7994&cid=17&nid=10944927&module_id=grn.bulletin",
+                                "text": "https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7994&cid=17&nid=10944927&module_id=grn.bulletin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  健康診断忘れてた(ﾉ≧ڡ≦)☆"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698838918.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimi",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

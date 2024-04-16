@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "5aa99bcf-8d91-4c34-b456-6797683aaafd",
+        "type": "message",
+        "text": "ストーリーファイルの引数の型が正しくないですね\n\nおそらくこれは既存のストーリーファイルを変更してしまっています。もとに戻せますか？<@U04U66DNCRE>",
+        "user": "U04T9TDB58W",
+        "ts": "1696881434.119189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uz+8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ストーリーファイルの引数の型が正しくないですね\n\nおそらくこれは既存のストーリーファイルを変更してしまっています。もとに戻せますか？"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "A3203235-5A3F-42BA-B32D-4F10EDF2E5ED",
+        "type": "message",
+        "text": "なるほど、、、\nGen storiesコマンド実行した事でおかしくなっちゃった感じですかね。\n元に戻す場合、手作業で戻すイメージですよね？",
+        "user": "U04U66DNCRE",
+        "ts": "1696907195.860449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhyLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、、、\nGen storiesコマンド実行した事でおかしくなっちゃった感じですかね。\n元に戻す場合、手作業で戻すイメージですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nこれ私も遭遇しました。\n`npm run gen:stories`コマンドで既存のストーリーファイルの引数の型が勝手に変わってしまうことが原因っぽいです。\n\nvscode等つかってて、まだ`git add`もしくは`commit`してなければ差分が見れるのでもとに戻せるはずです。\nおそらくcommitできてない状態なので戻せるはずです。\n\n（添付キャプチャは再現用にあえて引数の型を変えているので、これとまったく同一の差分にはならないがイメージはこんな感じ）",
+        "files": [
+            {
+                "id": "F060E98THTL",
+                "created": 1696908147,
+                "timestamp": 1696908147,
+                "name": "Screen Shot 2023-10-10 at 12.22.18.png",
+                "title": "Screen Shot 2023-10-10 at 12.22.18.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04T201950F",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 770741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F060E98THTL\/screen_shot_2023-10-10_at_12.22.18.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F060E98THTL\/download\/screen_shot_2023-10-10_at_12.22.18.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_64.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_80.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_360.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_360_w": 360,
+                "thumb_360_h": 231,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_480.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_480_w": 480,
+                "thumb_480_h": 308,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_160.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_720.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_720_w": 720,
+                "thumb_720_h": 461,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_800.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_800_w": 800,
+                "thumb_800_h": 513,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_960.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_960_w": 960,
+                "thumb_960_h": 615,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F060E98THTL-6bb57e7cc2\/screen_shot_2023-10-10_at_12.22.18_1024.png?t=xoxe-4934526733250-6368234739142-6397653755856-30fbddd710b8575d43b69c0187553a03",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 656,
+                "original_w": 3476,
+                "original_h": 2228,
+                "thumb_tiny": "AwAeADCmAMcgmkwPQj60m4igHJ5oAX8qSnHHvSUDsBA9qAMkU47expBjcOaBDD1oFJSigBaKSigBaF+8KSigD\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04T201950F\/F060E98THTL\/screen_shot_2023-10-10_at_12.22.18.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F060E98THTL-9f055a63f2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04T201950F",
+        "display_as_bot": false,
+        "ts": "1696908275.955059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+8nR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれ私も遭遇しました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "npm run gen:stories",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "コマンドで既存のストーリーファイルの引数の型が勝手に変わってしまうことが原因っぽいです。\n\nvscode等つかってて、まだ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "git add",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "もしくは"
+                            },
+                            {
+                                "type": "text",
+                                "text": "commit",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "してなければ差分が見れるのでもとに戻せるはずです。\nおそらくcommitできてない状態なので戻せるはずです。\n\n（添付キャプチャは再現用にあえて引数の型を変えているので、これとまったく同一の差分にはならないがイメージはこんな感じ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1696908347.000000"
+        },
+        "client_msg_id": "0cc93773-c4d8-4ab8-ad77-3dc5c3cc8b94",
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9afe32cf-835d-4104-bbdd-38e3107ff3dd",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nコミットはしていない状況ですよね？であれば\ngit reset\ngit diff --name-only\nから変更したファイル一覧をください",
+        "user": "U04T9TDB58W",
+        "ts": "1696908517.504859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2Byj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコミットはしていない状況ですよね？であれば\ngit reset\ngit diff --name-only\nから変更したファイル一覧をください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1696908528.000000"
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "16E782DE-24FC-4F18-924C-DDCAB599B754",
+        "type": "message",
+        "text": "<@U04T9TDB58W> <@U04T201950F> \nありがとうございます！\nAddはしましたが、Commitはしてないです。\nちょっと業務中で私用PC使えないので、今日の夜やります。。！",
+        "user": "U04U66DNCRE",
+        "ts": "1696914904.583729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIv5a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます！\nAddはしましたが、Commitはしてないです。\nちょっと業務中で私用PC使えないので、今日の夜やります。。！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04T201950F"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

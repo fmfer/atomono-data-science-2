@@ -1,0 +1,733 @@
+[
+    {
+        "client_msg_id": "75874DC7-F2F6-45DA-A664-5B41A0483D50",
+        "type": "message",
+        "text": "腹筋人間w\n僕も猫一択なんですが、これってなんなんですか？笑\n<@U04TV4NASPK> ",
+        "user": "U04U66DNCRE",
+        "ts": "1698231694.035419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r47zo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腹筋人間w\n僕も猫一択なんですが、これってなんなんですか？笑\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698141913.891839",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A46EBF9E-201C-4896-962A-560127EB1169",
+        "type": "message",
+        "text": "えぐい雨に打たれながら帰宅",
+        "user": "U04U66DNCRE",
+        "ts": "1698237561.029709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUeJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "えぐい雨に打たれながら帰宅"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "umbrella_with_rain_drops",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e516f6c7-a2ee-4bc8-9729-e07f5b7f6020",
+        "type": "message",
+        "text": "フェルナンデスさんのアドバイス通り実行しようとしたけど上手くいかないな。。\nなぜだ。。。画面が真っ白になる\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697881622647869?thread_ts=1697880797.767019&cid=C054R4216MB>",
+        "user": "U04U66DNCRE",
+        "ts": "1698245760.934199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGVrN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フェルナンデスさんのアドバイス通り実行しようとしたけど上手くいかないな。。\nなぜだ。。。画面が真っ白になる\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697881622647869?thread_ts=1697880797.767019&cid=C054R4216MB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DNCRE",
+            "ts": "1698246267.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697881622647869?thread_ts=1697880797.767019&amp;cid=C054R4216MB",
+                "ts": "1697881622.647869",
+                "author_id": "U04U66DSPEU",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1697881622.647869",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "QF7XT",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "確認方法として、local で立ち上げて、 ローカルapi サーバーを使っています。\n\natomono-frontにてnpm run dev:local-api；\natomono-apiにてrails s\nそして、"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/localhost:3000"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "で確認しています。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697881622647869?thread_ts=1697880797.767019&amp;cid=C054R4216MB",
+                "fallback": "[October 21st, 2023 2:47 AM] a2237mf: 確認方法として、local で立ち上げて、 ローカルapi サーバーを使っています。\n\natomono-frontにてnpm run dev:local-api；\natomono-apiにてrails s\nそして、<http:\/\/localhost:3000>で確認しています。",
+                "text": "確認方法として、local で立ち上げて、 ローカルapi サーバーを使っています。\n\natomono-frontにてnpm run dev:local-api；\natomono-apiにてrails s\nそして、<http:\/\/localhost:3000>で確認しています。",
+                "author_name": "FABIAN M. FERNANDEZ",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04U66DSPEU",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_48.png",
+                "author_subname": "FABIAN M. FERNANDEZ",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68cab682-b946-4a07-b569-89c1658e53c7",
+        "type": "message",
+        "text": "rails sしようとすると\n下記の感じになるけど、\n```(base) oonohirotonoMacBook-Pro:atomono-api hiroto$ rails s\nrbenv: rails: command not found\n\nThe `rails' command exists in these Ruby versions:\n 3.1.0```\nここはbundle exec rails s実行すればGemfileとGemfile.lockに書かれたRailsバージョン見に行くから問題ないのかな。。？",
+        "user": "U04U66DNCRE",
+        "ts": "1698246065.310019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Twnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails sしようとすると\n下記の感じになるけど、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(base) oonohirotonoMacBook-Pro:atomono-api hiroto$ rails s\nrbenv: rails: command not found\n\nThe `rails' command exists in these Ruby versions:\n 3.1.0"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここはbundle exec rails s実行すればGemfileとGemfile.lockに書かれたRailsバージョン見に行くから問題ないのかな。。？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "009d5b35-4bab-49f0-8ceb-7438039f5632",
+        "type": "message",
+        "text": "一旦諦めて明日やろう",
+        "user": "U04U66DNCRE",
+        "ts": "1698246279.081089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5BVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦諦めて明日やろう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c839b0cb-1ccb-4de0-b5a8-8b8d65428099",
+        "type": "message",
+        "text": "明日できたらペアプロしたいな",
+        "user": "U04U66DNCRE",
+        "ts": "1698246635.407179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBBKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日できたらペアプロしたいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddde50ee-3bea-4013-9ee6-1cc4dea27c47",
+        "type": "message",
+        "text": "`bin\/rails s` だとどうなりますか?",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698246669.485379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+E2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bin\/rails s",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " だとどうなりますか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1460ba9-0a4d-45b7-b949-98723941003c",
+        "type": "message",
+        "text": "立ち上がってます！\nbundle exec rails sと同じ結果に見えます。\n\n(base) oonohirotonoMacBook-Pro:atomono-api hiroto$ bin\/rails s\n=&gt; Booting Puma\n=&gt; Rails 7.0.5 application starting in development\n=&gt; Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (“Mugi No Toki Itaru”)\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*     PID: 78059\n* Listening on <http:\/\/127.0.0.1:3010>\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop",
+        "user": "U04U66DNCRE",
+        "ts": "1698246783.236719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqOyd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "立ち上がってます！\nbundle exec rails sと同じ結果に見えます。\n\n(base) oonohirotonoMacBook-Pro:atomono-api hiroto$ bin\/rails s\n=> Booting Puma\n=> Rails 7.0.5 application starting in development\n=> Run `bin\/rails server --help` for more startup options\nPuma starting in single mode...\n* Puma version: 6.3.0 (ruby 3.2.2-p53) (“Mugi No Toki Itaru”)\n* Min threads: 5\n* Max threads: 5\n* Environment: development\n*     PID: 78059\n* Listening on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/127.0.0.1:3010"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n* Listening on http:\/\/[::1]:3010\nUse Ctrl-C to stop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246783.236719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698246909.426179",
+        "reply_users": [
+            "U04TGBZ4XEX",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698246872.768429"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698246909.426179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70fc2e31-fcac-4c50-abfd-a2ae53b01c3f",
+        "type": "message",
+        "text": "ローカル立ち上げてもatomonoが見えないのはフロント側の部分で問題が起こっている感じですかね。。？",
+        "user": "U04U66DNCRE",
+        "ts": "1698246851.412399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq90n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ローカル立ち上げてもatomonoが見えないのはフロント側の部分で問題が起こっている感じですかね。。？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23028347-e43b-427c-9dd8-a8beb9da7f1f",
+        "type": "message",
+        "text": "rails 自体が bundlerというツール経由でインストールされているので、`bundle exec rails s` か `bin\/rails s` で実行する必要があります:woman-gesturing-ok:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698246872.768429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "boXsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails 自体が bundlerというツール経由でインストールされているので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle exec rails s",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " か "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bin\/rails s",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " で実行する必要があります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246783.236719",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd0dd2d5-fb39-4501-bc41-9bb3e32f7aad",
+        "type": "message",
+        "text": "なるほど！\n承知しました。",
+        "user": "U04U66DNCRE",
+        "ts": "1698246909.426179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bygqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど！\n承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246783.236719",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdabfd4c-6d4c-49b6-8d44-c679ee5b4805",
+        "type": "message",
+        "text": "ブラウザ画面で何も見えない場合、ローカルのデータベースにデータが無いか、またはフロント側で何か起きているか...ですね:bow:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698246951.347869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/s1Yl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブラウザ画面で何も見えない場合、ローカルのデータベースにデータが無いか、またはフロント側で何か起きているか...ですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef323ccb-625d-489d-8583-27a1edcb1151",
+        "type": "message",
+        "text": "なるほど。。\n承知しました！ちょっと明日もう一回確認してみます:man-bowing:\nありがとうございます！！",
+        "user": "U04U66DNCRE",
+        "ts": "1698247028.354009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ntMpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。。\n承知しました！ちょっと明日もう一回確認してみます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

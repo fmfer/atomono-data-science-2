@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "b20978b8-d166-4d00-b64a-30ee703b59a0",
+        "type": "message",
+        "text": "ログアウトのPRを作成しましたー　メニューにしてみました（動画をご確認ください）。\nよろしくお願いします:man-bowing:\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83>",
+        "user": "U04U66DSPEU",
+        "ts": "1698517336.707209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPK2q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ログアウトのPRを作成しましたー　メニューにしてみました（動画をご確認ください）。\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e3acedf-acc3-49c4-a1f9-7f42fc1c97b1",
+        "type": "message",
+        "text": "<@U04T9TDB58W> <@U04TV4NASPK>\nお疲れ様です。\n度々申し訳ないです。\n中山さんやフェルナンデスさんのコードを見ていると\n```&lt;div className='tablet:hidden(または block) laptop:hidden(または block) desktop:hidden(または block)'&gt;\n&lt;\/div&gt;```\nというコードで画面サイズをパターン分けしていると思っています。\n同じような形でモーダル画面でもパターン分けを行おうと思ったのですが、\nモーダル画面は小画面なので、上記のパターン分けでは上手くいかない認識です(モーダル画面が小さすぎる)。\n上記のようなパターン分けを適用する場合は、別途モーダル画面用のtablet, laptop, desktop画面サイズを定義する必要がある認識なのですが、いかがでしょうか？\n\ntailwind.config.jsの以下の部分にモーダル画面用の定義を追加するイメージになるのかなと思っております。\n各端末におけるモーダル画面のサイズを何を基準に定義したら良いかはちょっと分かっていませんが。。\n\n```screens: {\n      tablet: '480px',\n      \/\/ =&gt; @media (min-width: 480px) { ... }\n      laptop: '1024px',\n      \/\/ =&gt; @media (min-width: 1024px) { ... }\n      desktop: '1280px',\n      \/\/ =&gt; @media (min-width: 1280px) { ... }\n    }```",
+        "user": "U04U66DNCRE",
+        "ts": "1698562384.427219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2abM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n度々申し訳ないです。\n中山さんやフェルナンデスさんのコードを見ていると\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<div className='tablet:hidden(または block) laptop:hidden(または block) desktop:hidden(または block)'>\n<\/div>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "というコードで画面サイズをパターン分けしていると思っています。\n同じような形でモーダル画面でもパターン分けを行おうと思ったのですが、\nモーダル画面は小画面なので、上記のパターン分けでは上手くいかない認識です(モーダル画面が小さすぎる)。\n上記のようなパターン分けを適用する場合は、別途モーダル画面用のtablet, laptop, desktop画面サイズを定義する必要がある認識なのですが、いかがでしょうか？\n\ntailwind.config.jsの以下の部分にモーダル画面用の定義を追加するイメージになるのかなと思っております。\n各端末におけるモーダル画面のサイズを何を基準に定義したら良いかはちょっと分かっていませんが。。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "screens: {\n      tablet: '480px',\n      \/\/ => @media (min-width: 480px) { ... }\n      laptop: '1024px',\n      \/\/ => @media (min-width: 1024px) { ... }\n      desktop: '1280px',\n      \/\/ => @media (min-width: 1280px) { ... }\n    }"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698562384.427219",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1698564021.890309",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DNCRE",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698562543.002769"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698562748.355049"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698562926.881309"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698562982.329119"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698563161.435919"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698563227.175479"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698563337.603309"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698563381.074509"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698563707.709189"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698563853.307679"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698564021.890309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8fea39e-8ad2-462e-b554-6ab870a7bde3",
+        "type": "message",
+        "text": "モーダルのサイズをtailwindで指定するのはできないのでしょうか。",
+        "user": "U04TV4NASPK",
+        "ts": "1698562543.002769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjQrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モーダルのサイズをtailwindで指定するのはできないのでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698562384.427219",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "e5c0d76a-3a87-4c18-b06d-c79f6c3b7de2",
+        "type": "message",
+        "text": "&gt;  画面サイズをパターン分けしていると思\n画面サイズがパターンモバイルならモバイルの画面が表示される。\n そのモーダルの呼び出しのボタンが呼び出すモーダルを分けることはできないのでしょうか",
+        "user": "U04TV4NASPK",
+        "ts": "1698562748.355049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZMbq",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 画面サイズをパターン分けしていると思"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n画面サイズがパターンモバイルならモバイルの画面が表示される。\n そのモーダルの呼び出しのボタンが呼び出すモーダルを分けることはできないのでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698562384.427219",
+        "parent_user_id": "U04U66DNCRE"
+    }
+]

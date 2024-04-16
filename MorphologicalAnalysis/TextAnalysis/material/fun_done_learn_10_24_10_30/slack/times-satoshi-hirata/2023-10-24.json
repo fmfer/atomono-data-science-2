@@ -1,0 +1,564 @@
+[
+    {
+        "client_msg_id": "e63563f5-1266-450a-b66c-bc76405b155d",
+        "type": "message",
+        "text": "19時は間に合わない... まだ会社にいます",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698139630.662909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dt6o4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "19時は間に合わない... まだ会社にいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698139638.000000"
+        }
+    },
+    {
+        "client_msg_id": "2d26c5cf-1b18-48c9-8563-51e06a3bc638",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n直前にすみません。\nデモ環境で所持品登録しようとすると、エラーになるのですが、\n水野さんの環境だとできてますか？",
+        "user": "U04T201950F",
+        "ts": "1698141115.720919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9UTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n直前にすみません。\nデモ環境で所持品登録しようとすると、エラーになるのですが、\n水野さんの環境だとできてますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "655f1315-cf38-4090-aa79-9728cf82a489",
+        "type": "message",
+        "text": "あ、できたかも",
+        "user": "U04T201950F",
+        "ts": "1698141200.723179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c4\/uB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、できたかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "なんか追加できる製品とできない製品がありますね",
+        "files": [
+            {
+                "id": "F062AU0MHDL",
+                "created": 1698141287,
+                "timestamp": 1698141287,
+                "name": "Screen Shot 2023-10-24 at 18.54.37.png",
+                "title": "Screen Shot 2023-10-24 at 18.54.37.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04T201950F",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 2401379,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062AU0MHDL\/screen_shot_2023-10-24_at_18.54.37.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062AU0MHDL\/download\/screen_shot_2023-10-24_at_18.54.37.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 258,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 387,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 430,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 516,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062AU0MHDL-be1fe0fe6e\/screen_shot_2023-10-24_at_18.54.37_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 550,
+                "original_w": 6016,
+                "original_h": 3232,
+                "thumb_tiny": "AwAZADCWJZJc4cjB7mpPIl\/56D86LLpJ9f6VYX+L60AV\/Il\/56D86PIl\/wCeg\/M1aFFAGTNLICBvYcetQCR1OQzD8afcH5hUTdqANK2lWPfuzyfSphcRjPJ5OelU6KALguo89\/ypftUfv+VURS0AQztgjiot3tUlx1X6VDQB\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04T201950F\/F062AU0MHDL\/screen_shot_2023-10-24_at_18.54.37.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062AU0MHDL-da7d40e196",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04T201950F",
+        "display_as_bot": false,
+        "ts": "1698141295.221459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4P3gn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんか追加できる製品とできない製品がありますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ecad27ba-8dc5-4262-8da6-3cbe33827166",
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "d921aaf9-a57c-411d-91c4-85ce25f76bdc",
+        "type": "message",
+        "text": "既に登録してるものはできないので、それかも\n422？",
+        "user": "U04T9TDB58W",
+        "ts": "1698141323.420509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLg3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "既に登録してるものはできないので、それかも\n422？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e1bd9c4-b75a-4400-af7f-1d602fdd983f",
+        "type": "message",
+        "text": "422ですね",
+        "user": "U04T201950F",
+        "ts": "1698141343.809479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCmUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "422ですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BC5F5908-139A-4A90-BCA2-0A149301CA1C",
+        "type": "message",
+        "text": "すでに所持品の中に入ってるものは追加されないです",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698141343.826589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRZSW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すでに所持品の中に入ってるものは追加されないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "8b37e391-60f7-43f9-9855-716eefd7929a",
+        "type": "message",
+        "text": "デモのときは追加されてない商品確認しながらやります\n名前も画像も似てるので発表微妙になるかも",
+        "user": "U04T201950F",
+        "ts": "1698141439.665759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJXGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "デモのときは追加されてない商品確認しながらやります\n名前も画像も似てるので発表微妙になるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "471ba256-f63b-4221-94ae-e1a2b23a50c5",
+        "type": "message",
+        "text": "昨日の話、やるなら商品追加ページ内で検索かける際は所持品にある商品は除いて結果に出さない。とかにすると解消するかな...\nBE側でやるなら所持品のidの配列リクエストで一緒に投げてもらうとか",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698197823.492679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihfwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の話、やるなら商品追加ページ内で検索かける際は所持品にある商品は除いて結果に出さない。とかにすると解消するかな...\nBE側でやるなら所持品のidの配列リクエストで一緒に投げてもらうとか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698198019.000000"
+        }
+    },
+    {
+        "client_msg_id": "be0c86a0-d1a0-4c25-be7c-3f9cc8ebf0a6",
+        "type": "message",
+        "text": "フロントでフィルターかけることも可能ですよね\n選択不可にしておけばおk",
+        "user": "U04T9TDB58W",
+        "ts": "1698203650.933019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jha0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フロントでフィルターかけることも可能ですよね\n選択不可にしておけばおk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa1698fc-b638-4785-81a8-af55e4af549b",
+        "type": "message",
+        "text": "&gt;  選択不可にしておけばおk\n追加しようとしたら、もうリストに入れてる商品だった。の動き確かに良さそうです:raised_hands:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698204006.645729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EjmwS",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 選択不可にしておけばおk"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n追加しようとしたら、もうリストに入れてる商品だった。の動き確かに良さそうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

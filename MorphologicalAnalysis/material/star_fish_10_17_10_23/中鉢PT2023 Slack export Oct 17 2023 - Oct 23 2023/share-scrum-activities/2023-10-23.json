@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "c0aa17d4-aff4-4274-b431-1d54721596af",
+        "type": "message",
+        "text": "昨日リリースしました。\n今週何をやったかを整理しておきます",
+        "user": "U04T9TDB58W",
+        "ts": "1698071339.578989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EwLf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日リリースしました。\n今週何をやったかを整理しておきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698019215.902649",
+        "parent_user_id": "USLACKBOT"
+    }
+]

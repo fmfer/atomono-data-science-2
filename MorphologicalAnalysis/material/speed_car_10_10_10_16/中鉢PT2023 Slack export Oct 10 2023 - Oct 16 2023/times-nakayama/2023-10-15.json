@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "943e305f-d3de-4d79-b7e3-bfcec2487562",
+        "type": "message",
+        "text": "今季アニメは「豚のレバーは加熱しろ」やな。",
+        "user": "U04TV4NASPK",
+        "ts": "1697360570.550399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlDtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今季アニメは「豚のレバーは加熱しろ」やな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "376ed486-7a09-47a7-a36d-b613f66dcb2a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=92wlZxb1kr8&amp;t=98s>\nポチってしまった",
+        "user": "U04TV4NASPK",
+        "ts": "1697374930.663039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E61BK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=92wlZxb1kr8&t=98s"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nポチってしまった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=92wlZxb1kr8&amp;t=98s",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/92wlZxb1kr8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/92wlZxb1kr8?feature=oembed&start=98&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"🔴SALE速報🔴Amazon Prime感謝祭【これ飲んで】お手頃ワイン｜安旨ワイン｜ソムリエおすすめ｜家飲みに！\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=92wlZxb1kr8&amp;t=98s",
+                "fallback": "YouTube Video: 🔴SALE速報🔴Amazon Prime感謝祭【これ飲んで】お手頃ワイン｜安旨ワイン｜ソムリエおすすめ｜家飲みに！",
+                "title": "🔴SALE速報🔴Amazon Prime感謝祭【これ飲んで】お手頃ワイン｜安旨ワイン｜ソムリエおすすめ｜家飲みに！",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=92wlZxb1kr8&amp;t=98s",
+                "author_name": "あなたの専属ソムリエ あゆ【ワインのある暮らし】",
+                "author_link": "https:\/\/www.youtube.com\/@ayu.vinvivant",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

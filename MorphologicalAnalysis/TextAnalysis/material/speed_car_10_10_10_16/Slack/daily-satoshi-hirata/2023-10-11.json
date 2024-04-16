@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "759c32a9-fa1b-478e-9892-b87c74cdb6c8",
+        "type": "message",
+        "text": "2023\/10\/11(水)\n認証認可基底レイヤー実装 1h\nユーザの所持品リストに商品を追加するAPIの設計・作成 3.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697045669.101579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rj+\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/11(水)\n認証認可基底レイヤー実装 1h\nユーザの所持品リストに商品を追加するAPIの設計・作成 3.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697045710.000000"
+        }
+    }
+]

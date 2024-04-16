@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "0d27ccdf-d930-49b9-b506-50cfdff1e077",
+        "type": "message",
+        "text": "先の話になりますが、10\/28は不在です。朝から一日VueFesに行ってきます\n<https:\/\/vuefes.jp\/2023\/#timetable>",
+        "user": "U04T9TDB58W",
+        "ts": "1697008846.683119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyd3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先の話になりますが、10\/28は不在です。朝から一日VueFesに行ってきます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vuefes.jp\/2023\/#timetable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/vuefes.jp\/2023\/#timetable",
+                "image_url": "https:\/\/vuefes.jp\/2023\/og\/top.png",
+                "image_width": 1201,
+                "image_height": 631,
+                "image_bytes": 64335,
+                "service_icon": "https:\/\/vuefes.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/vuefes.jp\/2023\/#timetable",
+                "fallback": "Vue Fes Japan 2023",
+                "text": "2023年10月28日（土）に開催される日本最大級の Vue.js カンファレンスです。国内外の著名スピーカーによるセッションの他、LT、初心者向けハンズオン、グッズ販売などのイベントも企画しています。ぜひ一緒に Vue.js を楽しみ、盛り上げていきましょう！",
+                "title": "Vue Fes Japan 2023",
+                "title_link": "https:\/\/vuefes.jp\/2023\/#timetable",
+                "service_name": "vuefes.jp"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "0783df66-0a1f-4f9c-b6e6-c2cbcc8f28bf",
+        "type": "message",
+        "text": "QA",
+        "user": "U04U66DSPEU",
+        "ts": "1699275613.829849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEPxK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "QA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699228820.002459",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "4549d806-f594-4267-9379-c37a3b62245d",
+        "type": "message",
+        "text": "開発、メニューコンポーネント化",
+        "user": "U04U66DSPEU",
+        "ts": "1699275634.904279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wVvy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開発、メニューコンポーネント化"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699142430.068649",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "2337a860-32c3-4a29-bcfc-810771816f5d",
+        "type": "message",
+        "text": "メニューコンポーネント化",
+        "user": "U04U66DSPEU",
+        "ts": "1699275656.291849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWV+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メニューコンポーネント化"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699056028.331459",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9C383310-B8BF-4E70-A198-3304F608186D",
+        "type": "message",
+        "text": "モーダルのレスポンシブ対応のレビュー指摘対応",
+        "user": "U04U66DNCRE",
+        "ts": "1699282040.625069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1htO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モーダルのレスポンシブ対応のレビュー指摘対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699142430.068649",
+        "parent_user_id": "USLACKBOT"
+    }
+]

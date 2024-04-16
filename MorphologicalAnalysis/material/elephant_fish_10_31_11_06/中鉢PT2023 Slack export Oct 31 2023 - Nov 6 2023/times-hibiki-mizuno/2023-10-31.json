@@ -1,0 +1,556 @@
+[
+    {
+        "client_msg_id": "53e71077-1771-4c73-84c7-2a63fd8edfa4",
+        "type": "message",
+        "text": "mendan",
+        "user": "U04T9TDB58W",
+        "ts": "1698745164.256609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6wsQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mendan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のオープンドアの時間は設定しましたか？",
+        "user": "USLACKBOT",
+        "ts": "1698753610.128579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxBrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のオープンドアの時間は設定しましたか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698753610.128579",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698763478.246639",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698763478.246639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f40a33bd-6701-40d0-b870-6d3655af383e",
+        "type": "message",
+        "text": "したよ",
+        "user": "U04T9TDB58W",
+        "ts": "1698763478.246639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLhDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "したよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698753610.128579",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "4cf1ff3b-612d-4c2a-87bd-ba64df83b82e",
+        "type": "message",
+        "text": "slack, 仕様変わったでしょ\n通知がPC版とかに吸われるようになった",
+        "user": "U04T9TDB58W",
+        "ts": "1698763694.808159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+UjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slack, 仕様変わったでしょ\n通知がPC版とかに吸われるようになった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "934719dc-3383-4155-98b1-04c60c266e8a",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-596> これやるかぁ〜",
+        "user": "U04T9TDB58W",
+        "ts": "1698768597.212329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUsHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-596"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これやるかぁ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10627::f0e619e0780711ee97aee9999185500b",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-596?atlOrigin=eyJpIjoiZTllNDJhZTc0NjQxNGUyNmI1MWNmYTBmYzZjNGRlZWMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-596 FE: staging環境(devのデプロイ)を用意し、常にdeployされている状況にする>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10627::f0e619e2780711ee97aee9999185500b",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/story.png",
+                                "alt_text": "Story"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Story*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "HibikiMizuno"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *HibikiMizuno*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10627::f0e619e1780711ee97aee9999185500b",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10627\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10627\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-596",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce254224-b2b4-4fe2-a5a8-e56ab5483f87",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> 次を日本語に訳せ <https:\/\/docs.gitlab.com\/ee\/ci\/caching\/>",
+        "user": "U04T9TDB58W",
+        "ts": "1698818366.129299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xhnsz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 次を日本語に訳せ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.gitlab.com\/ee\/ci\/caching\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698818384.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/docs.gitlab.com\/ee\/ci\/caching\/",
+                "service_icon": "https:\/\/docs.gitlab.com\/assets\/images\/apple-touch-icon.png?v=2",
+                "id": 1,
+                "original_url": "https:\/\/docs.gitlab.com\/ee\/ci\/caching\/",
+                "fallback": "Caching in GitLab CI\/CD | GitLab",
+                "text": "GitLab product documentation.",
+                "title": "Caching in GitLab CI\/CD | GitLab",
+                "title_link": "https:\/\/docs.gitlab.com\/ee\/ci\/caching\/",
+                "service_name": "docs.gitlab.com"
+            }
+        ],
+        "thread_ts": "1698818366.129299",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698818603.760779",
+        "reply_users": [
+            "U05KW1T3HBQ",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698818384.336249"
+            },
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698818402.743969"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698818603.760779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " はい、次の文章を日本語に訳します。\n\n&lt;main&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュとアーティファクトの違い&lt;\/a&gt; \n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;アーティファクト&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;キャッシュのベストプラクティス&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;複数のキャッシュを使用する&lt;\/a&gt;&lt;\/li&gt;  \n&lt;li&gt;\n&lt;a&gt;フォールバックキャッシュキーを使用する&lt;\/a&gt;\n&lt;ul&gt;  \n&lt;li&gt;&lt;a&gt;キャッシュごとのフォールバックキー&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;グローバルフォールバックキー&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;特定のジョブでキャッシュを無効にする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;グローバル設定を継承し、ジョブごとに特定の設定を上書きする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの一般的な使用例&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;同じブランチのジョブ間でキャッシュを共有する&lt;\/a&gt;&lt;\/li&gt;  \n&lt;li&gt;&lt;a&gt;異なるブランチのジョブ間でキャッシュを共有する&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;変数を使ってジョブのキャッシュポリシーを制御する&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;Node.jsの依存関係をキャッシュする&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;ロックファイルからキャッシュキーを計算する&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;  \n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;PHPの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Pythonの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Rubyの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Goの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの利用可能性&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの保存場所&lt;\/a&gt;\n&lt;ul&gt;  \n&lt;li&gt;\n&lt;a&gt;キャッシュキー名&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;全てのブランチで同じキャッシュを使用する&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt; \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;アーカイブと展開の仕組み&lt;\/a&gt;&lt;\/li&gt; \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュのクリア&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;&lt;code&gt;cache:key&lt;\/code&gt; を変更してキャッシュをクリアする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;手動でキャッシュをクリアする&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt; \n&lt;li&gt;\n&lt;a&gt;トラブルシューティング&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの不一致&lt;\/a&gt; \n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ不一致の例1&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ不一致の例2&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;並列ランナーがローカルキャッシュを",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698818384.336249",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SD2Zp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、次の文章を日本語に訳します。\n\n<main>\n<ul>\n<li>\n<a>キャッシュとアーティファクトの違い<\/a> \n<ul>\n<li><a>キャッシュ<\/a><\/li>\n<li><a>アーティファクト<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>キャッシュのベストプラクティス<\/a><\/li>\n<li><a>複数のキャッシュを使用する<\/a><\/li>  \n<li>\n<a>フォールバックキャッシュキーを使用する<\/a>\n<ul>  \n<li><a>キャッシュごとのフォールバックキー<\/a><\/li>\n<li><a>グローバルフォールバックキー<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>特定のジョブでキャッシュを無効にする<\/a><\/li>\n<li><a>グローバル設定を継承し、ジョブごとに特定の設定を上書きする<\/a><\/li>\n<li>\n<a>キャッシュの一般的な使用例<\/a>\n<ul>\n<li><a>同じブランチのジョブ間でキャッシュを共有する<\/a><\/li>  \n<li><a>異なるブランチのジョブ間でキャッシュを共有する<\/a><\/li>\n<li><a>変数を使ってジョブのキャッシュポリシーを制御する<\/a><\/li>\n<li>\n<a>Node.jsの依存関係をキャッシュする<\/a>\n<ul>\n<li><a>ロックファイルからキャッシュキーを計算する<\/a><\/li>\n<\/ul>  \n<\/li>\n<li><a>PHPの依存関係をキャッシュする<\/a><\/li>\n<li><a>Pythonの依存関係をキャッシュする<\/a><\/li>\n<li><a>Rubyの依存関係をキャッシュする<\/a><\/li>\n<li><a>Goの依存関係をキャッシュする<\/a><\/li>\n<\/ul>\n<\/li>\n<li>\n<a>キャッシュの利用可能性<\/a>\n<ul>\n<li>\n<a>キャッシュの保存場所<\/a>\n<ul>  \n<li>\n<a>キャッシュキー名<\/a>\n<ul>\n<li><a>全てのブランチで同じキャッシュを使用する<\/a><\/li>\n<\/ul>\n<\/li> \n<\/ul>\n<\/li>\n<li><a>アーカイブと展開の仕組み<\/a><\/li> \n<\/ul>\n<\/li>\n<li>\n<a>キャッシュのクリア<\/a>\n<ul>\n<li><a><code>cache:key<\/code> を変更してキャッシュをクリアする<\/a><\/li>\n<li><a>手動でキャッシュをクリアする<\/a><\/li>\n<\/ul>\n<\/li> \n<li>\n<a>トラブルシューティング<\/a>\n<ul>\n<li>\n<a>キャッシュの不一致<\/a> \n<ul>\n<li><a>キャッシュ不一致の例1<\/a><\/li>\n<li><a>キャッシュ不一致の例2<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>並列ランナーがローカルキャッシュを"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "deleted": false,
+            "name": "Claude",
+            "updated": 1691033238,
+            "app_id": "A04KGS7N9A8",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698818430.000000"
+        },
+        "thread_ts": "1698818366.129299",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " はい、次のように翻訳します。\n\n&lt;main&gt;\n\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュとアーティファクトの違い&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ&lt;\/a&gt;&lt;\/li&gt;  \n&lt;li&gt;&lt;a&gt;アーティファクト&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;キャッシュのベストプラクティス&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;複数のキャッシュを使う&lt;\/a&gt;&lt;\/li&gt;  \n&lt;li&gt;\n&lt;a&gt;フォールバックキャッシュキーを使う&lt;\/a&gt;\n&lt;ul&gt;  \n&lt;li&gt;&lt;a&gt;キャッシュごとのフォールバックキー&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;グローバルフォールバックキー&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;特定のジョブのキャッシュを無効にする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;グローバル設定は継承しつつ、ジョブごとに特定の設定を上書きする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの一般的な使用例&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;同じブランチのジョブ間でキャッシュを共有する&lt;\/a&gt;&lt;\/li&gt;  \n&lt;li&gt;&lt;a&gt;異なるブランチのジョブ間でキャッシュを共有する&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;変数を使ってジョブのキャッシュポリシーを制御する&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;Node.jsの依存関係をキャッシュする&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;ロックファイルからキャッシュキーを計算する&lt;\/a&gt;&lt;\/li&gt; \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;PHPの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Pythonの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Rubyの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;Goの依存関係をキャッシュする&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの利用可能性&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;  \n&lt;a&gt;キャッシュの保存場所&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュキーの名前&lt;\/a&gt;  \n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;すべてのブランチで同じキャッシュを使う&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt; \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;アーカイブと展開の仕組み&lt;\/a&gt;&lt;\/li&gt; \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュのクリア&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;&lt;code&gt;cache:key&lt;\/code&gt; を変更してキャッシュをクリアする&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;キャッシュを手動でクリアする&lt;\/a&gt;&lt;\/li&gt;  \n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;\n&lt;a&gt;トラブルシューティング&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;a&gt;キャッシュの不一致&lt;\/a&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ不一致の例1&lt;\/a&gt;&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;キャッシュ不一致の例2&lt;\/a&gt;&lt;\/li&gt;\n&lt;\/ul&gt;\n&lt;\/li&gt;\n&lt;li&gt;&lt;a&gt;同時実行ランナーがローカルキャ",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698818402.743969",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0R+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、次のように翻訳します。\n\n<main>\n\n<ul>\n<li>\n<a>キャッシュとアーティファクトの違い<\/a>\n<ul>\n<li><a>キャッシュ<\/a><\/li>  \n<li><a>アーティファクト<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>キャッシュのベストプラクティス<\/a><\/li>\n<li><a>複数のキャッシュを使う<\/a><\/li>  \n<li>\n<a>フォールバックキャッシュキーを使う<\/a>\n<ul>  \n<li><a>キャッシュごとのフォールバックキー<\/a><\/li>\n<li><a>グローバルフォールバックキー<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>特定のジョブのキャッシュを無効にする<\/a><\/li>\n<li><a>グローバル設定は継承しつつ、ジョブごとに特定の設定を上書きする<\/a><\/li>\n<li>\n<a>キャッシュの一般的な使用例<\/a>\n<ul>\n<li><a>同じブランチのジョブ間でキャッシュを共有する<\/a><\/li>  \n<li><a>異なるブランチのジョブ間でキャッシュを共有する<\/a><\/li>\n<li><a>変数を使ってジョブのキャッシュポリシーを制御する<\/a><\/li>\n<li>\n<a>Node.jsの依存関係をキャッシュする<\/a>\n<ul>\n<li><a>ロックファイルからキャッシュキーを計算する<\/a><\/li> \n<\/ul>\n<\/li>\n<li><a>PHPの依存関係をキャッシュする<\/a><\/li>\n<li><a>Pythonの依存関係をキャッシュする<\/a><\/li>\n<li><a>Rubyの依存関係をキャッシュする<\/a><\/li>\n<li><a>Goの依存関係をキャッシュする<\/a><\/li>\n<\/ul>\n<\/li>\n<li>\n<a>キャッシュの利用可能性<\/a>\n<ul>\n<li>  \n<a>キャッシュの保存場所<\/a>\n<ul>\n<li>\n<a>キャッシュキーの名前<\/a>  \n<ul>\n<li><a>すべてのブランチで同じキャッシュを使う<\/a><\/li>\n<\/ul>\n<\/li> \n<\/ul>\n<\/li>\n<li><a>アーカイブと展開の仕組み<\/a><\/li> \n<\/ul>\n<\/li>\n<li>\n<a>キャッシュのクリア<\/a>\n<ul>\n<li><a><code>cache:key<\/code> を変更してキャッシュをクリアする<\/a><\/li>\n<li><a>キャッシュを手動でクリアする<\/a><\/li>  \n<\/ul>\n<\/li>\n<li>\n<a>トラブルシューティング<\/a>\n<ul>\n<li>\n<a>キャッシュの不一致<\/a>\n<ul>\n<li><a>キャッシュ不一致の例1<\/a><\/li>\n<li><a>キャッシュ不一致の例2<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a>同時実行ランナーがローカルキャ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698818456.000000"
+        },
+        "thread_ts": "1698818366.129299",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "d28ef762-b931-4e79-bf97-a71ab7da7586",
+        "type": "message",
+        "text": "ありゃりゃ",
+        "user": "U04T9TDB58W",
+        "ts": "1698818603.760779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yS2RP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありゃりゃ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698818366.129299",
+        "parent_user_id": "U04T9TDB58W"
+    }
+]

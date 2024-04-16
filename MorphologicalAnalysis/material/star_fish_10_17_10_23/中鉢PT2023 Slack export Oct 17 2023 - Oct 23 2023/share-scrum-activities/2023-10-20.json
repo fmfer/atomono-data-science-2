@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "0ef29712-b792-42b5-b84b-fe207ddb07e3",
+        "type": "message",
+        "text": "所持品リスト追加画面用モーダルのリスポンシブ対応",
+        "user": "U04TDHFKJ85",
+        "ts": "1697804078.443209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwtVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リスト追加画面用モーダルのリスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697760011.801009",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697846410.727209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AXOHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697846410.727209",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697951911.075519",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697849088.818319"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697951911.075519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "213d6e74-27c1-44de-b9cd-d2672f1107e5",
+        "type": "message",
+        "text": "水野さんからもらってるレビューの修正\nレスポンシブ対応",
+        "user": "U04TV4NASPK",
+        "ts": "1697849088.818319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hc2tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水野さんからもらってるレビューの修正\nレスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697846410.727209",
+        "parent_user_id": "USLACKBOT"
+    }
+]

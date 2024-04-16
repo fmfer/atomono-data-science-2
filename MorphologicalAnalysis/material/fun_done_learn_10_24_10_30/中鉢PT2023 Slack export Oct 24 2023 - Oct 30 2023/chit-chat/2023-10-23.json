@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "5406eac8-3c74-49de-8e2c-d66cf72ed499",
+        "type": "message",
+        "text": "macお使いの方でOS Sonomaに上げた人います..? 開発環境で影響出たりしましたか?",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698111705.091059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gx2gY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "macお使いの方でOS Sonomaに上げた人います..? 開発環境で影響出たりしましたか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_multiplication_x",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

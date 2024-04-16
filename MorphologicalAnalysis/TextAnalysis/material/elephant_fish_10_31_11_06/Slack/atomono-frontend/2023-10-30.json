@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "43112a55-c0b4-41fd-945d-9061d3a51d6d",
+        "type": "message",
+        "text": "ありがとうございます！修正しましたー\nお時間のある時に再度ご確認お願いします！:man-bowing:",
+        "user": "U04U66DSPEU",
+        "ts": "1698680901.123249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kKga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！修正しましたー\nお時間のある時に再度ご確認お願いします！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584972.778849",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "6164f8ff-b90b-4e78-bf84-0b31fc907778",
+        "type": "message",
+        "text": "コメント返しました! <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1698727498.584629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13yPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コメント返しました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584972.778849",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "64ff30f4-b890-4d59-8272-d404483950f7",
+        "type": "message",
+        "text": "修正しましたー　お時間のある時にご確認ください:man-bowing:",
+        "user": "U04U66DSPEU",
+        "ts": "1698731676.243019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rYpp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しましたー　お時間のある時にご確認ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584972.778849",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

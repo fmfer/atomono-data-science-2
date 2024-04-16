@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "013815ad-1555-43fa-ae75-16e6b85019a3",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/becolomochi\/items\/3e8c9ea59b631cae6a61> へぇと思った",
+        "user": "U04T9TDB58W",
+        "ts": "1696961262.753819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/gGfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/becolomochi\/items\/3e8c9ea59b631cae6a61"
+                            },
+                            {
+                                "type": "text",
+                                "text": " へぇと思った"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9aW5zZXQlRTMlODMlOTclRTMlODMlQUQlRTMlODMlOTElRTMlODMlODYlRTMlODIlQTMlRTMlODElQTclRTMlODElQTQlRTMlODElOEYlRTMlODIlOEIlRTQlQjglOEElRTQlQjglOEIlRTUlQjclQTYlRTUlOEYlQjMlRTQlQjglQUQlRTUlQTQlQUUlRTYlOEYlODMlRTMlODElODgmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWRhMzAyOGRhYTMzMTU1OWM3NGI0YTI4YWQxNGY2Mzk3&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwYmVjb2xvbW9jaGkmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWUyZjlhOWI3OTRkNTNlMGI0YWVmMGNjMmIyMWUwMGU2&blend-x=142&blend-y=491&blend-mode=normal&s=75294a179df23f56839a5eded45ee116",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 38276,
+                "from_url": "https:\/\/qiita.com\/becolomochi\/items\/3e8c9ea59b631cae6a61",
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/becolomochi\/items\/3e8c9ea59b631cae6a61",
+                "fallback": "Qiita: insetプロパティでつくる上下左右中央揃え - Qiita",
+                "text": "ひとりCSS Advent Calendar 2022 23日目です。inset プロパティを使ってみますinset プロパティとは<https:\/\/developer.mozilla.org\/>…",
+                "title": "insetプロパティでつくる上下左右中央揃え - Qiita",
+                "title_link": "https:\/\/qiita.com\/becolomochi\/items\/3e8c9ea59b631cae6a61",
+                "service_name": "Qiita"
+            }
+        ]
+    }
+]

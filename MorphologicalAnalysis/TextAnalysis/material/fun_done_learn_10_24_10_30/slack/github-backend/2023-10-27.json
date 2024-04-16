@@ -1,0 +1,215 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698410323.109379",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1698410425.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698410320,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-588|AT-588> railsのバージョンを固定する\n\n*概要*\n\nDraft: build(deps): bump rails from 7.0.8 to 7.1.0  \n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/87|#87>\n\nへの暫定対応。`rails 7.1.0` からテスト環境でPOSTリクエストが正常に動作しなくなり  \nまた開発環境下でのデバッグ時のブレークポイントの挙動が怪しい  \n(あまりやりたくないですが)恒久対応できるまでしばらく固定にします\n\n*実装内容*\n\n☑︎ railsのverを `7.0.8` で固定\n\n*テスト*\n\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/99|#99 AT-588  railsのバージョンを固定する>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:99,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/99&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-588  railsのバージョンを固定する&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698410367.549499",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698410363,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #99",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/99#issuecomment-1782847549|Comment on #99 AT-588  railsのバージョンを固定する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698410371.236039",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/d948f22d4bd28ca78058e5ab883ec20646d94ac1|d948f22d>` - AT-588 railsのバージョンを固定する (#99)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/5ca913102b45...d948f22d4bd2|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698410371.868289",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698410320,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/99|#99 AT-588  railsのバージョンを固定する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698412775.110049",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698412770,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #99",
+                "text": "テストFW側が対応したら再チャレンジする",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/99#issuecomment-1782905042|Comment on #99 AT-588  railsのバージョンを固定する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

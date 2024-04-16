@@ -1,0 +1,411 @@
+[
+    {
+        "client_msg_id": "c9ab3da7-7a6d-43cd-80a1-1229b150b679",
+        "type": "message",
+        "text": "<!here>\nマンスリーレビューの日程ですが３名の方の予定が合うのが10\/27(金)しかないです。そのため10\/27の20:00- でいいでしょうか\n不可なら五十嵐先生が予定合わないので、五十嵐先生と予定を再度調整します。",
+        "user": "U04TV4NASPK",
+        "ts": "1697969728.798519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3253w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマンスリーレビューの日程ですが３名の方の予定が合うのが10\/27(金)しかないです。そのため10\/27の20:00- でいいでしょうか\n不可なら五十嵐先生が予定合わないので、五十嵐先生と予定を再度調整します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697969728.798519",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697978067.611189",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T9TDB58W",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697970066.298969"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697975638.657669"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697977548.551029"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697978067.611189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04TDHFKJ85",
+                    "U04T201950F",
+                    "U04U66DNCRE",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52caa6d7-321c-425b-84f7-81df212a1373",
+        "type": "message",
+        "text": "一応他日程も空いてないかは五十嵐先生に確認メールした。",
+        "user": "U04TV4NASPK",
+        "ts": "1697970066.298969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ma6SZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応他日程も空いてないかは五十嵐先生に確認メールした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697969728.798519",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "34a35011-a262-4aae-80fe-2c4c2124a58e",
+        "type": "message",
+        "text": "<!here>\n来週のコアミーティングのアウトプット内容各自でJIRチケットと紐づけて記載してください。\n紹介は特にしないですが先生への共有のため記載はしておこうかと思います。\n\n<https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#b90962a78ef549e8a2cbb74015db1504|https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#b90962a78ef549e8a2cbb74015db1504>\n\n<@U04T201950F>\n再度、プレゼンをお願いするので合わせて記載や発表準備をお願いします。",
+        "user": "U04TV4NASPK",
+        "ts": "1697975506.711309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zojt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n来週のコアミーティングのアウトプット内容各自でJIRチケットと紐づけて記載してください。\n紹介は特にしないですが先生への共有のため記載はしておこうかと思います。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#b90962a78ef549e8a2cbb74015db1504",
+                                "text": "https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#b90962a78ef549e8a2cbb74015db1504"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n再度、プレゼンをお願いするので合わせて記載や発表準備をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697976038.000000"
+        },
+        "thread_ts": "1697975506.711309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698021894.427719",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698021894.427719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6980729-5059-40b7-b83c-b3663db11562",
+        "type": "message",
+        "text": "間に合うかどうかわからないけど、頑張ります。会社から参加する。",
+        "user": "U04T9TDB58W",
+        "ts": "1697975638.657669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quKZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間に合うかどうかわからないけど、頑張ります。会社から参加する。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697969728.798519",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86485107-da8d-4b5c-b29e-a015a9b0a3db",
+        "type": "message",
+        "text": "10\/27(金)の20:00- 柴田先生との1on1予定でした...\n柴田先生に相談します:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697977548.551029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRO2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10\/27(金)の20:00- 柴田先生との1on1予定でした...\n柴田先生に相談します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697969728.798519",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "e8eec326-bf70-4de1-889a-d08da8ae923e",
+        "type": "message",
+        "text": "すんません、ずらしてもらえると。",
+        "user": "U04TV4NASPK",
+        "ts": "1697978067.611189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tKtBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すんません、ずらしてもらえると。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697969728.798519",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d413895e-2d23-4f5c-8631-f50824ce7f3d",
+        "type": "message",
+        "text": "先生たちに確定のメールしました。",
+        "user": "U04TV4NASPK",
+        "ts": "1698021894.427719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuMVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先生たちに確定のメールしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1698021906.000000"
+        },
+        "thread_ts": "1697975506.711309",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

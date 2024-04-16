@@ -1,0 +1,1056 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699020791.760949",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699021512.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699020788,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-608|AT-608> 本番環境用変数とsecrets.yml追加\n\n*概要*\n*実装内容*\n\n☑︎ 本番環境用DBへの接続情報を参照する変数を追加\n☑︎ secrets.yml に環境毎の`secret_key_base`を追加\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*\n\n本番環境の `secrets_key_base` は別途PBLのフォルダ内で共有",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/104|#104 AT-608 本番環境用変数とsecrets.yml追加>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:104,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/104&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-608 本番環境用変数とsecrets.yml追加&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699021507.688859",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699021500,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #104",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/104#issuecomment-1792530683|Comment on #104 AT-608 本番環境用変数とsecrets.yml追加>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699021510.145439",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699020788,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/104|#104 AT-608 本番環境用変数とsecrets.yml追加>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699021511.064479",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/db0446a70e9a8322fd31bfd94b9fee08e4317a86|db0446a7>` - AT-608 本番環境用変数とsecrets.yml追加 (#104)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/615db90a1082...db0446a70e9a|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699022373.835619",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699022790.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699022369,
+                "color": "36a64f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-609|AT-609> 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する\n\n*概要*\n*実装内容*\n\n☑︎ 本番デプロイ毎に必要なコマンドをentrypoint.shに追記\n\n*テスト*\n\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105|#105 AT-609 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:105,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-609 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699022741.366919",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/46deb31bb61ce1a719d638790127b431822daaa5|46deb31b>` - AT-609 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する (#105)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/db0446a70e9a...46deb31bb61c|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699022743.399449",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699022612,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #105",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105#issuecomment-1792571935|Comment on #105 AT-609 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699022751.355049",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699022369,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105|#105 AT-609 本番デプロイ毎に必要なコマンドをentrypoint.shに追記する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699031537.071809",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699033804.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699023627,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by broccoli1002",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572|https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572>\n\n*概要*\n\nカテゴリ用の閉包テーブルのマイグレーションとモデルを作成した。  \n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698847519364919?thread_ts=1698563361.893189&amp;cid=C054R4216MB|slack>\n\n*実装内容*\n\n☑︎ 閉包テーブルのマイグレーションとモデルの実装\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "pretext": "Pull request opened by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106|#106 add category_hierarchy>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/broccoli1002|@broccoli1002>, <@U04TGBZ4XEX>",
+                        "title": "Reviewers",
+                        "short": true
+                    },
+                    {
+                        "value": "5",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:106,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;add category_hierarchy&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699032092.866279",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699023799,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<@U04TGBZ4XEX> レビューをお願いします。名前など気になるとこあればご指摘ください。",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#issuecomment-1792604331|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699032256.234579",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699024035,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "root_category_idの方が良いかも",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381831738|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699032291.118439",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699024067,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "child_category_idの方が良いかも",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381832354|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699032974.855209",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698940197,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103|#103 現行品、廃盤品、画像取得部分を修正:絶対パスを使用>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033012.564129",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699025751,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #103",
+                "text": "<https:\/\/github.com\/fmfer|@fmfer> 修正されたURLに正常にアクセス、画像が取得できることを確認しました。LGTMです！  \nマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103#issuecomment-1792663010|Comment on #103 現行品、廃盤品、画像取得部分を修正:絶対パスを使用>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033050.083069",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/65e983a0daddab64c9d16f6129f52bc51c4b1eeb|65e983a0>` - 現行品、廃盤品、画像取得部分を修正:絶対パスを使用 (#103)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/46deb31bb61c...65e983a0dadd|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033111.898789",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026078,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "同意見です、もしお手間でなければ修正いただけますと助かります :bow:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381897992|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033118.438989",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699033148.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026108,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106\/files#r1381897992|https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106\/files#r1381897992> のコメント同様です :bow:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381898863|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033304.065949",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699033347.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026262,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<https:\/\/github.com\/broccoli1002|@broccoli1002> 事前に設計いただいた内容通りであること、マイグレーションのup\/downが正常に実行できることを確認しました  \nカラム名の部分だけコメントしました、他は大丈夫そうです :pray:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#issuecomment-1792677169|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033359.790379",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699025980,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": ":raised_hands:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381895352|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033429.002789",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026818,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<https:\/\/github.com\/broccoli1002|@broccoli1002> ご対応ありがとうございます！レビューで漏れがありすみません、1点追加でコメントしました  \nお手数ですがご確認よろしくお願い致します :bow:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#issuecomment-1792692684|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033488.074079",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026535,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<@U04TGBZ4XEX> 修正しました。",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#issuecomment-1792685261|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033547.102819",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699034010.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699027168,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "typoすみません",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/broccoli1002|broccoli1002>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381920282|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033729.237599",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699026638,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<https:\/\/github.com\/broccoli1002|@broccoli1002>  \n細かな箇所をすみません.. 先のレビューで漏れました :pray:  \n`Maste::Category` → `Master::Category` に修正お願いできますでしょうか :bow:",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#discussion_r1381909982|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033750.565429",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699027493,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #106",
+                "text": "<https:\/\/github.com\/broccoli1002|@broccoli1002> マイグレーションとコメント箇所の修正を確認しました、ご対応ありがとうございますLGTMです！  \nマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106#issuecomment-1792710254|Comment on #106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033802.822359",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699023627,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106|#106 add category_hierarchy>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699033878.386829",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/955ae9f5ebe9f5138831230b74e19690805425ab|955ae9f5>` - add category_hierarchy (#106)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/65e983a0dadd...955ae9f5ebe9|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

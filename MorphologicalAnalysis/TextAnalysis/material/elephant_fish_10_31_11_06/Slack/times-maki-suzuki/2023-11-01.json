@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "90516930-ff60-41ea-bd54-7d68daa07973",
+        "type": "message",
+        "text": "週報かいてなかったので、いまからやります",
+        "user": "U04TDHFKJ85",
+        "ts": "1698846297.745839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzWPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報かいてなかったので、いまからやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846297.745839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698847864.628059",
+        "reply_users": [
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698847864.628059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "587c077f-d96d-433e-9f5c-f9bf2115fbb7",
+        "type": "message",
+        "text": "週報終わったので寝ます:zzz:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698847864.628059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3KTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報終わったので寝ます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zzz",
+                                "unicode": "1f4a4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846297.745839",
+        "parent_user_id": "U04TDHFKJ85"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "ab468335-42c5-4995-9e8d-f6681a7aef91",
+        "type": "message",
+        "text": "pingでのtoken云々記事出てこないし難しそう..\nアプリ独自のtokenでやり取りするならログイン\/登録完了のタイミングで1回POSTしてもらう方が現実的かも\nでもリクエストヘッダーにbearer token常時載せてもらうほうが多分楽... かな..",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697182956.447859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jc3vF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pingでのtoken云々記事出てこないし難しそう..\nアプリ独自のtokenでやり取りするならログイン\/登録完了のタイミングで1回POSTしてもらう方が現実的かも\nでもリクエストヘッダーにbearer token常時載せてもらうほうが多分楽... かな.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697188022.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b34783f-4fbb-474e-ba72-7a16372adbc1",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Headers\/Authorization#syntax>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697261402.647259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+eQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Headers\/Authorization#syntax"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.cd6c4a5a.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 23824,
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Headers\/Authorization#syntax",
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.6803c6f0.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Headers\/Authorization#syntax",
+                "fallback": "Authorization - HTTP | MDN",
+                "text": "The HTTP Authorization request header can be used to provide credentials that authenticate a user agent with a server, allowing access to a protected resource.",
+                "title": "Authorization - HTTP | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Headers\/Authorization#syntax",
+                "service_name": "developer.mozilla.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abdde9be-ab2c-4963-9261-8057dd9e516f",
+        "type": "message",
+        "text": "HTTP\n```# Syntax\nAuthorization: &lt;auth-scheme&gt; &lt;authorization-parameters&gt;```",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697261451.248829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2mdcS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HTTP\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Syntax\nAuthorization: <auth-scheme> <authorization-parameters>"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3874e0d-6fd4-4bd5-bd99-5673bbea4399",
+        "type": "message",
+        "text": "BE側\n```request.headers['HTTP_AUTHORIZATION']\n=> \"Bearer eyJhbGciOiJSUzI1NiIs....```\n",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697261546.086889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seITT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BE側\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "request.headers['HTTP_AUTHORIZATION']\n=> \"Bearer eyJhbGciOiJSUzI1NiIs...."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697261599.000000"
+        }
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697932824.660919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xnk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697932824.660919",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1698078832.306509",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T9TDB58W",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697939650.422959"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697949645.255149"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697968579.524479"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698078832.306509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a817aca0-0ccd-491c-89ef-f8a5deb13973",
+        "type": "message",
+        "text": "レスポンシブ対応",
+        "user": "U04TV4NASPK",
+        "ts": "1697939650.422959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5La61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697932824.660919",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "79857904-b670-464b-862e-332aa3411b3d",
+        "type": "message",
+        "text": "昨日から認証の検証を進めています",
+        "user": "U04T9TDB58W",
+        "ts": "1697949645.255149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YNhH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日から認証の検証を進めています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697932824.660919",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0d789b63-b8c1-47db-80e1-7bd9ee8c2ab4",
+        "type": "message",
+        "text": "廃盤マーク配置調整、文字大小調整",
+        "user": "U04U66DSPEU",
+        "ts": "1697951715.083219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIYXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "廃盤マーク配置調整、文字大小調整"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697673614.357389",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "00f6f791-a035-4f76-8878-528f9eaa098d",
+        "type": "message",
+        "text": "Feature\/at 554\/responsive user products",
+        "user": "U04U66DSPEU",
+        "ts": "1697951840.035999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ak3GT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feature\/at 554\/responsive user products"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697760011.801009",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9f4ebd18-3f1a-4eaa-bdee-6694f456cee6",
+        "type": "message",
+        "text": "AT-554、所持品リストレスポンシブ対応 レビューの修正",
+        "user": "U04U66DSPEU",
+        "ts": "1697951911.075519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgzMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AT-554、所持品リストレスポンシブ対応 レビューの修正"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697846410.727209",
+        "parent_user_id": "USLACKBOT"
+    }
+]

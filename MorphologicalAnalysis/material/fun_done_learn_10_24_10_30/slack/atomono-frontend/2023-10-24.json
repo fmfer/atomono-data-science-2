@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "83540019-10b9-4dcf-8ef2-b891dc84a0af",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/31>　POC取り込みました",
+        "user": "U04T9TDB58W",
+        "ts": "1698176736.296339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaH0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/31"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　POC取り込みました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a81fc9f6-2934-4518-8c52-ef8963b73f62",
+        "type": "message",
+        "text": "↑ <@U04TDHFKJ85> (remind)\n\n参考: <https:\/\/typescriptbook.jp\/reference\/functions\/optional-parameters>",
+        "user": "U04T9TDB58W",
+        "ts": "1698205797.694089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKKJB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (remind)\n\n参考: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/typescriptbook.jp\/reference\/functions\/optional-parameters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/typescriptbook.jp\/reference\/functions\/optional-parameters",
+                "image_url": "https:\/\/tsbook-og-image.vercel.app\/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E5%BC%95%E6%95%B0%20(optional%20parameter).png?pattern=cross&md=0&fontSize=75px&textColor=%23ffffff&textStrongColor=%238340BB&overlay=https%3A%2F%2Fraw.githubusercontent.com%2Fyytypescript%2Fog-image%2Fmain%2Fpublic%2Fogp-overlay.svg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 55762,
+                "id": 1,
+                "original_url": "https:\/\/typescriptbook.jp\/reference\/functions\/optional-parameters",
+                "fallback": "オプション引数 (optional parameter) | TypeScript入門『サバイバルTypeScript』",
+                "text": "オプション引数(optional parameter)は、渡す引数を省略できるようにするTypeScript固有の機能です。オプション引数は疑問符?を引数名の後ろに書くことで表現します。",
+                "title": "オプション引数 (optional parameter) | TypeScript入門『サバイバルTypeScript』",
+                "title_link": "https:\/\/typescriptbook.jp\/reference\/functions\/optional-parameters",
+                "service_name": "typescriptbook.jp"
+            }
+        ],
+        "thread_ts": "1698069175.949899",
+        "parent_user_id": "U04TDHFKJ85"
+    }
+]

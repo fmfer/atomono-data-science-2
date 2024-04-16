@@ -1,0 +1,96 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 11月のマンスリーレビューの資料を末日までに完了しましょう",
+        "user": "USLACKBOT",
+        "ts": "1698660003.754729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ekl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 11月のマンスリーレビューの資料を末日までに完了しましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698660003.754729",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698745487.949249",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698660056.315349"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698745487.949249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b8f0eab6-0ebe-476c-9261-a8d7f99f2dfd",
+        "type": "message",
+        "text": "あれ、これ :eyes:\n時期ずれてる？",
+        "user": "U04T9TDB58W",
+        "ts": "1698660056.315349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDQAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ、これ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n時期ずれてる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698660003.754729",
+        "parent_user_id": "USLACKBOT"
+    }
+]

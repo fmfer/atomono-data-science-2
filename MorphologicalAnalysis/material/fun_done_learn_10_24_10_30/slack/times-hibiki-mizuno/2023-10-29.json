@@ -1,0 +1,971 @@
+[
+    {
+        "client_msg_id": "ac1fe45b-d2ad-47e0-b163-92e722edbfdf",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545> 投稿ボタンは一旦これで行く",
+        "user": "U04T9TDB58W",
+        "ts": "1698563561.689319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zoXg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 投稿ボタンは一旦これで行く"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10567::8d9880f0762a11eeafb47fd7c6388489",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545?atlOrigin=eyJpIjoiMzFjNDE2NWRhMzI0NGQ5MWEzYzc2YTMxMWViNWRlYTUiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-545 UI設計：廃盤品と現行品 の詳細画面に口コミ投稿のbutton配置>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10567::8d9880f2762a11eeafb47fd7c6388489",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/62d6d768657fc166e26036e9\/85cc1e3a-26ef-42d5-82ea-162c6ec56ac7\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "HibikiMizuno"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *HibikiMizuno*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10567::8d9880f1762a11eeafb47fd7c6388489",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10567\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10567\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-545",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da058d7a-db59-4c9f-aef8-02cbb89301fd",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83>　みる",
+        "user": "U04T9TDB58W",
+        "ts": "1698584686.604409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eABRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　みる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1698632233.857239",
+        "reply_users": [
+            "U04U66DSPEU",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698586973.676319"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698588489.466679"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698588599.395339"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698588608.472849"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698588669.485799"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698588795.921319"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698599352.523839"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698632233.857239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15d3ba2b-65f8-42a5-8c1b-788720aec2c5",
+        "type": "message",
+        "text": "ご確認ありがとうございます！\n\n一つ相談です、\n\n現状の実装はなにもライブラリーを使っていないのですが、このまま下に表現されるように変えて、そしてもっとメニューっぽくhoverなど追加で良いでしょうか。それとも決まったライブラリーを使った方が良いでしょうか。他の画面と統一したかったのですが、他の画面ではそのようなimportがありませんでした。",
+        "user": "U04U66DSPEU",
+        "ts": "1698586973.676319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weY2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご確認ありがとうございます！\n\n一つ相談です、\n\n現状の実装はなにもライブラリーを使っていないのですが、このまま下に表現されるように変えて、そしてもっとメニューっぽくhoverなど追加で良いでしょうか。それとも決まったライブラリーを使った方が良いでしょうか。他の画面と統一したかったのですが、他の画面ではそのようなimportがありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "c72a8a74-cbbf-4708-8a01-764bfb53a028",
+        "type": "message",
+        "text": "<@U04U66DSPEU>\ncomponent libraryを使いたいのであれば, daisyuiを推したいですね <https:\/\/daisyui.com\/components\/dropdown\/>\n使っても良いです :man-gesturing-ok:",
+        "user": "U04T9TDB58W",
+        "ts": "1698588489.466679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpRGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncomponent libraryを使いたいのであれば, daisyuiを推したいですね "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/daisyui.com\/components\/dropdown\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n使っても良いです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698588496.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/daisyui.com\/images\/components\/dropdown.jpg",
+                "image_width": 800,
+                "image_height": 418,
+                "image_bytes": 30866,
+                "from_url": "https:\/\/daisyui.com\/components\/dropdown\/",
+                "service_icon": "https:\/\/daisyui.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/daisyui.com\/components\/dropdown\/",
+                "fallback": "Tailwind Dropdown Component — Tailwind CSS Components",
+                "text": "Tailwind Dropdown examples: Dropdown can open a menu or any other element when the button is clicked. component",
+                "title": "Tailwind Dropdown Component — Tailwind CSS Components",
+                "title_link": "https:\/\/daisyui.com\/components\/dropdown\/",
+                "service_name": "daisyui.com"
+            }
+        ],
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "80af35b5-2120-4b7c-9e52-bd2af1f07b20",
+        "type": "message",
+        "text": "当初採用しなかった理由としては、UIがどのようになるか不確定であったことと、他ライブラリがどの程度依存関係を持つかが不確定でしたから、導入を控えていました。\n現状そこまでlibraryを入れているわけではないので、入れても良さそうです。",
+        "user": "U04T9TDB58W",
+        "ts": "1698588599.395339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vK1uY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "当初採用しなかった理由としては、UIがどのようになるか不確定であったことと、他ライブラリがどの程度依存関係を持つかが不確定でしたから、導入を控えていました。\n現状そこまでlibraryを入れているわけではないので、入れても良さそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "5e120626-7ba8-4022-a6ee-383cc625b97a",
+        "type": "message",
+        "text": "参考までに, tailwindだけで実装する方法: <https:\/\/tailwindui.com\/components\/application-ui\/elements\/dropdowns>",
+        "user": "U04T9TDB58W",
+        "ts": "1698588608.472849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQbU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参考までに, tailwindだけで実装する方法: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tailwindui.com\/components\/application-ui\/elements\/dropdowns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/tailwindui.com\/img\/og-default.png",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 119574,
+                "from_url": "https:\/\/tailwindui.com\/components\/application-ui\/elements\/dropdowns",
+                "service_icon": "https:\/\/tailwindui.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/tailwindui.com\/components\/application-ui\/elements\/dropdowns",
+                "fallback": "Dropdowns - Official Tailwind CSS UI Components",
+                "text": "Dropdown and pop-over examples for Tailwind CSS, designed and built by the creators of the framework.",
+                "title": "Dropdowns - Official Tailwind CSS UI Components",
+                "title_link": "https:\/\/tailwindui.com\/components\/application-ui\/elements\/dropdowns",
+                "service_name": "tailwindui.com"
+            }
+        ],
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bcd35d7-52b6-4336-89f8-d8d53d32a857",
+        "type": "message",
+        "text": "ありがとうございます！学習のためtailwindでやってみます",
+        "user": "U04U66DSPEU",
+        "ts": "1698588669.485799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfcZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！学習のためtailwindでやってみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc96df4f-da3f-4c29-b726-3b4beb7b0a8c",
+        "type": "message",
+        "text": "ベロシティと要相談ですので、時間がかかるようであれば導入しちゃってください :man-gesturing-ok:",
+        "user": "U04T9TDB58W",
+        "ts": "1698588795.921319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvzK9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ベロシティと要相談ですので、時間がかかるようであれば導入しちゃってください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a6d07fb-41e9-4825-a9e1-85030e46d70f",
+        "type": "message",
+        "text": ":done:です。お時間のある時にもう一度ご確認くださいー",
+        "user": "U04U66DSPEU",
+        "ts": "1698599352.523839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDA5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "done"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。お時間のある時にもう一度ご確認くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "0cc3a342-cc8f-4b0a-a064-d043508a8482",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83#pullrequestreview-1703146936>　コメントつけましたー！ <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1698632233.857239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnARC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/83#pullrequestreview-1703146936"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　コメントつけましたー！ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698584686.604409",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddeaf7e4-6bb3-486f-bc05-a8748d710c0f",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#741e3518ee8d4bfab1b576d4d45d24d1> めも\nstubサーバーはrender.comに乗り換えました",
+        "user": "U04T9TDB58W",
+        "ts": "1698643302.964439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uW2Pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#741e3518ee8d4bfab1b576d4d45d24d1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " めも\nstubサーバーはrender.comに乗り換えました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1682345940,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#741e3518ee8d4bfab1b576d4d45d24d1",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": ":black_joker: Front-End",
+                "text": "<https:\/\/atomono-stub.onrender.com>",
+                "title": ":black_joker: Front-End",
+                "title_link": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=6&utm_content=ed372017-19db-41b6-b5b7-0e883488b295&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl#741e3518ee8d4bfab1b576d4d45d24d1",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ],
+        "thread_ts": "1698643302.964439",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698646792.693919",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698646761.642019"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698646771.793269"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698646792.693919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "237feb56-6671-424c-a0d1-66a2636f7883",
+        "type": "message",
+        "text": "今までって何使ってましたっけ？",
+        "user": "U04TV4NASPK",
+        "ts": "1698646761.642019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdksE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今までって何使ってましたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698643302.964439",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "fcec2146-987c-4838-9c15-fac523bf1ff4",
+        "type": "message",
+        "text": "app engineですね",
+        "user": "U04T9TDB58W",
+        "ts": "1698646771.793269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdxIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "app engineですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698643302.964439",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "85b411bf-ff33-4d91-acac-7b1b2a9b10b4",
+        "type": "message",
+        "text": "7月ごろに無料枠が終わっていて、そこから動かしてませんでした",
+        "user": "U04T9TDB58W",
+        "ts": "1698646792.693919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhQvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7月ごろに無料枠が終わっていて、そこから動かしてませんでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698643302.964439",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "e23b1ac4-23b3-452a-9ef2-1d475902a990",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/temasaguru\/articles\/406189a014b656> t3-env, 入れるべきかも",
+        "user": "U04T9TDB58W",
+        "ts": "1698649079.160589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QinEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/temasaguru\/articles\/406189a014b656"
+                            },
+                            {
+                                "type": "text",
+                                "text": " t3-env, 入れるべきかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--3GbXjrIb--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:App%2520Router%25E3%2581%25A7%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E7%2592%25B0%25E5%25A2%2583%25E5%25A4%2589%25E6%2595%25B0%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2586%25E3%2581%25AA%25E3%2582%2589t3-env%25E3%2581%258C%25E3%2581%2584%25E3%2581%2584%25E3%2582%2588%2520%255BNext.js%255D%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:temasaguru%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk0YzZjYmZlMWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 33495,
+                "from_url": "https:\/\/zenn.dev\/temasaguru\/articles\/406189a014b656",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/temasaguru\/articles\/406189a014b656",
+                "fallback": "Zenn: App Routerで安全に環境変数を扱うならt3-envがいいよ [Next.js]",
+                "title": "App Routerで安全に環境変数を扱うならt3-envがいいよ [Next.js]",
+                "title_link": "https:\/\/zenn.dev\/temasaguru\/articles\/406189a014b656",
+                "service_name": "Zenn"
+            }
+        ]
+    }
+]

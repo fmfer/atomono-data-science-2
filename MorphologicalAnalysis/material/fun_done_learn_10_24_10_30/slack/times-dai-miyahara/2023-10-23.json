@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "077757a8-35f6-4dee-9e6b-493f1bf43983",
+        "type": "message",
+        "text": "<https:\/\/sinsoku.hatenablog.com\/entry\/2017\/09\/17\/113633>",
+        "user": "U04T201950F",
+        "ts": "1698114129.996799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtzUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sinsoku.hatenablog.com\/entry\/2017\/09\/17\/113633"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sinsoku.hatenablog.com\/entry\/2017\/09\/17\/113633",
+                "ts": 1505615793,
+                "image_url": "https:\/\/ogimage.blog.st-hatena.com\/13208692334729909605\/8599973812298782137\/1505615793",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 54774,
+                "service_icon": "https:\/\/sinsoku.hatenablog.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/sinsoku.hatenablog.com\/entry\/2017\/09\/17\/113633",
+                "fallback": "アジャイルSEの憂鬱: Git のブランチには説明をつけることができる - アジャイルSEの憂鬱",
+                "title": "Git のブランチには説明をつけることができる - アジャイルSEの憂鬱",
+                "title_link": "https:\/\/sinsoku.hatenablog.com\/entry\/2017\/09\/17\/113633",
+                "service_name": "アジャイルSEの憂鬱"
+            }
+        ]
+    }
+]

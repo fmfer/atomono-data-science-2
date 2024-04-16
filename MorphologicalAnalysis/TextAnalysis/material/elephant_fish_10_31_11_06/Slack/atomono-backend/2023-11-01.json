@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "7013316f-30c8-4fdb-84d7-6bfb1ad5ca72",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/102> こちらoriginの追加をしております、お手好きの際にご確認ください :pray:  <@U04TGBZ4XEX>",
+        "user": "U04T9TDB58W",
+        "ts": "1698844277.565789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kisVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/102"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらoriginの追加をしております、お手好きの際にご確認ください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698844277.565789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698846140.190799",
+        "reply_users": [
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698846140.190799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31904cdb-1dbe-43e9-9b04-e16599c1efdc",
+        "type": "message",
+        "text": "<@U04T9TDB58W> PRありがとうございます、マージしました:raised_hands:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698846140.190799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8meX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " PRありがとうございます、マージしました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698844277.565789",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

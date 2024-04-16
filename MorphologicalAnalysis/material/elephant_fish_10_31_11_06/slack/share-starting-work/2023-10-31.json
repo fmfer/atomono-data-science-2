@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "c73c65a7-0e15-47c1-b13a-b74a82aba01a",
+        "type": "message",
+        "text": "9時まで作業してます。",
+        "user": "U04T201950F",
+        "ts": "1698793084.975619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUU0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9時まで作業してます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

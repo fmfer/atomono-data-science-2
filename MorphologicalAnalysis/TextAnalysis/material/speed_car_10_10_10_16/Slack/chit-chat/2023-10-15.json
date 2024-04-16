@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "31551e18-34d7-44e2-b274-83e2509c757a",
+        "type": "message",
+        "text": "なんという :god: スレッド ...ありがたやありがたや:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697426687.981019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPGh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんという "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "god"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スレッド ...ありがたやありがたや"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697426715.000000"
+        },
+        "thread_ts": "1696375652.494589",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "e1a09663-90e7-420e-bfbe-ed13d41f399f",
+        "type": "message",
+        "text": "今年は学外で受けた健康診断結果 google formでのアンケートついでにpdfファイルで提出できるので楽でした:raised_hands:\n【重要】2023年度学生定期健康診断アンケート（学外受診者対象）\n<https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7901>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697426883.817729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfAlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今年は学外で受けた健康診断結果 google formでのアンケートついでにpdfファイルで提出できるので楽でした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【重要】2023年度学生定期健康診断アンケート（学外受診者対象）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aiit.cybozu.com\/g\/bulletin\/view.csp?aid=7901"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697426907.000000"
+        }
+    }
+]

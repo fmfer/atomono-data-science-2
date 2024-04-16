@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "26222a2a-0c62-49ac-8f73-350dec9d28b3",
+        "type": "message",
+        "text": "<https:\/\/rafty.rhinobase.io\/>　こういうのはいっぱいある。山ほどある。",
+        "user": "U04T9TDB58W",
+        "ts": "1698385572.676689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABttJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rafty.rhinobase.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　こういうのはいっぱいある。山ほどある。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/rafty.rhinobase.io\/api\/og",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 21949,
+                "from_url": "https:\/\/rafty.rhinobase.io\/",
+                "service_icon": "https:\/\/rafty.rhinobase.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/rafty.rhinobase.io\/",
+                "fallback": "@rafty\/ui Docs: rafty\/ui Docs",
+                "text": "React + Accessible + Tailwind CSS Dynamic Component Library",
+                "title": "rafty\/ui Docs",
+                "title_link": "https:\/\/rafty.rhinobase.io\/",
+                "service_name": "@rafty\/ui Docs"
+            }
+        ]
+    }
+]

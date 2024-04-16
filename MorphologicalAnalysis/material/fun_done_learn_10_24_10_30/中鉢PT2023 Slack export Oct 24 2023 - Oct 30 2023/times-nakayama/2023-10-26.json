@@ -1,0 +1,377 @@
+[
+    {
+        "client_msg_id": "876c73fa-7847-4d34-bbee-107d20d38161",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n資料作成等一旦完了したので18時からでも大丈夫です。\n後半会社の会議があるので、できれば早めに開始したいのですが、中山さん的に可能でしょうか…？？",
+        "user": "U04T201950F",
+        "ts": "1698304274.677759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvKVF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n資料作成等一旦完了したので18時からでも大丈夫です。\n後半会社の会議があるので、できれば早めに開始したいのですが、中山さん的に可能でしょうか…？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1698311686.355529",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698304322.937709"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698304352.057799"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698304395.666969"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698304419.116369"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698311308.886209"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698311627.352599"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698311686.355529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a05ccfba-4e05-467d-b90f-3397c3c4b758",
+        "type": "message",
+        "text": "自分厳しいかも。夜遅くとかでもいいすか。",
+        "user": "U04TV4NASPK",
+        "ts": "1698304322.937709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/G3tB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分厳しいかも。夜遅くとかでもいいすか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "115e8c88-fca9-4116-96e6-ce2fef295a97",
+        "type": "message",
+        "text": "そもそも19時も厳しいって感じですか？？",
+        "user": "U04T201950F",
+        "ts": "1698304352.057799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2rLN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そもそも19時も厳しいって感じですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "b2baa109-7bd6-4ab1-86e0-fcb7e128777f",
+        "type": "message",
+        "text": "19時はまだ保留。一旦18時頃にまた連絡します。",
+        "user": "U04TV4NASPK",
+        "ts": "1698304395.666969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPKaa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "19時はまだ保留。一旦18時頃にまた連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "62214406-002b-473b-89f9-39e6c5bd2a41",
+        "type": "message",
+        "text": "OKです！\n時間決まったらこちらの会議調整できる確認します。",
+        "user": "U04T201950F",
+        "ts": "1698304419.116369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LY1SF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OKです！\n時間決まったらこちらの会議調整できる確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "312e25a8-2d0d-4207-b95c-aa4c236d393f",
+        "type": "message",
+        "text": "<@U04T201950F>\n抜けれたのでhuddleできますよ",
+        "user": "U04TV4NASPK",
+        "ts": "1698311308.886209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7Ls4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n抜けれたのでhuddleできますよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "815aea92-87ff-4804-a42c-4151d7dd4d74",
+        "type": "message",
+        "text": "30分からでいいですか？？",
+        "user": "U04T201950F",
+        "ts": "1698311627.352599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0\/m1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30分からでいいですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "6d728754-92e2-4c05-9e7c-423390572373",
+        "type": "message",
+        "text": "iisuyo",
+        "user": "U04TV4NASPK",
+        "ts": "1698311686.355529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eK79t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "iisuyo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304274.677759",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

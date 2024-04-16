@@ -1,0 +1,1130 @@
+[
+    {
+        "client_msg_id": "55ab04cb-3571-430b-80bd-561ea20ca37e",
+        "type": "message",
+        "text": "<@U04T9TDB58W> いろいろと修正が必要そうですが、、、一旦レビューに出します\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/33>\nご意見がありましたら、コメントお願いします:bow:",
+        "user": "U04U66DSPEU",
+        "ts": "1690617307.517099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8tSQ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いろいろと修正が必要そうですが、、、一旦レビューに出します\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/33"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご意見がありましたら、コメントお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690617307.517099",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1691464737.407479",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1690638464.938499"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1690814788.345839"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1691418589.355389"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1691464737.407479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7db4699-bbda-4307-9fb2-df7e1f40027e",
+        "type": "message",
+        "text": "レビューしました! <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1690638464.938499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WtSPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レビューしました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690617307.517099",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04T9TDB58W> 　14時くらいからやりたいですがいかがでしょうか",
+        "user": "U04TV4NASPK",
+        "ts": "1690689987.717989",
+        "thread_ts": "1690467351.520649",
+        "root": {
+            "client_msg_id": "5a81c897-0586-4e6e-8f7c-f0e8fc138cef",
+            "type": "message",
+            "text": "<@U04T9TDB58W>\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416>\nこのタスクを行おうとしていますがよくわからず、どっかで時間とってペアプロして欲しいです。\napp下にcompoenetを作るのはわかるのですが、そこから先がよくわかってないです。",
+            "user": "U04TV4NASPK",
+            "ts": "1690467351.520649",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gC\/wz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04T9TDB58W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nこのタスクを行おうとしていますがよくわからず、どっかで時間とってペアプロして欲しいです。\napp下にcompoenetを作るのはわかるのですが、そこから先がよくわかってないです。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "attachments": [
+                {
+                    "id": 1,
+                    "blocks": [
+                        {
+                            "type": "section",
+                            "block_id": "uf:ih:10438::189a16b02c8811ee98f623d172ebd46c",
+                            "text": {
+                                "type": "mrkdwn",
+                                "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416?atlOrigin=eyJpIjoiOTAyZTZkNjllNzk0NDVhMTlmMzlhMWM1OGJkY2JlNGQiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-416 フロントエンド実装：画像表示コンポーネント>*",
+                                "verbatim": false
+                            }
+                        },
+                        {
+                            "type": "context",
+                            "block_id": "uf:cx:10438::189a3dc02c8811ee98f623d172ebd46c",
+                            "elements": [
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "Status: *In Progress*",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "image",
+                                    "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                    "alt_text": "Task"
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "Type: *Task*",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "image",
+                                    "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                    "alt_text": "Kenta Nakayama"
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "Assignee: *Kenta Nakayama*",
+                                    "verbatim": false
+                                },
+                                {
+                                    "type": "image",
+                                    "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                    "alt_text": "Medium"
+                                },
+                                {
+                                    "type": "mrkdwn",
+                                    "text": "Priority: *Medium*",
+                                    "verbatim": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "actions",
+                            "block_id": "uf:issueFooterActions:10438::189a16b12c8811ee98f623d172ebd46c",
+                            "elements": [
+                                {
+                                    "type": "button",
+                                    "action_id": "{\"issueId\":\"10438\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                    "text": {
+                                        "type": "plain_text",
+                                        "text": "Watch",
+                                        "emoji": true
+                                    },
+                                    "value": "watch"
+                                },
+                                {
+                                    "type": "static_select",
+                                    "action_id": "{\"issueId\":\"10438\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                    "placeholder": {
+                                        "type": "plain_text",
+                                        "text": "More actions...",
+                                        "emoji": true
+                                    },
+                                    "options": [
+                                        {
+                                            "text": {
+                                                "type": "plain_text",
+                                                "text": "Comment",
+                                                "emoji": true
+                                            },
+                                            "value": "comment"
+                                        },
+                                        {
+                                            "text": {
+                                                "type": "plain_text",
+                                                "text": "Assign",
+                                                "emoji": true
+                                            },
+                                            "value": "assign"
+                                        },
+                                        {
+                                            "text": {
+                                                "type": "plain_text",
+                                                "text": "Transition",
+                                                "emoji": true
+                                            },
+                                            "value": "transition"
+                                        },
+                                        {
+                                            "text": {
+                                                "type": "plain_text",
+                                                "text": "Why am I seeing this?",
+                                                "emoji": true
+                                            },
+                                            "value": "why"
+                                        },
+                                        {
+                                            "text": {
+                                                "type": "plain_text",
+                                                "text": "Receive updates in channel",
+                                                "emoji": true
+                                            },
+                                            "value": "connect"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "color": "#2684FF",
+                    "fallback": "[no preview available]",
+                    "bot_id": "B054V2LRMFX",
+                    "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416",
+                    "is_app_unfurl": true,
+                    "app_id": "A2RPP3NFR"
+                }
+            ],
+            "thread_ts": "1690467351.520649",
+            "reply_count": 8,
+            "reply_users_count": 2,
+            "latest_reply": "1690693250.992779",
+            "reply_users": [
+                "U04T9TDB58W",
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1690468274.321519"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690469187.464429"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690469273.357029"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1690602740.228099"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690603017.839079"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690689987.717989"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1690690738.053509"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690693250.992779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uavp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　14時くらいからやりたいですがいかがでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "893fef05-caa5-4c5f-be67-8f411dfe0562"
+    },
+    {
+        "client_msg_id": "ddc45a3b-71ca-47e3-9016-c53a0310f695",
+        "type": "message",
+        "text": "了解です:woman-gesturing-ok::skin-tone-2: <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1690690738.053509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1690690751.000000"
+        },
+        "thread_ts": "1690467351.520649",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C054R4216MB",
+        "room": {
+            "id": "R05KG7NE2E8",
+            "name": "",
+            "media_server": "",
+            "created_by": "U04T9TDB58W",
+            "date_start": 1690692920,
+            "date_end": 1690694362,
+            "participants": [],
+            "participant_history": [
+                "U04T9TDB58W",
+                "U04TV4NASPK"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1690692920.595119",
+            "thread_root_ts": "1690692920.595119",
+            "channels": [
+                "C054R4216MB"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "GARDEN_OFFICE",
+            "canvas_background": "GARDEN_OFFICE",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "cd516cbc-2b63-417b-838e-8166d4050706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/chubachi-pt-2023.slack.com\/call\/R05KG7NE2E8",
+        "subtype": "huddle_thread",
+        "ts": "1690692920.595119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T04TGFGMK7C",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690692920.595119",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1690693926.964929",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690693493.258139"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690693926.964929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "df268764-2266-48de-bc16-ff46be38f54e",
+        "type": "message",
+        "text": "<@U04T9TDB58W> できますか？",
+        "user": "U04TV4NASPK",
+        "ts": "1690693250.992779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eF1nL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " できますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690467351.520649",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20720925-60aa-424e-a10c-bf2176694472",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n<https:\/\/prod.liveshare.vsengsaas.visualstudio.com\/join?69E9FDB9BEB3C2FC5C98BB8F35086C7155CD>",
+        "user": "U04TV4NASPK",
+        "ts": "1690693493.258139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/prod.liveshare.vsengsaas.visualstudio.com\/join?69E9FDB9BEB3C2FC5C98BB8F35086C7155CD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/prod.liveshare.vsengsaas.visualstudio.com\/join?69E9FDB9BEB3C2FC5C98BB8F35086C7155CD",
+                "id": 1,
+                "original_url": "https:\/\/prod.liveshare.vsengsaas.visualstudio.com\/join?69E9FDB9BEB3C2FC5C98BB8F35086C7155CD",
+                "fallback": "Visual Studio Code for the Web",
+                "text": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+                "title": "Visual Studio Code for the Web",
+                "title_link": "https:\/\/prod.liveshare.vsengsaas.visualstudio.com\/join?69E9FDB9BEB3C2FC5C98BB8F35086C7155CD",
+                "service_name": "vscode.dev"
+            }
+        ],
+        "thread_ts": "1690692920.595119",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "51237730-1b2a-4d78-a1a8-3114e8614c2b",
+        "type": "message",
+        "text": "<https:\/\/github.com\/MicrosoftDocs\/live-share\/issues\/4598>",
+        "user": "U04T9TDB58W",
+        "ts": "1690693660.235109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/MicrosoftDocs\/live-share\/issues\/4598"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/user-images.githubusercontent.com\/68069134\/154744570-a693764c-4442-4e4f-b30f-91ba78b55fd2.png",
+                "image_width": 403,
+                "image_height": 122,
+                "image_bytes": 3722,
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1645210500,
+                "color": "cb2431",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/MicrosoftDocs\/live-share\/issues\/4598",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "403x122px image",
+                "text": "*Describe what happened:*  \nWhen right clicking on a guest to give write access during live share the option does not appear\n\n*What was your system configuration?*  \n_Product and Version_ [VS\/VSCode]: VS2019 Professional  \n_OS Version_[macOS\/Windows]: Windows10  \n_Live Share Extension Version_: 1.0.5273.0  \n_Target Platform or Language_ [e.g. Node.js]: .NET5.0\n\n*Steps to Reproduce \/ Scenario:*\n\n1. Click on the Liveshare button at the top of visual studio to copy link\n2. Guest opens link in browser and joins as an anonymous guest\n3. Click the Accept button on the popup notification in VS 2019 to allow guest user to join\n4. Right click on guest user in Liveshare window and cannot give write access\n\n*Screenshots*  \nIf applicable, add screenshots to help explain your problem.  \n<https:\/\/user-images.githubusercontent.com\/68069134\/154744570-a693764c-4442-4e4f-b30f-91ba78b55fd2.png|image>  \n<https:\/\/user-images.githubusercontent.com\/68069134\/154744580-8ff6b3ef-ab92-4f56-b1af-5985b9c9bead.png|image>",
+                "title": "#4598 Can't give guest user write access",
+                "title_link": "https:\/\/github.com\/MicrosoftDocs\/live-share\/issues\/4598",
+                "footer": "<https:\/\/github.com\/MicrosoftDocs\/live-share|MicrosoftDocs\/live-share>",
+                "fields": [
+                    {
+                        "value": "<https:\/\/github.com\/setaskin|@setaskin>",
+                        "title": "Assignees",
+                        "short": true
+                    },
+                    {
+                        "value": "Stale",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3016c991-c00b-4a7b-bda6-47f7db504480",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/irico\/items\/b67328fdaa2d9a306cba>",
+        "user": "U04T9TDB58W",
+        "ts": "1690693719.671729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "42dK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/irico\/items\/b67328fdaa2d9a306cba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/irico\/items\/b67328fdaa2d9a306cba",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9VlNDb2RlJTIwTGl2ZSUyMFNoYXJlJUUzJTgxJUFFJUU0JUJEJUJGJUUzJTgxJTg0JUU2JTk2JUI5JUUzJTgyJTkyJUUzJTgxJTk3JUUzJTgxJUEzJUUzJTgxJThCJUUzJTgyJThBJUU3JTlGJUE1JUUzJTgyJThCJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz02OTIzM2I0MGRjZDI4NzU3ODRmMTk4NGFhYTdiNDU5Yw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwaXJpY28mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTJhNTIwNjdjNTU3NTVmYjA2YzdiZDUyNzgzYjI3OWFi&blend-x=142&blend-y=491&blend-mode=normal&s=428c838ef509c6f0d3742b9aa7071797",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 40483,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/irico\/items\/b67328fdaa2d9a306cba",
+                "fallback": "Qiita: VSCode Live Shareの使い方をしっかり知る - Qiita",
+                "text": "いまいち使いこなせないLive Shareについて、ちょっと調べたことをまとめます。\n\n公式から調べる！\n<https:\/\/docs.microsoft.com\/en-us\/visualstudio\/liveshare\/use\/vsco>...",
+                "title": "VSCode Live Shareの使い方をしっかり知る - Qiita",
+                "title_link": "https:\/\/qiita.com\/irico\/items\/b67328fdaa2d9a306cba",
+                "service_name": "Qiita"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f38e9a1-4959-48db-963e-bc0cb3fcdca2",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416>",
+        "user": "U04TV4NASPK",
+        "ts": "1690693926.964929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10438::a1fdac802e9711ee86558b44c1bb2430",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416?atlOrigin=eyJpIjoiNmVjMzE3MWEyMDczNDE5MmE5MTBjZWYzOWVlNmFkYzkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-416 フロントエンド実装：画像表示コンポーネント>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10438::a1fdac822e9711ee86558b44c1bb2430",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "Kenta Nakayama"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Kenta Nakayama*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10438::a1fdac812e9711ee86558b44c1bb2430",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10438\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10438\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-416",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1690692920.595119",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "c3120da1-5fcc-4337-87c9-ba9f4f750c14",
+        "type": "message",
+        "text": "<https:\/\/coliss.com\/articles\/build-websites\/operation\/css\/css-only-carousel.html>",
+        "user": "U04T9TDB58W",
+        "ts": "1690693957.653029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coliss.com\/articles\/build-websites\/operation\/css\/css-only-carousel.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coliss.com\/articles\/build-websites\/operation\/css\/css-only-carousel.html",
+                "image_url": "https:\/\/coliss.com\/wp-content\/uploads-202001\/2020011510.png",
+                "image_width": 500,
+                "image_height": 313,
+                "image_bytes": 43294,
+                "service_icon": "https:\/\/coliss.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/coliss.com\/articles\/build-websites\/operation\/css\/css-only-carousel.html",
+                "fallback": "コリス: HTMLとCSSだけでカルーセル・スライダーを実装するテクニックのまとめ",
+                "text": "カルーセルやスライダーをHTMLとCSSだけで実装するテクニックを紹介します。 Flexboxでの横一列配置をはじめ、scroll-snap-typeやscroll-behaviorでスライドのスクロ",
+                "title": "HTMLとCSSだけでカルーセル・スライダーを実装するテクニックのまとめ",
+                "title_link": "https:\/\/coliss.com\/articles\/build-websites\/operation\/css\/css-only-carousel.html",
+                "service_name": "コリス"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9025178-8964-4dd5-b0e2-bde42dd9a4e9",
+        "type": "message",
+        "text": "<https:\/\/daisyui.com\/>",
+        "user": "U04T9TDB58W",
+        "ts": "1690694161.825709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Wg+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/daisyui.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/daisyui.com\/",
+                "image_url": "https:\/\/daisyui.com\/images\/default.jpg",
+                "image_width": 800,
+                "image_height": 418,
+                "image_bytes": 82643,
+                "service_icon": "https:\/\/daisyui.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/daisyui.com\/",
+                "fallback": "daisyUI — Tailwind CSS Components",
+                "text": "Tailwind Components Library - Free components for Tailwind CSS",
+                "title": "daisyUI — Tailwind CSS Components",
+                "title_link": "https:\/\/daisyui.com\/",
+                "service_name": "daisyui.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e958acf-c2b7-4e80-8441-5018f5261d69",
+        "type": "message",
+        "text": "<https:\/\/daisyui.com\/components\/carousel\/#item3>",
+        "user": "U04T9TDB58W",
+        "ts": "1690694209.552259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YRvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/daisyui.com\/components\/carousel\/#item3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/daisyui.com\/components\/carousel\/#item3",
+                "image_url": "https:\/\/daisyui.com\/images\/components\/carousel.jpg",
+                "image_width": 800,
+                "image_height": 418,
+                "image_bytes": 46491,
+                "service_icon": "https:\/\/daisyui.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/daisyui.com\/components\/carousel\/#item3",
+                "fallback": "Tailwind Carousel Component — Tailwind CSS Components",
+                "text": "Tailwind Carousel examples: Carousel show images or content in a scrollable area. component",
+                "title": "Tailwind Carousel Component — Tailwind CSS Components",
+                "title_link": "https:\/\/daisyui.com\/components\/carousel\/#item3",
+                "service_name": "daisyui.com"
+            }
+        ]
+    }
+]

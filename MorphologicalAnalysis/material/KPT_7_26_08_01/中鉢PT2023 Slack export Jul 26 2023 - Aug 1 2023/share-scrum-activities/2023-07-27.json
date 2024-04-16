@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "b92c68ef-386a-4572-9f0b-17b1ef619770",
+        "type": "message",
+        "text": "アイスタイル様インタビュー、週報、フロントエンドタスク",
+        "user": "U04TV4NASPK",
+        "ts": "1690462566.199429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYNw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アイスタイル様インタビュー、週報、フロントエンドタスク"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690418705.743369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "13c785e8-1d03-413d-b67c-a9e30cdbab30",
+        "type": "message",
+        "text": "引き続きスライドなど作ります. あれですよね、個々の感想ページとかやんなきゃだ",
+        "user": "U04T9TDB58W",
+        "ts": "1690468320.271099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引き続きスライドなど作ります. あれですよね、個々の感想ページとかやんなきゃだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690418705.743369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "dec5e925-4b84-44f4-b33e-2619234d0af4",
+        "type": "message",
+        "text": "今日はslackの調子が良くないですね.",
+        "user": "U04T9TDB58W",
+        "ts": "1690468330.940659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78Y\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はslackの調子が良くないですね."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690418705.743369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : *<!here>*   今日やることは何？",
+        "user": "USLACKBOT",
+        "ts": "1690505118.674039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+LX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "   今日やることは何？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1690505118.674039",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1690639965.683899",
+        "reply_users": [
+            "U04T201950F",
+            "U04U66DSPEU",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1690507552.898709"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690549942.514309"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1690556893.564809"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690639965.683899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "663f1f40-0189-4009-9058-abaab351d139",
+        "type": "message",
+        "text": "【リマインド】\n草案の作成終わってるので確認頂いてない方は確認お願いします。\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690374348255709>",
+        "user": "U04T201950F",
+        "ts": "1690507552.898709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6hOe\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【リマインド】\n草案の作成終わってるので確認頂いてない方は確認お願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690374348255709"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690374348255709",
+                "ts": "1690374348.255709",
+                "author_id": "U04T201950F",
+                "channel_id": "C04T9T2TW22",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C04T9T2TW22",
+                        "ts": "1690374348.255709",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "VlI",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n前期発表資料の本論の草案を作成しました。\n確認していただき、違和感・不明点等あれば教えて下さい。\n修正はコメント確認し適宜行います。\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nこちらを踏まえて各スライドの作成担当決める流れで行きたいと思います。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690374348255709",
+                "fallback": "[July 26th, 2023 5:25 AM] a2240dm: <!channel>\n前期発表資料の本論の草案を作成しました。\n確認していただき、違和感・不明点等あれば教えて下さい。\n修正はコメント確認し適宜行います。\n<https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6>\n\nこちらを踏まえて各スライドの作成担当決める流れで行きたいと思います。",
+                "text": "<!channel>\n前期発表資料の本論の草案を作成しました。\n確認していただき、違和感・不明点等あれば教えて下さい。\n修正はコメント確認し適宜行います。\n<https:\/\/www.notion.so\/de73215f0087475ea68317eb8d55c35e?pvs=4#62bff5c8352f45d994198bb2514b65f6>\n\nこちらを踏まえて各スライドの作成担当決める流れで行きたいと思います。",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1690505118.674039",
+        "parent_user_id": "USLACKBOT"
+    }
+]

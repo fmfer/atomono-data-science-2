@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "11849d9d-9a09-4544-9b6d-31427923282a",
+        "type": "message",
+        "text": "所持品リストから商品を削除するAPIリリースしました :tada:\n動作確認済です\n\nRelease 20231026 · chubachi-pt-2023\/atomono-api\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231026>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698308713.474089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSoIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リストから商品を削除するAPIリリースしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n動作確認済です\n\nRelease 20231026 · chubachi-pt-2023\/atomono-api\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698308746.000000"
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04U66DSPEU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

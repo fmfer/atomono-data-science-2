@@ -1,0 +1,139 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1690319492.794749",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1685444374,
+            "app_id": "A01BP7R4KNY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1690327891.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1690319486,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/rubocop\/rubocop|rubocop> from 1.54.2 to 1.55.0.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/releases|rubocop's releases>._\n\n&gt; *RuboCop 1.55*\n&gt; *New features*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/11794|#11794>: Add support to `Style\/ArgumentsForwarding` for anonymous arg\/kwarg forwarding in Ruby 3.2. (<https:\/\/github.com\/owst|`@​owst`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12044|#12044>: Make LSP server support `layoutMode` option to run layout cops. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12056|#12056>: Make LSP server support `lintMode` option to run lint cops. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12046|#12046>: Make `ReturnNilInPredicateMethodDefinition` aware of `nil` at the end of predicate method definition. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12055|#12055>: Allow parentheses in single-line match patterns when using the `omit_parentheses` style of `Style\/MethodCallWithArgsParentheses`. (<https:\/\/github.com\/gsamokovarov|`@​gsamokovarov`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12050|#12050>: Fix a false positive for `Layout\/RedundantLineBreak` when inspecting the `%` form string `%\\n\\n`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12063|#12063>: Fix `Style\/CombinableLoops` when one of the loops is empty. (<https:\/\/github.com\/fatkodima|`@​fatkodima`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12059|#12059>: Fix a false negative for `Style\/StringLiteralsInInterpolation` for symbols with interpolation. (<https:\/\/github.com\/fatkodima|`@​fatkodima`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11834|#11834>: Fix false positive for when variable in inside conditional branch in nested node. (<https:\/\/github.com\/alexeyschepin|`@​alexeyschepin`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11802|#11802>: Improve handling of `[]` and `()` with percent symbol arrays. (<https:\/\/github.com\/jasondoc3|`@​jasondoc3`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12052|#12052>: Fix \"Subfolders can't include glob special characters\". (<https:\/\/github.com\/meric426|`@​meric426`>, <https:\/\/github.com\/loveo|`@​loveo`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12062|#12062>: Fix `LoadError` when loading RuboCop from a symlinked location on Windows. (<https:\/\/github.com\/p0deje|`@​p0deje`>)\n&gt; \n&gt; *Changes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12064|#12064>: Make `Style\/RedundantArgument` aware of `exit` and `exit!`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12015|#12015>: Mark `Style\/HashConversion` as unsafe autocorrection. (<https:\/\/github.com\/koic|`@​koic`>)\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/blob\/master\/CHANGELOG.md|rubocop's changelog>._\n\n&gt; *1.55.0 (2023-07-25)*\n&gt; *New features*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/11794|#11794>: Add support to `Style\/ArgumentsForwarding` for anonymous arg\/kwarg forwarding in Ruby 3.2. ([<https:\/\/github.com\/owst|`@​owst`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12044|#12044>: Make LSP server support `layoutMode` option to run layout cops. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12056|#12056>: Make LSP server support `lintMode` option to run lint cops. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12046|#12046>: Make `ReturnNilInPredicateMethodDefinition` aware of `nil` at the end of predicate method definition. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12055|#12055>: Allow parentheses in single-line match patterns when using the `omit_parentheses` style of `Style\/MethodCallWithArgsParentheses`. ([<https:\/\/github.com\/gsamokovarov|`@​gsamokovarov`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12050|#12050>: Fix a false positive for `Layout\/RedundantLineBreak` when inspecting the `%` form string `%\\n\\n`. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12063|#12063>: Fix `Style\/CombinableLoops` when one of the loops is empty. ([<https:\/\/github.com\/fatkodima|`@​fatkodima`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12059|#12059>: Fix a false negative for `Style\/StringLiteralsInInterpolation` for symbols with interpolation. ([<https:\/\/github.com\/fatkodima|`@​fatkodima`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11834|#11834>: Fix false positive for when variable in inside conditional branch in nested node. ([<https:\/\/github.com\/alexeyschepin|`@​alexeyschepin`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11802|#11802>: Improve handling of `[]` and `()` with percent symbol arrays. ([<https:\/\/github.com\/jasondoc3|`@​jasondoc3`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12052|#12052>: Fix \"Subfolders can't include glob special characters\". ([<https:\/\/github.com\/meric426|`@​meric426`>][], [<https:\/\/github.com\/loveo|`@​loveo`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12062|#12062>: Fix `LoadError` when loading RuboCop from a symlinked location on Windows. ([<https:\/\/github.com\/p0deje|`@​p0deje`>][])\n&gt; \n&gt; *Changes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12064|#12064>: Make `Style\/RedundantArgument` aware of `exit` and `exit!`. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12015|#12015>: Mark `Style\/HashConversion` as unsafe autocorrection. ([<https:\/\/github.com\/koic|`@​koic`>][])\n\nCommits\n\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/f3790afce259aec75bb94d571803c7e5488f1807|`f3790af`> Cut 1.55\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/6279c5750b6aa3341f38346e08536f7d03712264|`6279c57`> Update Changelog\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/1dfe3862d95d33df31a5d29e3741cf34e4be2a5a|`1dfe386`> Merge pull request <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12067|#12067> from p0deje\/patch-1\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/e00f96c2aae979ac140fba48f04e1b264394e51e|`e00f96c`> Add changelog entry for <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12062|#12062>\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/d379d8e278ef602f07682546595a96a61946159c|`d379d8e`> Fix `LoadError` on Windows when loading RuboCop from symlinks\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/a1b302a3bc38703919666057bf0cdca6f753c48d|`a1b302a`> Enable anonymous forwarding in Style\/ArgumentsForwarding for Ruby 3.2+ (<https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11794|#11794>)\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/80efbc0f8afd95813a5515198ed93b73e3735484|`80efbc0`> Merge pull request <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12065|#12065> from alexeyschepin\/fix_ebug_for_lint_shadowing_oute...\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/72ea0856030b398d63d98d9f2bb9e26c304b8f1d|`72ea085`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11834|#11834>] Fix false positive for when variable in inside conditional bran...\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/9bc0064008f69533e25f4d7c375898c1121f6652|`9bc0064`> Make `Style\/RedundantArgument` aware of `exit` and `exit!`\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/7989e7d8cc3a924bc65b63a5b0efdc56f5c57e3f|`7989e7d`> Make LSP server support `lintMode` parameter\n• Additional commits viewable in <https:\/\/github.com\/rubocop\/rubocop\/compare\/v1.54.2...v1.55.0|compare view>\n\n  \n\n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerab…",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/60|#60 build(deps-dev): bump rubocop from 1.54.2 to 1.55.0>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:60,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/60&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump rubocop from 1.54.2 to 1.55.0&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1690327890.212729",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/d96c6b8b2344db9984bf5d2d7fc59be7c5459206|d96c6b8b>` - build(deps-dev): bump rubocop from 1.54.2 to 1.55.0 (#60)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/e5c08c2b21c1...d96c6b8b2344|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1690327890.227259",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1690319486,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/60|#60 build(deps-dev): bump rubocop from 1.54.2 to 1.55.0>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    }
+]

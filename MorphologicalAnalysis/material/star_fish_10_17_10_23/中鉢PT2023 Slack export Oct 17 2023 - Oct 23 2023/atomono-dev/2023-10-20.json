@@ -1,0 +1,842 @@
+[
+    {
+        "client_msg_id": "cb4815a2-85c1-43a0-aa1c-64d1ec70bd2a",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889>",
+        "user": "U04T9TDB58W",
+        "ts": "1697813719.761149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6hDgi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889",
+                "ts": "1697811753.193889",
+                "author_id": "U04TDHFKJ85",
+                "channel_id": "C057ZLPJEG3",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C057ZLPJEG3",
+                        "ts": "1697811753.193889",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "pgbMc",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "bow",
+                                                    "unicode": "1f647"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "今日はもう寝るので明日また作業します。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889",
+                "fallback": "[October 20th, 2023 7:22 AM] a2216ms: 【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします:bow:今日はもう寝るので明日また作業します。",
+                "text": "【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします:bow:今日はもう寝るので明日また作業します。",
+                "author_name": "鈴木真希",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TDHFKJ85",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_48.jpg",
+                "author_subname": "鈴木真希",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "thread_ts": "1697813719.761149",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1697853507.926109",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697814061.986369"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1697849213.643049"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697850795.190749"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697850861.573989"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1697851896.414889"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697853507.926109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04TDHFKJ85> もうちょい状況を深掘りたいのでいくつか質問です :eyes:\n\n1. 今やりたいことは, developmentブランチからpull(merge)して、最新の変更を取り込みたい、ということであっていますか？\n2. pullした際に、`CONFLICT` という文字がログに出てきましたか？\n3. 今自分がいるbranch名はなんですか？ `git branch` で見れます\n4. `git diff`  を打つと何が出る？\n5. pullした際のログをこちらに貼ることはできますか？\n6. 今手元でいじっているソースコードは変更していますか？またその場合、変更は残しておきたいですか？それとも捨てちゃって良い？",
+        "user": "U04T9TDB58W",
+        "ts": "1697814061.986369",
+        "thread_ts": "1697813719.761149",
+        "root": {
+            "client_msg_id": "cb4815a2-85c1-43a0-aa1c-64d1ec70bd2a",
+            "type": "message",
+            "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889>",
+            "user": "U04T9TDB58W",
+            "ts": "1697813719.761149",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6hDgi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889",
+                    "ts": "1697811753.193889",
+                    "author_id": "U04TDHFKJ85",
+                    "channel_id": "C057ZLPJEG3",
+                    "channel_team": "T04TGFGMK7C",
+                    "is_msg_unfurl": true,
+                    "message_blocks": [
+                        {
+                            "team": "T04TGFGMK7C",
+                            "channel": "C057ZLPJEG3",
+                            "ts": "1697811753.193889",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "pgbMc",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします"
+                                                    },
+                                                    {
+                                                        "type": "emoji",
+                                                        "name": "bow",
+                                                        "unicode": "1f647"
+                                                    },
+                                                    {
+                                                        "type": "text",
+                                                        "text": "今日はもう寝るので明日また作業します。"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "id": 1,
+                    "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C057ZLPJEG3\/p1697811753193889",
+                    "fallback": "[October 20th, 2023 7:22 AM] a2216ms: 【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします:bow:今日はもう寝るので明日また作業します。",
+                    "text": "【質問】\nお疲れ様です。初歩的な質問になりますが、Gitの使い方についてわからないことがあるので質問させてください。\n中山さんのAT-469で作成したコードを参考に、AT-565の作業を行いたいのですが、developmentブランチを最新化（git fetchしてgitpull）しても、うまく取り込むことができませんでした。どのようにしたら、中山さんのプルリクしているAT-469で作成したコードを取り込むことができるでしょうか？\nよろしくお願いいたします:bow:今日はもう寝るので明日また作業します。",
+                    "author_name": "鈴木真希",
+                    "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TDHFKJ85",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_48.jpg",
+                    "author_subname": "鈴木真希",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "footer": "Slack の会話"
+                }
+            ],
+            "thread_ts": "1697813719.761149",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1697853507.926109",
+            "reply_users": [
+                "U04T9TDB58W",
+                "U04TDHFKJ85"
+            ],
+            "replies": [
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697814061.986369"
+                },
+                {
+                    "user": "U04TDHFKJ85",
+                    "ts": "1697849213.643049"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697850795.190749"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697850861.573989"
+                },
+                {
+                    "user": "U04TDHFKJ85",
+                    "ts": "1697851896.414889"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697853507.926109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTIN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もうちょい状況を深掘りたいのでいくつか質問です "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今やりたいことは, developmentブランチからpull(merge)して、最新の変更を取り込みたい、ということであっていますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pullした際に、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "CONFLICT",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " という文字がログに出てきましたか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今自分がいるbranch名はなんですか？ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "git branch",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " で見れます"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "git diff",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  を打つと何が出る？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pullした際のログをこちらに貼ることはできますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今手元でいじっているソースコードは変更していますか？またその場合、変更は残しておきたいですか？それとも捨てちゃって良い？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "aa2fb1a0-b227-4674-baf8-cfdce211f10c"
+    },
+    {
+        "client_msg_id": "f24e8aef-cd18-4f35-9d34-ab6f900e7f62",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nありがとうございます。\n1.はい、それであってます\n2.とくにでてきてないです\n3.* development\n  feature\/AT-473\/mobile-header\n  feature\/AT-512\/registration-button\n  feature\/AT-565\/substitute-responsive\nなので、developmentブランチにいます\n4.なにもでてきませんでした\n5.\nremote: Enumerating objects: 7, done.\nremote: Counting objects: 100% (7\/7), done.\nremote: Compressing objects: 100% (1\/1), done.\nremote: Total 4 (delta 3), reused 3 (delta 3), pack-reused 0\nUnpacking objects: 100% (4\/4), 943 bytes | 1024 bytes\/s, done.\nFrom <http:\/\/github.com:chubachi-pt-2023\/atomono-front|github.com:chubachi-pt-2023\/atomono-front>\n * branch            development -&gt; FETCH_HEAD\n   8ee83d7..499cf69  development -&gt; origin\/development\nUpdating 8ee83d7..499cf69\nFast-forward\n package-lock.json | 10 +++++-----\n package.json      |  2 +-\n 2 files changed, 6 insertions(+), 6 deletions(-)\n6.特に何も変更しているものはないです",
+        "user": "U04TDHFKJ85",
+        "ts": "1697849213.643049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybsoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n1.はい、それであってます\n2.とくにでてきてないです\n3.* development\n  feature\/AT-473\/mobile-header\n  feature\/AT-512\/registration-button\n  feature\/AT-565\/substitute-responsive\nなので、developmentブランチにいます\n4.なにもでてきませんでした\n5.\nremote: Enumerating objects: 7, done.\nremote: Counting objects: 100% (7\/7), done.\nremote: Compressing objects: 100% (1\/1), done.\nremote: Total 4 (delta 3), reused 3 (delta 3), pack-reused 0\nUnpacking objects: 100% (4\/4), 943 bytes | 1024 bytes\/s, done.\nFrom github.com:chubachi-pt-2023\/atomono-front\n * branch            development -> FETCH_HEAD\n   8ee83d7..499cf69  development -> origin\/development\nUpdating 8ee83d7..499cf69\nFast-forward\n package-lock.json | 10 +++++-----\n package.json      |  2 +-\n 2 files changed, 6 insertions(+), 6 deletions(-)\n6.特に何も変更しているものはないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697813719.761149",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "625fba10-3d88-40a8-a5c2-96f3ff3bf5d6",
+        "type": "message",
+        "text": "多分取り込めてますよw\n<@U04TDHFKJ85>",
+        "user": "U04T9TDB58W",
+        "ts": "1697850795.190749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWf0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分取り込めてますよw\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697813719.761149",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "19a3f7ed-c87c-4da7-b4fc-790dca09c8d0",
+        "type": "message",
+        "text": "念の為、git logでコミットログを出してみてください",
+        "user": "U04T9TDB58W",
+        "ts": "1697850861.573989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PgvDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "念の為、git logでコミットログを出してみてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697813719.761149",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nなんと！ありがとうございます。\ngit logでコミットログをだすと以下のようになりました\ncommit 499cf6992e6b4cb9a452718439e3005992c41a8b (HEAD -> development, origin\/development, origin\/HEAD)\nAuthor: jabelic <<mailto:37907624+jabelic@users.noreply.github.com|37907624+jabelic@users.noreply.github.com>>\nDate:   Sat Oct 21 02:07:01 2023 +0900\n\n    feature: upgrade typescript (#70)\n\ncommit 8ee83d77aea0df0732ac4961d889ffefdff05d79 (feature\/AT-565\/substitute-responsive)\nAuthor: FMF <<mailto:fmfer@qq.com|fmfer@qq.com>>\nDate:   Fri Oct 20 00:01:04 2023 +0900\n\n    廃盤マーク配置調整、文字大小調整 (#67)\n\n    Co-authored-by: FERNANDEZ <<mailto:a2237mf@aiit.ac.jp|a2237mf@aiit.ac.jp>>\n\ncommit 7ff14c7be203ad1f08e76d482003c2624c9089f1\nAuthor: jabelic <<mailto:37907624+jabelic@users.noreply.github.com|37907624+jabelic@users.noreply.github.com>>\nDate:   Wed Oct 18 03:44:24 2023 +0900\n\n:\n\nちなみに中山さんのAT-469（<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-469>）で作成したファイルが、私のdevelopmentブランチでgitpullしても自分のatomono-frontのファイルに反映されていない気がするのですが、プルリクをだしてまだ修正中だと、git pullをしてもそのファイルはatomono-frontファイルに反映されないのでしょうか？（すみません、その辺についてよくわかっておらず・・）",
+        "files": [
+            {
+                "id": "F061RPEP29M",
+                "created": 1697851837,
+                "timestamp": 1697851837,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TDHFKJ85",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 178076,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061RPEP29M\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F061RPEP29M\/download\/image.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 191,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 255,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_720.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 382,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_800.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 425,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_960.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 510,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F061RPEP29M-a8b3c1303e\/image_1024.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 543,
+                "original_w": 1920,
+                "original_h": 1019,
+                "thumb_tiny": "AwAZADCj1HFJSikNAAKM0AUuD6UAJRRRQAvQU2rTdTTT0oAhX8KD+FSiloAr\/lRU9KKAP\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TDHFKJ85\/F061RPEP29M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F061RPEP29M-66dff6035f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TDHFKJ85",
+        "display_as_bot": false,
+        "ts": "1697851896.414889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnvM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなんと！ありがとうございます。\ngit logでコミットログをだすと以下のようになりました\ncommit 499cf6992e6b4cb9a452718439e3005992c41a8b (HEAD -> development, origin\/development, origin\/HEAD)\nAuthor: jabelic <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:37907624+jabelic@users.noreply.github.com",
+                                "text": "37907624+jabelic@users.noreply.github.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ">\nDate:   Sat Oct 21 02:07:01 2023 +0900\n\n    feature: upgrade typescript (#70)\n\ncommit 8ee83d77aea0df0732ac4961d889ffefdff05d79 (feature\/AT-565\/substitute-responsive)\nAuthor: FMF <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:fmfer@qq.com",
+                                "text": "fmfer@qq.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ">\nDate:   Fri Oct 20 00:01:04 2023 +0900\n\n    廃盤マーク配置調整、文字大小調整 (#67)\n\n    Co-authored-by: FERNANDEZ <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a2237mf@aiit.ac.jp",
+                                "text": "a2237mf@aiit.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ">\n\ncommit 7ff14c7be203ad1f08e76d482003c2624c9089f1\nAuthor: jabelic <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:37907624+jabelic@users.noreply.github.com",
+                                "text": "37907624+jabelic@users.noreply.github.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ">\nDate:   Wed Oct 18 03:44:24 2023 +0900\n\n:\n\nちなみに中山さんのAT-469（"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-469"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）で作成したファイルが、私のdevelopmentブランチでgitpullしても自分のatomono-frontのファイルに反映されていない気がするのですが、プルリクをだしてまだ修正中だと、git pullをしてもそのファイルはatomono-frontファイルに反映されないのでしょうか？（すみません、その辺についてよくわかっておらず・・）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1697852242.000000"
+        },
+        "client_msg_id": "1932cd77-91d6-44f2-a595-388a660c6df1",
+        "thread_ts": "1697813719.761149",
+        "parent_user_id": "U04T9TDB58W",
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10491::94348af06fb111ee8937dffb01640716",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-469?atlOrigin=eyJpIjoiZDgyYmExZTlkN2ZlNDViMDlmNGQ3YTMxODRhNTM0ZTgiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-469 廃盤品詳細画面>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10491::94348af26fb111ee8937dffb01640716",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Review*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:5c9c58b6-2671-4bd8-8163-76419e5820db\/933a67fb-56a8-4564-a453-250f8c1010c1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "Kenta Nakayama"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Kenta Nakayama*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10491::94348af16fb111ee8937dffb01640716",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10491\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10491\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-469",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "956d2dcc-0cbd-4ac8-9852-71a4a5b982e6",
+        "type": "message",
+        "text": "<@U04TDHFKJ85>\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62> これのことですか？まだ取り込まれていないのでdevelopmentにはありません\n\ngithub上で確認するのがまぁ良いと思います",
+        "user": "U04T9TDB58W",
+        "ts": "1697853507.926109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zg+M5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これのことですか？まだ取り込まれていないのでdevelopmentにはありません\n\ngithub上で確認するのがまぁ良いと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697853518.000000"
+        },
+        "thread_ts": "1697813719.761149",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

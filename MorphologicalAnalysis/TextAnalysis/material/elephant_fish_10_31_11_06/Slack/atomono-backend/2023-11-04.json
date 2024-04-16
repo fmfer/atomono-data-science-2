@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "6044cf5e-c92f-477f-ba77-5839459abedd",
+        "type": "message",
+        "text": "商品画像を外部URLから取得する実装リリースしました\nherokuのデータも更新済です\n\nRelease 20231105 · chubachi-pt-2023\/atomono-api\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231105>\n\n> • 外部から取得していたURLが相対パスになっていたのを修正\n> • 仮置きの画像をNO IMAGEに差し替え\n> • サンプル画像URLを返していた箇所を外部から取得した画像URLを返すように実装\n> • `image_url` に格納されていた外部から取得した画像URLを `origin_image_url` に格納するように修正\n>     ◦ `image_url` はS3に置いた画像のURLを格納する予定",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699158501.024219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hn4qI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "商品画像を外部URLから取得する実装リリースしました\nherokuのデータも更新済です\n\nRelease 20231105 · chubachi-pt-2023\/atomono-api\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231105"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "外部から取得していたURLが相対パスになっていたのを修正"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "仮置きの画像をNO IMAGEに差し替え"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "サンプル画像URLを返していた箇所を外部から取得した画像URLを返すように実装"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "image_url",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " に格納されていた外部から取得した画像URLを "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "origin_image_url",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " に格納するように修正"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "image_url",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " はS3に置いた画像のURLを格納する予定"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699175420.000000"
+        }
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "client_msg_id": "01b5b67f-75a0-4bd4-9ba4-92973d9f4c54",
+        "type": "message",
+        "text": "所持品追加が反映されない問題はuseStateかuseEffectで解消できそう:tada:",
+        "user": "U04U66DSPEU",
+        "ts": "1698404096.373539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IR7Rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品追加が反映されない問題はuseStateかuseEffectで解消できそう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eba7b938-a138-48d0-ac3e-405ebc56e1e3",
+        "type": "message",
+        "text": "それは検証済みでして...",
+        "user": "U04T9TDB58W",
+        "ts": "1698404175.006399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eL44+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それは検証済みでして..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22b613f2-510c-44be-9a98-2e87a85bb596",
+        "type": "message",
+        "text": "まぁその可能性もまだなくはないので、調べてみます",
+        "user": "U04T9TDB58W",
+        "ts": "1698404200.679459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbRpx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁその可能性もまだなくはないので、調べてみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698404200.679459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698405433.558879",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698405433.558879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d0a9b3ef-10c1-44e5-8724-3d1122db5894",
+        "type": "message",
+        "text": "もう一度　所持品　ボタンを押すと表示されます development :sweat_smile:",
+        "user": "U04U66DSPEU",
+        "ts": "1698404277.926249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtLm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう一度　所持品　ボタンを押すと表示されます development "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85071df1-6d2a-4814-8b21-989d70e61abd",
+        "type": "message",
+        "text": "多分pollingが悪さしてると思います... headerを消したら起きないですね",
+        "user": "U04T9TDB58W",
+        "ts": "1698404532.248409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zV6wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分pollingが悪さしてると思います... headerを消したら起きないですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd2ef49f-7c9e-404c-b49e-38e1c67a66af",
+        "type": "message",
+        "text": "mobileの存在をすっかり忘れていた(display noneしてるだけだった) :crying_cat_face::crying_cat_face:\n多分useEffectっす...",
+        "user": "U04T9TDB58W",
+        "ts": "1698405433.558879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47bDq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mobileの存在をすっかり忘れていた(display noneしてるだけだった) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face",
+                                "unicode": "1f63f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n多分useEffectっす..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698404200.679459",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "257e346a-b202-41d7-9275-6d253bcdd2d7",
+        "type": "message",
+        "text": "↑これ違ったっぽい",
+        "user": "U04T9TDB58W",
+        "ts": "1698407900.658299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LrWgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑これ違ったっぽい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

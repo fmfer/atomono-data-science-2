@@ -1,0 +1,316 @@
+[
+    {
+        "client_msg_id": "3d32eb86-a2c1-4288-bbc1-512032d3ac8f",
+        "type": "message",
+        "text": "NextAuth, auth.jsに名前変わってるやないですか、ほぇ",
+        "user": "U04T9TDB58W",
+        "ts": "1697631572.316429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QtAy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NextAuth, auth.jsに名前変わってるやないですか、ほぇ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697631572.316429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697632503.798779",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697632503.798779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4b201b4d-d070-443e-946c-3da03df3824f",
+        "type": "message",
+        "text": "良さそうな感じがする。ブラッシュアップする時に使うか？\n認証周りを疎結合に実装することが出来たら、そうする。\n難しかったら最初から入れるしかない",
+        "user": "U04T9TDB58W",
+        "ts": "1697632503.798779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIPh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "良さそうな感じがする。ブラッシュアップする時に使うか？\n認証周りを疎結合に実装することが出来たら、そうする。\n難しかったら最初から入れるしかない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697631572.316429",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "21699c8d-0037-4f42-808e-c2617e36b1fa",
+        "type": "message",
+        "text": "ちょっと今日は厳しいので明日見ます",
+        "user": "U04T9TDB58W",
+        "ts": "1697649285.799729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4C6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと今日は厳しいので明日見ます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4b34019-0550-47f3-91da-5c4ed376458e",
+        "type": "message",
+        "text": "TODO\n• <https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697650471005299>\n• <https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697678085703919>",
+        "user": "U04T9TDB58W",
+        "ts": "1697678118.449819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Spycg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TODO\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697650471005299"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697678085703919"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697650471005299",
+                "ts": "1697650471.005299",
+                "author_id": "U04TV4NASPK",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1697650471.005299",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "ElAQW",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T9TDB58W"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nこちらもレビューをお願いします。\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697650471005299",
+                "fallback": "[October 18th, 2023 10:34 AM] a2231kn: <@U04T9TDB58W>\nこちらもレビューをお願いします。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62>",
+                "text": "<@U04T9TDB58W>\nこちらもレビューをお願いします。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/62>",
+                "author_name": "Nakayama Kenta",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TV4NASPK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_48.jpg",
+                "author_subname": "Nakayama Kenta",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            },
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697678085703919",
+                "ts": "1697678085.703919",
+                "author_id": "U04T201950F",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1697678085.703919",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "\/SbLK",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T9TDB58W"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nPRだしましたのでご確認お願いします〜\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 2,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697678085703919",
+                "fallback": "[October 18th, 2023 6:14 PM] a2240dm: <@U04T9TDB58W>\nPRだしましたのでご確認お願いします〜\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68>",
+                "text": "<@U04T9TDB58W>\nPRだしましたのでご確認お願いします〜\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/68>",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

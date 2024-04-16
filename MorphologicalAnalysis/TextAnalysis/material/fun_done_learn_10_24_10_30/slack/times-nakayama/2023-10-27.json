@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "a8681b29-ff5e-40af-91d9-41a361fd0746",
+        "type": "message",
+        "text": "疲れたので明日寝坊してたら勘弁してください。",
+        "user": "U04TV4NASPK",
+        "ts": "1698409152.402019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6oVJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "疲れたので明日寝坊してたら勘弁してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "otsukaresamadesu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df56e6c5-30cc-4653-b01c-69e60e58b0d1",
+        "type": "message",
+        "text": "サウナ入ってサッパリしてからやるぞ",
+        "user": "U04TV4NASPK",
+        "ts": "1698465391.034259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GthPo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サウナ入ってサッパリしてからやるぞ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DNCRE",
+                    "U04T9TDB58W"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

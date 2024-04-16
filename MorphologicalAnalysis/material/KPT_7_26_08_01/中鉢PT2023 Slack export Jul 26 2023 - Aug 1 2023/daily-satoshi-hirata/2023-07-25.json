@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "A5A37717-38C1-445B-9BB0-EC7362AC2B4B",
+        "type": "message",
+        "text": "2023\/07\/25（火）\nコアMTG 0.5\n振り返り 1\n資料決め 2",
+        "user": "U04TGBZ4XEX",
+        "ts": "1690333123.952299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zuauj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/07\/25（火）\nコアMTG 0.5\n振り返り 1\n資料決め 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,208 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04U66DSPEU> <@U04TDHFKJ85>\n今週のアウトプット欄の記載お願いします。",
+        "user": "U04T201950F",
+        "ts": "1697466280.590409",
+        "thread_ts": "1697385683.932299",
+        "root": {
+            "client_msg_id": "cb45dfe6-c27f-4817-841d-4c38eb5b5e48",
+            "type": "message",
+            "text": "<@U04TV4NASPK> <@U04T9TDB58W> <@U04U66DSPEU> <@U04TGBZ4XEX> <@U04U66DNCRE> <@U04TDHFKJ85>\n火曜日の成果物発表ですが、今週のスプリントで完了したものについて\n取り急ぎこちらのスレッドで各自の成果物を記載ください。\n<https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0#e355e816817441f38b67e9f15b302f32>\n発表の流れを考えるので、できれば明日（10\/16）の19時まででお願いします。\n難しいのであれば何時までに記載できるか教えて下さい。",
+            "user": "U04T201950F",
+            "ts": "1697385683.932299",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "oEbKm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04TV4NASPK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04T9TDB58W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04U66DSPEU"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04TGBZ4XEX"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04U66DNCRE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04TDHFKJ85"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n火曜日の成果物発表ですが、今週のスプリントで完了したものについて\n取り急ぎこちらのスレッドで各自の成果物を記載ください。\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0#e355e816817441f38b67e9f15b302f32"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n発表の流れを考えるので、できれば明日（10\/16）の19時まででお願いします。\n難しいのであれば何時までに記載できるか教えて下さい。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                    "ts": 1696330800,
+                    "color": "E8E7E4",
+                    "bot_id": "B0551QLP8AU",
+                    "app_unfurl_url": "https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0#e355e816817441f38b67e9f15b302f32",
+                    "is_app_unfurl": true,
+                    "app_id": "A049JV0H0KC",
+                    "fallback": "10\/17",
+                    "text": "今週のアウトプット",
+                    "title": "10\/17",
+                    "title_link": "https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?utm_content=6e7b60f1-4088-4f40-8bfa-2e0189d608c0&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl&pvs=6#e355e816817441f38b67e9f15b302f32",
+                    "footer": "Created by Kenta Nakayama"
+                }
+            ],
+            "thread_ts": "1697385683.932299",
+            "reply_count": 9,
+            "reply_users_count": 5,
+            "latest_reply": "1697504205.836059",
+            "reply_users": [
+                "U04TV4NASPK",
+                "U04T201950F",
+                "U04T9TDB58W",
+                "U04TGBZ4XEX",
+                "U04TDHFKJ85"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697417865.411449"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697417907.852489"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697417956.106029"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697418142.469859"
+                },
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697418368.701539"
+                },
+                {
+                    "user": "U04TGBZ4XEX",
+                    "ts": "1697419231.661029"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697419954.403269"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697466280.590409"
+                },
+                {
+                    "user": "U04TDHFKJ85",
+                    "ts": "1697504205.836059"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjpT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今週のアウトプット欄の記載お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "202c6b5d-efe6-4f09-9a3e-74a477ddde86",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "done",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

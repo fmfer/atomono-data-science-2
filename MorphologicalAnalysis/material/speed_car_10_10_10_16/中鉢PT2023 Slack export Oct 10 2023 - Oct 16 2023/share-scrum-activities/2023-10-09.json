@@ -1,0 +1,42 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リスト作成してUIコンポーネントが完成している」こと、「プロジェクト計画書の作成」です。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1696896008.427129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ozn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リスト作成してUIコンポーネントが完成している」こと、「プロジェクト計画書の作成」です。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1696896008.427129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696924389.822819",
+        "reply_users": [
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1696924389.822819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

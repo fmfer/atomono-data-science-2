@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": "  毎週土曜日 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “!here 日曜日の23:55は週報の締切になります。忘れないように提出しましょう。” ",
+        "user": "U04TV4NASPK",
+        "ts": "1698408154.079609"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : <!here> 日曜日の23:55は週報の締切になります。忘れないように提出しましょう。",
+        "user": "USLACKBOT",
+        "ts": "1698451201.813749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "THSyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 日曜日の23:55は週報の締切になります。忘れないように提出しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    }
+]

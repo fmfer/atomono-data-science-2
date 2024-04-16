@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "e20922f0-d50f-467d-b429-51ab4fb5696f",
+        "type": "message",
+        "text": "2023\/10\/24(火)\nコアMTG 2.5h\nユーザの所持品リスト内、商品を削除するAPIの設計 0.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698249730.440339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iI3HB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/24(火)\nコアMTG 2.5h\nユーザの所持品リスト内、商品を削除するAPIの設計 0.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698249866.000000"
+        }
+    },
+    {
+        "client_msg_id": "b081f89f-a885-4f84-9050-3fb48b97347e",
+        "type": "message",
+        "text": "2023\/10\/25(水)\nユーザの所持品リスト内、商品を削除するAPIの実装 3h\nユーザの所持品リスト内、商品を削除するAPIのテスト実装 1h\n(メンバーサポート) 0.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698249818.064899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arEjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/25(水)\nユーザの所持品リスト内、商品を削除するAPIの実装 3h\nユーザの所持品リスト内、商品を削除するAPIのテスト実装 1h\n(メンバーサポート) 0.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698249860.000000"
+        }
+    }
+]

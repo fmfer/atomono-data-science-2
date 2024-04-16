@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "26103a51-9181-49f1-b56d-5b953ef5a329",
+        "type": "message",
+        "text": "７人共通なのはなかった。",
+        "user": "U04TV4NASPK",
+        "ts": "1697875206.073219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/3bqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "７人共通なのはなかった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697724605.474279",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "71c8d664-23e3-4a3b-8fe8-5f1a3c3d044e",
+        "type": "message",
+        "text": "大野さんと一緒でした:v:",
+        "user": "U04T201950F",
+        "ts": "1697875270.538309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYxDg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大野さんと一緒でした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697724605.474279",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

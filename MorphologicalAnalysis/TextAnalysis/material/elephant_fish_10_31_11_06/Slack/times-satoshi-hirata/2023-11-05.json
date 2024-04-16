@@ -1,0 +1,474 @@
+[
+    {
+        "client_msg_id": "3f81433d-3535-4c71-a535-2b3ba27a4035",
+        "type": "message",
+        "text": "返す値 userProductId じゃなくてproductId返したほうがいいか\nuserProductのIdは渡してないし元々見えてないidだった...",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699199089.036379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WJsp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "返す値 userProductId じゃなくてproductId返したほうがいいか\nuserProductのIdは渡してないし元々見えてないidだった..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699200746.000000"
+        }
+    },
+    {
+        "client_msg_id": "9681c9e4-536f-4d59-8b9a-8620bf46f614",
+        "type": "message",
+        "text": "users\/1\/products\/{id} の値はproductのidか",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699199625.606699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mk+Gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "users\/1\/products\/{id} の値はproductのidか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699199640.000000"
+        }
+    },
+    {
+        "client_msg_id": "e24737e3-226e-4425-b348-6da1f1a47dd4",
+        "type": "message",
+        "text": "直った",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699200513.186159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ziBM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "直った"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "99825b9e-d837-47a1-b83b-505000e36a79",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> webpackのconfigオプションで、overlayを全画面表示にしない設定を教えてください",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699237954.201789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIIb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " webpackのconfigオプションで、overlayを全画面表示にしない設定を教えてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699237954.201789",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1699238139.670739",
+        "reply_users": [
+            "U05KW1T3HBQ",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1699237955.808359"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699238138.230409"
+            },
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1699238139.670739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " Webpackのoverlayを全画面表示にしないためには、webpack.config.jsファイルのdevServerオプションのoverlayプロパティをfalseに設定します。\n\n```js\nmodule.exports = {\n  \/\/...\n  devServer: {\n    overlay: false\n  }\n};\n```\n\noverlayプロパティをfalseにすることで、コンパイルエラーが発生した場合にoverlayが表示されなくなります。\n\nまた、overlayの表示方法をカスタマイズしたい場合は、overlayオプションをオブジェクトとして指定することもできます。\n\n```js\nmodule.exports = {\n  \/\/...\n  devServer: {\n    overlay: {\n      warnings: false,\n      errors: true\n    }\n  }\n};\n```\n\nこのようにwarningsとerrorsを個別に制御できます。\n\nデフォルトではoverlayは全画面表示ですが、このようにoverlayオプションを使うことでカスタマイズが可能です。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1699237955.808359",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nikU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Webpackのoverlayを全画面表示にしないためには、webpack.config.jsファイルのdevServerオプションのoverlayプロパティをfalseに設定します。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "js\nmodule.exports = {\n  \/\/...\n  devServer: {\n    overlay: false\n  }\n};\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\noverlayプロパティをfalseにすることで、コンパイルエラーが発生した場合にoverlayが表示されなくなります。\n\nまた、overlayの表示方法をカスタマイズしたい場合は、overlayオプションをオブジェクトとして指定することもできます。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "js\nmodule.exports = {\n  \/\/...\n  devServer: {\n    overlay: {\n      warnings: false,\n      errors: true\n    }\n  }\n};\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nこのようにwarningsとerrorsを個別に制御できます。\n\nデフォルトではoverlayは全画面表示ですが、このようにoverlayオプションを使うことでカスタマイズが可能です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1699237967.000000"
+        },
+        "thread_ts": "1699237954.201789",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "52bb5f26-b80b-43a1-a6da-26b51187a247",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> turbopackのようにエラーを控えめに表示させる方法はありますか?",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699238138.230409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "19heD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " turbopackのようにエラーを控えめに表示させる方法はありますか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699237954.201789",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " Turbopackのようにエラーを控えめに表示する方法は主に以下のようなことができます。\n\n- overlay: false にしてオーバーレイを無効にする\n- stats: 'errors-only' にしてエラーのみを表示\n- notify: false にしてシステム通知を無効にする\n\n例えば以下のように設定できます。\n\n```js\n\/\/ webpack.config.js\n\nmodule.exports = {\n  \/\/ ...\n  stats: 'errors-only', \n  devServer: {\n    overlay: false,\n    notify: false\n  }\n}\n```\n\nこの他にも、ErrorOverlayPluginやFriendlyErrorsWebpackPluginといったプラグインを使うことで、エラーの表示をカスタマイズできます。\n\nまた、webpack-notifierなどの外部ツールを使えば、システム通知だけを制御することも可能です。\n\nturbopackのような見た目を完全に再現するにはカスタムプラグインを作成する必要があるでしょうが、これらの設定を組み合わせることで、ある程度控えめなエラー表示が実現できます。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1699238139.670739",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOm=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Turbopackのようにエラーを控えめに表示する方法は主に以下のようなことができます。\n\n- overlay: false にしてオーバーレイを無効にする\n- stats: 'errors-only' にしてエラーのみを表示\n- notify: false にしてシステム通知を無効にする\n\n例えば以下のように設定できます。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "js\n\/\/ webpack.config.js\n\nmodule.exports = {\n  \/\/ ...\n  stats: 'errors-only', \n  devServer: {\n    overlay: false,\n    notify: false\n  }\n}\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nこの他にも、ErrorOverlayPluginやFriendlyErrorsWebpackPluginといったプラグインを使うことで、エラーの表示をカスタマイズできます。\n\nまた、webpack-notifierなどの外部ツールを使えば、システム通知だけを制御することも可能です。\n\nturbopackのような見た目を完全に再現するにはカスタムプラグインを作成する必要があるでしょうが、これらの設定を組み合わせることで、ある程度控えめなエラー表示が実現できます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1699238155.000000"
+        },
+        "thread_ts": "1699237954.201789",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "a58d8287-ca5f-4887-95bc-0c3a9dff6cd2",
+        "type": "message",
+        "text": "Notionって未ログインの場合でもURLさえ知っていれば閲覧はできてしまうのって仕様ですか..?\nふとbackendの記事シークレットモードで見たら見れてしまった...\n\nBack-End\n<https:\/\/defiant-ornament-ae0.notion.site\/Back-End-2b8571d8470b4826abd5d76e5ba679a4>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699257403.018179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cna5a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notionって未ログインの場合でもURLさえ知っていれば閲覧はできてしまうのって仕様ですか..?\nふとbackendの記事シークレットモードで見たら見れてしまった...\n\nBack-End\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/defiant-ornament-ae0.notion.site\/Back-End-2b8571d8470b4826abd5d76e5ba679a4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5e0eb4d1-b551-4225-b843-325c67ba7a33",
+        "type": "message",
+        "text": "多分仕様です",
+        "user": "U04T9TDB58W",
+        "ts": "1699257516.232179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXvOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分仕様です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

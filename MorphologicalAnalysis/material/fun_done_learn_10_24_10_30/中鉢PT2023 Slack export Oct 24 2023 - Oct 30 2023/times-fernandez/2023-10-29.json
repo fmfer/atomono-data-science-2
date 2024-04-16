@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "5702eff6-993e-44c9-bf99-f6fc5824dff2",
+        "type": "message",
+        "text": "自作メニュー方法の他に、\n```import {Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Button} from \"@nextui-org\/react\"```\nや\n```import { Menu } from '@headlessui\/react'```\n等もありましたが、library\/dependencyあまり入れないほうが良いかな:thinking_face:",
+        "user": "U04U66DSPEU",
+        "ts": "1698579002.385799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PACKU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自作メニュー方法の他に、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import {Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Button} from \"@nextui-org\/react\""
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "や\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import { Menu } from '@headlessui\/react'"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "等もありましたが、library\/dependencyあまり入れないほうが良いかな"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

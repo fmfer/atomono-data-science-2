@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "4da0328c-3c03-4a8d-81df-93363b2f852a",
+        "type": "message",
+        "text": "リリースのための作業を永遠としておりました",
+        "user": "U04T9TDB58W",
+        "ts": "1697469392.966329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9m6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リリースのための作業を永遠としておりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328015.232279",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697500806.847549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vvn+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    },
+    {
+        "client_msg_id": "8F2A06FD-616B-4793-9615-8B83839FAABF",
+        "type": "message",
+        "text": "ユーザの所持品リストに商品を追加するAPIとテスト実装",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697502153.370219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dfZED",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザの所持品リストに商品を追加するAPI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とテスト実装"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697414427.220099",
+        "parent_user_id": "USLACKBOT"
+    }
+]

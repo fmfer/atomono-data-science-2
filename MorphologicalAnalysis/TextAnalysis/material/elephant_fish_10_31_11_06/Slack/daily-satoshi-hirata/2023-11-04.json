@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "916a50e2-42de-4336-aa99-e864bf1b3f0d",
+        "type": "message",
+        "text": "2023\/11\/1(水)\n画像取得について影響範囲の調査 3h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699158652.718579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u8jwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/11\/1(水)\n画像取得について影響範囲の調査 3h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699158674.000000"
+        }
+    },
+    {
+        "client_msg_id": "a1fbc34c-5fc1-43b8-b4fc-878bedc846a1",
+        "type": "message",
+        "text": "2023\/11\/3(金)\n外部から画像取得を行う実装 3h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699158697.075929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdz4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/11\/3(金)\n外部から画像取得を行う実装 3h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ab977f8-c79e-4480-86d6-d305430351fa",
+        "type": "message",
+        "text": "2023\/11\/4(土)\nコードレビュー 1h\nインフラ関連タスクの対応 1h\nサンプル画像の代わりにNO IMAGE 画像を返す箇所の設計と実装 1.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699158732.009949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6hXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/11\/4(土)\nコードレビュー 1h\nインフラ関連タスクの対応 1h\nサンプル画像の代わりにNO IMAGE 画像を返す箇所の設計と実装 1.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699158757.000000"
+        }
+    },
+    {
+        "client_msg_id": "439ea752-0583-4d86-b825-068e157d2e8a",
+        "type": "message",
+        "text": "2023\/11\/5(日)\n取得した外部画像をAPIで返す実装 3h\n初期投入用データの修正 1h\n自動テストの実装 1.5h\n所持品更新APIのバグ修正 2h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699158818.474229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9foS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/11\/5(日)\n取得した外部画像をAPIで返す実装 3h\n初期投入用データの修正 1h\n自動テストの実装 1.5h\n所持品更新APIのバグ修正 2h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699362657.000000"
+        }
+    }
+]

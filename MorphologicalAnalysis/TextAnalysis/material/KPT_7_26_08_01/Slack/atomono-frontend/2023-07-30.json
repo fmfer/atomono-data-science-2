@@ -1,0 +1,165 @@
+[
+    {
+        "client_msg_id": "914d9f42-463e-4aec-acac-08f4b215d8d6",
+        "type": "message",
+        "text": "<@U04T9TDB58W> 質問です。以下のコメントご確認ください。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/34#issuecomment-1657132123>",
+        "user": "U04TV4NASPK",
+        "ts": "1690721575.576749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTnjJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 質問です。以下のコメントご確認ください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/34#issuecomment-1657132123"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690721575.576749",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1690731425.896449",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1690729682.442889"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1690731425.896449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "38dc6843-6390-4141-a085-c3178825ac7f",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/34#issuecomment-1657193754>\n\nリプしましたー　<@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1690729682.442889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/34#issuecomment-1657193754"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nリプしましたー　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690721575.576749",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "4e958250-328f-4090-b9c1-a2447e0d5ae3",
+        "type": "message",
+        "text": "スライド終わったタイミングで対応します。（夏休みかも）",
+        "user": "U04TV4NASPK",
+        "ts": "1690731425.896449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GIuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スライド終わったタイミングで対応します。（夏休みかも）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690721575.576749",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

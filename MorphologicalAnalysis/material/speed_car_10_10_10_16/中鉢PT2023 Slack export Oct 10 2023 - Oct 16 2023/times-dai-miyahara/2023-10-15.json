@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "B05A0665-E4AE-45D9-94DF-9E2CF39F9B45",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009|https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009>",
+        "user": "U04T201950F",
+        "ts": "1697358988.022199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCCrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009",
+                "ts": "1697358836.464009",
+                "author_id": "U04TV4NASPK",
+                "channel_id": "C053APL7NNT",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053APL7NNT",
+                        "ts": "1697358836.464009",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "ruzbI",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T201950F"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 来週火曜の先生へのプレゼンも考えてもらえると "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "pray",
+                                                    "unicode": "1f64f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?pvs=4#e355e816817441f38b67e9f15b302f32"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053APL7NNT\/p1697358836464009",
+                "fallback": "[October 15th, 2023 1:33 AM] a2231kn: <@U04T201950F> 来週火曜の先生へのプレゼンも考えてもらえると :pray:\n<https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?pvs=4#e355e816817441f38b67e9f15b302f32>",
+                "text": "<@U04T201950F> 来週火曜の先生へのプレゼンも考えてもらえると :pray:\n<https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?pvs=4#e355e816817441f38b67e9f15b302f32>",
+                "author_name": "Nakayama Kenta",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TV4NASPK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_48.jpg",
+                "author_subname": "Nakayama Kenta",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    }
+]

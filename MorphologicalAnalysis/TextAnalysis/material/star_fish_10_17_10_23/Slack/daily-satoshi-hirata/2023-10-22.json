@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "bd6253df-8e4c-4533-a5dc-803d901f5607",
+        "type": "message",
+        "text": "2023\/10\/21 土\nユーザの所持品リスト内、商品を編集するAPIの設計 3h\n\n2023\/10\/22 日\nユーザの所持品リスト内、商品を編集するAPIの実装 6h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698030563.249369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynsIT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/21 土\nユーザの所持品リスト内、商品を編集するAPIの設計 3h\n\n2023\/10\/22 日\nユーザの所持品リスト内、商品を編集するAPIの実装 6h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698030582.000000"
+        }
+    }
+]

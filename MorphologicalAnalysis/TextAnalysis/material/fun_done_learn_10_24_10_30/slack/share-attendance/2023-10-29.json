@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "e297d9bc-dc03-4721-b201-678911c345e5",
+        "type": "message",
+        "text": "お伝えし忘れてました。今日の夜は会社の飲み会でして、本日活動できないです。すみません :bow:",
+        "user": "U04T9TDB58W",
+        "ts": "1698628845.406689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQQd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お伝えし忘れてました。今日の夜は会社の飲み会でして、本日活動できないです。すみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04T201950F",
+                    "U04U66DNCRE",
+                    "U04TDHFKJ85"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

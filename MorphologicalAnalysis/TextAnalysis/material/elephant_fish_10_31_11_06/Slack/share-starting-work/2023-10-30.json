@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "cf146c5b-a8df-4ac0-a586-719dcfaa0d8b",
+        "type": "message",
+        "text": "寝ます",
+        "user": "U04U66DNCRE",
+        "ts": "1698681859.656759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S6nTD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝ます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698670537.232589",
+        "parent_user_id": "U04U66DNCRE"
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "27cf4f30-50fd-48d5-9e32-552b9e43caaf",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nReduxってまだ業界だと使われていますか？ソボギ\n<https:\/\/ics.media\/entry\/210224\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1690464928.138889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nReduxってまだ業界だと使われていますか？ソボギ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ics.media\/entry\/210224\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/ics.media\/entry\/210224\/images\/eyecatch.png",
+                "image_width": 1280,
+                "image_height": 540,
+                "image_bytes": 43557,
+                "from_url": "https:\/\/ics.media\/entry\/210224\/",
+                "service_icon": "https:\/\/ics.media\/_assets\/icons\/apple-touch-icon.png",
+                "ts": 1614092400,
+                "id": 1,
+                "original_url": "https:\/\/ics.media\/entry\/210224\/",
+                "fallback": "ICS MEDIA: Reactの新しい状態管理ライブラリ「Recoil」とは？ Reduxとの違いを解説 - ICS MEDIA",
+                "text": "Reactの開発において、状態管理の方法は注意深く検討する必要があります。状態管理ライブラリ「Redux」が大きい勢力ではありますが（参照：npmtrends）、記事『ベストな手法は？Reactのステート管理方法まとめ』でも紹介した通りさまざまな状態管理の手法が現在でも編み出されています。",
+                "title": "Reactの新しい状態管理ライブラリ「Recoil」とは？ Reduxとの違いを解説 - ICS MEDIA",
+                "title_link": "https:\/\/ics.media\/entry\/210224\/",
+                "service_name": "ICS MEDIA"
+            }
+        ],
+        "thread_ts": "1690464928.138889",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690468212.396169",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1690468212.396169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d07a7c00-0324-420c-9fea-cf0cb74b6f1f",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n状態管理ライブラリについては、新しいプロジェクトだとRecoilとか使ったりしますね. Vue.jsならpinia.\nリッチにReduxを使っていた時代とは今は違っていて、最低限のstateの管理のみをしている感じです. フロントエンドアプリケーション全体をFluxアーキテクチャ(ducksパターンなどを含む)で設計し切るのは、自分は厳しいと感じてます(グローバルになんでも突っ込みがちで荒れる)",
+        "user": "U04T9TDB58W",
+        "ts": "1690467908.164519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/Z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n状態管理ライブラリについては、新しいプロジェクトだとRecoilとか使ったりしますね. Vue.jsならpinia.\nリッチにReduxを使っていた時代とは今は違っていて、最低限のstateの管理のみをしている感じです. フロントエンドアプリケーション全体をFluxアーキテクチャ(ducksパターンなどを含む)で設計し切るのは、自分は厳しいと感じてます(グローバルになんでも突っ込みがちで荒れる)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1690467921.000000"
+        }
+    },
+    {
+        "client_msg_id": "10c1a013-1bb2-4c68-bfdd-8788bf69d51d",
+        "type": "message",
+        "text": "slackの調子が悪く, 何度も送り直してます\n\n\n<@U04TV4NASPK>\n状態管理ライブラリについては、新しいプロジェクトだとRecoilとか使ったりしますね. Vue.jsならpinia.\nリッチにReduxを使っていた時代とは今は違っていて、最低限のstateの管理のみをしている感じです. フロントエンドアプリケーション全体をFluxアーキテクチャ(ducksパターンなどを含む)で設計し切るのは、自分は厳しいと感じてます(グローバルになんでも突っ込みがちで荒れる) （編集済み）",
+        "user": "U04T9TDB58W",
+        "ts": "1690468212.396169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "071",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slackの調子が悪く, 何度も送り直してます\n\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n状態管理ライブラリについては、新しいプロジェクトだとRecoilとか使ったりしますね. Vue.jsならpinia.\nリッチにReduxを使っていた時代とは今は違っていて、最低限のstateの管理のみをしている感じです. フロントエンドアプリケーション全体をFluxアーキテクチャ(ducksパターンなどを含む)で設計し切るのは、自分は厳しいと感じてます(グローバルになんでも突っ込みがちで荒れる) （編集済み）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690464928.138889",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb6d7fc0-5ed5-457b-8cd5-64170d0626ad",
+        "type": "message",
+        "text": "なるほ時代は変わったのか",
+        "user": "U04TV4NASPK",
+        "ts": "1690469014.028429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H06ZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほ時代は変わったのか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

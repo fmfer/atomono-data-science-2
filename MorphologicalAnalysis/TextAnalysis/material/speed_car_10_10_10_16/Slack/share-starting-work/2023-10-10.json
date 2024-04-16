@@ -1,0 +1,328 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939715.970409",
+        "user": "U04TV4NASPK",
+        "text": "<@U04TV4NASPK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939724.643209",
+        "user": "U04T201950F",
+        "text": "<@U04T201950F>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939724.724719",
+        "user": "U04T9TDB58W",
+        "text": "<@U04T9TDB58W>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939724.805439",
+        "user": "U04TDHFKJ85",
+        "text": "<@U04TDHFKJ85>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939724.884549",
+        "user": "U04TGBZ4XEX",
+        "text": "<@U04TGBZ4XEX>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939725.009379",
+        "user": "U04U663EFEC",
+        "text": "<@U04U663EFEC>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939725.098759",
+        "user": "U04U66DNCRE",
+        "text": "<@U04U66DNCRE>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696939725.182969",
+        "user": "U04U66DSPEU",
+        "text": "<@U04U66DSPEU>さんがチャンネルに参加しました",
+        "inviter": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "08643e6c-10c3-46da-8a7b-477101c25315",
+        "type": "message",
+        "text": "moc-moc",
+        "user": "U04T201950F",
+        "ts": "1696939754.432529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i88PN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moc-moc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81b18c86-005e-451c-8fe6-d0c368f815be",
+        "type": "message",
+        "text": "23:00くらいまでは今日の内容まとめてます。",
+        "user": "U04TV4NASPK",
+        "ts": "1696944070.320629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywRYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "23:00くらいまでは今日の内容まとめてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696944070.320629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696948089.494149",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1696948089.494149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "57fa0439-9289-4e06-86aa-4d47de404116",
+        "type": "message",
+        "text": "終わります",
+        "user": "U04TV4NASPK",
+        "ts": "1696948089.494149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYgHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "終わります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696944070.320629",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "otsukaresamadesu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "acdd351a-b791-411e-a7df-0495e5617849",
+        "type": "message",
+        "text": "今から9時まで作業してます。",
+        "user": "U04T201950F",
+        "ts": "1696977337.970439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c48Ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今から9時まで作業してます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "389ed5c9-ea50-4fe8-94ff-2fb39ff7529c",
+        "type": "message",
+        "text": "終わります。",
+        "user": "U04T201950F",
+        "ts": "1696982391.161749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWsmm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "終わります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d0d6a741-25fc-4cc3-8934-264bc8f32fb5",
+        "type": "message",
+        "text": "朝早すぎ",
+        "user": "U04TV4NASPK",
+        "ts": "1697005548.166439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "modbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "朝早すぎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,812 @@
+[
+    {
+        "client_msg_id": "549e23f6-f13f-4c9a-b068-2351c7799f08",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nお疲れ様です。\nかなり軽微ですがモーダル画面のレスポンシブ対応のコード修正しました！\nご確認お願いいたします:man-bowing:\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/85\/commits\/9acc98d87e7235ea20f4afa10cc25049597ff662>",
+        "user": "U04U66DNCRE",
+        "ts": "1698934904.645229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+e7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nかなり軽微ですがモーダル画面のレスポンシブ対応のコード修正しました！\nご確認お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/85\/commits\/9acc98d87e7235ea20f4afa10cc25049597ff662"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1699023577.471869",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698937436.504609"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698977469.910039"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698983823.923169"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698984101.164539"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698984205.574419"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1699019322.931769"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1699020145.032979"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1699023577.471869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d3fc53c-7a2f-4244-89c3-9036558443dd",
+        "type": "message",
+        "text": "コメント返しました! <@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1698936322.444429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13yPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コメント返しました! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698858493.069129",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f75b465-7e9e-4788-8bd0-da69981ec272",
+        "type": "message",
+        "text": "コンフリクト解消お願いします〜 <@U04U66DNCRE>",
+        "user": "U04T9TDB58W",
+        "ts": "1698937436.504609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3ni2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンフリクト解消お願いします〜 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f09bbf9-6b75-4dd9-9e79-c3b4ef3d21e3",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nおはようございます。\nconflict部分対応しました。\n一点質問なんですが、親タグの部分で‘w-full’をしている場合は子タグでw-[500px]指定する必要はないと認識しているんですが、理解合ってますでしょうか？\n今回のconflict部分がちょうどそのケースで、\nconflict先のコードでは親タグにw-full、子タグにw-[500px]が設定されていたので、\nそれに合わせる形で自分の改修コードの親タグに‘w-full’設定し、子タグに設定されていたw-[500px]は反映させない形で対応しました。\n\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/85\/conflicts>",
+        "user": "U04U66DNCRE",
+        "ts": "1698977469.910039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pjEmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようございます。\nconflict部分対応しました。\n一点質問なんですが、親タグの部分で‘w-full’をしている場合は子タグでw-[500px]指定する必要はないと認識しているんですが、理解合ってますでしょうか？\n今回のconflict部分がちょうどそのケースで、\nconflict先のコードでは親タグにw-full、子タグにw-[500px]が設定されていたので、\nそれに合わせる形で自分の改修コードの親タグに‘w-full’設定し、子タグに設定されていたw-[500px]は反映させない形で対応しました。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/85\/conflicts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "75f46300-92f1-4bd5-ad2a-a3ace2a58678",
+        "type": "message",
+        "text": "修正しましたー　お時間のある時に再度ご確認お願いします:man-bowing:",
+        "user": "U04U66DSPEU",
+        "ts": "1698981861.851489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1YBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しましたー　お時間のある時に再度ご確認お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698858493.069129",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "181a8b3a-7296-4c5a-a9d9-efa4381648a8",
+        "type": "message",
+        "text": "&gt;   親タグの部分で‘w-full’をしている場合は子タグでw-[500px]指定する必要はない\nその限りではありません。w-fullの中でw-[500px]のblockを定義することもあります",
+        "user": "U04T9TDB58W",
+        "ts": "1698983823.923169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mqayw",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  親タグの部分で‘w-full’をしている場合は子タグでw-[500px]指定する必要はない"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その限りではありません。w-fullの中でw-[500px]のblockを定義することもあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "8a84da40-6633-4f34-9aab-0c7e2dbeeab8",
+        "type": "message",
+        "text": "<@U04U66DNCRE> developmentが反映されていないようですが、まだconflict対応途中だったりしますか？",
+        "user": "U04T9TDB58W",
+        "ts": "1698984101.164539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mf8gB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " developmentが反映されていないようですが、まだconflict対応途中だったりしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "33d6f59c-79b2-434b-a0cd-2ee3d2c78121",
+        "type": "message",
+        "text": "Dev: <https:\/\/front-jabelic.vercel.app\/> と比較してください",
+        "user": "U04T9TDB58W",
+        "ts": "1698984205.574419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wniXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dev: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-jabelic.vercel.app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " と比較してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698934904.645229",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "bd1c4689-e2d6-4518-bdd4-67eda07ead12",
+        "type": "message",
+        "text": "<@U04U66DSPEU> コメントしました！",
+        "user": "U04T9TDB58W",
+        "ts": "1698985774.924809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VY0cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントしました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698858493.069129",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb01fa0-bb0a-42a5-b105-608adcbee2b2",
+        "type": "message",
+        "text": "<@U04TDHFKJ85> <@U04U66DSPEU>\nこれって私が吸収しちゃっていいんでしたっけ？",
+        "user": "U04T9TDB58W",
+        "ts": "1698985850.632929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/edFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれって私が吸収しちゃっていいんでしたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "48d4d430-d874-403e-aa99-73dcbde1b50a",
+        "type": "message",
+        "text": "<@U04T9TDB58W> \nお疲れ様です。すみません:pray:吸収するの意味とは、、？",
+        "user": "U04TDHFKJ85",
+        "ts": "1698992002.313619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y612r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "吸収するの意味とは、、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "c5c93204-fb70-4af5-a79b-d2dad9695b92",
+        "type": "message",
+        "text": "<@U04TDHFKJ85> 引き取っちゃっていいんでしたっけ",
+        "user": "U04T9TDB58W",
+        "ts": "1698992041.068689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0A0kL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 引き取っちゃっていいんでしたっけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "2f0742ee-9fb3-4259-a4b1-6eef7fc0ee58",
+        "type": "message",
+        "text": "ま、時間ある時に自分やっちゃいますね〜",
+        "user": "U04T9TDB58W",
+        "ts": "1698992088.178929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHpaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ま、時間ある時に自分やっちゃいますね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "69ed384b-1608-417e-aa05-4225a8beeb6d",
+        "type": "message",
+        "text": "cc\n<@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1698992097.132769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwfOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "0797a389-535f-410c-bdc9-8eacf7b0f6a1",
+        "type": "message",
+        "text": "<@U04T9TDB58W> \nはい、私は引き取っていただいて大丈夫です:bow:ありがとうございます:pray:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698994660.309449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCju1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nはい、私は引き取っていただいて大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698846236.614879",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

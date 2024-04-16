@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "71c9346f-d369-4504-b950-065991a179cc",
+        "type": "message",
+        "text": "<https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/blog\/web_accessibility_01\/>",
+        "user": "U04T9TDB58W",
+        "ts": "1698746784.256349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXay+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/blog\/web_accessibility_01\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/blog\/web_accessibility_01\/",
+                "image_url": "https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/wp-content\/uploads\/sites\/6\/Web-Accessibility_01_00_s.png",
+                "image_width": 800,
+                "image_height": 534,
+                "image_bytes": 422690,
+                "service_icon": "https:\/\/www.persol-pt.co.jp\/common\/images\/common\/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/blog\/web_accessibility_01\/",
+                "fallback": "セールスマーケティングサービス｜パーソルプロセス＆テクノロジー: 全事業者対象！法改正でWebアクセシビリティが義務化に！？改正の内容と対策をご紹介 - セールスマーケティングサービス｜パーソルプロセス＆テクノロジー",
+                "text": "2024年4月に施行される「改正障害者差別解消法」で、全事業者を対象に義務化される部分が話題になっています。一部では「Webアクセシビリティが義務化される」と思われているようですが、そもそもWebアクセシビリティとは何か、義務化部分について改正法に抵触しないためにどういう対応が必要なのか、改正法の内容にも触れながら紹介します。",
+                "title": "全事業者対象！法改正でWebアクセシビリティが義務化に！？改正の内容と対策をご紹介 - セールスマーケティングサービス｜パーソルプロセス＆テクノロジー",
+                "title_link": "https:\/\/www.persol-pt.co.jp\/salesmarketingservice\/blog\/web_accessibility_01\/",
+                "service_name": "セールスマーケティングサービス｜パーソルプロセス＆テクノロジー",
+                "fields": [
+                    {
+                        "value": "18分",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

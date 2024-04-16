@@ -1,0 +1,597 @@
+[
+    {
+        "client_msg_id": "858b5615-c041-43a7-8818-704c5d6f9652",
+        "type": "message",
+        "text": "所持品リスト追加画面(モーダル)のモバイル対応の進め方としては、\n自分が作った所持品リスト追加画面用のcomponentをコピーして、\nそれをベースに肉付けしていく感じで良いんかな",
+        "user": "U04U66DNCRE",
+        "ts": "1697640872.723529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbDuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リスト追加画面(モーダル)のモバイル対応の進め方としては、\n自分が作った所持品リスト追加画面用のcomponentをコピーして、\nそれをベースに肉付けしていく感じで良いんかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f943c005-6261-4d24-bfd6-13fe6c61b2a8",
+        "type": "message",
+        "text": "ちょっと調べてたら終わったので、中山師匠のPR見ながら明日頑張りまっす",
+        "user": "U04U66DNCRE",
+        "ts": "1697640907.284359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ACY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと調べてたら終わったので、中山師匠のPR見ながら明日頑張りまっす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ccd8e928-c825-4fff-ab0e-6a8b33e35c87",
+        "type": "message",
+        "text": "やはり2日連続出社だと、当日の作業時間減るわ、次の日も早起きだから早く寝なきゃいけないわで結構きついな",
+        "user": "U04U66DNCRE",
+        "ts": "1697641020.671199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/vRUR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やはり2日連続出社だと、当日の作業時間減るわ、次の日も早起きだから早く寝なきゃいけないわで結構きついな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "036d3904-466a-4b95-8f3a-b58bdee7fa24",
+        "type": "message",
+        "text": "fragmentもいじる必要あるの。。？",
+        "user": "U04U66DNCRE",
+        "ts": "1697641064.109459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDR8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fragmentもいじる必要あるの。。？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b1cbc988-edf5-46a8-adf6-9cff216279cb",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nあくまで私見ですが、fragments（`___fragments___`ディレクトリ配下のファイルという認識で話してます）は必要なら使う・作成するという感覚でおります。\n実際、今までの私の実装箇所に関しては`___fragments___`配下のファイルは作成しておりません。（水野さん的にOKなのかさておきPRはmergeされてます笑）\n\nReactの公式におけるfragmentsの説明を見ると、fragmentsは複数の要素を返すコンポーネントに対して定義するもの（ul要素内のli要素的な？）みたいなので、そういったコンポーネントを共通化して使いたい場合は使うものなのかなぁと思ってます。\n<@U04T9TDB58W> ここ間違ってたら申し訳ないので必要あればフォローお願いします！！！\n\n基本はPCで作成しているコンポーネント構成と同じ構成をモバイルで再現するイメージでいいと思います。\n共通で利用できるコンポーネントもあるかもですが、我々のフロントエンドのスキルレベルからすると、\n今はやればやるほど経験になるので、無駄に作ってしまってPRのレビュー時に「削除して共通化して〜」って言われたとしても、\n経験積めたから結果オーライっていう考えて実装してみると良いかなと考えてみます。\n割と業務でもそういう開発ありますしね笑\n\n参考（になるかわからないけど）：\n<https:\/\/ja.react.dev\/reference\/react\/Fragment>\n<https:\/\/ja.legacy.reactjs.org\/docs\/fragments.html>（古い方）",
+        "user": "U04T201950F",
+        "ts": "1697684951.800049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/cgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあくまで私見ですが、fragments（"
+                            },
+                            {
+                                "type": "text",
+                                "text": "__",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "fragments_",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "_",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ディレクトリ配下のファイルという認識で話してます）は必要なら使う・作成するという感覚でおります。\n実際、今までの私の実装箇所に関しては"
+                            },
+                            {
+                                "type": "text",
+                                "text": "__",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "fragments_",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "_",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "配下のファイルは作成しておりません。（水野さん的にOKなのかさておきPRはmergeされてます笑）\n\nReactの公式におけるfragmentsの説明を見ると、fragmentsは複数の要素を返すコンポーネントに対して定義するもの（ul要素内のli要素的な？）みたいなので、そういったコンポーネントを共通化して使いたい場合は使うものなのかなぁと思ってます。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ここ間違ってたら申し訳ないので必要あればフォローお願いします！！！\n\n基本はPCで作成しているコンポーネント構成と同じ構成をモバイルで再現するイメージでいいと思います。\n共通で利用できるコンポーネントもあるかもですが、我々のフロントエンドのスキルレベルからすると、\n今はやればやるほど経験になるので、無駄に作ってしまってPRのレビュー時に「削除して共通化して〜」って言われたとしても、\n経験積めたから結果オーライっていう考えて実装してみると良いかなと考えてみます。\n割と業務でもそういう開発ありますしね笑\n\n参考（になるかわからないけど）：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.react.dev\/reference\/react\/Fragment"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.legacy.reactjs.org\/docs\/fragments.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（古い方）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/ja.react.dev\/images\/og-reference.png",
+                "image_width": 1080,
+                "image_height": 567,
+                "image_bytes": 229643,
+                "from_url": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                "service_icon": "https:\/\/ja.react.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                "fallback": "(...) – React",
+                "text": "The library for web and native user interfaces",
+                "title": "(...) – React",
+                "title_link": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                "service_name": "ja.react.dev"
+            }
+        ],
+        "thread_ts": "1697684951.800049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697690607.045549",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697688675.879379"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697690607.045549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#513461cf95fe4c579dad115db90c1a95> 答えになってるかはわからないですが、この辺に書いてます(コーディング規約・アーキテクチャ )\n<@U04U66DNCRE>\n<@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1697688675.879379",
+        "thread_ts": "1697684951.800049",
+        "root": {
+            "client_msg_id": "b1cbc988-edf5-46a8-adf6-9cff216279cb",
+            "type": "message",
+            "text": "<@U04U66DNCRE>\nあくまで私見ですが、fragments（`___fragments___`ディレクトリ配下のファイルという認識で話してます）は必要なら使う・作成するという感覚でおります。\n実際、今までの私の実装箇所に関しては`___fragments___`配下のファイルは作成しておりません。（水野さん的にOKなのかさておきPRはmergeされてます笑）\n\nReactの公式におけるfragmentsの説明を見ると、fragmentsは複数の要素を返すコンポーネントに対して定義するもの（ul要素内のli要素的な？）みたいなので、そういったコンポーネントを共通化して使いたい場合は使うものなのかなぁと思ってます。\n<@U04T9TDB58W> ここ間違ってたら申し訳ないので必要あればフォローお願いします！！！\n\n基本はPCで作成しているコンポーネント構成と同じ構成をモバイルで再現するイメージでいいと思います。\n共通で利用できるコンポーネントもあるかもですが、我々のフロントエンドのスキルレベルからすると、\n今はやればやるほど経験になるので、無駄に作ってしまってPRのレビュー時に「削除して共通化して〜」って言われたとしても、\n経験積めたから結果オーライっていう考えて実装してみると良いかなと考えてみます。\n割と業務でもそういう開発ありますしね笑\n\n参考（になるかわからないけど）：\n<https:\/\/ja.react.dev\/reference\/react\/Fragment>\n<https:\/\/ja.legacy.reactjs.org\/docs\/fragments.html>（古い方）",
+            "user": "U04T201950F",
+            "ts": "1697684951.800049",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "G\/cgN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04U66DNCRE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nあくまで私見ですが、fragments（"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "__",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "fragments_",
+                                    "style": {
+                                        "italic": true,
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "_",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ディレクトリ配下のファイルという認識で話してます）は必要なら使う・作成するという感覚でおります。\n実際、今までの私の実装箇所に関しては"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "__",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "fragments_",
+                                    "style": {
+                                        "italic": true,
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "_",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "配下のファイルは作成しておりません。（水野さん的にOKなのかさておきPRはmergeされてます笑）\n\nReactの公式におけるfragmentsの説明を見ると、fragmentsは複数の要素を返すコンポーネントに対して定義するもの（ul要素内のli要素的な？）みたいなので、そういったコンポーネントを共通化して使いたい場合は使うものなのかなぁと思ってます。\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04T9TDB58W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ここ間違ってたら申し訳ないので必要あればフォローお願いします！！！\n\n基本はPCで作成しているコンポーネント構成と同じ構成をモバイルで再現するイメージでいいと思います。\n共通で利用できるコンポーネントもあるかもですが、我々のフロントエンドのスキルレベルからすると、\n今はやればやるほど経験になるので、無駄に作ってしまってPRのレビュー時に「削除して共通化して〜」って言われたとしても、\n経験積めたから結果オーライっていう考えて実装してみると良いかなと考えてみます。\n割と業務でもそういう開発ありますしね笑\n\n参考（になるかわからないけど）：\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/ja.react.dev\/reference\/react\/Fragment"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/ja.legacy.reactjs.org\/docs\/fragments.html"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "（古い方）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "attachments": [
+                {
+                    "image_url": "https:\/\/ja.react.dev\/images\/og-reference.png",
+                    "image_width": 1080,
+                    "image_height": 567,
+                    "image_bytes": 229643,
+                    "from_url": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                    "service_icon": "https:\/\/ja.react.dev\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                    "fallback": "(...) – React",
+                    "text": "The library for web and native user interfaces",
+                    "title": "(...) – React",
+                    "title_link": "https:\/\/ja.react.dev\/reference\/react\/Fragment",
+                    "service_name": "ja.react.dev"
+                }
+            ],
+            "thread_ts": "1697684951.800049",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1697690607.045549",
+            "reply_users": [
+                "U04T9TDB58W",
+                "U04U66DNCRE"
+            ],
+            "replies": [
+                {
+                    "user": "U04T9TDB58W",
+                    "ts": "1697688675.879379"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1697690607.045549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJmD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#513461cf95fe4c579dad115db90c1a95"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 答えになってるかはわからないですが、この辺に書いてます(コーディング規約・アーキテクチャ )\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1682345940,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=4#513461cf95fe4c579dad115db90c1a95",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": ":black_joker: Front-End",
+                "text": "仕様・規約・アーキテクチャ",
+                "title": ":black_joker: Front-End",
+                "title_link": "https:\/\/www.notion.so\/Front-End-ed37201719db41b6b5b70e883488b295?pvs=6&utm_content=ed372017-19db-41b6-b5b7-0e883488b295&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl#513461cf95fe4c579dad115db90c1a95",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ],
+        "client_msg_id": "4fbab3a6-6d9e-4a99-8289-ed39ac94ed83",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A1C00C87-32E9-440F-A5DB-5DB66697005C",
+        "type": "message",
+        "text": "<@U04T201950F> <@U04T9TDB58W> \nみなさん、ありがとうございます！\n仕事終わりましたら見てみます、、 :man-bowing: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697690607.045549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9jiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nみなさん、ありがとうございます！\n仕事終わりましたら見てみます、、 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697684951.800049",
+        "parent_user_id": "U04T201950F"
+    }
+]

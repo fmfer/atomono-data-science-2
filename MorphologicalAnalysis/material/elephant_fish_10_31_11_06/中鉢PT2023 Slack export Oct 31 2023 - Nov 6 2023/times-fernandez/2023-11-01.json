@@ -1,0 +1,498 @@
+[
+    {
+        "client_msg_id": "8a349a2d-a074-4bba-9fb2-2c6d24df045c",
+        "type": "message",
+        "text": "cat config\/database.yml",
+        "user": "U04U66DSPEU",
+        "ts": "1698833340.849659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uU0Wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cat config\/database.yml"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e15adac-9437-44c1-9537-690353787328",
+        "type": "message",
+        "text": "mysqld",
+        "user": "U04U66DSPEU",
+        "ts": "1698833513.698979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cxVJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mysqld"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "358cd91b-65b7-40d2-9689-166e4e1240af",
+        "type": "message",
+        "text": "sudo service mysql start",
+        "user": "U04U66DSPEU",
+        "ts": "1698833921.483959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qlub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sudo service mysql start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d78a63fd-9565-4137-b384-85fa2e4fc0b2",
+        "type": "message",
+        "text": "sudo service mysql start",
+        "user": "U04U66DSPEU",
+        "ts": "1698833923.788279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qlub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sudo service mysql start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a4522c39-8646-43cd-9b3a-b1dccceea71b",
+        "type": "message",
+        "text": "select * from replaces_products;",
+        "user": "U04U66DSPEU",
+        "ts": "1698834050.074279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9Cbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "select * from replaces_products;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c79fcbf3-fc9d-40a2-ac78-b69dcf6fd2b0",
+        "type": "message",
+        "text": "<http:\/\/localhost:3000\/productDetails\/2>",
+        "user": "U04U66DSPEU",
+        "ts": "1698834109.076299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fN17g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:3000\/productDetails\/2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b10d5d4c-d5af-465d-bdbb-758a93ad7615",
+        "type": "message",
+        "text": "select old_product_id from replaces_products rp join products p on p.id = rp.old_product_id WHERE p.product_status = 1;",
+        "user": "U04U66DSPEU",
+        "ts": "1698834381.136719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOIwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "select old_product_id from replaces_products rp join products p on p.id = rp.old_product_id WHERE p.product_status = 1;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9be2b3a5-cad5-480f-8aae-0c385e54e436",
+        "type": "message",
+        "text": "app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\n        app\/__components__\/Hero.tsx\n        app\/__fragments__\/Auth.tsx\n        app\/__fragments__\/Header.tsx\n        app\/__fragments__\/InputForm.tsx\n        app\/__fragments__\/MobileHeaderSearchForm.tsx\n        app\/__fragments__\/MobileHeaders.tsx\n        app\/template.tsx\n        app\/userProduct\/__fragments__\/AddUserProductModal.tsx\n        app\/userProduct\/__fragments__\/UserProductsList.tsx\n        hooks\/useAuth.ts\n        package-lock.json\n        package.json",
+        "user": "U04TDHFKJ85",
+        "ts": "1698835823.499589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFpnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\n        app\/__components__\/Hero.tsx\n        app\/__fragments__\/Auth.tsx\n        app\/__fragments__\/Header.tsx\n        app\/__fragments__\/InputForm.tsx\n        app\/__fragments__\/MobileHeaderSearchForm.tsx\n        app\/__fragments__\/MobileHeaders.tsx\n        app\/template.tsx\n        app\/userProduct\/__fragments__\/AddUserProductModal.tsx\n        app\/userProduct\/__fragments__\/UserProductsList.tsx\n        hooks\/useAuth.ts\n        package-lock.json\n        package.json"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b3a091c7-b2f6-4ec8-912c-a5980212eb23",
+        "type": "message",
+        "text": "```git checkout app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\ngit checkout app\/__components__\/Hero.tsx\ngit checkout app\/__fragments__\/Auth.tsx\ngit checkout app\/__fragments__\/Header.tsx\ngit checkout app\/__fragments__\/InputForm.tsx\ngit checkout app\/__fragments__\/MobileHeaderSearchForm.tsx\ngit checkout app\/__fragments__\/MobileHeaders.tsx\ngit checkout app\/template.tsx\ngit checkout app\/userProduct\/__fragments__\/AddUserProductModal.tsx\ngit checkout app\/userProduct\/__fragments__\/UserProductsList.tsx\ngit checkout hooks\/useAuth.ts\ngit checkout package-lock.json\ngit checkout package.json\ngit add app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\ngit add app\/__components__\/Hero.tsx\ngit add app\/__fragments__\/Auth.tsx\ngit add app\/__fragments__\/Header.tsx\ngit add app\/__fragments__\/InputForm.tsx\ngit add app\/__fragments__\/MobileHeaderSearchForm.tsx\ngit add app\/__fragments__\/MobileHeaders.tsx\ngit add app\/template.tsx\ngit add app\/userProduct\/__fragments__\/AddUserProductModal.tsx\ngit add app\/userProduct\/__fragments__\/UserProductsList.tsx\ngit add hooks\/useAuth.ts\ngit add package-lock.json\ngit add package.json```\n",
+        "user": "U04U66DSPEU",
+        "ts": "1698835909.037839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iNve",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\ngit checkout app\/__components__\/Hero.tsx\ngit checkout app\/__fragments__\/Auth.tsx\ngit checkout app\/__fragments__\/Header.tsx\ngit checkout app\/__fragments__\/InputForm.tsx\ngit checkout app\/__fragments__\/MobileHeaderSearchForm.tsx\ngit checkout app\/__fragments__\/MobileHeaders.tsx\ngit checkout app\/template.tsx\ngit checkout app\/userProduct\/__fragments__\/AddUserProductModal.tsx\ngit checkout app\/userProduct\/__fragments__\/UserProductsList.tsx\ngit checkout hooks\/useAuth.ts\ngit checkout package-lock.json\ngit checkout package.json\ngit add app\/__components__\/Header\/MobileHeaderWithSearchForm.tsx\ngit add app\/__components__\/Hero.tsx\ngit add app\/__fragments__\/Auth.tsx\ngit add app\/__fragments__\/Header.tsx\ngit add app\/__fragments__\/InputForm.tsx\ngit add app\/__fragments__\/MobileHeaderSearchForm.tsx\ngit add app\/__fragments__\/MobileHeaders.tsx\ngit add app\/template.tsx\ngit add app\/userProduct\/__fragments__\/AddUserProductModal.tsx\ngit add app\/userProduct\/__fragments__\/UserProductsList.tsx\ngit add hooks\/useAuth.ts\ngit add package-lock.json\ngit add package.json"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f21bae27-6436-42b3-b74c-32a56a395b6a",
+        "type": "message",
+        "text": "お、gitミスった感じですか",
+        "user": "U04T9TDB58W",
+        "ts": "1698835945.507399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Xggt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、gitミスった感じですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698835945.507399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698849361.595919",
+        "reply_users": [
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698849361.595919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9b3d294-5c90-44f2-82e7-ea01c137e40c",
+        "type": "message",
+        "text": "git checkout feature\/AT-565\/substitute-responsive",
+        "user": "U04U66DSPEU",
+        "ts": "1698836116.321159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xsw8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout feature\/AT-565\/substitute-responsive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cba67faa-0e69-4f6a-a788-5e084df11826",
+        "type": "message",
+        "text": "rebase + commit + pushしてました ←　すみません、返事遅れてました",
+        "user": "U04U66DSPEU",
+        "ts": "1698849361.595919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IHh9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rebase + commit + pushしてました ←　すみません、返事遅れてました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698835945.507399",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

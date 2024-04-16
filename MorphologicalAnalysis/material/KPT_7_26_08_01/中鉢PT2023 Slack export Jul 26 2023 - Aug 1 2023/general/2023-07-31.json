@@ -1,0 +1,2067 @@
+[
+    {
+        "client_msg_id": "e84fb1e2-9715-41fb-a3ba-bb3e499e042b",
+        "type": "message",
+        "text": "<@U04U66DNCRE> <@U04TV4NASPK> <@U04T9TDB58W>\nそういえば、私の会社がiStockを契約してまして、そこで色々な画像取れるみたいです。\nもし必要な画像やアイコンとかあったら言ってください。私探します。\n（さっきペルソナの画像探してて気づきました）",
+        "user": "U04T201950F",
+        "ts": "1690799480.535819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLUqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそういえば、私の会社がiStockを契約してまして、そこで色々な画像取れるみたいです。\nもし必要な画像やアイコンとかあったら言ってください。私探します。\n（さっきペルソナの画像探してて気づきました）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "宮原担当のスライド、一旦作成できました！\n他の方の担当箇所で残っている部分等あればサポートしますので遠慮なく言ってください！\nスライドへのリンクは上記割り振りのところに追加しておきます。",
+        "user": "U04T201950F",
+        "ts": "1690802879.609939",
+        "thread_ts": "1690727651.464969",
+        "root": {
+            "client_msg_id": "b3f302fc-e9c1-4c1c-aa72-816fa087f9ba",
+            "type": "message",
+            "text": "<!here>\n各スライド作成割り振り（残りの部分）\n• 序論\n    ◦ 背景：水野さん\n    ◦ 目的：水野さん\n    ◦ 準備：中山さん\n• 本論\n    ◦ 目標設定：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-643&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2434-4698&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ 価値を決める：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-805&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2374-1107&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ スプリント開始〜現在：大野さん\n• 結論\n    ◦ プロジェクトの結論：大野さん\n    ◦ チームの成長：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2443-4817&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>",
+            "user": "U04T201950F",
+            "ts": "1690727651.464969",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gZhCv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n各スライド作成割り振り（残りの部分）\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "序論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "背景：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目的：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "準備：中山さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "本論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目標設定：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-643&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2434-4698&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "価値を決める：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-805&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2374-1107&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "スプリント開始〜現在：大野さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "結論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "プロジェクトの結論：大野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "チームの成長：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2443-4817&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04T201950F",
+                "ts": "1690803018.000000"
+            },
+            "thread_ts": "1690727651.464969",
+            "reply_count": 12,
+            "reply_users_count": 3,
+            "latest_reply": "1690815703.218409",
+            "reply_users": [
+                "U04T201950F",
+                "U04U66DNCRE",
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690736839.919979"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690802879.609939"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690809070.454699"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690811112.946059"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690813390.311329"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815081.956149"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815276.267429"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815309.638799"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815479.419139"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815615.119149"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815640.169159"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815703.218409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyt\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "宮原担当のスライド、一旦作成できました！\n他の方の担当箇所で残っている部分等あればサポートしますので遠慮なく言ってください！\nスライドへのリンクは上記割り振りのところに追加しておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "29a989d0-e051-4bfb-aca0-5172d16cf9c8",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15e78e37-0084-45af-b769-95f53ad7a274",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。\n昨日以下4点質問したところ、奥原先生から回答頂けました！\n司会担当は決める必要ありますが、リモート参加で問題ないようです。\n\n(質問)\n①中鉢PBLは前期PBL発表をリモートで行う予定ですが、問題ないでしょうか？\n　現時点では参加メンバー全員リモートでの参加を予定しております。\n②リモートでの参加になるため、司会についてもリモートで実施させて頂く事になりますが、\n　オンサイトと同じ内容をリモートで実施する形で問題ないでしょうか？\n③リモートでの参加になるため、タイムキーパーについてもリモートで実施(Google meet経由で\n　 鈴を鳴らし時間のアナウンスを行う)する形で問題ないでしょうか？\n④リモートでの参加になるため、マイクを手渡すことができないのですが、こちらに\n　 ついてはどのように対応すればよろしいでしょうか？\n\n(回答)\n①から③：すべてリモートで問題ありません。\n④：そもそも前期は会場の設定がありませんので、マイクの取り回しはありません。\n　司会要項が間違っているので、修正しておきます。",
+        "user": "U04U66DNCRE",
+        "ts": "1690804154.921789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b4mcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n昨日以下4点質問したところ、奥原先生から回答頂けました！\n司会担当は決める必要ありますが、リモート参加で問題ないようです。\n\n(質問)\n①中鉢PBLは前期PBL発表をリモートで行う予定ですが、問題ないでしょうか？\n　現時点では参加メンバー全員リモートでの参加を予定しております。\n②リモートでの参加になるため、司会についてもリモートで実施させて頂く事になりますが、\n　オンサイトと同じ内容をリモートで実施する形で問題ないでしょうか？\n③リモートでの参加になるため、タイムキーパーについてもリモートで実施(Google meet経由で\n　 鈴を鳴らし時間のアナウンスを行う)する形で問題ないでしょうか？\n④リモートでの参加になるため、マイクを手渡すことができないのですが、こちらに\n　 ついてはどのように対応すればよろしいでしょうか？\n\n(回答)\n①から③：すべてリモートで問題ありません。\n④：そもそも前期は会場の設定がありませんので、マイクの取り回しはありません。\n　司会要項が間違っているので、修正しておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690804154.921789",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1690842295.353649",
+        "reply_users": [
+            "U04U66DNCRE",
+            "U04T9TDB58W",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690805154.951449"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1690806325.573809"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1690842295.353649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04TV4NASPK",
+                    "U04TDHFKJ85",
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cac3969-b051-439b-9901-410e4fbebdc0",
+        "type": "message",
+        "text": "@channel\n司会私やっても良いよという方いればここに返信お願いいたします！\n積極的な協力お願いいたします〜",
+        "user": "U04U66DNCRE",
+        "ts": "1690805154.951449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@channel\n司会私やっても良いよという方いればここに返信お願いいたします！\n積極的な協力お願いいたします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DNCRE",
+            "ts": "1690805182.000000"
+        },
+        "thread_ts": "1690804154.921789",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "2533dc8b-8260-42f6-8ba1-562b05c7014d",
+        "type": "message",
+        "text": "<@U04TDHFKJ85> 司会どうすか？:rolling_on_the_floor_laughing:",
+        "user": "U04T9TDB58W",
+        "ts": "1690806325.573809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 司会どうすか？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690804154.921789",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "786901d3-d36a-48eb-ab46-880b1f6f2956",
+        "type": "message",
+        "text": "<@U04T201950F>\n宮原さん、お疲れ様です！\nもし余力があればですが、今後の展望のところでちょっと修正できそうなところがあれば見て頂きたいです、、！\n昨日の話し合いだと若干修正が必要なのかなと思っておりまして。。:man-bowing:",
+        "user": "U04U66DNCRE",
+        "ts": "1690809070.454699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QL9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n宮原さん、お疲れ様です！\nもし余力があればですが、今後の展望のところでちょっと修正できそうなところがあれば見て頂きたいです、、！\n昨日の話し合いだと若干修正が必要なのかなと思っておりまして。。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "自分のところもスライド作成しました。ご確認ください。",
+        "user": "U04TV4NASPK",
+        "ts": "1690811112.946059",
+        "thread_ts": "1690727651.464969",
+        "root": {
+            "client_msg_id": "b3f302fc-e9c1-4c1c-aa72-816fa087f9ba",
+            "type": "message",
+            "text": "<!here>\n各スライド作成割り振り（残りの部分）\n• 序論\n    ◦ 背景：水野さん\n    ◦ 目的：水野さん\n    ◦ 準備：中山さん\n• 本論\n    ◦ 目標設定：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-643&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2434-4698&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ 価値を決める：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-805&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2374-1107&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ スプリント開始〜現在：大野さん\n• 結論\n    ◦ プロジェクトの結論：大野さん\n    ◦ チームの成長：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2443-4817&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>",
+            "user": "U04T201950F",
+            "ts": "1690727651.464969",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gZhCv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n各スライド作成割り振り（残りの部分）\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "序論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "背景：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目的：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "準備：中山さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "本論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目標設定：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-643&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2434-4698&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "価値を決める：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-805&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2374-1107&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "スプリント開始〜現在：大野さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "結論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "プロジェクトの結論：大野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "チームの成長：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2443-4817&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04T201950F",
+                "ts": "1690803018.000000"
+            },
+            "thread_ts": "1690727651.464969",
+            "reply_count": 12,
+            "reply_users_count": 3,
+            "latest_reply": "1690815703.218409",
+            "reply_users": [
+                "U04T201950F",
+                "U04U66DNCRE",
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690736839.919979"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690802879.609939"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690809070.454699"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690811112.946059"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690813390.311329"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815081.956149"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815276.267429"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815309.638799"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815479.419139"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815615.119149"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815640.169159"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815703.218409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6r2t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分のところもスライド作成しました。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "476f3a94-b1a4-48a7-aadd-7d7428f094f1"
+    },
+    {
+        "client_msg_id": "daaace09-f931-443e-9fc5-170a951ff8bd",
+        "type": "message",
+        "text": "<!channel>\n一旦スプリント開始に関するスライド作成いたしました。\nスプリント開始のイベントに対する説明スライド？も作成されていないように見えたので合わせて作成しました！\nご確認お願いいたします。\n\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-880&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>",
+        "user": "U04U66DNCRE",
+        "ts": "1690812274.300849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06FzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一旦スプリント開始に関するスライド作成いたしました。\nスプリント開始のイベントに対する説明スライド？も作成されていないように見えたので合わせて作成しました！\nご確認お願いいたします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-880&mode=design&t=yRYVOsFMOnKyIfde-4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2469-4906&mode=design&t=yRYVOsFMOnKyIfde-4",
+                                "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2469-4906&mode=design&t=yRYVOsFMOnKyIfde-4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d17d212-2656-4f7f-9cb4-8b9abb879203",
+        "type": "message",
+        "text": "こっちに投稿した方が分かりやすいんで、\nこっちにも投稿しておきます。\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690812274300849>",
+        "user": "U04U66DNCRE",
+        "ts": "1690813390.311329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こっちに投稿した方が分かりやすいんで、\nこっちにも投稿しておきます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690812274300849"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690812274300849",
+                "ts": "1690812274.300849",
+                "author_id": "U04U66DNCRE",
+                "channel_id": "C04T9T2TW22",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C04T9T2TW22",
+                        "ts": "1690812274.300849",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "06FzR",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n一旦スプリント開始に関するスライド作成いたしました。\nスプリント開始のイベントに対する説明スライド？も作成されていないように見えたので合わせて作成しました！\nご確認お願いいたします。\n\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-880&mode=design&t=yRYVOsFMOnKyIfde-4"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2469-4906&mode=design&t=yRYVOsFMOnKyIfde-4",
+                                                    "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2469-4906&mode=design&t=yRYVOsFMOnKyIfde-4"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690812274300849",
+                "fallback": "[July 31st, 2023 7:04 AM] a2206ho: <!channel>\n一旦スプリント開始に関するスライド作成いたしました。\nスプリント開始のイベントに対する説明スライド？も作成されていないように見えたので合わせて作成しました！\nご確認お願いいたします。\n\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-880&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>",
+                "text": "<!channel>\n一旦スプリント開始に関するスライド作成いたしました。\nスプリント開始のイベントに対する説明スライド？も作成されていないように見えたので合わせて作成しました！\nご確認お願いいたします。\n\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-880&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2469-4906&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>",
+                "author_name": "Ohno Hiroto",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04U66DNCRE",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_48.jpg",
+                "author_subname": "Ohno Hiroto",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "全体の結論(プロジェクトの結論)スライド作成しました。\nご確認お願いいたします！\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2443-4781&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2443-4781&amp;mode=design&amp;t=yRYVOsFMOnKyIfde-4>",
+        "user": "U04U66DNCRE",
+        "ts": "1690815081.956149",
+        "thread_ts": "1690727651.464969",
+        "root": {
+            "client_msg_id": "b3f302fc-e9c1-4c1c-aa72-816fa087f9ba",
+            "type": "message",
+            "text": "<!here>\n各スライド作成割り振り（残りの部分）\n• 序論\n    ◦ 背景：水野さん\n    ◦ 目的：水野さん\n    ◦ 準備：中山さん\n• 本論\n    ◦ 目標設定：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-643&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2434-4698&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ 価値を決める：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2336-805&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2374-1107&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド2>\n    ◦ スプリント開始〜現在：大野さん\n• 結論\n    ◦ プロジェクトの結論：大野さん\n    ◦ チームの成長：宮原\n        ▪︎ <https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2443-4817&amp;mode=design&amp;t=Y9KOsVKdzKL5QjEA-4|スライド1>",
+            "user": "U04T201950F",
+            "ts": "1690727651.464969",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gZhCv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n各スライド作成割り振り（残りの部分）\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "序論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "背景：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目的：水野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "準備：中山さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "本論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "目標設定：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-643&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2434-4698&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "価値を決める：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2336-805&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2374-1107&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "スプリント開始〜現在：大野さん"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "結論"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "プロジェクトの結論：大野さん"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "チームの成長：宮原"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2443-4817&mode=design&t=Y9KOsVKdzKL5QjEA-4",
+                                            "text": "スライド1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "edited": {
+                "user": "U04T201950F",
+                "ts": "1690803018.000000"
+            },
+            "thread_ts": "1690727651.464969",
+            "reply_count": 12,
+            "reply_users_count": 3,
+            "latest_reply": "1690815703.218409",
+            "reply_users": [
+                "U04T201950F",
+                "U04U66DNCRE",
+                "U04TV4NASPK"
+            ],
+            "replies": [
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690736839.919979"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690802879.609939"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690809070.454699"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1690811112.946059"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690813390.311329"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815081.956149"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815276.267429"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815309.638799"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815479.419139"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815615.119149"
+                },
+                {
+                    "user": "U04U66DNCRE",
+                    "ts": "1690815640.169159"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1690815703.218409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体の結論(プロジェクトの結論)スライド作成しました。\nご確認お願いいたします！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2443-4781&mode=design&t=yRYVOsFMOnKyIfde-4",
+                                "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2443-4781&mode=design&t=yRYVOsFMOnKyIfde-4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "06248481-b311-43ef-a336-4b7a2c95ed73",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e60ee2d7-8a5e-4f26-b613-1f93e43179e8",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nすみません、確認遅れました！\n今後の展望ですね！了解です！",
+        "user": "U04T201950F",
+        "ts": "1690815276.267429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません、確認遅れました！\n今後の展望ですね！了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "baf0ebcd-117d-4c43-8da6-23dc6b33c785",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\n修正案どんな感じでしたっけ？？",
+        "user": "U04T201950F",
+        "ts": "1690815309.638799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vS08j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正案どんな感じでしたっけ？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1690815312.000000"
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "5ec23a12-66e1-4a94-9989-a79de6afeab8",
+        "type": "message",
+        "text": "<@U04T201950F>\nすいません、お時間ももう遅いですし、明日のチームミーティングとかで確認できると思うので一旦大丈夫です:man-bowing::man-bowing:\n個人的には、今の書いている内容で認識相違なければ良いかなと思うのですが、\n昨日の話し合い実施した後で、あの内容で若干不安になったので依頼させていただいた感じです、、！",
+        "user": "U04U66DNCRE",
+        "ts": "1690815479.419139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLDco",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、お時間ももう遅いですし、明日のチームミーティングとかで確認できると思うので一旦大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n個人的には、今の書いている内容で認識相違なければ良いかなと思うのですが、\n昨日の話し合い実施した後で、あの内容で若干不安になったので依頼させていただいた感じです、、！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "1b8240af-b591-46fc-904f-c975d42a0890",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nあ、そういうことですね！承知しました！\nぱっと見あまり違和感ないと思うので問題ないかと！\n全体まとめてみて違和感あったら少し修正しましょうか！",
+        "user": "U04T201950F",
+        "ts": "1690815615.119149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1n0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあ、そういうことですね！承知しました！\nぱっと見あまり違和感ないと思うので問題ないかと！\n全体まとめてみて違和感あったら少し修正しましょうか！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "2cdd2542-fc75-429e-b09f-ab9192c92996",
+        "type": "message",
+        "text": "了解です！\nありがとうございます:pray:",
+        "user": "U04U66DNCRE",
+        "ts": "1690815640.169159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "He+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！\nありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "0071a991-3d6c-4864-b950-be644b4ffe71",
+        "type": "message",
+        "text": "こちらこそです！\nあと、プロジェクトの結論部分、現状と目標のギャップをわかりやすく示しているのでいい感じだと思います！",
+        "user": "U04T201950F",
+        "ts": "1690815703.218409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5vN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらこそです！\nあと、プロジェクトの結論部分、現状と目標のギャップをわかりやすく示しているのでいい感じだと思います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690727651.464969",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09b28757-c857-4d6a-ab1f-4aa4ebfa0104",
+        "type": "message",
+        "text": "<@U04T9TDB58W> \n司会大丈夫です:+1:そしたら当日司会行いますね:raising_hand:",
+        "user": "U04TDHFKJ85",
+        "ts": "1690842295.353649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wi\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n司会大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そしたら当日司会行いますね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raising_hand",
+                                "unicode": "1f64b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690804154.921789",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a2a821b-7e96-4f6f-b2fb-011e052e4e2d",
+        "type": "message",
+        "text": "*<!channel>*\n\nみなさんお疲れ様です:cocktail:\n\n本日はコアミーティングです\n\n:checkered_flag: スプリントゴールの更新\n:star-struck: KPTの入力\n\nをお願いします！\n\n:fast_forward:  <https:\/\/www.notion.so\/5bea293474f44377a7c604613a6049e5?v=853b7fa553fb465c89d3822aa2027809&amp;p=9a06aa7efc0a4184a012407b36bd7dcb&amp;pm=s>\n\n:apple:成果物として共有できるものがあれば、アウトプットに入力お願いします！",
+        "user": "U04U66DSPEU",
+        "ts": "1690852920.493959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4s+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nみなさんお疲れ様です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cocktail",
+                                "unicode": "1f378"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n本日はコアミーティングです\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "checkered_flag",
+                                "unicode": "1f3c1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スプリントゴールの更新\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": " KPTの入力\n\nをお願いします！\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fast_forward",
+                                "unicode": "23e9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/5bea293474f44377a7c604613a6049e5?v=853b7fa553fb465c89d3822aa2027809&p=9a06aa7efc0a4184a012407b36bd7dcb&pm=s"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "apple",
+                                "unicode": "1f34e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "成果物として共有できるものがあれば、アウトプットに入力お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DNCRE",
+                    "U04TGBZ4XEX",
+                    "U04TV4NASPK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

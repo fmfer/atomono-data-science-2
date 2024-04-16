@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "257b3f0c-dd65-48fd-abe2-c15f28dbff82",
+        "type": "message",
+        "text": "<https:\/\/asana.com\/ja\/resources\/what-is-timeboxing>",
+        "user": "U04T9TDB58W",
+        "ts": "1697538619.927449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPKHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/asana.com\/ja\/resources\/what-is-timeboxing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/asana.com\/ja\/resources\/what-is-timeboxing",
+                "image_url": "https:\/\/assets.asana.biz\/m\/3ee135da48d9300c\/webimage-article-productivity-what-is-timeboxing-2x.jpg",
+                "image_width": 800,
+                "image_height": 533,
+                "image_bytes": 76267,
+                "service_icon": "https:\/\/brand.asana.biz\/image\/upload\/f_auto:image,fl_preserve_transparency\/v1696462482\/asana_favicon_57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/asana.com\/ja\/resources\/what-is-timeboxing",
+                "fallback": "Asana: タイムボックスとは？生産性を上げる時間管理戦略 [2023] • Asana",
+                "text": "タイムボックスを活用して、生産性の向上と先延ばしの削減を実現しましょう。自分やチームの仕事や会議でこの手法を活用するヒントを紹介します。",
+                "title": "タイムボックスとは？生産性を上げる時間管理戦略 [2023] • Asana",
+                "title_link": "https:\/\/asana.com\/ja\/resources\/what-is-timeboxing",
+                "service_name": "Asana"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10ff68c0-ac1d-4801-8874-8af78669a7c9",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/tentel\/articles\/cc76611f4010c9> nextauth入れようかな",
+        "user": "U04T9TDB58W",
+        "ts": "1697541840.686829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ivdfq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/tentel\/articles\/cc76611f4010c9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " nextauth入れようかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--PJeaCdVA--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Next.js%25E3%2580%2591NextAuth%25C3%2597Firebase%25E3%2581%25A7%25E8%25AA%258D%25E8%25A8%25BC%25E7%25AE%25A1%25E7%2590%2586%2520in%2520app%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2582%2593%25E3%2581%25A6%25E3%2582%258B%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M5YTBkZmMxOGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 32074,
+                "from_url": "https:\/\/zenn.dev\/tentel\/articles\/cc76611f4010c9",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/tentel\/articles\/cc76611f4010c9",
+                "fallback": "Zenn: 【Next.js】NextAuth×Firebaseで認証管理 in appディレクトリ",
+                "title": "【Next.js】NextAuth×Firebaseで認証管理 in appディレクトリ",
+                "title_link": "https:\/\/zenn.dev\/tentel\/articles\/cc76611f4010c9",
+                "service_name": "Zenn"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67ea1695-b695-41c7-af62-6828191be7b9",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/aiji42\/scraps\/c131e1cc0ff255|https:\/\/zenn.dev\/aiji42\/scraps\/c131e1cc0ff255>\nいーなー",
+        "user": "U04T9TDB58W",
+        "ts": "1697603555.548609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "amM90",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/aiji42\/scraps\/c131e1cc0ff255",
+                                "text": "https:\/\/zenn.dev\/aiji42\/scraps\/c131e1cc0ff255"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nいーなー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a53c9224-de74-4f4f-a35c-78edfb9984d9",
+        "type": "message",
+        "text": "<https:\/\/coredou.com\/wp-content\/uploads\/2021\/01\/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E7%8F%BE%E5%A0%B4%E3%82%AC%E3%82%A4%E3%83%89.pdf>",
+        "user": "U04T9TDB58W",
+        "ts": "1697607419.985129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKnSq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coredou.com\/wp-content\/uploads\/2021\/01\/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E7%8F%BE%E5%A0%B4%E3%82%AC%E3%82%A4%E3%83%89.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697607419.985129",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697609466.188639",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697609320.965669"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697609466.188639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "976b27c2-6f30-46ba-ae9d-858c3eb4c500",
+        "type": "message",
+        "text": "チームコンサルタント、スペシャリスト的な位置なんだろうな。",
+        "user": "U04TV4NASPK",
+        "ts": "1697609320.965669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TezQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チームコンサルタント、スペシャリスト的な位置なんだろうな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697607419.985129",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dab5e5d0-9577-4ad2-b557-22200fb84dce",
+        "type": "message",
+        "text": "振り返りはKPTぽい",
+        "user": "U04TV4NASPK",
+        "ts": "1697609466.188639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myfW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "振り返りはKPTぽい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697607419.985129",
+        "parent_user_id": "U04T9TDB58W"
+    }
+]

@@ -1,0 +1,857 @@
+[
+    {
+        "client_msg_id": "f834f1e2-dad8-42dd-880f-0a97c352be3c",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nお疲れ様です。\nレビュー指摘反映し再度PRしました！\nお手隙の際にご確認お願いいたします:man-bowing:\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/56\/commits\/79ea17a73d19a17be022ecd18eb1c8ad0c2b05fe>",
+        "user": "U04U66DNCRE",
+        "ts": "1697267360.128719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6Ufx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nレビュー指摘反映し再度PRしました！\nお手隙の際にご確認お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/56\/commits\/79ea17a73d19a17be022ecd18eb1c8ad0c2b05fe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697267360.128719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697268302.041829",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697268302.041829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d8a6be96-4f6c-464a-abb8-1c220cc7a238",
+        "type": "message",
+        "text": "LGTM :tada: <@U04U66DNCRE>",
+        "user": "U04T9TDB58W",
+        "ts": "1697268302.041829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FD1D2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LGTM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697267360.128719",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22a7956d-c068-453e-a7a1-b1e6063e0829",
+        "type": "message",
+        "text": "みなさん大丈夫そうですか？ペアプロとか <!here>",
+        "user": "U04T9TDB58W",
+        "ts": "1697281564.875219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QQ\/Wc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みなさん大丈夫そうですか？ペアプロとか "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697281572.000000"
+        }
+    },
+    {
+        "client_msg_id": "24e8f06d-f080-4c49-8e0c-d5fd5f4edd23",
+        "type": "message",
+        "text": "今のとこ大丈夫だけど、訳分からんかったら聞くかドラフトでPR出します",
+        "user": "U04TV4NASPK",
+        "ts": "1697281625.402349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/k0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今のとこ大丈夫だけど、訳分からんかったら聞くかドラフトでPR出します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1637fb25-78b5-464f-9376-0ae0a90f8f38",
+        "type": "message",
+        "text": "<@U04T201950F>\n基本はこんな感じでだし分けできるようになるはず\n`<span className='tablet:hidden laptop:hidden desktop:hidden'> mobile <\/span>` \n\n`<span className='hidden tablet:block laptop:block desktop:block'> PC <\/span>`",
+        "user": "U04TV4NASPK",
+        "ts": "1697287568.335189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3iMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n基本はこんな感じでだし分けできるようになるはず\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<span className='tablet:hidden laptop:hidden desktop:hidden'> mobile <\/span> ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<span className='hidden tablet:block laptop:block desktop:block'> PC <\/span>",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697287817.000000"
+        },
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4384dc82-ec55-4b92-afce-7f27bdca2d4a",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nConflict解消しました！",
+        "user": "U04T201950F",
+        "ts": "1697300249.582629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uxgz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nConflict解消しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696824666.709179",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b467e7d6-cf36-4497-84c1-552e7b2df448",
+        "type": "message",
+        "text": "修正しましたー　もう一回チェックお願いします:pray:",
+        "user": "U04U66DSPEU",
+        "ts": "1697302265.966739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vkgRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しましたー　もう一回チェックお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697202635.333889",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "lgtm",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0AA1EDCB-1D38-43F0-BE38-5196B4BD5CDD",
+        "type": "message",
+        "text": "<@U04TV4NASPK> \nお疲れ様です。\nレビュー指摘対応完了したのでレスポンシブ対応入れます！",
+        "user": "U04U66DNCRE",
+        "ts": "1697337537.142379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vss8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\nレビュー指摘対応完了したのでレスポンシブ対応入れます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1697358528.595709",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697341869.537789"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697353049.432289"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697353214.281329"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697358001.538049"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697358399.446459"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697358528.595709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ceb70c7a-51f5-4d5e-8f2e-461648ce3ecb",
+        "type": "message",
+        "text": "どっかレスポンシブ対応のページ取ってもらえると",
+        "user": "U04TV4NASPK",
+        "ts": "1697341869.537789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVHs2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どっかレスポンシブ対応のページ取ってもらえると"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "fead07a2-a91f-445d-a284-45aefba814f7",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nなんかまたConflict発生しているみたいなので修正します…",
+        "user": "U04T201950F",
+        "ts": "1697347022.187559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzrCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなんかまたConflict発生しているみたいなので修正します…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696824666.709179",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "83b6c268-7eab-40d6-bfbd-a586e89ba03e",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n普通にmergeするだけで大丈夫でした！\nご確認お願いします！",
+        "user": "U04T201950F",
+        "ts": "1697347486.661579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJaX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n普通にmergeするだけで大丈夫でした！\nご確認お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696824666.709179",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82e41d4a-ca41-4c72-98ce-1c07f9c532f2",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/52> 取り込んじゃいます",
+        "user": "U04T9TDB58W",
+        "ts": "1697348229.267929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "juTUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/52"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 取り込んじゃいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "331F9FE9-A878-4FE0-9F19-502CE820AD3A",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nAT460にぶら下がってるJiraから選ぶって事ですよね？\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460|https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460>",
+        "user": "U04U66DNCRE",
+        "ts": "1697353049.432289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3PZ2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAT460にぶら下がってるJiraから選ぶって事ですよね？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460",
+                                "text": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10482::1bf1a8306b2811ee9d3e099f1ccb019a",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460?atlOrigin=eyJpIjoiOWU0MWJkNmJkMjI5NDM3ZTk5MWM2ZDRhNDE0NGRjM2UiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-460 レスポンシブ対応>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10482::1bf1a8326b2811ee9d3e099f1ccb019a",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/epic.png",
+                                "alt_text": "Epic"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Epic*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10482::1bf1a8316b2811ee9d3e099f1ccb019a",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10482\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10482\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-460",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1697337537.142379",
+        "parent_user_id": "U04U66DNCRE"
+    }
+]

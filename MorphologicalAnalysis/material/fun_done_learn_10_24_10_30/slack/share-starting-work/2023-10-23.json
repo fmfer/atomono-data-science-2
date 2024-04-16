@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "63da54bd-54b3-4dc0-bfc1-ac2b905f1605",
+        "type": "message",
+        "text": "少し作業します",
+        "user": "U04U66DSPEU",
+        "ts": "1698075063.418179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4lYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少し作業します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698075063.418179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698079685.321709",
+        "reply_users": [
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698079685.321709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6afd867a-59fb-4e05-a611-e8e9a20605e6",
+        "type": "message",
+        "text": "今日はここまでです。お疲れ様でした。",
+        "user": "U04U66DSPEU",
+        "ts": "1698079685.321709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rCqd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はここまでです。お疲れ様でした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698075063.418179",
+        "parent_user_id": "U04U66DSPEU"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ログインログアウトのリリース」「所持品リストの編集削除」です。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1699056028.331459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ログインログアウトのリリース」「所持品リストの編集削除」です。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1699056028.331459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699275656.291849",
+        "reply_users": [
+            "U04U66DNCRE",
+            "U04U66DSPEU"
+        ],
+        "replies": [
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1699143195.536069"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1699275656.291849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

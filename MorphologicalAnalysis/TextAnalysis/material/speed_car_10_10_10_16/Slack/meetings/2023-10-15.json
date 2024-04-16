@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "5af98c70-8887-4c1a-848d-e28a9879c5ca",
+        "type": "message",
+        "text": "<@U04T201950F> 来週火曜の先生へのプレゼンも考えてもらえると :pray:\n<https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?pvs=4#e355e816817441f38b67e9f15b302f32>",
+        "user": "U04TV4NASPK",
+        "ts": "1697358836.464009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruzbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 来週火曜の先生へのプレゼンも考えてもらえると "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/10-17-6e7b60f140884f408bfa2e0189d608c0?pvs=4#e355e816817441f38b67e9f15b302f32"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358836.464009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697358910.616899",
+        "reply_users": [
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1697358910.616899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "FFCDA3D8-8370-43B5-961E-F76CD659D006",
+        "type": "message",
+        "text": "承知しました。\n本日夜時点で成果物の確認するので、その後考えます。",
+        "user": "U04T201950F",
+        "ts": "1697358910.616899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WGlCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。\n本日夜時点で成果物の確認するので、その後考えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358836.464009",
+        "parent_user_id": "U04TV4NASPK"
+    }
+]

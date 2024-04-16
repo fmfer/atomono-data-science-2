@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/status.slack.com\/\/2023-10\/8c886b57284762b6|Outage: Issues for customers enrolled in the French data region>\nIssue summary:\nFrom 4:00PM PDT on October 31, 2023 to around 10:00PM PDT, customers with international data residency in the Paris, France region, experienced issues connecting to Slack and sending messages.\n\nA routine credential rotation caused database sync issues for the Paris, France data residency region. We reverted this code change and restarted the affected databases, resolving the issue for all impacted customers. \n\nOnce we had mitigated the immediate impact and restored connectivity...",
+        "ts": "1698897647.480559",
+        "username": "Slack System Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B05KN076YF9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.slack.com\/\/2023-10\/8c886b57284762b6",
+                                "text": "Outage: Issues for customers enrolled in the French data region"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIssue summary:\nFrom 4:00PM PDT on October 31, 2023 to around 10:00PM PDT, customers with international data residency in the Paris, France region, experienced issues connecting to Slack and sending messages.\n\nA routine credential rotation caused database sync issues for the Paris, France data residency region. We reverted this code change and restarted the affected databases, resolving the issue for all impacted customers. \n\nOnce we had mitigated the immediate impact and restored connectivity..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "from_url": "https:\/\/status.slack.com\/\/2023-10\/8c886b57284762b6",
+                "thumb_url": "https:\/\/status.slack.com\/img\/v2_rebrand\/slack_hash_256.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/status.slack.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/status.slack.com\/\/2023-10\/8c886b57284762b6",
+                "fallback": "Slack: Slack System Status",
+                "text": "Resources for real-time and historical information about the Slack service.",
+                "title": "Slack System Status",
+                "title_link": "https:\/\/status.slack.com\/\/2023-10\/8c886b57284762b6",
+                "service_name": "Slack"
+            }
+        ],
+        "edited": {
+            "user": "B05KN076YF9",
+            "ts": "1698897647.000000"
+        }
+    }
+]

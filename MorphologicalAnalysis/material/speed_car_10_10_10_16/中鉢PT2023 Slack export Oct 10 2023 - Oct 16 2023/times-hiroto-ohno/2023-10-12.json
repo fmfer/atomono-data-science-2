@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "52b57bf6-cef7-4158-878f-c01d57aa302a",
+        "type": "message",
+        "text": "<@U04T9TDB58W> <@U04T201950F>\ngit restoreで変更を戻し、commitできました！\n初歩的な質問ですが、\npushする際に“”で指定する部分は皆さんどのように決めてる感じでしょうか。。？\n\nNotinoの手順見ると下記のような記載があり、、\ngit push origin “feature\/AT-76\/create-input-component”\n\n<https:\/\/www.notion.so\/Scrum-66b8bebf4bbc4423b3f7b2de9cb6642b?p=ed37201719db41b6b5b70e883488b295&amp;pm=s>",
+        "user": "U04U66DNCRE",
+        "ts": "1697111576.602429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "367VX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ngit restoreで変更を戻し、commitできました！\n初歩的な質問ですが、\npushする際に“”で指定する部分は皆さんどのように決めてる感じでしょうか。。？\n\nNotinoの手順見ると下記のような記載があり、、\ngit push origin “feature\/AT-76\/create-input-component”\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Scrum-66b8bebf4bbc4423b3f7b2de9cb6642b?p=ed37201719db41b6b5b70e883488b295&pm=s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1682345940,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/Scrum-66b8bebf4bbc4423b3f7b2de9cb6642b?p=ed37201719db41b6b5b70e883488b295&amp;pm=s",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": ":black_joker: Front-End",
+                "text": "Starting guide",
+                "title": ":black_joker: Front-End",
+                "title_link": "https:\/\/www.notion.so\/Scrum-66b8bebf4bbc4423b3f7b2de9cb6642b?p=ed37201719db41b6b5b70e883488b295&amp%3Bpm=s&utm_content=ed372017-19db-41b6-b5b7-0e883488b295&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl&pvs=6",
+                "footer": "Created by Hibiki Mizuno"
+            }
+        ],
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "2dd32518-6f05-4dcd-9568-660719445486",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\npush先のリモートブランチ名を指定する必要があるので、基本はローカルのブランチ名と同じでいいと思います。",
+        "user": "U04T201950F",
+        "ts": "1697111665.072089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CBdaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npush先のリモートブランチ名を指定する必要があるので、基本はローカルのブランチ名と同じでいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE"
+    },
+    {
+        "client_msg_id": "5DD30A4F-7493-4D76-B2E2-CCE534F4F481",
+        "type": "message",
+        "text": "<@U04T201950F>\nなるほど、、！\nありがとうございます :pray: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697111811.424149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odlGA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなるほど、、！\nありがとうございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

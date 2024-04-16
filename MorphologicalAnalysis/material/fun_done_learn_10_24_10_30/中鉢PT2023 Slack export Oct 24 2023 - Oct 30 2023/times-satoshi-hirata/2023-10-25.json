@@ -1,0 +1,462 @@
+[
+    {
+        "client_msg_id": "481dce51-e50d-43a4-995b-de9be1c4abf2",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> 存在しないリソースを削除しようとした時に返すステータスコードは何ですか",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698243996.043129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "otaw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 存在しないリソースを削除しようとした時に返すステータスコードは何ですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698243996.043129",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698244054.161069",
+        "reply_users": [
+            "U05KW1T3HBQ",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698243999.078859"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698244052.807719"
+            },
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698244054.161069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " 存在しないリソースを削除しようとした時にクライアントに返すべき適切なHTTPステータスコードは404 Not Foundです。\n\n404 Not Foundは、クライアントが要求したリソースがサーバー上に存在しないことを示す標準的なステータスコードです。リソースが見つからなかった場合に404を返すことで、クライアントにリソースが存在しないことを適切に通知できます。\n\n他の主な選択肢としては、\n\n- 400 Bad Request - 要求自体が不正だった場合\n- 403 Forbidden - アクセスが禁止されたリソースへのアクセスを試みた場合\n- 410 Gone - リソースは過去に存在したが現在は削除されている場合\n\nがありますが、単にリソースが存在しない場合は404がもっとも適切なステータスコードといえます。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698243999.078859",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ku99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "存在しないリソースを削除しようとした時にクライアントに返すべき適切なHTTPステータスコードは404 Not Foundです。\n\n404 Not Foundは、クライアントが要求したリソースがサーバー上に存在しないことを示す標準的なステータスコードです。リソースが見つからなかった場合に404を返すことで、クライアントにリソースが存在しないことを適切に通知できます。\n\n他の主な選択肢としては、\n\n- 400 Bad Request - 要求自体が不正だった場合\n- 403 Forbidden - アクセスが禁止されたリソースへのアクセスを試みた場合\n- 410 Gone - リソースは過去に存在したが現在は削除されている場合\n\nがありますが、単にリソースが存在しない場合は404がもっとも適切なステータスコードといえます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698244012.000000"
+        },
+        "thread_ts": "1698243996.043129",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "36ae9bc8-24df-4b0c-a53e-a96bfacdcae2",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> ありがとう、参考になりました",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698244052.807719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dveo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとう、参考になりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698243996.043129",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " はい、できるだけ標準的なHTTPのステータスコードを使うことで、クライアントとのインターフェースが明確になり、トラブルも防げると思います。ご質問ありがとうございました。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698244054.161069",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、できるだけ標準的なHTTPのステータスコードを使うことで、クライアントとのインターフェースが明確になり、トラブルも防げると思います。ご質問ありがとうございました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698244059.000000"
+        },
+        "thread_ts": "1698243996.043129",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "5d9dafc4-b168-464f-a042-de62a7105f71",
+        "type": "message",
+        "text": "削除APIできた。明日ざっと見て大丈夫そうならマージしてリリースします\n\nfeature: AT-497 ユーザが所持品リストから商品を削除するAPIを作成する\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/97>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698249491.610589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktQke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "削除APIできた。明日ざっと見て大丈夫そうならマージしてリリースします\n\nfeature: AT-497 ユーザが所持品リストから商品を削除するAPIを作成する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/97"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698247354,
+                "color": "36a64f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/97",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#97 feature: AT-497 ユーザが所持品リストから商品を削除するAPIを作成する",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-497|AT-497> ユーザが所持品リストから商品を削除するAPIを作成する\n\n*概要*\n\n所持品リストから商品を削除するAPIを作成する\n\n*実装内容*\n\n☑︎ 所持品リストから商品を削除するAPIを作成する\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "title": "#97 feature: AT-497 ユーザが所持品リストから商品を削除するAPIを作成する",
+                "title_link": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/97",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a6ec91d-a7b2-43a6-8e73-8b551d689cef",
+        "type": "message",
+        "text": "memo:  週の後半\n• ログイン機能リリース後に対応するためのBE側準備\n• 画像表示の仕組みを設計 (どこかでやらないといけないなと思いつつ後回しにしてた)\n    ◦ 画像取得元URLが相対パスでDBに保存されている箇所の修正\n    ◦ 画像取得元URLと別でS3に上げた画像URLを保存するカラム\n    ◦ 初期データ投入時\n        ▪︎ BE側でS3にアップロードする仕組み\n            • active storage\n        ▪︎ S3に上げた画像とDBのデータとのマッピング\n            • DBに入れる初期データをおそらく固定にする必要あり\n            • バッチ処理で取得している部分をseed化\n            • <https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1696908092408469>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698302174.235269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+Yu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "memo:  週の後半\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ログイン機能リリース後に対応するためのBE側準備"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "画像表示の仕組みを設計 (どこかでやらないといけないなと思いつつ後回しにしてた)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "画像取得元URLが相対パスでDBに保存されている箇所の修正"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "画像取得元URLと別でS3に上げた画像URLを保存するカラム"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "初期データ投入時"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BE側でS3にアップロードする仕組み"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "active storage"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "S3に上げた画像とDBのデータとのマッピング"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DBに入れる初期データをおそらく固定にする必要あり"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "バッチ処理で取得している部分をseed化"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053RR7UABB\/p1696908092408469"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698302497.000000"
+        }
+    }
+]

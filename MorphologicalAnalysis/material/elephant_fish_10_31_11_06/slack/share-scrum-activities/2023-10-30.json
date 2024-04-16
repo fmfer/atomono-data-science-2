@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "7d9d3515-b6dc-4a9f-ae8c-7a9f1eef7a7d",
+        "type": "message",
+        "text": "モーダルのレスポンシブ対応のレビュー対応",
+        "user": "U04U66DNCRE",
+        "ts": "1698681843.192619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KovQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モーダルのレスポンシブ対応のレビュー対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698624013.472999",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1698710423.879809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    }
+]

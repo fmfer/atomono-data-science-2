@@ -1,0 +1,327 @@
+[
+    {
+        "client_msg_id": "4f42af49-6e77-4cc0-b9e2-b7640f5e04c2",
+        "type": "message",
+        "text": "<@U04T201950F>\nこれって何やる予定ですか。\nURL渡して触ってもらうのと、ある程度プロダクトの説明資料を用意する以上はない気がするけど\n&gt; アイスタイル様に環境提供",
+        "user": "U04TV4NASPK",
+        "ts": "1697723262.467059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pC8Wv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれって何やる予定ですか。\nURL渡して触ってもらうのと、ある程度プロダクトの説明資料を用意する以上はない気がするけど\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アイスタイル様に環境提供"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "4c9c26b1-1448-4f27-b790-65fb1694affe",
+        "type": "message",
+        "text": "&gt; 追加機能をやるか、リファクタをやるか判断（11月）\nあとこれはどっちもやるパターンもあるので状況次第かな。",
+        "user": "U04TV4NASPK",
+        "ts": "1697723300.354439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFn8H",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加機能をやるか、リファクタをやるか判断（11月）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとこれはどっちもやるパターンもあるので状況次第かな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "a445d186-8c54-46f0-94a1-954236e2eec2",
+        "type": "message",
+        "text": "<!here> マンスリーレビューの概要です。成果物は宮原さんにまとめてしてもらおうと思っています。ユーザーストーリー絡めて。来週火曜にTODO部分は描き切る予定です。\n<https:\/\/docs.google.com\/presentation\/d\/1ih8MoMUKRO5Xw7ew8O-IUc-KBt4f4xWweMFW_0iwppU\/edit?usp=sharing>",
+        "user": "U04TV4NASPK",
+        "ts": "1697723838.799709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C4clB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " マンスリーレビューの概要です。成果物は宮原さんにまとめてしてもらおうと思っています。ユーザーストーリー絡めて。来週火曜にTODO部分は描き切る予定です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1ih8MoMUKRO5Xw7ew8O-IUc-KBt4f4xWweMFW_0iwppU\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04TGBZ4XEX",
+                    "U04U66DNCRE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35bad038-da43-491c-89be-a9c12b2d9243",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n&gt; これって何やる予定ですか。\n&gt; URL渡して触ってもらうのと、ある程度プロダクトの説明資料を用意する以上はない気がするけど\n&gt;&gt; アイスタイル様に環境提供\n同じ認識です。なのでプロダクトバックログではなく今後のイベントとして記載しただけです。\nそれに付随して必要な作業があるなら、それをプロダクトバックログに含める形でいいのではと思っております。\n（タスクの透明性を担保する意味も込めて）\n\n&gt;&gt; 追加機能をやるか、リファクタをやるか判断（11月）\n&gt; あとこれはどっちもやるパターンもあるので状況次第かな。\nですね。なので、その判断に応じて新たにプロダクトバックログが作成されるイメージです。",
+        "user": "U04T201950F",
+        "ts": "1697782277.394469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2z0hh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これって何やる予定ですか。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "URL渡して触ってもらうのと、ある程度プロダクトの説明資料を用意する以上はない気がするけど"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アイスタイル様に環境提供"
+                            }
+                        ],
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じ認識です。なのでプロダクトバックログではなく今後のイベントとして記載しただけです。\nそれに付随して必要な作業があるなら、それをプロダクトバックログに含める形でいいのではと思っております。\n（タスクの透明性を担保する意味も込めて）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加機能をやるか、リファクタをやるか判断（11月）"
+                            }
+                        ],
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとこれはどっちもやるパターンもあるので状況次第かな。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですね。なので、その判断に応じて新たにプロダクトバックログが作成されるイメージです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "8b53346c-dccf-4c74-aebe-3c964322b45a",
+        "type": "message",
+        "text": "了解です。認識同じです。",
+        "user": "U04TV4NASPK",
+        "ts": "1697782454.053139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r56Ew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。認識同じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,447 @@
+[
+    {
+        "type": "message",
+        "text": "あ、ユーザの所持品ページにもtokenなしだと認証エラー返すようにしたから、\n所持品削除したい時ブラウザからproduct_id見て削除したい時にみられない..\n\nchrome拡張使ってヘッダー情報つけてもらえれば一応見られます...\nModHeader - Modify HTTP headers\n<https:\/\/chrome.google.com\/webstore\/detail\/modheader-modify-http-hea\/idgpnmonknjnojddfkpgkljpfnnfcklj\/related>\n\nこんな感じで\n```Authorization: xxxxxxxxxxxxxxx\nRequest URL filters: <https:\/\/atomono-api-dev.herokuapp.com\/>```\n所持品一覧エンドポイント\n<https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products>",
+        "files": [
+            {
+                "id": "F062TJR6W8M",
+                "created": 1698309536,
+                "timestamp": 1698309536,
+                "name": "ss 1.png",
+                "title": "ss 1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TGBZ4XEX",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 121199,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062TJR6W8M\/ss_1.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062TJR6W8M\/download\/ss_1.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 291,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 388,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 581,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 646,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 775,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062TJR6W8M-0755d9abb2\/ss_1_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 827,
+                "original_w": 1174,
+                "original_h": 948,
+                "thumb_tiny": "AwAmADCtNtjnkUKuNxA9qZvHon50+7b\/AEmTk8MePxqDf\/srRYB3mj+7S+cP7lRMc9gPpRk+ppWAl88f3f1p8EgeeNSvBYCq1S2v\/H1F\/viiwEtyM3UvGfmPbPeosH\/nn\/46afdOy3UhUkZY1F50n981WgailCT91h9FpMAcMSD9KPOk\/vmmsxY5Y5NGgaittH3ST+FSWp\/0qL\/fFQ1La8XUX+8KQEt3ETcSEY+8ah8lvUVbuf8AXv8A7xqKgCHyW9RR5LeoqaigCHyW9RUltEwuYySPvCnVJB\/r4\/8AeFAH\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TGBZ4XEX\/F062TJR6W8M\/ss_1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062TJR6W8M-df712cd618",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F062WGNQESW",
+                "created": 1698309635,
+                "timestamp": 1698309635,
+                "name": "ss 2.png",
+                "title": "ss 2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TGBZ4XEX",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 643472,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062WGNQESW\/ss_2.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062WGNQESW\/download\/ss_2.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 599,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062WGNQESW-3eb0f53230\/ss_2_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 639,
+                "original_w": 3456,
+                "original_h": 2158,
+                "thumb_tiny": "AwAdADClk4zSbjR\/DSUAGTRk0UUALuPtShuxANNoHWgBf4aSl\/hpKACiiigAooooA\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TGBZ4XEX\/F062WGNQESW\/ss_2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062WGNQESW-cf5d6bcd22",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F062PTCE32A",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U04TGBZ4XEX",
+        "ts": "1698309680.970569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IM2DX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、ユーザの所持品ページにもtokenなしだと認証エラー返すようにしたから、\n所持品削除したい時ブラウザからproduct_id見て削除したい時にみられない..\n\nchrome拡張使ってヘッダー情報つけてもらえれば一応見られます...\nModHeader - Modify HTTP headers\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chrome.google.com\/webstore\/detail\/modheader-modify-http-hea\/idgpnmonknjnojddfkpgkljpfnnfcklj\/related"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこんな感じで\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Authorization: xxxxxxxxxxxxxxx\nRequest URL filters: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n所持品一覧エンドポイント\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d2fe9379-c529-481f-89e7-138416d89604",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a143a4f5-2317-4444-b1a2-dab58eb04620",
+        "type": "message",
+        "text": "または curlコマンドで直接エンドポイント叩いてもらってもいいです (見づらいのでgrepでidだけ抽出する必要ありますが..)\n```17:30:44 $ curl -H GET '<https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products>' -H 'Content-Type:application\/json;charset=utf-8' -H 'Authorization: Bearer xxxxxxxxx'\n\n{\"userId\":1,\"products\":[{\"productId\":1,\"name\":\"ロングラスティングマスカラEX\",\"imageUrl\":\"<https:\/\/atomono-api-dev.herokuapp.com\/mascara.png>\",\"brand\":\"サンプルマキアージュ\",\"category\":\"マスカラ\",\"discontinuedOn\":null,\"repeats\":3,\"productStatus\":\"current\",\"registeredAt\":\"2022-12-31\"},{\"productId\":3,\"name\":\"ルースパウダー\",\"imageUrl\":\"<https:\/\/atomono-api-dev.herokuapp.com\/mascara.png>\",\"brand\":\"サンプルマキアージュ\",\"category\":\"ファンデーション\",\"discontinuedOn\":null,\"repeats\":0,\"productStatus\":\"current\",\"registeredAt\":\"2023-10-09\"},{\"productId\":1554,\"name\":\"ラッシュエキスパンダー ロングロングロング BK999\",\"imageUrl\":\"<https:\/\/ato> ....```",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698310802.131889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61Xvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "または curlコマンドで直接エンドポイント叩いてもらってもいいです (見づらいのでgrepでidだけ抽出する必要ありますが..)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "17:30:44 $ curl -H GET '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products"
+                            },
+                            {
+                                "type": "text",
+                                "text": "' -H 'Content-Type:application\/json;charset=utf-8' -H 'Authorization: Bearer xxxxxxxxx'\n\n{\"userId\":1,\"products\":[{\"productId\":1,\"name\":\"ロングラスティングマスカラEX\",\"imageUrl\":\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/mascara.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\",\"brand\":\"サンプルマキアージュ\",\"category\":\"マスカラ\",\"discontinuedOn\":null,\"repeats\":3,\"productStatus\":\"current\",\"registeredAt\":\"2022-12-31\"},{\"productId\":3,\"name\":\"ルースパウダー\",\"imageUrl\":\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/mascara.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\",\"brand\":\"サンプルマキアージュ\",\"category\":\"ファンデーション\",\"discontinuedOn\":null,\"repeats\":0,\"productStatus\":\"current\",\"registeredAt\":\"2023-10-09\"},{\"productId\":1554,\"name\":\"ラッシュエキスパンダー ロングロングロング BK999\",\"imageUrl\":\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ato"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ...."
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698310814.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "期限今日中なの忘れてた。在宅で仕事してるフリしてこっちやります...\n• 第5回講義課題(対面, ハイフレックス) \n    ◦ 10\/21(土)受付 → 10\/27(金)締切 \n    ◦ わかる\n• 第6回講義課題(ビデオ会, 22から28日の授業までのどこかで視聴)\n    ◦ 10\/27(金)締切 \n    ◦ ... 短くない?",
+        "files": [
+            {
+                "id": "F062M2B6R7Z",
+                "created": 1698365784,
+                "timestamp": 1698365784,
+                "name": "ss 5.png",
+                "title": "ss 5.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TGBZ4XEX",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 272230,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062M2B6R7Z\/ss_5.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062M2B6R7Z\/download\/ss_5.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 188,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 251,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 377,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 418,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 502,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062M2B6R7Z-e61537a763\/ss_5_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 536,
+                "original_w": 1648,
+                "original_h": 862,
+                "thumb_tiny": "AwAZADDQIx60uB60rUi0AL+NGR60Ug+7QAcf3uKAB2Io7UooARqRfoP0pxpaAE\/Cmr9wcU+kFACdulKtLRQB\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TGBZ4XEX\/F062M2B6R7Z\/ss_5.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062M2B6R7Z-f952522970",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TGBZ4XEX",
+        "display_as_bot": false,
+        "ts": "1698365905.490329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNL4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "期限今日中なの忘れてた。在宅で仕事してるフリしてこっちやります...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "第5回講義課題(対面, ハイフレックス) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/21(土)受付 → 10\/27(金)締切 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "わかる"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "第6回講義課題(ビデオ会, 22から28日の授業までのどこかで視聴)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/27(金)締切 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "... 短くない?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698365953.000000"
+        },
+        "client_msg_id": "af77d9fb-9dbf-4321-b51e-7bf4c5b22855",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

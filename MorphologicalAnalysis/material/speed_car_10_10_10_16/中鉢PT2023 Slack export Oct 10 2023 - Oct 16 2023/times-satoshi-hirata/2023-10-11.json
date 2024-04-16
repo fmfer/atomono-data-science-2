@@ -1,0 +1,573 @@
+[
+    {
+        "client_msg_id": "afe34164-cd2b-42a6-84c6-4186ab432087",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> 次のページの内容を翻訳して\n<https:\/\/curl.se\/docs\/CVE-2023-38545.html>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013439.303389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "24DO3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 次のページの内容を翻訳して\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/curl.se\/docs\/CVE-2023-38545.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697013439.303389",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1697013996.509079",
+        "reply_users": [
+            "U05KW1T3HBQ",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1697013440.656429"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697013553.721779"
+            },
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1697013554.388199"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697013707.629459"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697013731.659269"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697013792.088489"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1697013996.509079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " はい、翻訳いたします。\n\ncurl - SOCKS5ヒープバッファオーバーフロー - CVE-2023-38545\n\n概要\nプロジェクト  \nバグ報奨金  \nバグ報告\n行動規範\n依存関係\n寄付\nFAQ\n機能\nガバナンス\n歴史\nインストール\n既知のバグ\nロゴ\nTODO\nウェブサイト情報\n\nプロトコル\nalt-svc\nCA抽出\nHSTS\nHTTP Cookie\nHTTP\/2\nHTTP\/3\nMQTT\nSSL 証明書\nSSLライブラリの比較\nURL構文\nWebSocket\n\nリリース\n変更ログ\ncurlのCVE\nリリース表\nバージョン番号\n\n脆弱性\nツール\n比較表\ncurlマンページ\nHTTPスクリプティング\nmk-ca-bundle\nチュートリアル\nオプションが追加された時期\n開発者と理由\n\n企業\n著作権\nスポンサー\n感謝\n名称\n\ncurl\nドキュメント\ncurlのCVE\n\nSOCKS5ヒープバッファオーバーフロー\n関連項目:\nバグ報奨金\n変更ログ\nJSONメタデータ\ncurlのCVE\n脆弱性の公表\n脆弱性表\n\nCVE-2023-38545\n\nSOCKS5ヒープバッファオーバーフロー\n\n2023年10月11日 - 固定リンク\n\n脆弱性\n\nこの欠陥により、SOCKS5プロキシハンドシェイクでcurlがヒープベースのバッファをオーバーフローさせます。\n\ncurlにホスト名をSOCKS5プロキシに渡して、アドレスがcurl自身によって解決されるのではなく、プロキシが解決するように求められた場合、そのホスト名の最大長は255バイトです。\n\nホスト名が255バイトを超えると検出された場合、curlはローカル名前解決に切り替え、代わりに解決済みのアドレスのみをプロキシに渡します。バグのため、「ホストが名前を解決する」を意味するローカル変数の値が、遅いSOCKS5ハンドシェイク中に誤って設定される可能性があり、意図に反して、解決したアドレスの代わりに、長過ぎるホスト名をターゲットバッファにコピーしてしまいます。\n\n用語\n\ncurlライブラリはlibcurlと呼ばれ、ライブラリを使用するコマンドラインツールはcurlツールと呼ばれます。 必要に応じて、それらをcurlと呼ぶことがあります。 このドキュメントでは、必要に応じて固有の名前が使用されます。\n\n情報\n\nホスト名は、curlが操作するように指示されたURLから来ます。\n\nターゲットバッファは、転送が開始する前にSOCKSネゴシエーションのために再利用されるlibcurl内のヒープベースのダウンロードバッファです。 バッファのサイズはデフォルトで16kBですが、アプリケーションによって異なるサイズに設定できます。 curlツールは、デフォルトで102400",
+        "user": "U05KW1T3HBQ",
+        "ts": "1697013440.656429",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RscF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、翻訳いたします。\n\ncurl - SOCKS5ヒープバッファオーバーフロー - CVE-2023-38545\n\n概要\nプロジェクト  \nバグ報奨金  \nバグ報告\n行動規範\n依存関係\n寄付\nFAQ\n機能\nガバナンス\n歴史\nインストール\n既知のバグ\nロゴ\nTODO\nウェブサイト情報\n\nプロトコル\nalt-svc\nCA抽出\nHSTS\nHTTP Cookie\nHTTP\/2\nHTTP\/3\nMQTT\nSSL 証明書\nSSLライブラリの比較\nURL構文\nWebSocket\n\nリリース\n変更ログ\ncurlのCVE\nリリース表\nバージョン番号\n\n脆弱性\nツール\n比較表\ncurlマンページ\nHTTPスクリプティング\nmk-ca-bundle\nチュートリアル\nオプションが追加された時期\n開発者と理由\n\n企業\n著作権\nスポンサー\n感謝\n名称\n\ncurl\nドキュメント\ncurlのCVE\n\nSOCKS5ヒープバッファオーバーフロー\n関連項目:\nバグ報奨金\n変更ログ\nJSONメタデータ\ncurlのCVE\n脆弱性の公表\n脆弱性表\n\nCVE-2023-38545\n\nSOCKS5ヒープバッファオーバーフロー\n\n2023年10月11日 - 固定リンク\n\n脆弱性\n\nこの欠陥により、SOCKS5プロキシハンドシェイクでcurlがヒープベースのバッファをオーバーフローさせます。\n\ncurlにホスト名をSOCKS5プロキシに渡して、アドレスがcurl自身によって解決されるのではなく、プロキシが解決するように求められた場合、そのホスト名の最大長は255バイトです。\n\nホスト名が255バイトを超えると検出された場合、curlはローカル名前解決に切り替え、代わりに解決済みのアドレスのみをプロキシに渡します。バグのため、「ホストが名前を解決する」を意味するローカル変数の値が、遅いSOCKS5ハンドシェイク中に誤って設定される可能性があり、意図に反して、解決したアドレスの代わりに、長過ぎるホスト名をターゲットバッファにコピーしてしまいます。\n\n用語\n\ncurlライブラリはlibcurlと呼ばれ、ライブラリを使用するコマンドラインツールはcurlツールと呼ばれます。 必要に応じて、それらをcurlと呼ぶことがあります。 このドキュメントでは、必要に応じて固有の名前が使用されます。\n\n情報\n\nホスト名は、curlが操作するように指示されたURLから来ます。\n\nターゲットバッファは、転送が開始する前にSOCKSネゴシエーションのために再利用されるlibcurl内のヒープベースのダウンロードバッファです。 バッファのサイズはデフォルトで16kBですが、アプリケーションによって異なるサイズに設定できます。 curlツールは、デフォルトで102400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "deleted": false,
+            "name": "Claude",
+            "updated": 1691033238,
+            "app_id": "A04KGS7N9A8",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1697013511.000000"
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX",
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce1e96bd-35df-49a0-b23a-e12bc1ef71d0",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> 日本語に翻訳して\nVULNERABILITY\nThis flaw makes curl overflow a heap based buffer in the SOCKS5 proxy handshake.\n\nWhen curl is asked to pass along the hostname to the SOCKS5 proxy to allow that to resolve the address instead of it getting done by curl itself, the maximum length that hostname can be is 255 bytes.\n\nIf the hostname is detected to be longer than 255 bytes, curl switches to local name resolving and instead passes on the resolved address only to the proxy. Due to a bug, the local variable that means \"let the host resolve the name\" could get the wrong value during a slow SOCKS5 handshake, and contrary to the intention, copy the too long hostname to the target buffer instead of copying just the resolved address there.",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013553.721779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/aTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 日本語に翻訳して\nVULNERABILITY\nThis flaw makes curl overflow a heap based buffer in the SOCKS5 proxy handshake.\n\nWhen curl is asked to pass along the hostname to the SOCKS5 proxy to allow that to resolve the address instead of it getting done by curl itself, the maximum length that hostname can be is 255 bytes.\n\nIf the hostname is detected to be longer than 255 bytes, curl switches to local name resolving and instead passes on the resolved address only to the proxy. Due to a bug, the local variable that means \"let the host resolve the name\" could get the wrong value during a slow SOCKS5 handshake, and contrary to the intention, copy the too long hostname to the target buffer instead of copying just the resolved address there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " この欠陥により、SOCKS5プロキシのハンドシェイク時にcurlがヒープベースのバッファをオーバーフローさせます。\n\ncurlにホスト名をSOCKS5プロキシに渡し、アドレスがcurl自体ではなくプロキシによって解決されるように指示した場合、そのホスト名の最大長は255バイトです。\n\nホスト名が255バイトを超えることが検出された場合、curlはローカル名前解決に切り替え、代わりに解決済みのアドレスのみをプロキシに渡します。バグのため、「ホストが名前を解決する」を意味するローカル変数の値が、遅いSOCKS5ハンドシェイク中に誤って設定される可能性があり、意図に反して、解決したアドレスではなく、長過ぎるホスト名をターゲットバッファにコピーしてしまいます。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1697013554.388199",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この欠陥により、SOCKS5プロキシのハンドシェイク時にcurlがヒープベースのバッファをオーバーフローさせます。\n\ncurlにホスト名をSOCKS5プロキシに渡し、アドレスがcurl自体ではなくプロキシによって解決されるように指示した場合、そのホスト名の最大長は255バイトです。\n\nホスト名が255バイトを超えることが検出された場合、curlはローカル名前解決に切り替え、代わりに解決済みのアドレスのみをプロキシに渡します。バグのため、「ホストが名前を解決する」を意味するローカル変数の値が、遅いSOCKS5ハンドシェイク中に誤って設定される可能性があり、意図に反して、解決したアドレスではなく、長過ぎるホスト名をターゲットバッファにコピーしてしまいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1697013567.000000"
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "4bfa578f-72b0-4d2e-ac27-0c783f7c1019",
+        "type": "message",
+        "text": "```Affected versions: libcurl 7.69.0 to and including 8.3.0\nNot affected versions: libcurl &lt; 7.69.0 and &gt;= 8.4.0```",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013707.629459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRRQP",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Affected versions: libcurl 7.69.0 to and including 8.3.0\nNot affected versions: libcurl < 7.69.0 and >= 8.4.0"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "e217d827-ebeb-4828-b794-501c4977bf1a",
+        "type": "message",
+        "text": "herokuの裏で動いてるEC2インスタンスが影響受けるかも",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013731.659269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxJPL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "herokuの裏で動いてるEC2インスタンスが影響受けるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "544fd643-7405-43ce-ae1c-c74bb0dc33bd",
+        "type": "message",
+        "text": "めんどくさそうだったらherokuのアプリ作り直そう",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013792.088489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6H4yD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めんどくさそうだったらherokuのアプリ作り直そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "e4083b06-989d-4b42-981d-6e9352003f53",
+        "type": "message",
+        "text": ">  バッファをオーバーフロー\n去年の今頃セキュアプログラミング特論でやったやつだ...\n黄先生 今頃めっちゃテンション上がってそう(偏見)",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697013996.509079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvFdR",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " バッファをオーバーフロー"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年の今頃セキュアプログラミング特論でやったやつだ...\n黄先生 今頃めっちゃテンション上がってそう(偏見)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697014018.000000"
+        },
+        "thread_ts": "1697013439.303389",
+        "parent_user_id": "U04TGBZ4XEX"
+    },
+    {
+        "client_msg_id": "420e1fd4-97d6-442e-ab0c-e48700c806f1",
+        "type": "message",
+        "text": "既に所持品にあるproduct_idきたらユニーク制約入れてあるバリデーションではねたらいいかな..\nその商品は既に登録されています的な意味合いの\n返すステータス.. 422?",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697042188.287139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pz3rn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "既に所持品にあるproduct_idきたらユニーク制約入れてあるバリデーションではねたらいいかな..\nその商品は既に登録されています的な意味合いの\n返すステータス.. 422?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697042639.000000"
+        }
+    },
+    {
+        "client_msg_id": "40a1b8ef-50a5-4122-bca2-31a376a45dbd",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/ja\/docs\/Web\/HTTP\/Status\/422>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697042203.787089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMsaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/HTTP\/Status\/422"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.cd6c4a5a.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 23824,
+                "from_url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/HTTP\/Status\/422",
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.6803c6f0.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/HTTP\/Status\/422",
+                "fallback": "422 Unprocessable Entity - HTTP | MDN",
+                "text": "The HyperText Transfer Protocol (HTTP) の 422 Unprocessable Entity 応答状態コードは、サーバーが要求本文のコンテンツ型を理解でき、要求本文の構文が正しいものの、中に含まれている指示が処理できなかったことを表します。",
+                "title": "422 Unprocessable Entity - HTTP | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/ja\/docs\/Web\/HTTP\/Status\/422",
+                "service_name": "developer.mozilla.org"
+            }
+        ],
+        "thread_ts": "1697042203.787089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697042503.249899",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697042503.249899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "425e52a4-e2a3-492b-80fb-c2ec807f5475",
+        "type": "message",
+        "text": "これ初めて知りました、正しそうですね",
+        "user": "U04T9TDB58W",
+        "ts": "1697042503.249899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6WAOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ初めて知りました、正しそうですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697042203.787089",
+        "parent_user_id": "U04TGBZ4XEX",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

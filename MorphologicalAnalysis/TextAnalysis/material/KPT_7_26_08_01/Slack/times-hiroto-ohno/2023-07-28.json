@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "a0276bd8-b6b8-439c-af2b-6149c4cfd797",
+        "type": "message",
+        "text": "明日さえ乗り越えれば、、、",
+        "user": "U04U66DNCRE",
+        "ts": "1690554764.584499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日さえ乗り越えれば、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04TGBZ4XEX",
+                    "U04T9TDB58W"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

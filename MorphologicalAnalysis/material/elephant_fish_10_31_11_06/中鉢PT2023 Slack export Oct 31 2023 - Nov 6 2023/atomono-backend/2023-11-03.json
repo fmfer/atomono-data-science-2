@@ -1,0 +1,852 @@
+[
+    {
+        "client_msg_id": "3afe38a2-ccf4-4ae8-b6f2-4d6920311f90",
+        "type": "message",
+        "text": "<@U04T201950F>\n`RAILS_ENV` に加えて hostとportの環境変数もお願いします、以下で大丈夫です:pray:\n```host: <%= ENV[\"ATOMONO_DATABASE_HOST\"] %>\nport: <%= ENV[\"ATOMONO_DATABASE_PORT\"] %>```\n`secret_key_base` も追加します (なくても動いているHerokuが謎ですが..)\n\nBackend側は以下のタスクで今からまとめて対応します\n\n[AT-608] 本番環境用変数とsecrets.yml追加 - Jira\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-608>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699020519.981239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdOyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n`RAILS_ENV` に加えて hostとportの環境変数もお願いします、以下で大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "host: <%= ENV[\"ATOMONO_DATABASE_HOST\"] %>\nport: <%= ENV[\"ATOMONO_DATABASE_PORT\"] %>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "secret_key_base",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " も追加します (なくても動いているHerokuが謎ですが..)\n\nBackend側は以下のタスクで今からまとめて対応します\n\n[AT-608] 本番環境用変数とsecrets.yml追加 - Jira\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-608"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699020693.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10639::7df96f707a5211ee97f68bf8939e6edf",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-608?atlOrigin=eyJpIjoiNzBlYTlmNzQwMWI5NDY1OGFlMjBkZTYyN2JmMjU3ZmMiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-608 本番環境用変数とsecrets.yml追加>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10639::7df96f727a5211ee97f68bf8939e6edf",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/63987e6af78d12c0f47112a9\/beb62d32-7489-4ee5-9ddf-7cda1fb42a9d\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "satoshi.hirata"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *satoshi.hirata*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/high.png",
+                                "alt_text": "High"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *High*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10639::7df96f717a5211ee97f68bf8939e6edf",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10639\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10639\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-608",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1698920574.711309",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "25431096-b59d-4cc6-ad3f-ae0cbdafe28c",
+        "type": "message",
+        "text": "<@U04T201950F>\nお待たせしました、DB情報とsecrets.ymlのアプリケーション側の設定が完了しました:pray:\n最新のdevelopブランチで改めて試していただけますでしょうか\n\n`ENV[\"SECRET_KEY_BASE\"]` について\nパラメータストアに以下リンク先に載っています値の設定で一度ご確認いただけますでしょうか:pray:\n\n本番環境用secret_key_base\n<https:\/\/docs.google.com\/spreadsheets\/d\/1TffcH9hRLLO_G36yfpeou3Hqt9wCFRx2-Tr2Q4MmADY\/edit#gid=0>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699021771.176299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C08Bo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお待たせしました、DB情報とsecrets.ymlのアプリケーション側の設定が完了しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最新のdevelopブランチで改めて試していただけますでしょうか\n\n`ENV[\"SECRET_KEY_BASE\"]` について\nパラメータストアに以下リンク先に載っています値の設定で一度ご確認いただけますでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n本番環境用secret_key_base\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1TffcH9hRLLO_G36yfpeou3Hqt9wCFRx2-Tr2Q4MmADY\/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699021799.000000"
+        },
+        "thread_ts": "1698920574.711309",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c949eab5-2b83-49a8-9f07-fe48eb019ff8",
+        "type": "message",
+        "text": "<@U04T201950F>\n1. マイグレーション実行\n    a. ※これはデプロイのたびに都度走る想定でコマンドを`docker\/rails\/entrypoint.sh`に記載する想定\n`docker\/rails\/entrypoint.sh` に必要なコマンドを追記しました。最新のdevelopブランチに適用させています\n\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105>\n\n2. 初期データ挿入用Seeder or SQL実行\n`bundle exec rails db:seed`\n一旦これを試していただけますでしょうか?  :pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699022632.370709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CnShB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マイグレーション実行"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "※これはデプロイのたびに都度走る想定でコマンドを"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "docker\/rails\/entrypoint.sh",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "に記載する想定"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "docker\/rails\/entrypoint.sh",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " に必要なコマンドを追記しました。最新のdevelopブランチに適用させています\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/105"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2. 初期データ挿入用Seeder or SQL実行\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle exec rails db:seed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一旦これを試していただけますでしょうか?  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698650990.714639",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94d35ec5-5622-4992-8afa-daa7805dbe85",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>  cc. <@U04T9TDB58W>\n閉包テーブルのマイグレーション作成しました。レビューお願いします。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106>",
+        "user": "U04TV4NASPK",
+        "ts": "1699023877.093819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "goJrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  cc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n閉包テーブルのマイグレーション作成しました。レビューお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "ts": 1699023627,
+                "color": "36a64f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#106 add category_hierarchy",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572|https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-572>\n\n*概要*\n\nカテゴリ用の閉包テーブルのマイグレーションとモデルを作成した。  \n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698847519364919?thread_ts=1698563361.893189&cid=C054R4216MB|slack>\n\n*実装内容*\n\n☑︎ 閉包テーブルのマイグレーションとモデルの実装\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "title": "#106 add category_hierarchy",
+                "title_link": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    },
+                    {
+                        "value": "<https:\/\/github.com\/broccoli1002|@broccoli1002>",
+                        "title": "Assignees",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "thread_ts": "1699023877.093819",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1699027517.782559",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699026571.825099"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699026983.383899"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1699027267.720139"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699027517.782559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1a35d6a-9a67-4748-82cd-0ef75e7ff246",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\n修正したので再度ご確認ください。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106>",
+        "user": "U04TV4NASPK",
+        "ts": "1699026571.825099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6WxdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正したので再度ご確認ください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699023877.093819",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "26566e78-6851-48ab-9c5e-91ed4d7449c2",
+        "type": "message",
+        "text": "<@U04TV4NASPK> 早速ありがとうございます！:raised_hands:\nもう1点だけ追加でコメントしましたのでお手すきの際にご確認よろしくお願い致します :bow:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699026983.383899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n53tJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 早速ありがとうございます！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもう1点だけ追加でコメントしましたのでお手すきの際にご確認よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699023877.093819",
+        "parent_user_id": "U04TV4NASPK"
+    },
+    {
+        "client_msg_id": "46c200c3-751a-43d7-85d8-765a146c5579",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX> 修正しました。\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106>",
+        "user": "U04TV4NASPK",
+        "ts": "1699027267.720139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0oo7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/106"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699023877.093819",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1780ea5-0b1a-4f2a-b55b-425627587db1",
+        "type": "message",
+        "text": "<@U04TV4NASPK> ありがとうございます！マージしました:pray:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699027517.782559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6x7hI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！マージしました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699023877.093819",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca0eb5eb-a9b8-40d4-8767-94fb30fa77d2",
+        "type": "message",
+        "text": "<@U04U66DSPEU> ありがとうございます！マージしました:raised_hands:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699027540.926369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUpMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！マージしました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699027549.000000"
+        },
+        "thread_ts": "1698940935.158829",
+        "parent_user_id": "U04U66DSPEU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

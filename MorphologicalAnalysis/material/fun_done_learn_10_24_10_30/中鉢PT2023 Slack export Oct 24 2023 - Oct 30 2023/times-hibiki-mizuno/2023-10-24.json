@@ -1,0 +1,615 @@
+[
+    {
+        "client_msg_id": "4ee2f39e-6e25-4be3-b02e-4547263c564e",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> vitestでprocess.exit(1)をhandleする方法を示せ",
+        "user": "U04T9TDB58W",
+        "ts": "1698135032.240259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogSUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vitestでprocess.exit(1)をhandleする方法を示せ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698135032.240259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698135033.303879",
+        "reply_users": [
+            "U05KW1T3HBQ"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698135033.303879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " Claude、JavaScriptのテストフレームワークVitestでprocess.exit(1)を適切にハンドリングする方法は以下のようになります。\n\n1. vitest.config.jsファイルで```setupFilesAfterEnv```オプションを使ってセットアップファイルを指定します。\n\n```js\n\/\/ vitest.config.js\n\nexport default {\n  \/\/ ...\n  setupFilesAfterEnv: ['path\/to\/setupFile.js'] \n}\n```\n\n2. そのセットアップファイル内でprocess.exitをオーバーライドします。\n\n```js\n\/\/ setupFile.js\n\nconst originalExit = process.exit \n\nprocess.exit = (code) =&gt; {\n  if (code !== 0) {\n    throw new Error('process.exit called') \n  }\n\n  return originalExit(code)\n}\n```\n\n3. テスト内でprocess.exit(1)が呼ばれた時に、例外がthrowされるようになります。\n\nこれによりvitestがその例外をキャッチしてテストを失敗にできるようになります。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698135033.303879",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claude、JavaScriptのテストフレームワークVitestでprocess.exit(1)を適切にハンドリングする方法は以下のようになります。\n\n1. vitest.config.jsファイルで```setupFilesAfterEnv```オプションを使ってセットアップファイルを指定します。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "js\n\/\/ vitest.config.js\n\nexport default {\n  \/\/ ...\n  setupFilesAfterEnv: ['path\/to\/setupFile.js'] \n}\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n2. そのセットアップファイル内でprocess.exitをオーバーライドします。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "js\n\/\/ setupFile.js\n\nconst originalExit = process.exit \n\nprocess.exit = (code) => {\n  if (code !== 0) {\n    throw new Error('process.exit called') \n  }\n\n  return originalExit(code)\n}\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n3. テスト内でprocess.exit(1)が呼ばれた時に、例外がthrowされるようになります。\n\nこれによりvitestがその例外をキャッチしてテストを失敗にできるようになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "app_id": "A04KGS7N9A8",
+            "name": "Claude",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "deleted": false,
+            "updated": 1691033238,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698135048.000000"
+        },
+        "thread_ts": "1698135032.240259",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "21f65e36-4269-420f-b8d9-2e15f312e3db",
+        "type": "message",
+        "text": "cacheが効きすぎている感じがあるかも",
+        "user": "U04T9TDB58W",
+        "ts": "1698141271.456269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AiNJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cacheが効きすぎている感じがあるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd770c63-e6b8-4ae0-99d2-8906c4acacce",
+        "type": "message",
+        "text": "<https:\/\/github.com\/lisaogren\/axios-cache-adapter> アーカイブされてますね、axiosに統合されたかな",
+        "user": "U04T9TDB58W",
+        "ts": "1698147553.828229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQmlf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/lisaogren\/axios-cache-adapter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " アーカイブされてますね、axiosに統合されたかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/lisaogren\/axios-cache-adapter",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "lisaogren\/axios-cache-adapter",
+                "text": "Caching adapter for axios. Store request results in a configurable store to prevent unneeded network requests.",
+                "title": "lisaogren\/axios-cache-adapter",
+                "fields": [
+                    {
+                        "value": "723",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "JavaScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のオープンドアの時間は設定しましたか？",
+        "user": "USLACKBOT",
+        "ts": "1698148818.231509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=pZb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のオープンドアの時間は設定しましたか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698148818.231509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698148928.607489",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698148928.607489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5fa9e547-01e6-4742-9046-8e7a4d75c7b4",
+        "type": "message",
+        "text": "してない\n今週は忙しいかも",
+        "user": "U04T9TDB58W",
+        "ts": "1698148928.607489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFuxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "してない\n今週は忙しいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698148818.231509",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9a023c1b-8f90-406c-86d1-5a5ab4947f84",
+        "type": "message",
+        "text": "NODE_ENV===productionではcacheが効いてしまうっぽい",
+        "user": "U04T9TDB58W",
+        "ts": "1698151762.567009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYmT5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NODE_ENV===productionではcacheが効いてしまうっぽい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3744d659-c4fa-4e7a-a7d2-121e05b2bce6",
+        "type": "message",
+        "text": "&gt;  Next.js extends the native <https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API|Web >`fetch()`<https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API| API>\n&gt;  to allow each request on the server to set its own persistent caching semantics.\n<https:\/\/nextjs.org\/docs\/app\/api-reference\/functions\/fetch>",
+        "user": "U04T9TDB58W",
+        "ts": "1698153381.755589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyWD3",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Next.js extends the native "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API",
+                                "text": "Web "
+                            },
+                            {
+                                "type": "text",
+                                "text": "fetch()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API",
+                                "text": " API"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n to allow each request on the server to set its own persistent caching semantics."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.org\/docs\/app\/api-reference\/functions\/fetch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.cd6c4a5a.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 23824,
+                "from_url": "https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API",
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.6803c6f0.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API",
+                "fallback": "Fetch API - Web APIs | MDN",
+                "text": "The Fetch API provides an interface for fetching resources (including across the network). It is a more powerful and flexible replacement for XMLHttpRequest.",
+                "title": "Fetch API - Web APIs | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/docs\/Web\/API\/Fetch_API",
+                "service_name": "developer.mozilla.org"
+            },
+            {
+                "from_url": "https:\/\/nextjs.org\/docs\/app\/api-reference\/functions\/fetch",
+                "image_url": "https:\/\/nextjs.org\/api\/og?title=Functions:%20fetch",
+                "image_width": 843,
+                "image_height": 441,
+                "image_bytes": 93766,
+                "service_icon": "https:\/\/nextjs.org\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/nextjs.org\/docs\/app\/api-reference\/functions\/fetch",
+                "fallback": "Functions: fetch",
+                "text": "API reference for the extended fetch function.",
+                "title": "Functions: fetch",
+                "title_link": "https:\/\/nextjs.org\/docs\/app\/api-reference\/functions\/fetch",
+                "service_name": "nextjs.org"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf87a492-97b0-4c10-b895-288d24ee7f04",
+        "type": "message",
+        "text": "axiosつかうのやめるか",
+        "user": "U04T9TDB58W",
+        "ts": "1698153610.903659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtF8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "axiosつかうのやめるか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9a89741e-2d3a-4195-b179-4d923dd69a2f",
+        "type": "message",
+        "text": "やめられるのか？",
+        "user": "U04T9TDB58W",
+        "ts": "1698153618.864979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8mo8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やめられるのか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78728ce9-bcbc-4675-91f2-4b25b0504673",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/yumemi_inc\/articles\/aspida-fetch-options-ab2d536d287bd7>\n乗り換えるか",
+        "user": "U04T9TDB58W",
+        "ts": "1698208062.480369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uf5NB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/yumemi_inc\/articles\/aspida-fetch-options-ab2d536d287bd7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n乗り換えるか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--L-ni85el--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:axios%2520%25E9%2599%2590%25E5%25AE%259A%25E3%2581%25A0%25E3%2581%25A8%25E6%2580%259D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%25E3%2581%2582%25E3%2581%25AE%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2582%2520aspida%252Ffetch%2520%25E3%2581%25AA%25E3%2582%2589%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2582%2588%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100\/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%2586%25E3%2582%2581%25E3%2581%25BF%2Cx_220%2Cy_160\/g_south_west%2Cl_text:notosansjp-medium.otf_34:Honey32%2Cx_220%2Cy_108\/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2MzAxMTgwMzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102\/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JjYzg0MmQ4YTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 36246,
+                "from_url": "https:\/\/zenn.dev\/yumemi_inc\/articles\/aspida-fetch-options-ab2d536d287bd7",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/yumemi_inc\/articles\/aspida-fetch-options-ab2d536d287bd7",
+                "fallback": "Zenn: axios 限定だと思ってたあの機能も aspida\/fetch なら使えるよ！",
+                "title": "axios 限定だと思ってたあの機能も aspida\/fetch なら使えるよ！",
+                "title_link": "https:\/\/zenn.dev\/yumemi_inc\/articles\/aspida-fetch-options-ab2d536d287bd7",
+                "service_name": "Zenn"
+            }
+        ]
+    }
+]

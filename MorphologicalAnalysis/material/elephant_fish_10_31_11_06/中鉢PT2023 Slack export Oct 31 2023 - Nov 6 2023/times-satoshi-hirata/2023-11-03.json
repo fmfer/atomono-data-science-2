@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "28da27ae-302b-4932-8bf5-5dcae6f5b80f",
+        "type": "message",
+        "text": "画像のタスクは後で\n環境変数とPRから",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699020113.013819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+NJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "画像のタスクは後で\n環境変数とPRから"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87b9a790-077a-40c5-846b-08a3f4f1597a",
+        "type": "message",
+        "text": "インフラ関連のタスクおわり。次PR\nHerokuデプロイ周りどこまでよしなにやってくれてるのか微妙にブラックボックス化しててよくわからない :hunikideyatteru:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699023013.272189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTqzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インフラ関連のタスクおわり。次PR\nHerokuデプロイ周りどこまでよしなにやってくれてるのか微妙にブラックボックス化しててよくわからない "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hunikideyatteru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699023529.000000"
+        }
+    }
+]

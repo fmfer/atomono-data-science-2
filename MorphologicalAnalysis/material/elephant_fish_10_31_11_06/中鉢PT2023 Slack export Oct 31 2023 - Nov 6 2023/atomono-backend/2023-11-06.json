@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "45382ca8-b855-4ae4-a7a8-3aa6e30a5a21",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\nお疲れさまです。\nrailsの本番デプロイ時なんですが、ポート指定は必要でしょうか？\n現状\n`bundle exec rails server -e production`\nとなっているのですが、`dockerfile`上で`EXPOSE 3010`と指定してポートを開放しているので\nコマンド実行時もポートを指定する必要があるのかなと思っております。\nその場合のコマンドはどのようになりますでしょうか？\n（コメントアウトしているコマンドのオプションと同じものをつける感じですかね？）\n<https:\/\/github.com\/daiphone0228\/atomono-api\/commit\/46deb31bb61ce1a719d638790127b431822daaa5>",
+        "user": "U04T201950F",
+        "ts": "1699260047.189819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJgkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです。\nrailsの本番デプロイ時なんですが、ポート指定は必要でしょうか？\n現状\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle exec rails server -e production",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとなっているのですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "dockerfile",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "上で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "EXPOSE 3010",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と指定してポートを開放しているので\nコマンド実行時もポートを指定する必要があるのかなと思っております。\nその場合のコマンドはどのようになりますでしょうか？\n（コメントアウトしているコマンドのオプションと同じものをつける感じですかね？）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/daiphone0228\/atomono-api\/commit\/46deb31bb61ce1a719d638790127b431822daaa5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e95f24a7-c2b7-4671-93bc-6ac06af845dd",
+        "type": "message",
+        "text": "<@U04T201950F>\nコメントアウトのオプション `-p xxxx`で ポート番号の指定になります→ `-p 3010`\nポート指定も入れるなら↓でいけると思います\n`bundle exec rails s -p 3010 -b '0.0.0.0' -e production`",
+        "user": "U04TGBZ4XEX",
+        "ts": "1699260613.490719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lrgGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコメントアウトのオプション "
+                            },
+                            {
+                                "type": "text",
+                                "text": "-p xxxx",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "で ポート番号の指定になります→ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "-p 3010",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nポート指定も入れるなら↓でいけると思います\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bundle exec rails s -p 3010 -b '0.0.0.0' -e production",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1699260686.000000"
+        },
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "eee37f27-da8d-48ad-bc63-224a137b13de",
+        "type": "message",
+        "text": "<!here>\n業者来てて対応できず申し訳ありません。\n業者が作業中の時は基本フリーなので、本日終日時間見つけて作業します。",
+        "user": "U04U66DNCRE",
+        "ts": "1697849143.089839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8W7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n業者来てて対応できず申し訳ありません。\n業者が作業中の時は基本フリーなので、本日終日時間見つけて作業します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04T201950F",
+                    "U04TDHFKJ85"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

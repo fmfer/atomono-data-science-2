@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "80289bb8-093a-43df-b37c-d990ab0bbef7",
+        "type": "message",
+        "text": "気合でなんとかした(2週連続2回目)",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698398352.463339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CpUjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "気合でなんとかした(2週連続2回目)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "360ffef2-1dd5-469b-bcdd-ec8685a8f051",
+        "type": "message",
+        "text": "最新版のrails7.1.1に上げたらテスト落ちまくるのこれだ\nテストFW側が対応中でめっちゃissue上がってた\n\nIssues · rspec\/rspec-rails\n<https:\/\/github.com\/rspec\/rspec-rails\/issues>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698412692.871779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/If4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最新版のrails7.1.1に上げたらテスト落ちまくるのこれだ\nテストFW側が対応中でめっちゃissue上がってた\n\nIssues · rspec\/rspec-rails\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/rspec\/rspec-rails\/issues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

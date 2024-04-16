@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "844EFA34-F8BD-4D87-A1EE-FEB20D45FFC4",
+        "type": "message",
+        "text": "お疲れ様です。\n本日業務でトラブル起こっており、コアミーティングへの参加遅れるかも知れないです。。\n申し訳ないですが、よろしくお願いします。",
+        "user": "U04U66DNCRE",
+        "ts": "1690864443.187249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fGv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n本日業務でトラブル起こっており、コアミーティングへの参加遅れるかも知れないです。。\n申し訳ないですが、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

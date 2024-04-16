@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "007495bc-b314-4b8b-ae57-baccb76067d5",
+        "type": "message",
+        "text": "<https:\/\/openjsf.org\/announcement\/2023\/10\/17\/node-js-21-available-now\/> Node.js 20 LTS…\n\n今atomonoは18なので上げたい",
+        "user": "U04T9TDB58W",
+        "ts": "1697611215.902789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qFzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openjsf.org\/announcement\/2023\/10\/17\/node-js-21-available-now\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Node.js 20 LTS…\n\n今atomonoは18なので上げたい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/openjsf.org\/wp-content\/uploads\/sites\/84\/2023\/10\/NodeJS21_announcement_Oct2023_social1-1.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 170410,
+                "from_url": "https:\/\/openjsf.org\/announcement\/2023\/10\/17\/node-js-21-available-now\/",
+                "service_icon": "https:\/\/openjsf.org\/wp-content\/uploads\/sites\/84\/2019\/03\/openjsf_avatar-300x300.png",
+                "ts": 1697558400,
+                "id": 1,
+                "original_url": "https:\/\/openjsf.org\/announcement\/2023\/10\/17\/node-js-21-available-now\/",
+                "fallback": "OpenJS Foundation: Node.js 21 Available Now! - OpenJS Foundation",
+                "text": "The release of Node.js 21 is available now! Node.js 21 replaces Node.js 20 as our current release line, and Node.js 20 is being promoted to long-term support (LTS).  What’s the...",
+                "title": "Node.js 21 Available Now! - OpenJS Foundation",
+                "title_link": "https:\/\/openjsf.org\/announcement\/2023\/10\/17\/node-js-21-available-now\/",
+                "service_name": "OpenJS Foundation"
+            }
+        ]
+    }
+]

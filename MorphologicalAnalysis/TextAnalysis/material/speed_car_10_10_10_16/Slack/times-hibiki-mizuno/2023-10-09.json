@@ -1,0 +1,571 @@
+[
+    {
+        "client_msg_id": "4683d5d0-7860-4dde-b5dc-fda6ab19c827",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/53>",
+        "user": "U04T9TDB58W",
+        "ts": "1696910713.662329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b1qDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/53"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1696913215.583669",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1696912036.904389"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1696912594.973319"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1696912996.146749"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1696913085.941929"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1696913107.433829"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1696913156.234319"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1696913215.583669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1eca131e-87ac-4c7c-ad25-76242786c0b9",
+        "type": "message",
+        "text": "モバイル対応, footerメニューDONE(headerもやっちゃってる)",
+        "user": "U04T9TDB58W",
+        "ts": "1696910734.624869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YS4SU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モバイル対応, footerメニューDONE(headerもやっちゃってる)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b673fcb-6524-4817-9b61-ce3944a0132e",
+        "type": "message",
+        "text": "&gt; この変更により、一時的にmobileは検索ができなくなります。\nこれなんだよな、それでも取り込みたいと思ってる",
+        "user": "U04T9TDB58W",
+        "ts": "1696910806.858509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PSyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この変更により、一時的にmobileは検索ができなくなります。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これなんだよな、それでも取り込みたいと思ってる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "427c23c2-40b0-4a1f-bc36-cdf0d30c7e77",
+        "type": "message",
+        "text": "Headerとか触ったけど全然わからんからやって貰えると助かります。",
+        "user": "U04TV4NASPK",
+        "ts": "1696911425.864369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPlSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Headerとか触ったけど全然わからんからやって貰えると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2dd6db7e-72ad-4b3d-bca5-6fc15a2b28c6",
+        "type": "message",
+        "text": "これってモバイルとPCの表示分けってどこでやってますか？",
+        "user": "U04TV4NASPK",
+        "ts": "1696912036.904389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20eYL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これってモバイルとPCの表示分けってどこでやってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "07c9af1b-f153-4d33-8e60-8b02bcf9952b",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/50> swagger変更, これも取り込みたい(若干型変更が必要で, 多分コンフリクトする)",
+        "user": "U04T9TDB58W",
+        "ts": "1696912476.355729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8XSx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/50"
+                            },
+                            {
+                                "type": "text",
+                                "text": " swagger変更, これも取り込みたい(若干型変更が必要で, 多分コンフリクトする)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "520415e4-4cc5-41c8-a2b0-910af07fa4d7",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\napp\/template.tsx　ですね〜\n\ntemplateというのはlayoutの次に読み込まれるもので, 再レンダリングが必要な（state等を使える）レイアウトを記述できるもので、app routerから導入されています(たしか)\n\n<https:\/\/zenn.dev\/kirke\/articles\/e1e1c2d4482e34>",
+        "user": "U04T9TDB58W",
+        "ts": "1696912594.973319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHWQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\napp\/template.tsx　ですね〜\n\ntemplateというのはlayoutの次に読み込まれるもので, 再レンダリングが必要な（state等を使える）レイアウトを記述できるもので、app routerから導入されています(たしか)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/kirke\/articles\/e1e1c2d4482e34"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1696912945.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zenn.dev\/kirke\/articles\/e1e1c2d4482e34",
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--i4Ib8z0K--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NextJS%252013.4%7E%2520app%2520router%2520%25E5%2589%25AF%25E4%25BD%259C%25E7%2594%25A8%25E3%2581%25AE%25E3%2581%2582%25E3%2582%258B%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2581%25AFtemplate.tsx%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:kirke%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MHlpbGM3WDlLY3ZWS0hhaElTaVloelB5YXZva1hQRjRyR2dKVVc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 33514,
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/kirke\/articles\/e1e1c2d4482e34",
+                "fallback": "Zenn: NextJS 13.4~ app router 副作用のあるレイアウトはtemplate.tsxを使おう",
+                "title": "NextJS 13.4~ app router 副作用のあるレイアウトはtemplate.tsxを使おう",
+                "title_link": "https:\/\/zenn.dev\/kirke\/articles\/e1e1c2d4482e34",
+                "service_name": "Zenn"
+            }
+        ],
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "fe11531c-83e1-47ab-a1d0-b466164b8fc8",
+        "type": "message",
+        "text": "なるほどな。こう使うのか。",
+        "user": "U04TV4NASPK",
+        "ts": "1696912996.146749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQD47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどな。こう使うのか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "67fa1bf7-6896-4518-acf1-e7544fe4f507",
+        "type": "message",
+        "text": "今のところtemplateは使わなくてもいいはずなんですが, 将来的なことを考えてこうしています(stateを使いたいかも、と思ったので)",
+        "user": "U04T9TDB58W",
+        "ts": "1696913085.941929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFWGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今のところtemplateは使わなくてもいいはずなんですが, 将来的なことを考えてこうしています(stateを使いたいかも、と思ったので)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "508c440b-18df-4e65-82f6-644e47d15862",
+        "type": "message",
+        "text": "重要なのは, tailwindのstyle classです. PRに説明を軽く書いています",
+        "user": "U04T9TDB58W",
+        "ts": "1696913107.433829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAvje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "重要なのは, tailwindのstyle classです. PRに説明を軽く書いています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "911fabfb-f726-4902-86d9-1dc7cd27067f",
+        "type": "message",
+        "text": "React-responsiveとか、router pushしてるところでwidthひろって分けようとしてた。上手くいかなかったが。",
+        "user": "U04TV4NASPK",
+        "ts": "1696913156.234319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aXkWy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "React-responsiveとか、router pushしてるところでwidthひろって分けようとしてた。上手くいかなかったが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "b2ccba89-31fd-4195-8569-a8706491ada2",
+        "type": "message",
+        "text": "Tailwindのclassで上手くわければ良いということね。hiddenとblockで。",
+        "user": "U04TV4NASPK",
+        "ts": "1696913215.583669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oK5r6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tailwindのclassで上手くわければ良いということね。hiddenとblockで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696910713.662329",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

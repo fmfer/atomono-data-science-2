@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "62d36777-0f26-4dd1-9ac6-e85bd68659d6",
+        "type": "message",
+        "text": "直前で申し訳ないのですが、\n明日朝から引っ越し業者が見積もりに来ることになってて、時間帯被ってしまったら中間ミーティング出席できないです:pray:\n(当日にならないと何時に来るかわからず。。)\n作業状況はプルリクのレビュー指摘対応中という状況です(明日には修正完了してると思います)。",
+        "user": "U04U66DNCRE",
+        "ts": "1697211917.972709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5SfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "直前で申し訳ないのですが、\n明日朝から引っ越し業者が見積もりに来ることになってて、時間帯被ってしまったら中間ミーティング出席できないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(当日にならないと何時に来るかわからず。。)\n作業状況はプルリクのレビュー指摘対応中という状況です(明日には修正完了してると思います)。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

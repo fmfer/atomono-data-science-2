@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "15c05be4-32cb-4410-8328-6ab1bb0ab52c",
+        "type": "message",
+        "text": "Slackの調子が...? Twitter検索してみたら「Slack死んだ」を多数観測:melting_face:\n<https:\/\/status.slack.com\/2023-07-27>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1690450981.163159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slackの調子が...? Twitter検索してみたら「Slack死んだ」を多数観測"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.slack.com\/2023-07-27"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1690451077.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/status.slack.com\/2023-07-27",
+                "thumb_url": "https:\/\/status.slack.com\/img\/v2_rebrand\/slack_hash_256.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/status.slack.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/status.slack.com\/2023-07-27",
+                "fallback": "Slack: Slack System Status",
+                "text": "Resources for real-time and historical information about the Slack service.",
+                "title": "Slack System Status",
+                "title_link": "https:\/\/status.slack.com\/2023-07-27",
+                "service_name": "Slack"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

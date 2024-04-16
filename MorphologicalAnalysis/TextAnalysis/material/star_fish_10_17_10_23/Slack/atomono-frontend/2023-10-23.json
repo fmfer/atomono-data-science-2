@@ -1,0 +1,1114 @@
+[
+    {
+        "client_msg_id": "bcc0732e-9d58-44af-a200-93bd819157db",
+        "type": "message",
+        "text": "【質問】\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-565の作業でエラーがでており>、解決方法がわからないので質問します。\n代替品詳細画面のレスポンシブ対応にあたり、新たに必要なコンポーネントを作成しているのですがstories.txtファイルにエラーがでてしまいます。\n＜stories.txtファイルのコード＞\n import { StoryFn, Meta } from '@storybook\/react'\nimport React from 'react'\nimport { ProductCardContentMobile } from '.\/ProductCardContentMobile.client'\n\ntype ProductCardContentMobileType = typeof ProductCardContentMobile\nexport default {\n title: 'atomono\/app\/__components__\/Product\/ProductCardContentMobile.client',\n component: ProductCardContentMobile,\n} as Meta\n\nconst Template: StoryFn<ProductCardContentMobileType> = (args) => <ProductCardContentMobile {...args} \/>\n\nexport const Default = Template.bind({})\n\nDefault.args = {\n imageSrc: ['<https:\/\/placehold.jp\/150x150.png>'],\n title: '',\n productStatus: null,\n category: '',\n brand: '',\n}\n\n\/\/ 他の状態を表すストーリーも追加できます。\n\/\/ export const OtherState = Template.bind({})\n\n\n＜エラー内容＞\n import { ProductCardContentMobile } from '.\/ProductCardContentMobile.client'\nconst Template: StoryFn<ProductCardContentMobileType> = (args) => <ProductCardContentMobile {...args} \/>\n・ProductCardContentMobile.clientにエクスポートされたメンバー 'ProductCardContentMobile' がありません。\",\n →この解決方法がわからないので、教えていただけないでしょうか？\n・\"message\": \"パラメーター 'args' の型は暗黙的に 'any' になります。\",\n→const Template: StoryFn<ProductCardContentMobileType> = (args: any) => <ProductCardContentMobile {...args} \/>\nに変えたのですが、こちらで問題ないでしょうか？\n以上、よろしくお願いいたします。",
+        "user": "U04TDHFKJ85",
+        "ts": "1698062007.948769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+r5g7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【質問】\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-565の作業でエラーがでており"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、解決方法がわからないので質問します。\n代替品詳細画面のレスポンシブ対応にあたり、新たに必要なコンポーネントを作成しているのですがstories.txtファイルにエラーがでてしまいます。\n＜stories.txtファイルのコード＞\n import { StoryFn, Meta } from '@storybook\/react'\nimport React from 'react'\nimport { ProductCardContentMobile } from '.\/ProductCardContentMobile.client'\n\ntype ProductCardContentMobileType = typeof ProductCardContentMobile\nexport default {\n title: 'atomono\/app\/__components__\/Product\/ProductCardContentMobile.client',\n component: ProductCardContentMobile,\n} as Meta\n\nconst Template: StoryFn<ProductCardContentMobileType> = (args) => <ProductCardContentMobile {...args} \/>\n\nexport const Default = Template.bind({})\n\nDefault.args = {\n imageSrc: ['"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/placehold.jp\/150x150.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'],\n title: '',\n productStatus: null,\n category: '',\n brand: '',\n}\n\n\/\/ 他の状態を表すストーリーも追加できます。\n\/\/ export const OtherState = Template.bind({})\n\n\n＜エラー内容＞\n import { ProductCardContentMobile } from '.\/ProductCardContentMobile.client'\nconst Template: StoryFn<ProductCardContentMobileType> = (args) => <ProductCardContentMobile {...args} \/>\n・ProductCardContentMobile.clientにエクスポートされたメンバー 'ProductCardContentMobile' がありません。\",\n →この解決方法がわからないので、教えていただけないでしょうか？\n・\"message\": \"パラメーター 'args' の型は暗黙的に 'any' になります。\",\n→const Template: StoryFn<ProductCardContentMobileType> = (args: any) => <ProductCardContentMobile {...args} \/>\nに変えたのですが、こちらで問題ないでしょうか？\n以上、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1698068002.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/placehold.jp\/150x150.png",
+                "image_width": 150,
+                "image_height": 150,
+                "image_bytes": 2300,
+                "from_url": "https:\/\/placehold.jp\/150x150.png",
+                "id": 1,
+                "original_url": "https:\/\/placehold.jp\/150x150.png",
+                "fallback": "150x150px image"
+            },
+            {
+                "id": 2,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10587::c81d4dd0719a11eeb99aef2f5958042e",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-565?atlOrigin=eyJpIjoiZjMwY2YxZjUxYWE0NDcxY2I2M2JhNTU4ZGI0NmQ3N2UiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-565 代替品詳細画面>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10587::c81d4dd2719a11eeb99aef2f5958042e",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:0a83f6c8-7964-448e-bde0-fc65c55240bc\/6b897bc0-8f78-4ba8-9a09-f5a224b41ae1\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "鈴木真希"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *鈴木真希*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10587::c81d4dd1719a11eeb99aef2f5958042e",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10587\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10587\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-565の作業でエラーがでており",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1698062007.948769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698062427.734229",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698062228.311859"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698062427.734229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7b04a11f-7e20-497d-a17a-6c106aa9d547",
+        "type": "message",
+        "text": "今ってhuddleできますか",
+        "user": "U04TV4NASPK",
+        "ts": "1698062228.311859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMtBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今ってhuddleできますか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698062007.948769",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "dfa88444-4764-4e58-9cf3-3b4ad3671683",
+        "type": "message",
+        "text": "大丈夫です:woman-gesturing-ok:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698062427.734229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXE+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698062007.948769",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C054R4216MB",
+        "room": {
+            "id": "R062BNFTX7U",
+            "name": "",
+            "media_server": "",
+            "created_by": "U04TV4NASPK",
+            "date_start": 1698062452,
+            "date_end": 1698066754,
+            "participants": [],
+            "participant_history": [
+                "U04TV4NASPK",
+                "U04TDHFKJ85"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1698062452.971469",
+            "thread_root_ts": "1698062452.971469",
+            "channels": [
+                "C054R4216MB"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "ARIZONA",
+            "canvas_background": "ARIZONA",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "ede5b480-02b8-4454-944e-66792cbd0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/chubachi-pt-2023.slack.com\/call\/R062BNFTX7U",
+        "subtype": "huddle_thread",
+        "ts": "1698062452.971469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoEcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T04TGFGMK7C",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698062452.971469",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1698065387.456139",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698063271.262599"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698063617.379899"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698065387.456139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0931f023-64cb-449c-a17e-ced440214da3",
+        "type": "message",
+        "text": "<https:\/\/nextjs.org\/docs\/app\/building-your-application\/routing\/pages-and-layouts>",
+        "user": "U04TV4NASPK",
+        "ts": "1698063271.262599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHZ9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.org\/docs\/app\/building-your-application\/routing\/pages-and-layouts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/nextjs.org\/api\/og?title=Routing:%20Pages%20and%20Layouts",
+                "image_width": 843,
+                "image_height": 441,
+                "image_bytes": 99421,
+                "from_url": "https:\/\/nextjs.org\/docs\/app\/building-your-application\/routing\/pages-and-layouts",
+                "service_icon": "https:\/\/nextjs.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextjs.org\/docs\/app\/building-your-application\/routing\/pages-and-layouts",
+                "fallback": "Routing: Pages and Layouts",
+                "text": "Create your first page and shared layout with the App Router.",
+                "title": "Routing: Pages and Layouts",
+                "title_link": "https:\/\/nextjs.org\/docs\/app\/building-your-application\/routing\/pages-and-layouts",
+                "service_name": "nextjs.org"
+            }
+        ],
+        "thread_ts": "1698062452.971469",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "895d3c5e-65fe-407d-bb14-521ef19c4412",
+        "type": "message",
+        "text": "<https:\/\/git-scm.com\/download\/gui\/windows>",
+        "user": "U04TV4NASPK",
+        "ts": "1698063617.379899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YV6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git-scm.com\/download\/gui\/windows"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698062452.971469",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "e007964d-126a-48fc-8d1c-6ddf2426e1dd",
+        "type": "message",
+        "text": "<https:\/\/teratail.com\/questions\/352976>",
+        "user": "U04TV4NASPK",
+        "ts": "1698065387.456139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MsDrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/teratail.com\/questions\/352976"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/teratail.com\/questions\/352976",
+                "thumb_url": "https:\/\/teratail.com\/img\/ogpImages\/imgFacebookShare.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/352976",
+                "fallback": "teratail[テラテイル]: git statusすると「Refresh index:」が走りました、これは何でしょうか？",
+                "text": "１人で作業しているgit初心者です。\n宜しくお願いします。\n\nブランチで作業し終えたので、いつも通りcommitしmasterにマージしました。\nエラーはありませんでした。\n```\n$",
+                "title": "git statusすると「Refresh index:」が走りました、これは何でしょうか？",
+                "title_link": "https:\/\/teratail.com\/questions\/352976",
+                "service_name": "teratail[テラテイル]"
+            }
+        ],
+        "thread_ts": "1698062452.971469",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "78562b53-b8a9-4c43-a5a5-1ef88be94f00",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nお疲れ様です。代替品詳細画面の仕様について質問です。\n販売情報のコンポ―ネントについていくつか質問があります:pray:\n<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=3023-5972&amp;mode=design&amp;t=utEEyauisWH2H0Hq-4>\n①   そもそも、アマゾンの画像をのせますか？\n②   アマゾンの画像をのせる場合、画像だけのせますか？それとも、データで識別できるようなかたちでないとだめでしょうか？\n以上、よろしくお願いいたします。",
+        "user": "U04TDHFKJ85",
+        "ts": "1698069175.949899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQFhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。代替品詳細画面の仕様について質問です。\n販売情報のコンポ―ネントについていくつか質問があります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=3023-5972&mode=design&t=utEEyauisWH2H0Hq-4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n①   そもそも、アマゾンの画像をのせますか？\n②   アマゾンの画像をのせる場合、画像だけのせますか？それとも、データで識別できるようなかたちでないとだめでしょうか？\n以上、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "divider",
+                        "block_id": "UJgQm"
+                    },
+                    {
+                        "type": "section",
+                        "block_id": "7eykH",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=3023-5972&amp;mode=design&amp;t=utEEyauisWH2H0Hq-4|*アトモノ*>",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "block_id": "ynAAz",
+                        "image_url": "https:\/\/api-cdn.figma.com\/resize\/thumbnails\/0ce153a1-46a1-4f16-a128-b8aa94318f76?height=112&bucket=figma-alpha",
+                        "alt_text": "Figma File Image",
+                        "image_width": 134,
+                        "image_height": 112,
+                        "image_bytes": 14135,
+                        "is_animated": true,
+                        "fallback": "134x112px image"
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B05CVFJDD6J",
+                "app_unfurl_url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=3023-5972&amp;mode=design&amp;t=utEEyauisWH2H0Hq-4",
+                "is_app_unfurl": true,
+                "app_id": "A01N2QYSA81"
+            }
+        ],
+        "thread_ts": "1698069175.949899",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1698238458.454899",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698071092.864709"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698071739.970179"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698072158.975339"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698205797.694089"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698238458.454899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "322dd6c8-f8b7-4a11-bce5-d830f205380f",
+        "type": "message",
+        "text": "<@U04TDHFKJ85>\n販売情報に関しては一切外部設計等に着手できていなくて、現時点でこのデザインカンプ(Figma)は仮のものです\n\nこれを踏まえ、コンポーネントを作る際は、optionalで画像のsrcを受け取れるようにしてほしいです。\n\n```interfeca Props{\n  sellerImageSrc?: string\n}```\nこんな感じ。",
+        "user": "U04T9TDB58W",
+        "ts": "1698071092.864709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DhdDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n販売情報に関しては一切外部設計等に着手できていなくて、現時点でこのデザインカンプ(Figma)は仮のものです\n\nこれを踏まえ、コンポーネントを作る際は、optionalで画像のsrcを受け取れるようにしてほしいです。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interfeca Props{\n  sellerImageSrc?: string\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな感じ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698069175.949899",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "9716e036-a1ff-4206-924e-289a0868f3f5",
+        "type": "message",
+        "text": "お疲れ様です。このよう事象が起こっているのは、私だけだと思うのですが、一応連携します。コンポーネントを作成する際、npm run gen:storiesを実行すると、コンポーネントと関係がないModal\/ModalContainer.tsxファイルのコードが変更されてしまいました。\n（tsxファイルを作成した後に、stories.tsxファイルを作成しようとnpm run gen:storiesを実行すると、Modal\/ModalContainer.tsxファイルのコードが一部変更されてしまいました。）\nなぜModal\/ModalContainer.tsxファイルのコードが変更されているか原因は不明で、ModalContainer.tsxを元の状態に戻し、stories.tsxを手書きで作成したら、作成しようとしたコンポーネントがうまく作成されていることをstorybookで確認できました。変更されたModal\/ModalContainer.tsxをスクショすればよかったのですが、忘れてしまいました。次同じような事象が起こったら、スレッドで連携します。",
+        "user": "U04TDHFKJ85",
+        "ts": "1698071504.073099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Gczl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。このよう事象が起こっているのは、私だけだと思うのですが、一応連携します。コンポーネントを作成する際、npm run gen:storiesを実行すると、コンポーネントと関係がないModal\/ModalContainer.tsxファイルのコードが変更されてしまいました。\n（tsxファイルを作成した後に、stories.tsxファイルを作成しようとnpm run gen:storiesを実行すると、Modal\/ModalContainer.tsxファイルのコードが一部変更されてしまいました。）\nなぜModal\/ModalContainer.tsxファイルのコードが変更されているか原因は不明で、ModalContainer.tsxを元の状態に戻し、stories.tsxを手書きで作成したら、作成しようとしたコンポーネントがうまく作成されていることをstorybookで確認できました。変更されたModal\/ModalContainer.tsxをスクショすればよかったのですが、忘れてしまいました。次同じような事象が起こったら、スレッドで連携します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698071504.073099",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698071874.596599",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698071634.674159"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698071652.285139"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1698071874.596599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a40558b3-82f3-47ed-a0e6-31e83e22f187",
+        "type": "message",
+        "text": "あー、これは… WSLだからかも…\n\nコマンド使わなくてもよいですよ\n<@U04TDHFKJ85>",
+        "user": "U04T9TDB58W",
+        "ts": "1698071634.674159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxGO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー、これは… WSLだからかも…\n\nコマンド使わなくてもよいですよ\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698071504.073099",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "9e3d62ee-46dd-4da4-8f40-14af3462893d",
+        "type": "message",
+        "text": "もうすでにstoryファイルはたくさんありますから、それらをお手本に :+1:",
+        "user": "U04T9TDB58W",
+        "ts": "1698071652.285139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+Wfk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もうすでにstoryファイルはたくさんありますから、それらをお手本に "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698071504.073099",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "bab4ab07-98a0-4bb6-a881-2423568dd4e5",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nありがとうございます！\noptionalで画像のsrcを受け取れるようにしてほしいです。\n→ごめんなさい、作業イメージがまだよくわかってないです:pray:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698071739.970179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAJvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！\noptionalで画像のsrcを受け取れるようにしてほしいです。\n→ごめんなさい、作業イメージがまだよくわかってないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698069175.949899",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "007ace0a-9ebe-4c23-a52e-77b6d0fbacb6",
+        "type": "message",
+        "text": "承知です！中山さんとハドルでつないだ時に、ModalContainer.tsxが変更されていてなぜだろうと話していました。WSLだと変更されてしまうのですね、これから手でかきます:ok_woman:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698071874.596599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROhNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知です！中山さんとハドルでつないだ時に、ModalContainer.tsxが変更されていてなぜだろうと話していました。WSLだと変更されてしまうのですね、これから手でかきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_woman",
+                                "unicode": "1f646"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1698071888.000000"
+        },
+        "thread_ts": "1698071504.073099",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4efa4380-3861-4398-be0d-80deab86dada",
+        "type": "message",
+        "text": "<@U04TDHFKJ85>\nコンポーネント名を仮にHogeとします (実際はちゃんと命名してください)\n```'use client'\n\ninterface HogeProps {\n  sellerImageSrc?: string\n  ...(他に必要なProps)\n}\n\nexport const Hoge: React.FC<HogeProps> = ({\n  sellerImageSrc,\n  ...(他に必要なProps)\n}) => {\n  ...(必要な処理)\n  return (\n    <>\n       ...(他の実装)\n       {sellerImageSrc && \n　　　　　　<Image\n             src={sellerImageSrc}\n             alt={alt} \/\/ 適当に決めて\n             width={150}\n             height={150}\n             placeholder='blur'\n             blurDataURL='data:image\/png;base64,iVBORw0KG...' \/\/ プレースホルダーのブラーエフェクトに使用するダミー画像データ\n          \/>}\n    <\/>\n  )\n}```\nまぁこういうことです。こうすればHogeコンポーネントを使用する際に渡すProps`sellerImageSrc`が必須でなくなります\n\n\n使用側 (例えばpage.tsx内など)\n```<div>\n  <Hoge \/> \/\/ ここで `sellerImageSrc` を渡さなくてもよい\n<\/div>```",
+        "user": "U04T9TDB58W",
+        "ts": "1698072158.975339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHEkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコンポーネント名を仮にHogeとします (実際はちゃんと命名してください)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'use client'\n\ninterface HogeProps {\n  sellerImageSrc?: string\n  ...(他に必要なProps)\n}\n\nexport const Hoge: React.FC<HogeProps> = ({\n  sellerImageSrc,\n  ...(他に必要なProps)\n}) => {\n  ...(必要な処理)\n  return (\n    <>\n       ...(他の実装)\n       {sellerImageSrc && \n　　　　　　<Image\n             src={sellerImageSrc}\n             alt={alt} \/\/ 適当に決めて\n             width={150}\n             height={150}\n             placeholder='blur'\n             blurDataURL='data:image\/png;base64,iVBORw0KG...' \/\/ プレースホルダーのブラーエフェクトに使用するダミー画像データ\n          \/>}\n    <\/>\n  )\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nまぁこういうことです。こうすればHogeコンポーネントを使用する際に渡すProps"
+                            },
+                            {
+                                "type": "text",
+                                "text": "sellerImageSrc",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が必須でなくなります\n\n\n使用側 (例えばpage.tsx内など)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<div>\n  <Hoge \/> \/\/ ここで `sellerImageSrc` を渡さなくてもよい\n<\/div>"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698072165.000000"
+        },
+        "thread_ts": "1698069175.949899",
+        "parent_user_id": "U04TDHFKJ85"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "b9f16bca-b9bf-4d17-8a28-d9e5879ca472",
+        "type": "message",
+        "text": "<https:\/\/nextjs.org\/blog\/next-13-4#nextjs-app-router> もりもりだ",
+        "user": "U04T9TDB58W",
+        "ts": "1697521707.675009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPt+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.org\/blog\/next-13-4#nextjs-app-router"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もりもりだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/nextjs.org\/static\/blog\/next-13-4\/twitter-card.png",
+                "image_width": 2400,
+                "image_height": 1350,
+                "image_bytes": 478616,
+                "from_url": "https:\/\/nextjs.org\/blog\/next-13-4#nextjs-app-router",
+                "service_icon": "https:\/\/nextjs.org\/favicon.ico",
+                "ts": 1683223200,
+                "id": 1,
+                "original_url": "https:\/\/nextjs.org\/blog\/next-13-4#nextjs-app-router",
+                "fallback": "Next.js 13.4",
+                "text": "Next.js 13.4 moves App Router to stable, Turbopack to beta, and introduces experimental support for Server Actions.",
+                "title": "Next.js 13.4",
+                "title_link": "https:\/\/nextjs.org\/blog\/next-13-4#nextjs-app-router",
+                "service_name": "nextjs.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "788cb1e6-5b33-4617-adeb-e76bbbab06d6",
+        "type": "message",
+        "text": "<https:\/\/nextjs.org\/docs> nextのdocumentすごい",
+        "user": "U04T9TDB58W",
+        "ts": "1697521723.072979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34m+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextjs.org\/docs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " nextのdocumentすごい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/nextjs.org\/api\/og?title=Docs",
+                "image_width": 843,
+                "image_height": 441,
+                "image_bytes": 90693,
+                "from_url": "https:\/\/nextjs.org\/docs",
+                "service_icon": "https:\/\/nextjs.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextjs.org\/docs",
+                "fallback": "Docs",
+                "text": "Welcome to the Next.js Documentation.",
+                "title": "Docs",
+                "title_link": "https:\/\/nextjs.org\/docs",
+                "service_name": "nextjs.org"
+            }
+        ]
+    }
+]

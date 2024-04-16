@@ -1,0 +1,184 @@
+[
+    {
+        "client_msg_id": "80c8f71f-80ca-4ece-8450-65270cc6ddc1",
+        "type": "message",
+        "text": "<https:\/\/www.jetbrains.com\/writerside\/> markdownエディタ",
+        "user": "U04T9TDB58W",
+        "ts": "1698217380.385949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnXMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jetbrains.com\/writerside\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " markdownエディタ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/resources.jetbrains.com\/storage\/products\/writerside\/img\/meta\/preview.png",
+                "image_width": 2560,
+                "image_height": 1440,
+                "image_bytes": 1621547,
+                "from_url": "https:\/\/www.jetbrains.com\/writerside\/",
+                "service_icon": "https:\/\/www.jetbrains.com\/apple-touch-icon.png?r=1234",
+                "id": 1,
+                "original_url": "https:\/\/www.jetbrains.com\/writerside\/",
+                "fallback": "JetBrains: Writerside - a new technical writing environment from JetBrains.",
+                "text": "Writerside is a new technical authoring and publishing environment from JetBrains.",
+                "title": "Writerside - a new technical writing environment from JetBrains.",
+                "title_link": "https:\/\/www.jetbrains.com\/writerside\/",
+                "service_name": "JetBrains"
+            }
+        ],
+        "thread_ts": "1698217380.385949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698238662.494659",
+        "reply_users": [
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698238662.494659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kininaru",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "EducationPlanで試してみます",
+        "files": [
+            {
+                "id": "F062R2DHF50",
+                "created": 1698238657,
+                "timestamp": 1698238657,
+                "name": "ss 11.png",
+                "title": "ss 11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TGBZ4XEX",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 234819,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062R2DHF50\/ss_11.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F062R2DHF50\/download\/ss_11.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 226,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 302,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 453,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1273,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 603,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F062R2DHF50-b50fd9fc8e\/ss_11_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 644,
+                "thumb_1024_h": 1024,
+                "original_w": 880,
+                "original_h": 1400,
+                "thumb_tiny": "AwAwAB6iMDqqn60mOe1PG7AHSkYc89aAYzH0oxxTwWXocUhyTk0wDnFJk1JuGxRuxj2ph69c0gE5oyaPxpQMmgBwJwOQKb3p5OUX5VGBjPrTCc9hQAfpQOtApKAP\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TGBZ4XEX\/F062R2DHF50\/ss_11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F062R2DHF50-1d716bbf8b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TGBZ4XEX",
+        "display_as_bot": false,
+        "ts": "1698238662.494659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJe\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EducationPlanで試してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a0028595-42f5-464d-9365-07323a70446c",
+        "thread_ts": "1698217380.385949",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

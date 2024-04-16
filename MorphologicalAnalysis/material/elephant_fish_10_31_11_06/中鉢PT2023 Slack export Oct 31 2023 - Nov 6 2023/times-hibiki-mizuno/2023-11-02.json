@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "fe11c0e1-467f-4933-81f8-0c31c5a519bb",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/kondo0602\/items\/de92eaf6d2bd7f57a74c> へぇ〜",
+        "user": "U04T9TDB58W",
+        "ts": "1698913024.455719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/LPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/kondo0602\/items\/de92eaf6d2bd7f57a74c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " へぇ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZoPTMzNiZ0eHQ9JUUzJTgwJTkwJUU5JTk2JTg5JUU1JThDJTg1JUUzJTgzJTg2JUUzJTgzJUJDJUUzJTgzJTk2JUUzJTgzJUFCJUUzJTgxJUE4JUUzJTgxJUFGJUUzJTgwJTkxJUU0JUJEJUJGJUU3JTk0JUE4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgzJUExJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgxJUE4JUUzJTgzJTg3JUUzJTgzJUExJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgzJTg4JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz01ZGU2YzU2MDQ2YmY3MmU4MmFhOWVmZDMwNTdiNzYzOQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwa29uZG8wNjAyJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1jMzg4ZGFjOGNlZDBhOGU0MjNjOTc0ZTkzMzYwOGNlZQ&blend-x=142&blend-y=491&blend-mode=normal&s=dcf42fa8ec21a349381d8f598b6aa9bc",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 41203,
+                "from_url": "https:\/\/qiita.com\/kondo0602\/items\/de92eaf6d2bd7f57a74c",
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/kondo0602\/items\/de92eaf6d2bd7f57a74c",
+                "fallback": "Qiita: 【閉包テーブルとは】使用するメリットとデメリット - Qiita",
+                "text": "##閉包テーブルとは閉包テーブル（Closure Table）は階層構造のシンプルかつエレガントな格納方法です。閉包テーブルは親子関係だけではなく、ツリー全体のパスを格納します。参考：SQLア…",
+                "title": "【閉包テーブルとは】使用するメリットとデメリット - Qiita",
+                "title_link": "https:\/\/qiita.com\/kondo0602\/items\/de92eaf6d2bd7f57a74c",
+                "service_name": "Qiita"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8848595b-5580-4e4f-8af9-72a0c33f3d33",
+        "type": "message",
+        "text": "授業を受ける",
+        "user": "U04T9TDB58W",
+        "ts": "1698987489.200319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blr1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業を受ける"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

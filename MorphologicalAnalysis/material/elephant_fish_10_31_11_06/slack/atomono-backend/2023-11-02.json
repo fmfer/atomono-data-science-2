@@ -1,0 +1,689 @@
+[
+    {
+        "client_msg_id": "72a713f7-1781-435d-96d5-c6e178ac76bc",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\n※お手好きのときに返信いただければ大丈夫です。\n\n`database.yml`の件ですが、production用の定義されている値が\n```database: &lt;%= ENV[\"ATOMONO_API_DATABASE_NAME\"] %&gt;\nusername: &lt;%= ENV[\"ATOMONO_API_DATABASE_USER_NAME\"] %&gt;\npassword: &lt;%= ENV[\"ATOMONO_API_DATABASE_PASSWORD\"] %&gt;```\nのみとなってますが、`host`と`port`も追加する形でよろしいですか？\n以下追加しようと思っています。\n```host: &lt;%= ENV[\"ATOMONO_DATABASE_HOST\"] %&gt;\nport: &lt;%= ENV[\"ATOMONO_DATABASE_PORT\"] %&gt;```\n上記５つの環境変数をAWSのパラメータストアに定義して参照させようとしてます。\n（厳密にはパラメータストアの値を環境変数名を指定して`docker build`時に`docker image`に書き込む想定）\n\nちなみにrailsで必要な環境変数は\n上記DB関連の値と`RAILS_ENV`のみで現状は足りておりますでしょうか？",
+        "user": "U04T201950F",
+        "ts": "1698916832.126689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Uh9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※お手好きのときに返信いただければ大丈夫です。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "database.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の件ですが、production用の定義されている値が\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "database: <%= ENV[\"ATOMONO_API_DATABASE_NAME\"] %>\nusername: <%= ENV[\"ATOMONO_API_DATABASE_USER_NAME\"] %>\npassword: <%= ENV[\"ATOMONO_API_DATABASE_PASSWORD\"] %>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "のみとなってますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "host",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "port",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "も追加する形でよろしいですか？\n以下追加しようと思っています。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "host: <%= ENV[\"ATOMONO_DATABASE_HOST\"] %>\nport: <%= ENV[\"ATOMONO_DATABASE_PORT\"] %>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n上記５つの環境変数をAWSのパラメータストアに定義して参照させようとしてます。\n（厳密にはパラメータストアの値を環境変数名を指定して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "docker build",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "時に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "docker image",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に書き込む想定）\n\nちなみにrailsで必要な環境変数は\n上記DB関連の値と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "RAILS_ENV",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "のみで現状は足りておりますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c644e79-0a53-48cf-8db3-59c825d60202",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\nちなみに上記設定を適用してデプロイしてみたところ、<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639|以前共有したActiveRecord関連のエラー>とは別のエラーが発生しました。\n```2023-11-02 10:20:37 +0000 Rack app (\"GET \/\" - (10.11.13.182)): #&lt;ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `bin\/rails credentials:edit`&gt;```\nこちらもお手好きの際にご確認お願いします。",
+        "user": "U04T201950F",
+        "ts": "1698920574.711309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3a6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nちなみに上記設定を適用してデプロイしてみたところ、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639",
+                                "text": "以前共有したActiveRecord関連のエラー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とは別のエラーが発生しました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023-11-02 10:20:37 +0000 Rack app (\"GET \/\" - (10.11.13.182)): #<ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `bin\/rails credentials:edit`>"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらもお手好きの際にご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639",
+                "ts": "1698650990.714639",
+                "author_id": "U04T201950F",
+                "channel_id": "C054UK45D7Y",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054UK45D7Y",
+                        "ts": "1698650990.714639",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "++1Vj",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TGBZ4XEX"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nお時間ある時で大丈夫です〜\nrailsの仕様について教えて下さい。\n今AWS環境でデプロイしようとしているのですが、ActiveRecord関連のエラーが発生しています。\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "ActiveRecord::ConnectionNotEstablished (Can't connect to server on '127.0.0.1' (115)):"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "DBのHostがローカルホスト向いているので、それを変更する必要があるかなと考えているのですが\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "config\/database.yml",
+                                                    "style": {
+                                                        "bold": false,
+                                                        "italic": false,
+                                                        "strike": false,
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "の57行目以降の設定を参照するために以下教えていただけますか。\n\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "productionの設定を読み込ませる方法"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "上記設定が読み込めるようになった上で、"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ENV[\"ATOMONO_API_DATABASE_NAME\"]",
+                                                            "style": {
+                                                                "bold": false,
+                                                                "italic": false,
+                                                                "strike": false,
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "等を読み込む方法（下記2パターンかなと）"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "展開されるインスタンスもしくはDockerイメージにあるENVを見ている"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "別で"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": ".env",
+                                                            "style": {
+                                                                "bold": false,
+                                                                "italic": false,
+                                                                "strike": false,
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "等のファイルがあってそちらを参照している"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n上記が解決した上で、以下2つの作業が必要です。\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "マイグレーション実行"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "※これはデプロイのたびに都度走る想定でコマンドを"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "docker\/rails\/entrypoint.sh",
+                                                            "style": {
+                                                                "bold": false,
+                                                                "italic": false,
+                                                                "strike": false,
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "に記載する想定"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "初期データ挿入用Seeder or SQL実行"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "おそらく初回のみでいいので実行するコマンド等教えていただければこちらで実行します。"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 1,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nこれらについてもどのようにすればよいか教えて下さい。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054UK45D7Y\/p1698650990714639",
+                "fallback": "[October 30th, 2023 12:29 AM] a2240dm: <@U04TGBZ4XEX>\nお時間ある時で大丈夫です〜\nrailsの仕様について教えて下さい。\n今AWS環境でデプロイしようとしているのですが、ActiveRecord関連のエラーが発生しています。\n```ActiveRecord::ConnectionNotEstablished (Can't connect to server on '127.0.0.1' (115)):```\nDBのHostがローカルホスト向いているので、それを変更する必要があるかなと考えているのですが\n`config\/database.yml`の57行目以降の設定を参照するために以下教えていただけますか。\n\n1. productionの設定を読み込ませる方法\n2. 上記設定が読み込めるようになった上で、`ENV[\"ATOMONO_API_DATABASE_NAME\"]`等を読み込む方法（下記2パターンかなと）\n    a. 展開されるインスタンスもしくはDockerイメージにあるENVを見ている\n    b. 別で`.env`等のファイルがあってそちらを参照している\n\n上記が解決した上で、以下2つの作業が必要です。\n1. マイグレーション実行\n    a. ※これはデプロイのたびに都度走る想定でコマンドを`docker\/rails\/entrypoint.sh`に記載する想定\n1. 初期データ挿入用Seeder or SQL実行\n    a. おそらく初回のみでいいので実行するコマンド等教えていただければこちらで実行します。\nこれらについてもどのようにすればよいか教えて下さい。",
+                "text": "<@U04TGBZ4XEX>\nお時間ある時で大丈夫です〜\nrailsの仕様について教えて下さい。\n今AWS環境でデプロイしようとしているのですが、ActiveRecord関連のエラーが発生しています。\n```ActiveRecord::ConnectionNotEstablished (Can't connect to server on '127.0.0.1' (115)):```\nDBのHostがローカルホスト向いているので、それを変更する必要があるかなと考えているのですが\n`config\/database.yml`の57行目以降の設定を参照するために以下教えていただけますか。\n\n1. productionの設定を読み込ませる方法\n2. 上記設定が読み込めるようになった上で、`ENV[\"ATOMONO_API_DATABASE_NAME\"]`等を読み込む方法（下記2パターンかなと）\n    a. 展開されるインスタンスもしくはDockerイメージにあるENVを見ている\n    b. 別で`.env`等のファイルがあってそちらを参照している\n\n上記が解決した上で、以下2つの作業が必要です。\n1. マイグレーション実行\n    a. ※これはデプロイのたびに都度走る想定でコマンドを`docker\/rails\/entrypoint.sh`に記載する想定\n1. 初期データ挿入用Seeder or SQL実行\n    a. おそらく初回のみでいいので実行するコマンド等教えていただければこちらで実行します。\nこれらについてもどのようにすればよいか教えて下さい。",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1698920574.711309",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1699021771.176299",
+        "reply_users": [
+            "U04T201950F",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1698920865.685839"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699020519.981239"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699021771.176299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee270233-3211-4593-926c-e1110553cc97",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX>\n調べた感じ、これかなと思ってます。\n<https:\/\/guides.rubyonrails.org\/v6.0.0\/upgrading_ruby_on_rails.html#config-secrets-yml>\n\nファイル追加して定義すればいい感じですかね？\nそれとも直接環境変数定義しちゃえば、`secrets.yml`不要？\n\nこの`ENV[\"SECRET_KEY_BASE\"]`に何を定義すべきかは教えていただければパラメータストアに登録します。",
+        "user": "U04T201950F",
+        "ts": "1698920865.685839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21swu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n調べた感じ、これかなと思ってます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/guides.rubyonrails.org\/v6.0.0\/upgrading_ruby_on_rails.html#config-secrets-yml"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nファイル追加して定義すればいい感じですかね？\nそれとも直接環境変数定義しちゃえば、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "secrets.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "不要？\n\nこの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ENV[\"SECRET_KEY_BASE\"]",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に何を定義すべきかは教えていただければパラメータストアに登録します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1698920962.000000"
+        },
+        "thread_ts": "1698920574.711309",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "b44b1d52-46f5-4d61-bbc6-416f241dd876",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-441>\nお疲れさまです！資生堂データの画像の件、PRを作成しました。\nお時間のあるときに、ご確認ください:man-bowing:\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103>",
+        "user": "U04U66DSPEU",
+        "ts": "1698940935.158829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffKzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-441"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れさまです！資生堂データの画像の件、PRを作成しました。\nお時間のあるときに、ご確認ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/103"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698940935.158829",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699027540.926369",
+        "reply_users": [
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1699027540.926369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

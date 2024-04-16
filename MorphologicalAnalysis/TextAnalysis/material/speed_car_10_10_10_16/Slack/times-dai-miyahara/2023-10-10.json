@@ -1,0 +1,478 @@
+[
+    {
+        "client_msg_id": "f390de5b-1134-4dd8-beb4-a61c76ea8192",
+        "type": "message",
+        "text": "虫眼鏡mouseoverしたときにカーソル変える",
+        "user": "U04T201950F",
+        "ts": "1696931946.870799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ffLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "虫眼鏡mouseoverしたときにカーソル変える"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "516a541a-f3c4-4cc2-ba43-6f0612b290fe",
+        "type": "message",
+        "text": "そうなるとページ単位で毎週アウトプットを出す必要がでてくる",
+        "user": "U04T201950F",
+        "ts": "1696933634.924079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IpIPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなるとページ単位で毎週アウトプットを出す必要がでてくる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ada1da87-4ae5-4239-877d-5a39155ba09d",
+        "type": "message",
+        "text": "ユーザーに触ってもらう状態を意識すると\n• フロントは画面単位で実装する\n• バックエンドができてるならmergeする、なければmockを利用する\n• リモートサーバに上げて動作確認\nぶっちゃけ難しいと思うな…",
+        "user": "U04T201950F",
+        "ts": "1696933804.856499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAWHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザーに触ってもらう状態を意識すると\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "フロントは画面単位で実装する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "バックエンドができてるならmergeする、なければmockを利用する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "リモートサーバに上げて動作確認"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nぶっちゃけ難しいと思うな…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "desuyone",
+                "users": [
+                    "U04TDHFKJ85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbaa8520-1f56-4255-a3ff-48e02134f31c",
+        "type": "message",
+        "text": "コンポーネント作成する側と、ページ作成する側で分かれる…とか？",
+        "user": "U04T201950F",
+        "ts": "1696934142.203479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hp3iB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンポーネント作成する側と、ページ作成する側で分かれる…とか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d91f9a91-a91a-4fd7-9dfc-8f58763a84b7",
+        "type": "message",
+        "text": "Engine → 加速させるもの\nParachute → 減速させるもの\nBridge → リスクを乗り越えるために何ができるか\nAbyss → どのようなリスクがあるか",
+        "user": "U04T201950F",
+        "ts": "1696935474.784759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xREZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Engine → 加速させるもの\nParachute → 減速させるもの\nBridge → リスクを乗り越えるために何ができるか\nAbyss → どのようなリスクがあるか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20f60cae-ac07-45da-861f-d3fecbd09964",
+        "type": "message",
+        "text": "仕事終わり、<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1696825928628549?thread_ts=1696824666.709179&amp;cid=C054R4216MB|これ>やる",
+        "user": "U04T201950F",
+        "ts": "1696983653.383939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wqQb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "仕事終わり、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1696825928628549?thread_ts=1696824666.709179&cid=C054R4216MB",
+                                "text": "これ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1696825928628549?thread_ts=1696824666.709179&amp;cid=C054R4216MB",
+                "ts": "1696825928.628549",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1696825928.628549",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "MyAlW",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "こちらもそこそこコメントしましたので一旦返します〜　"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/52#pullrequestreview-1663712124"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T201950F"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1696825928628549?thread_ts=1696824666.709179&amp;cid=C054R4216MB",
+                "fallback": "[October 8th, 2023 9:32 PM] a2239hm: こちらもそこそこコメントしましたので一旦返します〜　<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/52#pullrequestreview-1663712124>\n<@U04T201950F>",
+                "text": "こちらもそこそこコメントしましたので一旦返します〜　<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/52#pullrequestreview-1663712124>\n<@U04T201950F>",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c1e6609-c81e-44a3-8e5e-e82b30f2888b",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696961164899479?thread_ts=1696948086.590509&amp;cid=C053FF1M4AY>",
+        "user": "U04T201950F",
+        "ts": "1696984034.979939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0K7Pl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696961164899479?thread_ts=1696948086.590509&cid=C053FF1M4AY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696961164899479?thread_ts=1696948086.590509&amp;cid=C053FF1M4AY",
+                "ts": "1696961164.899479",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C053FF1M4AY",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053FF1M4AY",
+                        "ts": "1696961164.899479",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "zD0Xn",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "スタイルは適当だが\nmodal\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "import React, { ReactNode, MouseEvent, FC } from 'react'\n\ninterface ModalProps {\n  isOpen: boolean\n  onClose: (event: MouseEvent<HTMLButtonElement>) => void\n  children: ReactNode\n}\n\nexport const Modal: FC<ModalProps> = ({ isOpen, onClose, children }) => {\n  if (!isOpen) return null\n\n  return (\n    <div className='fixed inset-0 z-50 flex items-center justify-center'>\n      <div className='absolute inset-0 bg-black opacity-50'><\/div>\n      <div className='z-10 rounded-lg bg-white p-6 shadow-lg'>\n        {children}\n        <button onClick={onClose} className='mt-4 rounded bg-red-500 px-4 py-2 text-white'>\n          Close\n        <\/button>\n      <\/div>\n    <\/div>\n  )\n}"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nwrappermodal\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "'use client'\nimport { useState } from 'react'\nimport { Modal } from '.\/Modal'\n\nexport const ModalWrapper = () => {\n  \/\/ state\n  const [isOpen, setIsOpen] = useState(false)\n  return (\n    <>\n      <button className='button' onClick={() => setIsOpen(true)}>\n        Open Modal\n      <\/button>\n      <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>\n        <div>modal contentmodal contentmodal contentmodal contentmodal contentmodal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n      <\/Modal>\n    <\/>\n  )\n}"
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "このwrapperのbuttonの部分が, 作っていただいた所持品追加buttonに当たる。\nなのでwrapperコンポーネントの名前はAddInventory とかになりそう"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1696961164899479?thread_ts=1696948086.590509&amp;cid=C053FF1M4AY",
+                "fallback": "[October 10th, 2023 11:06 AM] a2239hm: スタイルは適当だが\nmodal\n```import React, { ReactNode, MouseEvent, FC } from 'react'\n\ninterface ModalProps {\n  isOpen: boolean\n  onClose: (event: MouseEvent<HTMLButtonElement>) => void\n  children: ReactNode\n}\n\nexport const Modal: FC<ModalProps> = ({ isOpen, onClose, children }) => {\n  if (!isOpen) return null\n\n  return (\n    <div className='fixed inset-0 z-50 flex items-center justify-center'>\n      <div className='absolute inset-0 bg-black opacity-50'><\/div>\n      <div className='z-10 rounded-lg bg-white p-6 shadow-lg'>\n        {children}\n        <button onClick={onClose} className='mt-4 rounded bg-red-500 px-4 py-2 text-white'>\n          Close\n        <\/button>\n      <\/div>\n    <\/div>\n  )\n}```\nwrappermodal\n```'use client'\nimport { useState } from 'react'\nimport { Modal } from '.\/Modal'\n\nexport const ModalWrapper = () => {\n  \/\/ state\n  const [isOpen, setIsOpen] = useState(false)\n  return (\n    <>\n      <button className='button' onClick={() => setIsOpen(true)}>\n        Open Modal\n      <\/button>\n      <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>\n        <div>modal contentmodal contentmodal contentmodal contentmodal contentmodal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n      <\/Modal>\n    <\/>\n  )\n}```\nこのwrapperのbuttonの部分が, 作っていただいた所持品追加buttonに当たる。\nなのでwrapperコンポーネントの名前はAddInventory とかになりそう",
+                "text": "スタイルは適当だが\nmodal\n```import React, { ReactNode, MouseEvent, FC } from 'react'\n\ninterface ModalProps {\n  isOpen: boolean\n  onClose: (event: MouseEvent<HTMLButtonElement>) => void\n  children: ReactNode\n}\n\nexport const Modal: FC<ModalProps> = ({ isOpen, onClose, children }) => {\n  if (!isOpen) return null\n\n  return (\n    <div className='fixed inset-0 z-50 flex items-center justify-center'>\n      <div className='absolute inset-0 bg-black opacity-50'><\/div>\n      <div className='z-10 rounded-lg bg-white p-6 shadow-lg'>\n        {children}\n        <button onClick={onClose} className='mt-4 rounded bg-red-500 px-4 py-2 text-white'>\n          Close\n        <\/button>\n      <\/div>\n    <\/div>\n  )\n}```\nwrappermodal\n```'use client'\nimport { useState } from 'react'\nimport { Modal } from '.\/Modal'\n\nexport const ModalWrapper = () => {\n  \/\/ state\n  const [isOpen, setIsOpen] = useState(false)\n  return (\n    <>\n      <button className='button' onClick={() => setIsOpen(true)}>\n        Open Modal\n      <\/button>\n      <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>\n        <div>modal contentmodal contentmodal contentmodal contentmodal contentmodal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n        <div>modal content<\/div>\n      <\/Modal>\n    <\/>\n  )\n}```\nこのwrapperのbuttonの部分が, 作っていただいた所持品追加buttonに当たる。\nなのでwrapperコンポーネントの名前はAddInventory とかになりそう",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    }
+]

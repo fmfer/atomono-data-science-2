@@ -1,0 +1,195 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697587208.034309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697587208.034309",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1697677725.995149",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04T201950F",
+            "U04T9TDB58W",
+            "U04TDHFKJ85",
+            "U04U66DSPEU",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697595247.414639"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1697595284.698659"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697603041.574999"
+            },
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1697618327.546039"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1697636199.051159"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697677725.995149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "abd9e13e-1949-4645-8ee7-e939882cf4b8",
+        "type": "message",
+        "text": "夜: 昨日のmtgまとめて、来週のコアミーティング準備。レスポンシブ対応。週報",
+        "user": "U04TV4NASPK",
+        "ts": "1697595247.414639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ECqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜: 昨日のmtgまとめて、来週のコアミーティング準備。レスポンシブ対応。週報"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697603727.000000"
+        },
+        "thread_ts": "1697587208.034309",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "7cb091b4-4bcd-4257-9d40-0d3b4e23bd95",
+        "type": "message",
+        "text": "プロダクトバックログ整理（朝）",
+        "user": "U04T201950F",
+        "ts": "1697595284.698659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNyPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロダクトバックログ整理（朝）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697587208.034309",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "f772f92c-b137-4ed0-825b-8881637f58a1",
+        "type": "message",
+        "text": "所持品リスト登録対応しますー\n昨日の時点でBEと連携しておおよその作業は終わっていますが、動作の確認だけします\n\nあとUI修正のタスクは既に起票してますので、どなたかよろしくお願いします(*^^*)",
+        "user": "U04T9TDB58W",
+        "ts": "1697603041.574999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7o1k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リスト登録対応しますー\n昨日の時点でBEと連携しておおよその作業は終わっていますが、動作の確認だけします\n\nあとUI修正のタスクは既に起票してますので、どなたかよろしくお願いします(*^^*)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1697603071.000000"
+        },
+        "thread_ts": "1697587208.034309",
+        "parent_user_id": "USLACKBOT"
+    }
+]

@@ -1,0 +1,1198 @@
+[
+    {
+        "client_msg_id": "04542e63-a63d-4a07-ac5f-dc7bff2827d8",
+        "type": "message",
+        "text": "<@U04T201950F>\n検索フィルター機能って ↓ のタスク内で検討予定でしょうか? または別でエピック作成予定でしょうか?\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-579>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698237047.731879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjVHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n検索フィルター機能って ↓ のタスク内で検討予定でしょうか? または別でエピック作成予定でしょうか?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-579"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698237084.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10601::540a1510733211ee89f2b1b82a35b513",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-579?atlOrigin=eyJpIjoiY2RhY2M1MjQyOWUzNGM5Zjg0NDg0YmRiMjI5YTQ2ZDkiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-579 【イベント】追加機能をやるか、リファクタをやるか判断>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10601::540a1512733211ee89f2b1b82a35b513",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/epic.png",
+                                "alt_text": "Epic"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Epic*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10601::540a1511733211ee89f2b1b82a35b513",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10601\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10601\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-579",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "f24ce365-c9ff-4cb8-b633-a91f023e9a66",
+        "type": "message",
+        "text": "特に異論はないけど、プロダクトゴールはどこ乗っける予定でしょうか？",
+        "user": "U04TV4NASPK",
+        "ts": "1698239467.969929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2PvwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特に異論はないけど、プロダクトゴールはどこ乗っける予定でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "73da0954-ab9c-42c0-aa9b-ff9788cc1df0",
+        "type": "message",
+        "text": "あとプロダクトバックログアイテムのサイズはどう表現しますか？",
+        "user": "U04TV4NASPK",
+        "ts": "1698242810.863379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTEy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとプロダクトバックログアイテムのサイズはどう表現しますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "6b7c6c30-38e7-4ecc-9480-55a82ee9800f",
+        "type": "message",
+        "text": "一応スクラムガイド\n```プロダクトバックログ\nプロダクトバックログは、創発的かつ順番に並べられた、プロダクトの改善に必要なものの⼀\n覧である。これは、スクラムチームが⾏う作業の唯⼀の情報源である。\n1 スプリント内でスクラムチームが完成できるプロダクトバックログアイテムは、スプリントプ\nランニングのときには選択の準備ができている。スクラムチームは通常、リファインメントの\n活動を通じて、選択に必要な透明性を獲得する。プロダクトバックログアイテムがより⼩さく\n詳細になるように、分割および定義をする活動である。これは、説明・並び順・サイズなどの\n詳細を追加するための継続的な活動である。多くの場合、属性は作業領域によって異なる。\n作業を⾏う開発者は、その作業規模の評価に責任を持つ。開発者がトレードオフを理解して選\n択できるように、プロダクトオーナーが開発者を⽀援することもできる。\n確約（コミットメント）：プロダクトゴール\nプロダクトゴールは、プロダクトの将来の状態を表している。それがスクラムチームの計画の\nターゲットになる。プロダクトゴールはプロダクトバックログに含まれる。プロダクトバック\nログの残りの部分は、プロダクトゴールを達成する「何か（what）」を定義するものである。\nプロダクトとは価値を提供する⼿段である。プロダクトは、明確な境界、既知のステーク\nホルダー、明確に定義されたユーザーや顧客を持っている。プロダクトは、サービスや物\n理的な製品である場合もあれば、より抽象的なものの場合もある。\nプロダクトゴールは、スクラムチームの⻑期的な⽬標である。次の⽬標に移る前に、スクラム\nチームはひとつの⽬標を達成（または放棄）しなければならない。```",
+        "user": "U04TV4NASPK",
+        "ts": "1698242865.442809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Az75I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応スクラムガイド\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロダクトバックログ\nプロダクトバックログは、創発的かつ順番に並べられた、プロダクトの改善に必要なものの⼀\n覧である。これは、スクラムチームが⾏う作業の唯⼀の情報源である。\n1 スプリント内でスクラムチームが完成できるプロダクトバックログアイテムは、スプリントプ\nランニングのときには選択の準備ができている。スクラムチームは通常、リファインメントの\n活動を通じて、選択に必要な透明性を獲得する。プロダクトバックログアイテムがより⼩さく\n詳細になるように、分割および定義をする活動である。これは、説明・並び順・サイズなどの\n詳細を追加するための継続的な活動である。多くの場合、属性は作業領域によって異なる。\n作業を⾏う開発者は、その作業規模の評価に責任を持つ。開発者がトレードオフを理解して選\n択できるように、プロダクトオーナーが開発者を⽀援することもできる。\n確約（コミットメント）：プロダクトゴール\nプロダクトゴールは、プロダクトの将来の状態を表している。それがスクラムチームの計画の\nターゲットになる。プロダクトゴールはプロダクトバックログに含まれる。プロダクトバック\nログの残りの部分は、プロダクトゴールを達成する「何か（what）」を定義するものである。\nプロダクトとは価値を提供する⼿段である。プロダクトは、明確な境界、既知のステーク\nホルダー、明確に定義されたユーザーや顧客を持っている。プロダクトは、サービスや物\n理的な製品である場合もあれば、より抽象的なものの場合もある。\nプロダクトゴールは、スクラムチームの⻑期的な⽬標である。次の⽬標に移る前に、スクラム\nチームはひとつの⽬標を達成（または放棄）しなければならない。"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "4984bb89-170a-4b19-b785-95bdb369e459",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX> (<@U04T9TDB58W>)\nそこに含めるか、もしくは検討前に実装のストーリーがなくなったら追加しても良いかなと思ったのですが先に追加しておきましょうか？\n実装コスト的にどうするかテックリードで判断いただいて問題ありません。\nプロダクトバックログアイテムの優先順位としてはまだ確定しておりません。",
+        "user": "U04T201950F",
+        "ts": "1698247882.803339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nk13a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\nそこに含めるか、もしくは検討前に実装のストーリーがなくなったら追加しても良いかなと思ったのですが先に追加しておきましょうか？\n実装コスト的にどうするかテックリードで判断いただいて問題ありません。\nプロダクトバックログアイテムの優先順位としてはまだ確定しておりません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96030bae-d94e-4294-bdab-384955459c8a",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nプロダクトゴールはマンスリーレビューではスライドで記載する予定ですが、\n通常スプリントでの確認に関しては、前話していたNotionの議事録のトップに記載する形で良いかなと思いましたがいかがですか？",
+        "user": "U04T201950F",
+        "ts": "1698247970.792309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1w8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプロダクトゴールはマンスリーレビューではスライドで記載する予定ですが、\n通常スプリントでの確認に関しては、前話していたNotionの議事録のトップに記載する形で良いかなと思いましたがいかがですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "534b75f1-b174-4ac8-aa7b-8d142bcf32f3",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nプロダクトバックログアイテムの粒度はどう表現しましょうかね…\n明日の打合せ時に相談させてください！",
+        "user": "U04T201950F",
+        "ts": "1698248003.521189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94VDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプロダクトバックログアイテムの粒度はどう表現しましょうかね…\n明日の打合せ時に相談させてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "02e38efd-acfa-4539-b935-d209962ee657",
+        "type": "message",
+        "text": "<@U04T201950F>\nありがとうございますー！外部、内部設計など、やるとなったらそれなりに作業量ありそうなので\n優先度確定していないなら今のままで大丈夫です:raised_hands:",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698248123.639889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gfp55",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございますー！外部、内部設計など、やるとなったらそれなりに作業量ありそうなので\n優先度確定していないなら今のままで大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80097b4a-298b-4658-8ba7-19fd78e37c63",
+        "type": "message",
+        "text": "こっちは了解\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C056MC8LN8L\/p1698248003521189?thread_ts=1698204600.278439&amp;cid=C056MC8LN8L>",
+        "user": "U04TV4NASPK",
+        "ts": "1698248250.687179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bLu6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こっちは了解\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C056MC8LN8L\/p1698248003521189?thread_ts=1698204600.278439&cid=C056MC8LN8L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C056MC8LN8L\/p1698248003521189?thread_ts=1698204600.278439&amp;cid=C056MC8LN8L",
+                "ts": "1698248003.521189",
+                "author_id": "U04T201950F",
+                "channel_id": "C056MC8LN8L",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C056MC8LN8L",
+                        "ts": "1698248003.521189",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "94VDy",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TV4NASPK"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nプロダクトバックログアイテムの粒度はどう表現しましょうかね…\n明日の打合せ時に相談させてください！"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C056MC8LN8L\/p1698248003521189?thread_ts=1698204600.278439&amp;cid=C056MC8LN8L",
+                "fallback": "[October 25th, 2023 8:33 AM] a2240dm: <@U04TV4NASPK>\nプロダクトバックログアイテムの粒度はどう表現しましょうかね…\n明日の打合せ時に相談させてください！",
+                "text": "<@U04TV4NASPK>\nプロダクトバックログアイテムの粒度はどう表現しましょうかね…\n明日の打合せ時に相談させてください！",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "type": "message",
+        "text": "プロダクトゴールとプロダクトバックログってある程度は紐づいてるから、\n並べて置いといた方がいいかなとは考えてます。JIRAにプロダクトバックログおくならJIRAにも置けたらなとは思います。",
+        "files": [
+            {
+                "id": "F063F6P3F08",
+                "created": 1698248307,
+                "timestamp": 1698248307,
+                "name": "スクラムガイドに新たに追加された「プロダクトゴール」とは？_あるいはプロダクトゴールの設定には何が必要か？（前編）_Regional_Scrum_Gathering_Tokyo_2022_－_Publickey.png",
+                "title": "スクラムガイドに新たに追加された「プロダクトゴール」とは？_あるいはプロダクトゴールの設定には何が必要か？（前編）_Regional_Scrum_Gathering_Tokyo_2022_－_Publickey.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TV4NASPK",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 207106,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F063F6P3F08\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F063F6P3F08\/download\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 290,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 435,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 483,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 580,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063F6P3F08-cb47a86206\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 618,
+                "original_w": 1116,
+                "original_h": 674,
+                "thumb_tiny": "AwAcADC2kUWxMomSB\/D7U4Qxf880P\/ARTk\/1S\/7opRnvQAzyoc48tM\/7tHkw\/wDPNP8AvmnmloAjMUIODGn\/AHzSNDFsJEadD\/DUjUN9w\/Q0AJH\/AKpfoP5UoGP\/ANdZAvJwAA\/A9hR9uuP7\/wCgoA2CCaADWP8Abrj\/AJ6foKPt1x\/z0\/QUAbBX3pHGEb6Gsj7dcf8APT9BQb24IwX\/AEFAH\/\/Z",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TV4NASPK\/F063F6P3F08\/_____________________________________________________________________________________________________________________________________________________________________________________________________regional_scrum_gathering_tokyo_2022_____publickey.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F063F6P3F08-50891a47ac",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TV4NASPK",
+        "display_as_bot": false,
+        "ts": "1698248520.997739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "209fF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロダクトゴールとプロダクトバックログってある程度は紐づいてるから、\n並べて置いといた方がいいかなとは考えてます。JIRAにプロダクトバックログおくならJIRAにも置けたらなとは思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "af380ce3-a28c-42f7-9154-bdb17aa4b084",
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "26a1ac4d-25a8-4271-b160-83153d5b4430",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n了解です。JIRAのどこに置けるかちょっと確認してみますね。\n（リリースとかに置く感じかな…）",
+        "user": "U04T201950F",
+        "ts": "1698248577.975899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iH2WE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n了解です。JIRAのどこに置けるかちょっと確認してみますね。\n（リリースとかに置く感じかな…）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "fbbbfadc-203c-452e-927d-c068ddf99035",
+        "type": "message",
+        "text": "あとプロダクトバックログの並び順は上が優先度高くて下が低いみたいに優先度も表現できないといけないです。JIRAを使う場合はその並び順も考えた方が良いです。",
+        "user": "U04TV4NASPK",
+        "ts": "1698248670.664509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUCHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとプロダクトバックログの並び順は上が優先度高くて下が低いみたいに優先度も表現できないといけないです。JIRAを使う場合はその並び順も考えた方が良いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "2ce935b5-03a3-4004-87ce-e79195c66823",
+        "type": "message",
+        "text": "失礼しました。\nイベントも含めて優先順位再考します",
+        "user": "U04T201950F",
+        "ts": "1698248728.054049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqMtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました。\nイベントも含めて優先順位再考します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "17698383-cd75-4996-9a7c-ee09c33981ba",
+        "type": "message",
+        "text": "て考えるとJIRAきつそうな気もしてる",
+        "user": "U04TV4NASPK",
+        "ts": "1698248772.115849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UpvEj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "て考えるとJIRAきつそうな気もしてる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "754b2e16-cdaa-4908-8648-b3acda688aa9",
+        "type": "message",
+        "text": "まあ行けなくもないかなとは考えている。\n他の資料にまとめても結局２重管理になるので望ましくないって水野さんが前期に話していたと思うので、なるべく一元管理したいですよね。",
+        "user": "U04T201950F",
+        "ts": "1698248831.485479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uc2av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まあ行けなくもないかなとは考えている。\n他の資料にまとめても結局２重管理になるので望ましくないって水野さんが前期に話していたと思うので、なるべく一元管理したいですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "a08eb014-6254-469e-b56f-d5be15e2cb68",
+        "type": "message",
+        "text": "そうね。見る場所が一箇所なのはアグリー",
+        "user": "U04TV4NASPK",
+        "ts": "1698248909.829009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Imsoy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうね。見る場所が一箇所なのはアグリー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "b1dd5c09-7585-4f5d-b3d8-82365d76eab9",
+        "type": "message",
+        "text": "一旦並び替えましたが、明日のMTGまでにバックログの並び順考えておきますので\n合わせて相談させてください。",
+        "user": "U04T201950F",
+        "ts": "1698249033.820809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3W9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦並び替えましたが、明日のMTGまでにバックログの並び順考えておきますので\n合わせて相談させてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b111e49-6a83-4149-9e39-e20ef5f1e228",
+        "type": "message",
+        "text": "探すとバックログで表現はしてそう\n<https:\/\/zenn.dev\/hakoten\/books\/ca2f9e924f1629\/viewer\/ed3659>",
+        "user": "U04TV4NASPK",
+        "ts": "1698249108.046299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPvv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "探すとバックログで表現はしてそう\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/hakoten\/books\/ca2f9e924f1629\/viewer\/ed3659"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--GeX9uq2m--\/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82YWNiN2I1MGI2LmpwZWc=%2Cw_200\/v1627283836\/default\/og-base-book_yz4z02.jpg",
+                "image_width": 726,
+                "image_height": 381,
+                "image_bytes": 10005,
+                "from_url": "https:\/\/zenn.dev\/hakoten\/books\/ca2f9e924f1629\/viewer\/ed3659",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/hakoten\/books\/ca2f9e924f1629\/viewer\/ed3659",
+                "fallback": "Zenn: 運用例 - 1.プロダクトバックログにアイテムを追加する｜実践できるスクラム",
+                "title": "運用例 - 1.プロダクトバックログにアイテムを追加する｜実践できるスクラム",
+                "title_link": "https:\/\/zenn.dev\/hakoten\/books\/ca2f9e924f1629\/viewer\/ed3659",
+                "service_name": "Zenn"
+            }
+        ],
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "4f98cf73-70ab-40bb-ab03-e1c3517b795a",
+        "type": "message",
+        "text": "<https:\/\/www.ricksoft.jp\/blog\/articles\/001462.html>",
+        "user": "U04TV4NASPK",
+        "ts": "1698249218.916779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxxVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ricksoft.jp\/blog\/articles\/001462.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ricksoft.jp\/blog\/articles\/001462.html",
+                "image_url": "https:\/\/www.ricksoft.jp\/blog\/2023\/03\/24\/assets\/eyecatch-jira-dicsovery.JPG",
+                "image_width": 914,
+                "image_height": 508,
+                "image_bytes": 41539,
+                "service_icon": "https:\/\/www.ricksoft.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ricksoft.jp\/blog\/articles\/001462.html",
+                "fallback": "リックソフトブログ: 開発実装前にプロダクトアイデアを整理できる「Jira Product Discovery（ジラ・プロダクトディスカバリー）」を非エンジニアが触ってみた",
+                "text": "アトラシアンがベータ版で出している「Jira Product Discovery」を触ってみました。一言で言うとプロダクトマネージャ向けのプロダクトのアイデアをまとめて、アイデア実現の苦労対効果を数値化して管理できるツールです。",
+                "title": "開発実装前にプロダクトアイデアを整理できる「Jira Product Discovery（ジラ・プロダクトディスカバリー）」を非エンジニアが触ってみた",
+                "title_link": "https:\/\/www.ricksoft.jp\/blog\/articles\/001462.html",
+                "service_name": "リックソフトブログ"
+            }
+        ],
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "6b485d6e-ef0a-4089-bf20-168914b890b7",
+        "type": "message",
+        "text": "こういう看板ぽいのも使おうと思えば使える。JIRA内で。\n<https:\/\/chubachi-pt-2023.atlassian.net\/jira\/polaris\/projects\/APB\/ideas\/view\/3477761>",
+        "user": "U04TV4NASPK",
+        "ts": "1698250405.123659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DpGfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういう看板ぽいのも使おうと思えば使える。JIRA内で。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/jira\/polaris\/projects\/APB\/ideas\/view\/3477761"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "CV5cG",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/jira\/polaris\/projects\/APB\/ideas\/view\/3477761|All ideas>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "section",
+                        "block_id": "BtWRs",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*Centralize your ideas*\nYou are in the “All ideas” view, which stores all ideas in this project.  Add your own ideas\/opportunities\/initiatives in this view.\nThis view has pre-configured fields helping…",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "iK4zh",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Project: *atomono product backlog*",
+                                "verbatim": false
+                            }
+                        ]
+                    }
+                ],
+                "color": "#FFAB00",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/jira\/polaris\/projects\/APB\/ideas\/view\/3477761",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1698204600.278439",
+        "parent_user_id": "U04T201950F"
+    }
+]

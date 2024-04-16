@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "99a6cc34-5121-4484-a2e1-2237c650b133",
+        "type": "message",
+        "text": "<@U04U66DSPEU>\n<https:\/\/zenn.dev\/simsim\/articles\/3f3e043dd750e8>",
+        "user": "U04TV4NASPK",
+        "ts": "1698155538.551479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewfj4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/simsim\/articles\/3f3e043dd750e8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--hBUbbiDs--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SessionStorage%25E3%2581%25A8LocalStorage%25E3%2581%25A8Cookies%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25A8%25E5%2588%25A9%25E7%2594%25A8%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:sim_fwork%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 31147,
+                "from_url": "https:\/\/zenn.dev\/simsim\/articles\/3f3e043dd750e8",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/simsim\/articles\/3f3e043dd750e8",
+                "fallback": "Zenn: SessionStorageとLocalStorageとCookiesの違いと利用例",
+                "title": "SessionStorageとLocalStorageとCookiesの違いと利用例",
+                "title_link": "https:\/\/zenn.dev\/simsim\/articles\/3f3e043dd750e8",
+                "service_name": "Zenn"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50fae5b6-d88c-49ae-83f6-59a2ca45f774",
+        "type": "message",
+        "text": "<https:\/\/reffect.co.jp\/nextjs\/nextjs-clerk\/> これが今来てるらしい\n\nSSR対応してたらPOC出すか？",
+        "user": "U04T9TDB58W",
+        "ts": "1698214073.369349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZpaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reffect.co.jp\/nextjs\/nextjs-clerk\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これが今来てるらしい\n\nSSR対応してたらPOC出すか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/reffect.co.jp\/assets\/next-clerk.png",
+                "image_width": 1200,
+                "image_height": 685,
+                "image_bytes": 30834,
+                "from_url": "https:\/\/reffect.co.jp\/nextjs\/nextjs-clerk\/",
+                "service_icon": "https:\/\/reffect.co.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/reffect.co.jp\/nextjs\/nextjs-clerk\/",
+                "fallback": "アールエフェクト: Next.js 13でClerkを使った認証(Authentication)の基礎 | アールエフェクト",
+                "text": "認証(Authentication) はアプリケーションを構築する上で重要な機能の一つでどのライブラリ\/製品を利用して、どのように設定を行えばいいのか悩んでいる人も多いのではないでしょうか。Next.js の Authentication といえば Auth.js(旧 NextAuth.js)が、有名ですが、本文書でユーザ認証とユーザ管理を行える Clerk の動作確認を行います。",
+                "title": "Next.js 13でClerkを使った認証(Authentication)の基礎 | アールエフェクト",
+                "title_link": "https:\/\/reffect.co.jp\/nextjs\/nextjs-clerk\/",
+                "service_name": "アールエフェクト"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

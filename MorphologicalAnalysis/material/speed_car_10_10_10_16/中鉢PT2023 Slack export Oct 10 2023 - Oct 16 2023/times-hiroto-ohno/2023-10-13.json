@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "34EA921B-9420-4D68-B3B6-0986AB9131CF",
+        "type": "message",
+        "text": "引っ越し業者のおじさんの足の臭いの残り香がすごい",
+        "user": "U04U66DNCRE",
+        "ts": "1697246470.415619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uczh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引っ越し業者のおじさんの足の臭いの残り香がすごい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kusa",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hidoi_hanashi",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F693FC96-1E02-4567-B28A-653C1422BFC9",
+        "type": "message",
+        "text": "歯医者から帰還。また2週間痛みに耐える",
+        "user": "U04U66DNCRE",
+        "ts": "1697263492.719529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HOwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "歯医者から帰還。また2週間痛みに耐える"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

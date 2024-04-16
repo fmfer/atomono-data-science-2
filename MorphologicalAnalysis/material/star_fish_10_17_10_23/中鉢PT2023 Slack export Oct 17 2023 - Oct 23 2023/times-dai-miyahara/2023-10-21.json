@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "74b516aa-9b98-40b2-bd04-90bb697faff7",
+        "type": "message",
+        "text": "type=\"reset\"なんてあったんだ",
+        "user": "U04T201950F",
+        "ts": "1697952226.420749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/jIQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "type=\"reset\"なんてあったんだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd802317-10fe-4424-b271-fdc638df11ee",
+        "type": "message",
+        "text": "ベースブランチバグったのこれが原因か\n<https:\/\/note.com\/nakagawa_2424\/n\/n8339eff625da>",
+        "user": "U04T201950F",
+        "ts": "1697953397.651729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5y7z2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ベースブランチバグったのこれが原因か\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/note.com\/nakagawa_2424\/n\/n8339eff625da"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/note.com\/nakagawa_2424\/n\/n8339eff625da",
+                "image_url": "https:\/\/assets.st-note.com\/production\/uploads\/images\/79828190\/rectangle_large_type_2_7bc98861b959559a3839e07b73a8c7a1.png?fit=bounds&quality=85&width=1280",
+                "image_width": 1280,
+                "image_height": 670,
+                "image_bytes": 788422,
+                "service_icon": "https:\/\/assets.st-note.com\/poc-image\/manual\/note-common-images\/production\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/note.com\/nakagawa_2424\/n\/n8339eff625da",
+                "fallback": "note（ノート）: [git] git commit --amendをプッシュ後のコミットに実行したことでエラーが発生した件について｜.nakagawa",
+                "text": "こんにちわ、なかがわ（Twitter）です。 先ほどgitでgit commit --amend実行後のpushでエラーが発生したため、 状況と解消方法を書いていきます。 以下の記事を参考にさせていただきました。 非常に分かりやすく解説してくださっています。 参考記事: \n\ngit push時にerror: failed to push some refs toとエラーがでる\n\n*解決したいこと git push時にerror: failed to push some refs toと出てくるのでそ\n\n<http:\/\/ja.stackoverflow.com|ja.stackoverflow.com>\n\n \n git com",
+                "title": "[git] git commit --amendをプッシュ後のコミットに実行したことでエラーが発生した件について｜.nakagawa",
+                "title_link": "https:\/\/note.com\/nakagawa_2424\/n\/n8339eff625da",
+                "service_name": "note（ノート）"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01c62744-96e7-4d3e-b313-212bd0c682b2",
+        "type": "message",
+        "text": "なおった",
+        "user": "U04T201950F",
+        "ts": "1697953483.599949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "umvtW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なおった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "77f5c619-d5f4-411d-beef-553f04528cc2",
+        "type": "message",
+        "text": "新オフィス作業しやすい",
+        "user": "U04T201950F",
+        "ts": "1697953656.038589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "baqv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新オフィス作業しやすい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

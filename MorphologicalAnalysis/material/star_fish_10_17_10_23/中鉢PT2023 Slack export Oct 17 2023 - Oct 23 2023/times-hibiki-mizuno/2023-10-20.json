@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "3d571488-3b59-41b2-9d7c-cda3dc8d9257",
+        "type": "message",
+        "text": "<https:\/\/github.com\/ramda\/types> これtsキワキワすぎやろw",
+        "user": "U04T9TDB58W",
+        "ts": "1697820009.542689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzffI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ramda\/types"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これtsキワキワすぎやろw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/ramda\/types",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "ramda\/types",
+                "title": "ramda\/types",
+                "fields": [
+                    {
+                        "value": "11",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "TypeScript",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42855ffc-d9b6-4f1c-b979-152b95d09374",
+        "type": "message",
+        "text": "おかげさんでtypescriptのversionを上げざるを得なくなった",
+        "user": "U04T9TDB58W",
+        "ts": "1697820021.714839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/cJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おかげさんでtypescriptのversionを上げざるを得なくなった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "effd20f1-52b0-4a2d-bf91-99f169954f3e",
+        "type": "message",
+        "text": "atomono, ts 5.2.2ですw",
+        "user": "U04T9TDB58W",
+        "ts": "1697820027.852199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13pfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "atomono, ts 5.2.2ですw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

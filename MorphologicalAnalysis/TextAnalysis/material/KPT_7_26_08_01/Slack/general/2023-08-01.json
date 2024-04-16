@@ -1,0 +1,723 @@
+[
+    {
+        "client_msg_id": "e4f39191-a810-4686-97ec-e695a3992611",
+        "type": "message",
+        "text": "こちら今日までです！\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690728156733279>",
+        "user": "U04T9TDB58W",
+        "ts": "1690887132.686979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ffbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら今日までです！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690728156733279"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690728156733279",
+                "ts": "1690728156.733279",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C04T9T2TW22",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C04T9T2TW22",
+                        "ts": "1690728156.733279",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "su1Y",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "【"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "palm_tree",
+                                                    "unicode": "1f334"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "palm_tree",
+                                                    "unicode": "1f334"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  前期発表スライド：スキルレベル "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "pill",
+                                                    "unicode": "1f48a"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 】\nメンバー紹介のためのカードを記入していただきましたが、こちら、添付画像のように4月のスキルレベルに加えて"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "「8月時点(前期終了時点)」、「目標(通期)」",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "のスキルレベルについて項目を増やしました。\nこれにより一目で現時点でのスキルレベルの“伸び“がわかるようになったかなと思います。\n\nつきましては"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "急で申し訳ないのですがすが、こちら火曜(2023\/8\/1)までに入力をお願いします",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "bow",
+                                                    "unicode": "1f647"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TV4NASPK"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T201950F"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04U66DNCRE"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TDHFKJ85"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TGBZ4XEX"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04U66DSPEU"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n【リンク"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "link",
+                                                    "unicode": "1f517"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "】\n"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "ballot_box_with_check",
+                                                    "unicode": "2611-fe0f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 4月と目標を入力：【背景\/メンバー紹介】　"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2280-152&mode=design&t=FJIVuO60a16dDETl-4"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "ballot_box_with_check",
+                                                    "unicode": "2611-fe0f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 4, 8月、目標を入力：各メンバーの感想\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "宮原さん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2314-1477&mode=design&t=FJIVuO60a16dDETl-4",
+                                                            "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2314-1477&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "大野さん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2348-4350&mode=design&t=FJIVuO60a16dDETl-4",
+                                                            "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2348-4350&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "フェルナンデスさん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2357-868&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "中山さん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2390-836&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "平田さん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2403-1138&mode=design&t=FJIVuO60a16dDETl-4",
+                                                            "text": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&node-id=2403-1138&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "鈴木さん："
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&node-id=2416-891&mode=design&t=FJIVuO60a16dDETl-4"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/gyazo.com\/0f607a9011b03e1783584f42d1648a4d"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C04T9T2TW22\/p1690728156733279",
+                "fallback": "[July 30th, 2023 7:42 AM] a2239hm: 【:palm_tree::palm_tree:  前期発表スライド：スキルレベル :pill: 】\nメンバー紹介のためのカードを記入していただきましたが、こちら、添付画像のように4月のスキルレベルに加えて*「8月時点(前期終了時点)」、「目標(通期)」*のスキルレベルについて項目を増やしました。\nこれにより一目で現時点でのスキルレベルの“伸び“がわかるようになったかなと思います。\n\nつきましては_*急で申し訳ないのですがすが、こちら火曜(2023\/8\/1)までに入力をお願いします*_ :bow:  <@U04TV4NASPK> <@U04T201950F> <@U04U66DNCRE> <@U04TDHFKJ85> <@U04TGBZ4XEX> <@U04U66DSPEU>\n\n【リンク:link:】\n:ballot_box_with_check: 4月と目標を入力：【背景\/メンバー紹介】　<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2280-152&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n:ballot_box_with_check: 4, 8月、目標を入力：各メンバーの感想\n• 宮原さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2314-1477&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2314-1477&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 大野さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2348-4350&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2348-4350&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• フェルナンデスさん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2357-868&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 中山さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2390-836&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 平田さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2403-1138&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2403-1138&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 鈴木さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2416-891&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n<https:\/\/gyazo.com\/0f607a9011b03e1783584f42d1648a4d>",
+                "text": "【:palm_tree::palm_tree:  前期発表スライド：スキルレベル :pill: 】\nメンバー紹介のためのカードを記入していただきましたが、こちら、添付画像のように4月のスキルレベルに加えて*「8月時点(前期終了時点)」、「目標(通期)」*のスキルレベルについて項目を増やしました。\nこれにより一目で現時点でのスキルレベルの“伸び“がわかるようになったかなと思います。\n\nつきましては_*急で申し訳ないのですがすが、こちら火曜(2023\/8\/1)までに入力をお願いします*_ :bow:  <@U04TV4NASPK> <@U04T201950F> <@U04U66DNCRE> <@U04TDHFKJ85> <@U04TGBZ4XEX> <@U04U66DSPEU>\n\n【リンク:link:】\n:ballot_box_with_check: 4月と目標を入力：【背景\/メンバー紹介】　<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2280-152&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n:ballot_box_with_check: 4, 8月、目標を入力：各メンバーの感想\n• 宮原さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2314-1477&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2314-1477&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 大野さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2348-4350&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2348-4350&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• フェルナンデスさん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2357-868&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 中山さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2390-836&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 平田さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2403-1138&amp;mode=design&amp;t=FJIVuO60a16dDETl-4|https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83[…]type=design&amp;node-id=2403-1138&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n• 鈴木さん：<https:\/\/www.figma.com\/file\/e738Aj2UkL84XkKgPaB8y2\/%E3%82%A2%E3%83%88%E3%83%A2%E3%83%8E?type=design&amp;node-id=2416-891&amp;mode=design&amp;t=FJIVuO60a16dDETl-4>\n<https:\/\/gyazo.com\/0f607a9011b03e1783584f42d1648a4d>",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94f53cba-1afc-4fa6-bd28-67fd0f8dc75c",
+        "type": "message",
+        "text": "今日の先生とのコアミーティングでセルフアセスメントについて出ましたか？",
+        "user": "U04TV4NASPK",
+        "ts": "1690890393.509959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPnhe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の先生とのコアミーティングでセルフアセスメントについて出ましたか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690890393.509959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690893281.282319",
+        "reply_users": [
+            "U04TDHFKJ85"
+        ],
+        "replies": [
+            {
+                "user": "U04TDHFKJ85",
+                "ts": "1690893281.282319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "afed801b-8130-43b1-af13-b3d85dbe971e",
+        "type": "message",
+        "text": "話にでなかったと思います",
+        "user": "U04TDHFKJ85",
+        "ts": "1690893281.282319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "話にでなかったと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690890393.509959",
+        "parent_user_id": "U04TV4NASPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84968407-89c2-40a3-865b-5134c91eb41c",
+        "type": "message",
+        "text": "<!channel>\n<https:\/\/drive.google.com\/file\/d\/1uSAO1Y9bLOnA0bNmOiDjyFNybYsh3hpa\/view>",
+        "user": "U04T201950F",
+        "ts": "1690894816.729189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=uBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1uSAO1Y9bLOnA0bNmOiDjyFNybYsh3hpa\/view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b3c3abb-6bfe-4779-9706-34a8c58d158e",
+        "type": "message",
+        "text": "<!channel>\n【共有のみ】\nプロトタイプ用にスライドを全て繋げました。\n全体のスライドの流れ確認したい方はご利用ください。",
+        "user": "U04T201950F",
+        "ts": "1690896960.700609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3RR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【共有のみ】\nプロトタイプ用にスライドを全て繋げました。\n全体のスライドの流れ確認したい方はご利用ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04U66DNCRE",
+                    "U04TGBZ4XEX",
+                    "U04T9TDB58W",
+                    "U04TV4NASPK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b41989c-19b5-43c9-ab81-5fd517a9fdc7",
+        "type": "message",
+        "text": "<!channel>\n柴田先生にマンスリーレビューの動画共有しなくてごめんなさい連絡をしようと思っているんですが、\nマンスリーレビューの動画の代わりに、今作成中のスライドのプロトタイピングを共有するのはいかがでしょうか？\n(まだ作成中のスライドあること前提で共有する予定です)",
+        "user": "U04U66DNCRE",
+        "ts": "1690899627.711569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n柴田先生にマンスリーレビューの動画共有しなくてごめんなさい連絡をしようと思っているんですが、\nマンスリーレビューの動画の代わりに、今作成中のスライドのプロトタイピングを共有するのはいかがでしょうか？\n(まだ作成中のスライドあること前提で共有する予定です)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04U66DNCRE",
+            "ts": "1690899664.000000"
+        },
+        "thread_ts": "1690899627.711569",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1690899832.630749",
+        "reply_users": [
+            "U04T201950F",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1690899699.544189"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1690899832.630749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04T9TDB58W",
+                    "U04TDHFKJ85"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04T9TDB58W",
+                    "U04TDHFKJ85"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "837DF5A0-AA08-4E30-9A9E-1C4EAD3FA7CF",
+        "type": "message",
+        "text": "ありがとうございます！忘れてました！笑\nそれでいいと思います！",
+        "user": "U04T201950F",
+        "ts": "1690899699.544189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bS1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！忘れてました！笑\nそれでいいと思います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690899627.711569",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4074d88c-b0d0-4ff3-b9d5-81356be6d641",
+        "type": "message",
+        "text": "完全に忘れてました笑\n数名から問題ないコメント(リアクション)頂いたら発射します",
+        "user": "U04U66DNCRE",
+        "ts": "1690899832.630749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4xu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "完全に忘れてました笑\n数名から問題ないコメント(リアクション)頂いたら発射します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690899627.711569",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "u5408",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

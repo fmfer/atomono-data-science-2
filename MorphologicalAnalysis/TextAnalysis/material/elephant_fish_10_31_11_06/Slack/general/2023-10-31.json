@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "5e3c01d6-9991-4208-a736-fc0741cd164e",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n前期は月の半ば前後にマンスリーレビューをやっていたので、それに合わせたままの設定ですね\n夏休みの兼ね合いから後期入ってマンスリーレビューを月の後半に持ってきたのでリマインダー一旦全部削除 ~します~ しました",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698745487.949249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWkym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n前期は月の半ば前後にマンスリーレビューをやっていたので、それに合わせたままの設定ですね\n夏休みの兼ね合いから後期入ってマンスリーレビューを月の後半に持ってきたのでリマインダー一旦全部削除 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "します",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698745530.000000"
+        },
+        "thread_ts": "1698660003.754729",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

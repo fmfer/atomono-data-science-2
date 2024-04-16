@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "43dd98f2-269f-4974-86c5-871ad379dada",
+        "type": "message",
+        "text": "ユーザ所持品リストの商品更新APIリリースしました\n\nRelease 20231023 · chubachi-pt-2023\/atomono-api\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231023>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698070961.244659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvlY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ所持品リストの商品更新APIリリースしました\n\nRelease 20231023 · chubachi-pt-2023\/atomono-api\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231023"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "7f899db8-6ee6-4cc9-998a-9c429df97b45",
+        "type": "message",
+        "text": "登録, 反映されてない気がする？実装直後は反映されてて、いまその分のデータが入っている感じ",
+        "user": "U04T9TDB58W",
+        "ts": "1697784822.849719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7IcVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "登録, 反映されてない気がする？実装直後は反映されてて、いまその分のデータが入っている感じ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

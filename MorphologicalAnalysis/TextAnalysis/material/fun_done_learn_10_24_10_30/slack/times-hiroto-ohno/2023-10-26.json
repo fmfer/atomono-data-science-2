@@ -1,0 +1,189 @@
+[
+    {
+        "client_msg_id": "16F1CFFA-A68D-4E92-A6AD-7906F2AC6743",
+        "type": "message",
+        "text": "キッチン使えないから今週ずっと外食だ。\n今日は大戸屋。帰ったら作業します",
+        "user": "U04U66DNCRE",
+        "ts": "1698318630.583559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfORC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キッチン使えないから今週ずっと外食だ。\n今日は大戸屋。帰ったら作業します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "38973FF1-4D58-4621-9D3D-61A046322D22",
+        "type": "message",
+        "text": "ペアプロできる人いたらぜひ、、、！",
+        "user": "U04U66DNCRE",
+        "ts": "1698318654.142159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/zmyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ペアプロできる人いたらぜひ、、、！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03635f9b-1a2b-4715-81e4-bff9a0055a4e",
+        "type": "message",
+        "text": "中山親分に感謝です",
+        "user": "U04U66DNCRE",
+        "ts": "1698328713.826669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4atJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中山親分に感謝です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "なかやまきんに君",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3872b78e-61ca-454d-bb54-2adcc9a9ef72",
+        "type": "message",
+        "text": "結局stubを立ち上げてみたけど、所持品リスト画面行こうとするとエラー起こるから<https:\/\/front-opzidsl35-jabelic.vercel.app\/userProduct>\nにアクセスしてデベロッパーツール見てみたけど\nモーダル画面のソースコードにたどり着けないな。。",
+        "user": "U04U66DNCRE",
+        "ts": "1698331750.160329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPr6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結局stubを立ち上げてみたけど、所持品リスト画面行こうとするとエラー起こるから"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-opzidsl35-jabelic.vercel.app\/userProduct"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにアクセスしてデベロッパーツール見てみたけど\nモーダル画面のソースコードにたどり着けないな。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

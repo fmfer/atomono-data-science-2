@@ -1,0 +1,982 @@
+[
+    {
+        "client_msg_id": "973baaa4-a4ad-4a0d-b371-f6e90af83897",
+        "type": "message",
+        "text": "<!here>\n中間報告の際に共有したプロダクトバックログ、特にコメントなかったのであれベースで最終版作成します。",
+        "user": "U04T201950F",
+        "ts": "1697989839.635339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atU45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n中間報告の際に共有したプロダクトバックログ、特にコメントなかったのであれベースで最終版作成します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TV4NASPK",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04TDHFKJ85"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ff",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19ec0684-4f8e-4072-b683-224d7479d100",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199|https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199>\n\n<@U04TGBZ4XEX> 所持品削除って次の週で取り組めたりしますか？あと、所持品リスト以外はbearerTokenを適当なやつにして(適当な文字列)送ろうと思ってるんですが、大丈夫そうですか？",
+        "user": "U04T9TDB58W",
+        "ts": "1698021774.708909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MLDd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 所持品削除って次の週で取り組めたりしますか？あと、所持品リスト以外はbearerTokenを適当なやつにして(適当な文字列)送ろうと思ってるんですが、大丈夫そうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199",
+                "ts": "1697584283.122199",
+                "author_id": "U04T201950F",
+                "channel_id": "C053B7Y5F0F",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053B7Y5F0F",
+                        "ts": "1697584283.122199",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "CLuOe",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "一旦整理\n\n10月中に完了させるもの\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ユーザーが所持品リストを利用できること"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ユーザーがサインアップできること"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ユーザーがログインできること"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n11月中に完了させるもの\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "各ユーザーストーリーの動作確認（結合テスト的な）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "AWS環境でインフラが提供できていること"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n今後控えているイベント\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "アイスタイル様に環境提供（11月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "アイスタイル様からのFBに対しての対応判断（11月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "追加機能をやるか、リファクタをやるか判断（11月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "マンスリーレビュー（11月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "マンスリーレビュー（12月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "マンスリーレビュー（1月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "マンスリーレビュー（2月）"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "最終成果発表（2月）"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199",
+                "fallback": "[October 17th, 2023 4:11 PM] a2240dm: 一旦整理\n\n10月中に完了させるもの\n• ユーザーが所持品リストを利用できること\n• ユーザーがサインアップできること\n• ユーザーがログインできること\n• ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）\n11月中に完了させるもの\n• 各ユーザーストーリーの動作確認（結合テスト的な）\n• AWS環境でインフラが提供できていること\n今後控えているイベント\n• アイスタイル様に環境提供（11月）\n• アイスタイル様からのFBに対しての対応判断（11月）\n• 追加機能をやるか、リファクタをやるか判断（11月）\n• マンスリーレビュー（11月）\n• マンスリーレビュー（12月）\n• マンスリーレビュー（1月）\n• マンスリーレビュー（2月）\n• 最終成果発表（2月）",
+                "text": "一旦整理\n\n10月中に完了させるもの\n• ユーザーが所持品リストを利用できること\n• ユーザーがサインアップできること\n• ユーザーがログインできること\n• ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）\n11月中に完了させるもの\n• 各ユーザーストーリーの動作確認（結合テスト的な）\n• AWS環境でインフラが提供できていること\n今後控えているイベント\n• アイスタイル様に環境提供（11月）\n• アイスタイル様からのFBに対しての対応判断（11月）\n• 追加機能をやるか、リファクタをやるか判断（11月）\n• マンスリーレビュー（11月）\n• マンスリーレビュー（12月）\n• マンスリーレビュー（1月）\n• マンスリーレビュー（2月）\n• 最終成果発表（2月）",
+                "author_name": "Dai Miyahara",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                "author_subname": "Dai Miyahara",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "thread_ts": "1698021774.708909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698022138.086459",
+        "reply_users": [
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698022138.086459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb4636ed-3162-40bc-a5c0-6f13145964c9",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nどちらも大丈夫です！\nbearerTokenも仮の値で何かが送られてきている間は、\n開発用の固定のユーザ情報返すようにします (UserId: 1)\nbearerToken無かったら認証エラー返します",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698022138.086459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uniD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nどちらも大丈夫です！\nbearerTokenも仮の値で何かが送られてきている間は、\n開発用の固定のユーザ情報返すようにします (UserId: 1)\nbearerToken無かったら認証エラー返します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698022359.000000"
+        },
+        "thread_ts": "1698021774.708909",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04T201950F> \n1度これの45ページの観点で上記のバックログ見直したいです。今日夜とか空いてますか\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C058VCY9X9C\/p1698036103891019|https:\/\/chubachi-pt-2023.slack.com\/archives\/C058VCY9X9C\/p1698036103891019>",
+        "user": "U04TV4NASPK",
+        "ts": "1698036874.341689",
+        "thread_ts": "1697585022.326099",
+        "root": {
+            "client_msg_id": "2c1e90fd-7230-402a-a69f-77cf22e1ee60",
+            "type": "message",
+            "text": "<@U04TV4NASPK>\nプロダクトバックログと今後のイベントを整理してみました。\n以下で認識相違ないですか？？\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199>\n\nもしあればコメント下さい。",
+            "user": "U04T201950F",
+            "ts": "1697585022.326099",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jcaag",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04TV4NASPK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nプロダクトバックログと今後のイベントを整理してみました。\n以下で認識相違ないですか？？\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nもしあればコメント下さい。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199",
+                    "ts": "1697584283.122199",
+                    "author_id": "U04T201950F",
+                    "channel_id": "C053B7Y5F0F",
+                    "channel_team": "T04TGFGMK7C",
+                    "is_msg_unfurl": true,
+                    "message_blocks": [
+                        {
+                            "team": "T04TGFGMK7C",
+                            "channel": "C053B7Y5F0F",
+                            "ts": "1697584283.122199",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "CLuOe",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "一旦整理\n\n10月中に完了させるもの\n"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "rich_text_list",
+                                                "elements": [
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "ユーザーが所持品リストを利用できること"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "ユーザーがサインアップできること"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "ユーザーがログインできること"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "style": "bullet",
+                                                "indent": 0,
+                                                "border": 0
+                                            },
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "\n11月中に完了させるもの\n"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "rich_text_list",
+                                                "elements": [
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "各ユーザーストーリーの動作確認（結合テスト的な）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "AWS環境でインフラが提供できていること"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "style": "bullet",
+                                                "indent": 0,
+                                                "border": 0
+                                            },
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "\n今後控えているイベント\n"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "rich_text_list",
+                                                "elements": [
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "アイスタイル様に環境提供（11月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "アイスタイル様からのFBに対しての対応判断（11月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "追加機能をやるか、リファクタをやるか判断（11月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "マンスリーレビュー（11月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "マンスリーレビュー（12月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "マンスリーレビュー（1月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "マンスリーレビュー（2月）"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "rich_text_section",
+                                                        "elements": [
+                                                            {
+                                                                "type": "text",
+                                                                "text": "最終成果発表（2月）"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "style": "bullet",
+                                                "indent": 0,
+                                                "border": 0
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "id": 1,
+                    "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053B7Y5F0F\/p1697584283122199",
+                    "fallback": "[October 17th, 2023 4:11 PM] a2240dm: 一旦整理\n\n10月中に完了させるもの\n• ユーザーが所持品リストを利用できること\n• ユーザーがサインアップできること\n• ユーザーがログインできること\n• ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）\n11月中に完了させるもの\n• 各ユーザーストーリーの動作確認（結合テスト的な）\n• AWS環境でインフラが提供できていること\n今後控えているイベント\n• アイスタイル様に環境提供（11月）\n• アイスタイル様からのFBに対しての対応判断（11月）\n• 追加機能をやるか、リファクタをやるか判断（11月）\n• マンスリーレビュー（11月）\n• マンスリーレビュー（12月）\n• マンスリーレビュー（1月）\n• マンスリーレビュー（2月）\n• 最終成果発表（2月）",
+                    "text": "一旦整理\n\n10月中に完了させるもの\n• ユーザーが所持品リストを利用できること\n• ユーザーがサインアップできること\n• ユーザーがログインできること\n• ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）\n11月中に完了させるもの\n• 各ユーザーストーリーの動作確認（結合テスト的な）\n• AWS環境でインフラが提供できていること\n今後控えているイベント\n• アイスタイル様に環境提供（11月）\n• アイスタイル様からのFBに対しての対応判断（11月）\n• 追加機能をやるか、リファクタをやるか判断（11月）\n• マンスリーレビュー（11月）\n• マンスリーレビュー（12月）\n• マンスリーレビュー（1月）\n• マンスリーレビュー（2月）\n• 最終成果発表（2月）",
+                    "author_name": "Dai Miyahara",
+                    "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T201950F",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_48.jpg",
+                    "author_subname": "Dai Miyahara",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "footer": "Slack の会話"
+                }
+            ],
+            "thread_ts": "1697585022.326099",
+            "reply_count": 13,
+            "reply_users_count": 2,
+            "latest_reply": "1698037197.165499",
+            "reply_users": [
+                "U04TV4NASPK",
+                "U04T201950F"
+            ],
+            "replies": [
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697595210.327069"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697650015.549889"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697679640.222749"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697681339.330939"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697723262.467059"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697723300.354439"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1697782277.394469"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1697782454.053139"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1698036874.341689"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698036957.331569"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1698037011.563359"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698037039.448299"
+                },
+                {
+                    "user": "U04TV4NASPK",
+                    "ts": "1698037197.165499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Fk07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n1度これの45ページの観点で上記のバックログ見直したいです。今日夜とか空いてますか\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C058VCY9X9C\/p1698036103891019",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C058VCY9X9C\/p1698036103891019"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "image_url": "https:\/\/slidehub.azureedge.net\/images\/b3839f37cee2ad4d7e097414bc246c90\/thumbnail-middle.jpg",
+                "image_width": 1200,
+                "image_height": 674,
+                "image_bytes": 123434,
+                "from_url": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                "service_icon": "https:\/\/slide.meguro.ryuzee.com\/assets\/apple-touch-icon-144x144-precomposed-6634309b3a885ca57fcbb2ad12f6df1ee2c0ea44bb3cdb12ccdc62f9630df861.png",
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C058VCY9X9C\/p1698036103891019",
+                "fallback": "プロダクトバックログ Deep Dive",
+                "text": "2022年1月5-7日に行われたRegional Scrum Gathering Tokyo 2022の登壇資料です。再配布や複製等はご遠慮ください。共有したい場合は本ページのリンクを共有するよ...",
+                "title": "プロダクトバックログ Deep Dive",
+                "title_link": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                "service_name": "slide.meguro.ryuzee.com"
+            }
+        ],
+        "client_msg_id": "fa71cf16-8d6e-44fd-8090-e5d1f4af1e12"
+    },
+    {
+        "client_msg_id": "1c434500-eb76-406b-824c-080c4515567a",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\n大丈夫ですよ。\n何時頃がご都合良いですか？\n（14時からMTGなんで返信遅くなるかも）",
+        "user": "U04T201950F",
+        "ts": "1698036957.331569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B\/nTC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大丈夫ですよ。\n何時頃がご都合良いですか？\n（14時からMTGなんで返信遅くなるかも）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1698036979.000000"
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "077d79e7-2875-40ec-a701-1added15b0e1",
+        "type": "message",
+        "text": "柴田先生と面談あるので19時30以降なら。",
+        "user": "U04TV4NASPK",
+        "ts": "1698037011.563359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VH4XO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "柴田先生と面談あるので19時30以降なら。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "872dff39-190d-44fb-96e0-45650f43c4df",
+        "type": "message",
+        "text": "では19時半からやりましょうか。\n多少遅れても大丈夫ですよ（面談長引く可能性あるので）",
+        "user": "U04T201950F",
+        "ts": "1698037039.448299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nr7Nt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では19時半からやりましょうか。\n多少遅れても大丈夫ですよ（面談長引く可能性あるので）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04TV4NASPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "320e9488-6634-412a-a26c-0e7a3eb452bc",
+        "type": "message",
+        "text": "<!here> Huddleでやるんで興味ある人入れば:arrow_up:",
+        "user": "U04TV4NASPK",
+        "ts": "1698037197.165499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKbpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Huddleでやるんで興味ある人入れば"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up",
+                                "unicode": "2b06-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697585022.326099",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

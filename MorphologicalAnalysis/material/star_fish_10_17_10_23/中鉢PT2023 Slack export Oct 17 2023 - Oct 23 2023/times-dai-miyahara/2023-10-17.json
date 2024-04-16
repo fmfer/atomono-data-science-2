@@ -1,0 +1,433 @@
+[
+    {
+        "client_msg_id": "e464c76f-35ca-42ae-bf5b-406d67668d0c",
+        "type": "message",
+        "text": "GitHubから連絡来ない",
+        "user": "U04T201950F",
+        "ts": "1697534079.215269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lkxu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GitHubから連絡来ない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U04U66DSPEU",
+                    "U04TV4NASPK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "057a80a7-577a-4bf5-8255-5be50c4f0826",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697546421897999?thread_ts=1697357245.010709&amp;cid=C054R4216MB>",
+        "user": "U04T201950F",
+        "ts": "1697546459.942939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUoDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697546421897999?thread_ts=1697357245.010709&cid=C054R4216MB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697546421897999?thread_ts=1697357245.010709&amp;cid=C054R4216MB",
+                "ts": "1697546421.897999",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1697546421.897999",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "MrzcH",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/fonts.google.com\/icons?selected=Material+Symbols+Outlined:arrow_back:FILL@0;wght@400;GRAD@0;opsz@24"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " この辺参照して使ってもらえると\n\nSVGで良いかなーと思ってます "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04T201950F"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1697546421897999?thread_ts=1697357245.010709&amp;cid=C054R4216MB",
+                "fallback": "[October 17th, 2023 5:40 AM] a2239hm: <https:\/\/fonts.google.com\/icons?selected=Material+Symbols+Outlined:arrow_back:FILL@0;wght@400;GRAD@0;opsz@24> この辺参照して使ってもらえると\n\nSVGで良いかなーと思ってます <@U04T201950F>",
+                "text": "<https:\/\/fonts.google.com\/icons?selected=Material+Symbols+Outlined:arrow_back:FILL@0;wght@400;GRAD@0;opsz@24> この辺参照して使ってもらえると\n\nSVGで良いかなーと思ってます <@U04T201950F>",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e47d0a6-92d1-4ad4-a5ea-1bb3d5b72577",
+        "type": "message",
+        "text": "一旦整理\n\n10月中に完了させるもの\n• ユーザーが所持品リストを利用できること\n• ユーザーがサインアップできること\n• ユーザーがログインできること\n• ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）\n11月中に完了させるもの\n• 各ユーザーストーリーの動作確認（結合テスト的な）\n• AWS環境でインフラが提供できていること\n今後控えているイベント\n• アイスタイル様に環境提供（11月）\n• アイスタイル様からのFBに対しての対応判断（11月）\n• 追加機能をやるか、リファクタをやるか判断（11月）\n• マンスリーレビュー（11月）\n• マンスリーレビュー（12月）\n• マンスリーレビュー（1月）\n• マンスリーレビュー（2月）\n• 最終成果発表（2月）",
+        "user": "U04T201950F",
+        "ts": "1697584283.122199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLuOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦整理\n\n10月中に完了させるもの\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーが所持品リストを利用できること"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーがサインアップできること"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーがログインできること"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーがモバイルでatomonoを閲覧できること（レスポンシブ対応）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n11月中に完了させるもの\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各ユーザーストーリーの動作確認（結合テスト的な）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AWS環境でインフラが提供できていること"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n今後控えているイベント\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アイスタイル様に環境提供（11月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アイスタイル様からのFBに対しての対応判断（11月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "追加機能をやるか、リファクタをやるか判断（11月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マンスリーレビュー（11月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マンスリーレビュー（12月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マンスリーレビュー（1月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マンスリーレビュー（2月）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最終成果発表（2月）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1697585013.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "一応できてそう…あとは待つのみかな",
+        "files": [
+            {
+                "id": "F06203TQ9CH",
+                "created": 1697604183,
+                "timestamp": 1697604183,
+                "name": "Screen Shot 2023-10-18 at 13.42.28.png",
+                "title": "Screen Shot 2023-10-18 at 13.42.28.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04T201950F",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 56042,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F06203TQ9CH\/screen_shot_2023-10-18_at_13.42.28.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F06203TQ9CH\/download\/screen_shot_2023-10-18_at_13.42.28.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F06203TQ9CH-bbb9e5dfb3\/screen_shot_2023-10-18_at_13.42.28_64.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F06203TQ9CH-bbb9e5dfb3\/screen_shot_2023-10-18_at_13.42.28_80.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F06203TQ9CH-bbb9e5dfb3\/screen_shot_2023-10-18_at_13.42.28_360.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F06203TQ9CH-bbb9e5dfb3\/screen_shot_2023-10-18_at_13.42.28_480.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 247,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F06203TQ9CH-bbb9e5dfb3\/screen_shot_2023-10-18_at_13.42.28_160.png?t=xoxe-4934526733250-6397687879216-6360367946327-fc1a6eed2fc8fac326fea1f2a3ab7c6e",
+                "original_w": 630,
+                "original_h": 324,
+                "thumb_tiny": "AwAYADC7M0ikBAMY64zTUecuMrxnn5cVM2M8rn8KNx\/utQKw7txTct\/dH50bv9lqUHJ+6RQMPm9B+dL2oooAYykngL+NJsPotPooAYUJ7JR5Z9Fz+NPooATYvoKUAAYFFFAH\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04T201950F\/F06203TQ9CH\/screen_shot_2023-10-18_at_13.42.28.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F06203TQ9CH-6be554679d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04T201950F",
+        "display_as_bot": false,
+        "ts": "1697604186.219899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fV2R0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応できてそう…あとは待つのみかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a940aa15-5a67-466e-87d3-f7faba6cb66c"
+    }
+]

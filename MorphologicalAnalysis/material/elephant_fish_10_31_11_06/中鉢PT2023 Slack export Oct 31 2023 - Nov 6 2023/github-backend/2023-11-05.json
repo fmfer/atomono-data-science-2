@@ -1,0 +1,489 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699200123.860979",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699201070.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699200121,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-627|AT-627> ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する\n\n*概要*\n\nユーザの所持品を更新する際、パラメータをProductのidではなくUserProductのidとして  \n受け取っていた為、レコードが存在せず404エラーを返していた\n\n*実装内容*\n\n☑︎ パラメータを `User::Product` に紐づく `Product` のidとして受け取り、正常に更新できるように修正\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/108|#108 AT-627 ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:108,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/108&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-627 ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699200326.267709",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699200324,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #108",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/108#issuecomment-1793777728|Comment on #108 AT-627 ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699200329.854669",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/5ab4ce9793cecde0e9be5c6b7166d1a27644dbbe|5ab4ce97>` - AT-627 ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する (#108)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/52f59752dfec...5ab4ce9793ce|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699200330.557789",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699200121,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/108|#108 AT-627 ユーザの所持品更新の際user_product_idではなくproduct_idからレコードを取得する>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699202725.396019",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699235929.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699202723,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by huro3h",
+                "text": "*JIRAへのリンク*\n\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-629|AT-629> ユーザの所持品をより安全に引くようにリファクタリング\n\n*概要*\n\nAT-627 で修正した箇所の追加微修正  \n関連レコードをユーザのリレーションから引いて、より安全なレコードの取得ができるように修正\n\n*実装内容*\n\n☑︎ 関連レコードをユーザのリレーションから引いて、より安全なレコードの取得ができるように修正\n\n*テスト*\n\n☑︎ 実装内容を確認するテストを追加 \/ 挙動を目視で確認\n☑︎ 既存のCIがパスすること\n\n*備考*\n\n関連データは必ず1件しか出ないことをupdate前のcallbackにある `find_sole_by` で保証する  \n0件の時も2件以上出た時も内部では `ActiveRecord::RecordNotFound` か `ActiveRecord::SoleRecordExceeded` の例外を上げるようにした",
+                "pretext": "Pull request opened by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/109|#109 AT-629 ユーザの所持品をより安全に引くようにリファクタリング>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Comments",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:109,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/109&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;AT-629 ユーザの所持品をより安全に引くようにリファクタリング&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699202905.271659",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699202903,
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Comment on #109",
+                "text": "CIがパスしましたのでマージします",
+                "pretext": "New comment on pull request by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/109#issuecomment-1793788310|Comment on #109 AT-629 ユーザの所持品をより安全に引くようにリファクタリング>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699202907.898509",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/5e77123f1d572269a6e36eaf40de1510cd2a8545|5e77123f>` - AT-629 ユーザの所持品をより安全に引くようにリファクタリング (#109)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/5ab4ce9793ce...5e77123f1d57|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699202907.944749",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699202723,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/109|#109 AT-629 ユーザの所持品をより安全に引くようにリファクタリング>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699219673.426549",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1699221140.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699219670,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/faker-ruby\/faker|faker> from 3.2.1 to 3.2.2.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/faker-ruby\/faker\/releases|faker's releases>._\n\n&gt; *v3.2.2*\n&gt; *<https:\/\/github.com\/faker-ruby\/faker\/tree\/v3.2.2|v3.2.2> (2023-11-03)*\n&gt; \n&gt; Happy November with a new faker-ruby release.\n&gt; \n&gt; This version:\n&gt; \n&gt; • adds generators\n&gt; • fixes bugs\n&gt; • updates dev and dependencies\n&gt; • updates docs\n&gt; \n&gt; *Features*\n&gt; \n&gt; • feat: add danish country code by <https:\/\/github.com\/hoshy|`@​hoshy`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2818|faker-ruby\/faker#2818>\n&gt; • Add `zh-CN` translations for Bank names by <https:\/\/github.com\/guxiaobai|`@​guxiaobai`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2840|faker-ruby\/faker#2840>\n&gt; • Add Code Scanning by <https:\/\/github.com\/stefannibrasil|`@​stefannibrasil`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2835|faker-ruby\/faker#2835>\n&gt; • Add Japanese for Games Touhou by <https:\/\/github.com\/shiroemons|`@​shiroemons`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2829|faker-ruby\/faker#2829>\n&gt; • Added Faker::Company.indian_gst_number fixed <https:\/\/redirect.github.com\/faker-ruby\/faker\/issues\/2823|#2823> by <https:\/\/github.com\/ankitkhadria|`@​ankitkhadria`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2825|faker-ruby\/faker#2825>\n&gt; • Adds Smashing Pumpkins to the Music module by <https:\/\/github.com\/redconfetti|`@​redconfetti`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2817|faker-ruby\/faker#2817>\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • Delete doc\/default\/michael_scott.md by <https:\/\/github.com\/jmromer|`@​jmromer`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2837|faker-ruby\/faker#2837>\n&gt; • Fix typo in `lib\/locales\/README.md` by <https:\/\/github.com\/BelaBartok39|`@​BelaBartok39`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2812|faker-ruby\/faker#2812>\n&gt; \n&gt; *What's Changed*\n&gt; \n&gt; • Update contributing and maintaining guides by <https:\/\/github.com\/stefannibrasil|`@​stefannibrasil`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2836|faker-ruby\/faker#2836>\n&gt; • Changed tests from x.times loop to deterministically_verify helper. <https:\/\/redirect.github.com\/faker-ruby\/faker\/issues\/2813|#2813> issue by <https:\/\/github.com\/fernandomenolli|`@​fernandomenolli`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2816|faker-ruby\/faker#2816>\n&gt; • Improve `#deterministically_verify` helper by <https:\/\/github.com\/erichmachado|`@​erichmachado`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2828|faker-ruby\/faker#2828>\n&gt; \n&gt; *Update local dependencies*\n&gt; \n&gt; • Bump minitest from 5.19.0 to 5.20.0 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2826|faker-ruby\/faker#2826>\n&gt; • Bump rake from 13.0.6 to 13.1.0 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2846|faker-ruby\/faker#2846>\n&gt; • Bump rubocop-minitest from 0.32.2 to 0.33.0 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2843|faker-ruby\/faker#2843>\n&gt; • Bump rubocop from 1.57.1 to 1.57.2 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2844|faker-ruby\/faker#2844>\n&gt; • Bump timecop from 0.9.6 to 0.9.8 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2811|faker-ruby\/faker#2811>\n&gt; \n&gt; *New Contributors*\n&gt; \n&gt; • <https:\/\/github.com\/BelaBartok39|`@​BelaBartok39`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2812|faker-ruby\/faker#2812>\n&gt; • <https:\/\/github.com\/fernandomenolli|`@​fernandomenolli`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2816|faker-ruby\/faker#2816>\n&gt; • <https:\/\/github.com\/hoshy|`@​hoshy`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2818|faker-ruby\/faker#2818>\n&gt; • <https:\/\/github.com\/shiroemons|`@​shiroemons`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2829|faker-ruby\/faker#2829>\n&gt; • <https:\/\/github.com\/erichmachado|`@​erichmachado`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2828|faker-ruby\/faker#2828>\n&gt; • <https:\/\/github.com\/jmromer|`@​jmromer`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2837|faker-ruby\/faker#2837>\n&gt; • <https:\/\/github.com\/guxiaobai|`@​guxiaobai`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2840|faker-ruby\/faker#2840>\n&gt; • <https:\/\/github.com\/redconfetti|`@​redconfetti`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2817|faker-ruby\/faker#2817>\n&gt; • <https:\/\/github.com\/ankitkhadria|`@​ankitkhadria`> made their first contribution in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2825|faker-ruby\/faker#2825>\n&gt; \n&gt; *Full Changelog*: <https:\/\/github.com\/faker-ruby\/faker\/compare\/v3.2.1...v3.2.2|faker-ruby\/faker@v3.2.1...v3.2.2>\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/faker-ruby\/faker\/blob\/main\/CHANGELOG.md|faker's changelog>._\n\n&gt; *<https:\/\/github.com\/faker-ruby\/faker\/tree\/v3.2.2|v3.2.2> (2023-11-03)*\n&gt; \n&gt; Happy November with a new faker-ruby release.\n&gt; \n&gt; This version:\n&gt; \n&gt; • adds generators\n&gt; • fixes bugs\n&gt; • updates dev and dependencies\n&gt; • updates docs\n&gt; \n&gt; *Features*\n&gt; \n&gt; • feat: add danish country code by <https:\/\/github.com\/hoshy|`@​hoshy`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2818|faker-ruby\/faker#2818>\n&gt; • Add `zh-CN` translations for Bank names by <https:\/\/github.com\/guxiaobai|`@​guxiaobai`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2840|faker-ruby\/faker#2840>\n&gt; • Add Code Scanning by <https:\/\/github.com\/stefannibrasil|`@​stefannibrasil`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2835|faker-ruby\/faker#2835>\n&gt; • Add Japanese for Games Touhou by <https:\/\/github.com\/shiroemons|`@​shiroemons`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2829|faker-ruby\/faker#2829>\n&gt; • Added Faker::Company.indian_gst_number fixed <https:\/\/redirect.github.com\/faker-ruby\/faker\/issues\/2823|#2823> by <https:\/\/github.com\/ankitkhadria|`@​ankitkhadria`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2825|faker-ruby\/faker#2825>\n&gt; • Adds Smashing Pumpkins to the Music module by <https:\/\/github.com\/redconfetti|`@​redconfetti`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2817|faker-ruby\/faker#2817>\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • Delete doc\/default\/michael_scott.md by <https:\/\/github.com\/jmromer|`@​jmromer`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2837|faker-ruby\/faker#2837>\n&gt; • Fix typo in `lib\/locales\/README.md` by <https:\/\/github.com\/BelaBartok39|`@​BelaBartok39`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2812|faker-ruby\/faker#2812>\n&gt; \n&gt; *What's Changed*\n&gt; \n&gt; • Update contributing and maintaining guides by <https:\/\/github.com\/stefannibrasil|`@​stefannibrasil`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2836|faker-ruby\/faker#2836>\n&gt; • Changed tests from x.times loop to deterministically_verify helper. <https:\/\/redirect.github.com\/faker-ruby\/faker\/issues\/2813|#2813> issue by <https:\/\/github.com\/fernandomenolli|`@​fernandomenolli`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2816|faker-ruby\/faker#2816>\n&gt; • Improve `#deterministically_verify` helper by <https:\/\/github.com\/erichmachado|`@​erichmachado`> in <https:\/\/redirect.github.com\/faker-ruby\/faker\/pull\/2828|faker-ruby\/faker#2828>\n&gt; \n&gt; *Update local dependencies*\n&gt; \n&gt; • Bump minitest from 5.19.0 to 5.20.0 by <https:\/\/github.com\/dependabot|`@​dependabot`> in <https:\/\/redirect.github.com\/faker-ruby\/faker…",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/110|#110 build(deps-dev): bump faker from 3.2.1 to 3.2.2>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:110,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/110&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump faker from 3.2.1 to 3.2.2&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699221138.605309",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/d27ea325b66bb8fe32287562a4e4254696772738|d27ea325>` - build(deps-dev): bump faker from 3.2.1 to 3.2.2 (#110)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/5e77123f1d57...d27ea325b66b|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1699221139.341059",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1699219670,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/110|#110 build(deps-dev): bump faker from 3.2.1 to 3.2.2>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    }
+]

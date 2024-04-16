@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "5cbf84aa-5777-4e7b-8ab8-50d03e016d5e",
+        "type": "message",
+        "text": "メモを残しておきます\n\n上記コマンドを実行したあと, 必要なファイルのみをコピペして\n`git add &lt;ファイル名&gt;`\nのように実行して、commitしてみてください。\nこのとき、ストーリーファイルは含めない方が良いでしょう(今commitが必要なストーリーファイルは1つですよね。であればコピペしてどこかにメモしておいて、あとで作り直しても良いと思います。)\n\nadd がおわったら、\n`git stash`\nしてください。(reset --hardでもいいけど, 念のため)\n\nその後, ストーリーファイルを作り直して、それをcommitして、おわりです",
+        "user": "U04T9TDB58W",
+        "ts": "1696952756.068819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpGCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メモを残しておきます\n\n上記コマンドを実行したあと, 必要なファイルのみをコピペして\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "git add <ファイル名>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nのように実行して、commitしてみてください。\nこのとき、ストーリーファイルは含めない方が良いでしょう(今commitが必要なストーリーファイルは1つですよね。であればコピペしてどこかにメモしておいて、あとで作り直しても良いと思います。)\n\nadd がおわったら、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "git stash",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nしてください。(reset --hardでもいいけど, 念のため)\n\nその後, ストーリーファイルを作り直して、それをcommitして、おわりです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696859206.801379",
+        "parent_user_id": "U04U66DNCRE",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DNCRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d398c1ab-0214-4344-815f-5f672c229120",
+        "type": "message",
+        "text": "<@U04U66DNCRE>\nお疲れ様です。ごめんなさい・・。プロジェクト計画書、Notionのものをグーグルドキュメント化にしてpdfで作成しようと思ったのですが、どうやっても書式が崩れてしまい、私ではうまくできなかったので、大野さんにプロジェクト計画書のpdf化と提出までお願いしたいです:woman-bowing::skin-tone-2:\nすみませんが、よろしくお願いいたします:pray:",
+        "user": "U04TDHFKJ85",
+        "ts": "1697005126.697109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztJqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。ごめんなさい・・。プロジェクト計画書、Notionのものをグーグルドキュメント化にしてpdfで作成しようと思ったのですが、どうやっても書式が崩れてしまい、私ではうまくできなかったので、大野さんにプロジェクト計画書のpdf化と提出までお願いしたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみませんが、よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AAB3C13D-F7E6-4E68-906D-FA131AA5464F",
+        "type": "message",
+        "text": "<@U04TDHFKJ85> \nNotionを直接PDF化できると思いますが、いかがでしょうか？\n難しければ今日の夜こっちでやっておきますー",
+        "user": "U04U66DNCRE",
+        "ts": "1697007047.027639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8epi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nNotionを直接PDF化できると思いますが、いかがでしょうか？\n難しければ今日の夜こっちでやっておきますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6F966E9D-4410-4ACD-8CCB-A08B306D065E",
+        "type": "message",
+        "text": "エクスポート→PDFでいけたような",
+        "user": "U04U66DNCRE",
+        "ts": "1697007090.582709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtMeR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エクスポート→PDFでいけたような"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

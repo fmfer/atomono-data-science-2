@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "fe286a69-d775-4c1f-b68a-6c0bfff2cdfb",
+        "type": "message",
+        "text": "キャプチャ見ました。とりあえず良さそう。明日の夕方〜夜にはマージしたい\n\n<@U04U66DSPEU>すぐにマージしなきゃまずかったりします？",
+        "user": "U04T9TDB58W",
+        "ts": "1698495064.944909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sN6qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キャプチャ見ました。とりあえず良さそう。明日の夕方〜夜にはマージしたい\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すぐにマージしなきゃまずかったりします？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698416037.253679",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "db42d44e-3dba-4838-a8aa-12e5a970e7e7",
+        "type": "message",
+        "text": "ありがとうございます！はい、プールダウンメニューは別途、ログアウトの次にPRを作成します:man-bowing:",
+        "user": "U04U66DSPEU",
+        "ts": "1698495424.221779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrbZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！はい、プールダウンメニューは別途、ログアウトの次にPRを作成します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698416037.253679",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "52cd8e37-e24b-46a7-8dfb-60196fa43f7b",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/77>　申し訳ないです。しっかり確認はできていないのですが、動作は手元で正常であることを確認しました。マージしました。\n\n<@U04U66DSPEU>",
+        "user": "U04T9TDB58W",
+        "ts": "1698495862.169319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNsYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/77"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　申し訳ないです。しっかり確認はできていないのですが、動作は手元で正常であることを確認しました。マージしました。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698495868.000000"
+        },
+        "thread_ts": "1698416037.253679",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "2282af19-c534-4223-84c3-9d4ba201479c",
+        "type": "message",
+        "text": "食事してくるので少し抜けます",
+        "user": "U04T201950F",
+        "ts": "1690803102.232159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lg3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "食事してくるので少し抜けます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

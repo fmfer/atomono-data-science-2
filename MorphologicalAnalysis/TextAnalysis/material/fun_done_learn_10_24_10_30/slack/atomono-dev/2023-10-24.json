@@ -1,0 +1,651 @@
+[
+    {
+        "client_msg_id": "a39bc00d-dbe5-4e6b-9f25-6bdcb9da9997",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-573> エピック新しく切ってます",
+        "user": "U04T9TDB58W",
+        "ts": "1698141669.821199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xh5re",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-573"
+                            },
+                            {
+                                "type": "text",
+                                "text": " エピック新しく切ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10595::42306030725411eea0225fea1c1f20bb",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-573?atlOrigin=eyJpIjoiMDM5YzNiYWM5ZTRmNGM1Y2I4MmQ2YTJjMGM5MjQ1ZGYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-573 所持品リスト：ユーザーは自分の所持品（愛用品）リストの情報を編集・削除できる>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10595::42306032725411eea0225fea1c1f20bb",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *To Do*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/epic.png",
+                                "alt_text": "Epic"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Epic*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10595::42306031725411eea0225fea1c1f20bb",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10595\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10595\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-573",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ac34f69-d846-4bbc-98ba-3468fd8abcfc",
+        "type": "message",
+        "text": "*<!here>*\n今週のスクラムマスターアンケートです。ご回答あればよろしくお願いします。\nわざと同じ質問項目にしてます。特になければないで大丈夫です。\n<https:\/\/forms.gle\/sghWqX8Ce9nw9mwL6>",
+        "user": "U04TV4NASPK",
+        "ts": "1698159034.301429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDCUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今週のスクラムマスターアンケートです。ご回答あればよろしくお願いします。\nわざと同じ質問項目にしてます。特になければないで大丈夫です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/sghWqX8Ce9nw9mwL6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5057fe5-c4f0-4ea7-b336-468082ea78d8",
+        "type": "message",
+        "text": "<!channel>\n確認です。\n以下JIRAのエピックに紐づくチケットはすべて終わっている認識で合ってますか？\nユーザーストーリーとしては前期に完了させたものだと思うので、\nもし残タスクあるなら別エピック（リファクタとか名前つけて新規作成）に移して、このエピックは完了にしたいです。\n<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-264>",
+        "user": "U04T201950F",
+        "ts": "1698195065.298929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fGkeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n確認です。\n以下JIRAのエピックに紐づくチケットはすべて終わっている認識で合ってますか？\nユーザーストーリーとしては前期に完了させたものだと思うので、\nもし残タスクあるなら別エピック（リファクタとか名前つけて新規作成）に移して、このエピックは完了にしたいです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-264"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10286::94af623072d011eeaee6571c81e4fb7f",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-264?atlOrigin=eyJpIjoiZTU3ZmY0ZmU4ODM5NGE0OTk4YzFmZDgwZDEzZmM1NWQiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-264 ユーザーが廃盤品の詳細情報を確認できること>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10286::94af623272d011eeaee6571c81e4fb7f",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Progress*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/epic.png",
+                                "alt_text": "Epic"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Epic*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/avatar-management--avatars.us-west-2.prod.public.atl-paas.net\/712020:744719ff-9f36-45ea-ad59-e50534df8206\/c61e7a11-605f-4bf5-96e9-a736e141a941\/48?d=https%3A%2F%2Fproduct-integrations-cdn.atl-paas.net%2Ficons%2Funknown-user.png",
+                                "alt_text": "Fernández"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Fernández*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10286::94af623172d011eeaee6571c81e4fb7f",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10286\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10286\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-264",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ],
+        "thread_ts": "1698195065.298929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698207696.125219",
+        "reply_users": [
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698207696.125219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04TV4NASPK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "755ac2a7-4c4c-44f6-9feb-950e4a06c75c",
+        "type": "message",
+        "text": "<!channel>\nエピックをプロダクトバックログ及びイベントベースで整理しました。\nスケジュールも引いております。\n問題ないかご確認お願いします。\n<https:\/\/chubachi-pt-2023.atlassian.net\/jira\/software\/c\/projects\/AT\/boards\/3\/timeline?selectedIssue=AT-573&amp;timeline=WEEKS>",
+        "user": "U04T201950F",
+        "ts": "1698204600.278439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4kaEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nエピックをプロダクトバックログ及びイベントベースで整理しました。\nスケジュールも引いております。\n問題ないかご確認お願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/jira\/software\/c\/projects\/AT\/boards\/3\/timeline?selectedIssue=AT-573&timeline=WEEKS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698204600.278439",
+        "reply_count": 20,
+        "reply_users_count": 3,
+        "latest_reply": "1698250405.123659",
+        "reply_users": [
+            "U04TGBZ4XEX",
+            "U04TV4NASPK",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698237047.731879"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698239467.969929"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698242810.863379"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698242865.442809"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698247882.803339"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698247970.792309"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698248003.521189"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698248123.639889"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698248250.687179"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698248520.997739"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698248577.975899"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698248670.664509"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698248728.054049"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698248772.115849"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698248831.485479"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698248909.829009"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698249033.820809"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698249108.046299"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698249218.916779"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698250405.123659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "407703a0-11cb-43d6-b77f-11c14eafffcd",
+        "type": "message",
+        "text": "全て完了です。閉じてください :bow: <@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1698207696.125219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnRke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全て完了です。閉じてください "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698195065.298929",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

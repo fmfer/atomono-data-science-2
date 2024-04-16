@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "62a24656-9299-4c16-b1bc-afc811e4222c",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/a_da_chi\/articles\/6235ef4b317368>\n&gt; `next dev`向けの5000の結合テストがRustのエンジンを基礎とする<https:\/\/turbo.build\/pack|Turbopack>で現在パスしています。これらのテストは7年分のバグ修正と再現を含んでいます。\n&gt; 大規模なNext.jsアプリケーションである`<http:\/\/vercel.com|vercel.com>`でのテストで以下を確認しています。\n&gt; • ローカルサーバーの起動が最大53.3%高速化\n&gt; • Fast Refreshによるコードの更新が最大94.7%高速化\n&gt; このベンチマークは大規模なアプリケーション （および大規模なモジュールグラフ） で期待されるパフォーマンス向上の実用的な結果です。`next dev`向けのテストの90%が現在パスしているため、`next dev --turbo`を使用するとより高速で信頼性の高いパフォーマンスを一貫して確認できるはずです。\n<https:\/\/areweturboyet.com\/>\nなるほどなぁ、まだturbopackはwebpackをoverwrap出来ていないのか",
+        "user": "U04T9TDB58W",
+        "ts": "1698641383.267049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/3wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/a_da_chi\/articles\/6235ef4b317368"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "next dev",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "向けの5000の結合テストがRustのエンジンを基礎とする"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/turbo.build\/pack",
+                                "text": "Turbopack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で現在パスしています。これらのテストは7年分のバグ修正と再現を含んでいます。\n大規模なNext.jsアプリケーションである"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vercel.com",
+                                "text": "vercel.com",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でのテストで以下を確認しています。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ローカルサーバーの起動が最大53.3%高速化"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fast Refreshによるコードの更新が最大94.7%高速化"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このベンチマークは大規模なアプリケーション （および大規模なモジュールグラフ） で期待されるパフォーマンス向上の実用的な結果です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "next dev",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "向けのテストの90%が現在パスしているため、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "next dev --turbo",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を使用するとより高速で信頼性の高いパフォーマンスを一貫して確認できるはずです。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/areweturboyet.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなるほどなぁ、まだturbopackはwebpackをoverwrap出来ていないのか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--1FkdIgpg--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Next.js%252014%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yutaro%2520Adachi%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhmZmYwM2RiYjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 28763,
+                "from_url": "https:\/\/zenn.dev\/a_da_chi\/articles\/6235ef4b317368",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/a_da_chi\/articles\/6235ef4b317368",
+                "fallback": "Zenn: Next.js 14まとめ",
+                "title": "Next.js 14まとめ",
+                "title_link": "https:\/\/zenn.dev\/a_da_chi\/articles\/6235ef4b317368",
+                "service_name": "Zenn"
+            },
+            {
+                "image_url": "https:\/\/turbo.build\/api\/og?type=pack",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 215240,
+                "from_url": "https:\/\/turbo.build\/pack",
+                "service_icon": "https:\/\/turbo.build\/images\/favicon-dark\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/turbo.build\/pack",
+                "fallback": "Turbo: Index – Turbopack",
+                "text": "Turbopack is an incremental bundler optimized for JavaScript and TypeScript, written in Rust.",
+                "title": "Index – Turbopack",
+                "title_link": "https:\/\/turbo.build\/pack",
+                "service_name": "Turbo"
+            },
+            {
+                "from_url": "https:\/\/areweturboyet.com\/",
+                "id": 3,
+                "original_url": "https:\/\/areweturboyet.com\/",
+                "fallback": "Are We Turbo Yet?",
+                "text": "Progress towards 100% of tests passing for Turbopack in Next.js",
+                "title": "Are We Turbo Yet?",
+                "title_link": "https:\/\/areweturboyet.com\/",
+                "service_name": "areweturboyet.com"
+            }
+        ]
+    }
+]

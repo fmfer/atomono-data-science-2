@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "323b57fd-5bc3-41bf-894b-4f26576487db",
+        "type": "message",
+        "text": "<https:\/\/manaba.aiit.ac.jp\/ct\/course_76243_report> 週報掲載されてますね",
+        "user": "U04T9TDB58W",
+        "ts": "1696949104.067069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0i4gY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/manaba.aiit.ac.jp\/ct\/course_76243_report"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 週報掲載されてますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a800293-d035-480b-ba38-f9ee2a1d6720",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。私の作業の進捗報告です。\n・所持品リスト画面の登録ボタン作成\n　→プルリクだしました\n・プロジェクト計画書\n→すみません、私のほうでNotionに記載したものをグーグルドキュメントのファイルにおこして、pdf化して提出しようとしたのですが、書式が崩れてしまい、うまくできなかったので、大野さんにお願いしてます。（3Qのプロジェクト計画書のグーグルドキュメントの内容、一旦2Qの内容にしてます）もしだれかきれいにできるやり方教えてくださる人がいたら、やり方教えてくださるとありがたいです:pray:\n以上、よろしくお願いいたします。",
+        "user": "U04TDHFKJ85",
+        "ts": "1697005397.899389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/NVB2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。私の作業の進捗報告です。\n・所持品リスト画面の登録ボタン作成\n　→プルリクだしました\n・プロジェクト計画書\n→すみません、私のほうでNotionに記載したものをグーグルドキュメントのファイルにおこして、pdf化して提出しようとしたのですが、書式が崩れてしまい、うまくできなかったので、大野さんにお願いしてます。（3Qのプロジェクト計画書のグーグルドキュメントの内容、一旦2Qの内容にしてます）もしだれかきれいにできるやり方教えてくださる人がいたら、やり方教えてくださるとありがたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以上、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TDHFKJ85",
+            "ts": "1697005641.000000"
+        },
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

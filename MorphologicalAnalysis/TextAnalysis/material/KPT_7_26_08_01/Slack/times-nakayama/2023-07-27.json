@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "0338788a-cf0e-44f7-8f04-d40174f90fc1",
+        "type": "message",
+        "text": "フロント知らんことだらけやな。水野さんのNotionもういっか読み直してる",
+        "user": "U04TV4NASPK",
+        "ts": "1690465515.846099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPB+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フロント知らんことだらけやな。水野さんのNotionもういっか読み直してる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3967f98-074b-49e8-a52d-89ecdc6de68e",
+        "type": "message",
+        "text": "<https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand|https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand>",
+        "user": "U04TV4NASPK",
+        "ts": "1690509890.162839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand",
+                                "text": "https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npmtrends.com\/images\/npm_trends_share_image.png",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 150098,
+                "from_url": "https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand",
+                "service_icon": "https:\/\/npmtrends.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand",
+                "fallback": "jotai vs react-redux vs recoil vs zustand | npm trends",
+                "text": "Comparing trends for jotai 2.2.2 which has 483,492 weekly downloads and 14,292 GitHub stars vs. react-redux 8.1.1 which has 6,817,603 weekly downloads and 22,918 GitHub stars vs. recoil 0.7.7 which has 520,445 weekly downloads and 18,959 GitHub stars vs. zustand 4.3.9 which has 1,889,853 weekly downloads and 33,342 GitHub stars.",
+                "title": "jotai vs react-redux vs recoil vs zustand | npm trends",
+                "title_link": "https:\/\/npmtrends.com\/jotai-vs-react-redux-vs-recoil-vs-zustand",
+                "service_name": "npmtrends.com"
+            }
+        ]
+    }
+]

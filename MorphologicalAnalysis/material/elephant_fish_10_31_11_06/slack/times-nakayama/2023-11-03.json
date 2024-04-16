@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "f00d7d3c-97ab-4907-bf03-a4c0717bb1e3",
+        "type": "message",
+        "text": "localのrubyがなんかエラー吐いてて。めちゃ時間食った。",
+        "user": "U04TV4NASPK",
+        "ts": "1698996806.742079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjOEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "localのrubyがなんかエラー吐いてて。めちゃ時間食った。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53e9653e-5c62-4d1c-b00b-0d9922a29434",
+        "type": "message",
+        "text": "anyenv uninstallしてasdfでruby入れ直した。",
+        "user": "U04TV4NASPK",
+        "ts": "1698996831.633009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4y+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyenv uninstallしてasdfでruby入れ直した。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e34b4cff-0f7a-4e06-9fc7-4903142cfb10",
+        "type": "message",
+        "text": "front書き慣れてないからまあ試行錯誤",
+        "user": "U04TV4NASPK",
+        "ts": "1699025384.656119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlTjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "front書き慣れてないからまあ試行錯誤"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

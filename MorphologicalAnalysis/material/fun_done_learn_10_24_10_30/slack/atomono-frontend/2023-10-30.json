@@ -1,0 +1,247 @@
+[
+    {
+        "client_msg_id": "d890597e-fdb1-44a4-aa4d-c56e064e7ec7",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054RSTT0S2\/p1698660180802759> 何卒. cc <@U04U66DNCRE>",
+        "user": "U04T9TDB58W",
+        "ts": "1698660319.161899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WB1+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054RSTT0S2\/p1698660180802759"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 何卒. cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054RSTT0S2\/p1698660180802759",
+                "ts": "1698660180.802759",
+                "author_id": "U055AKE99KK",
+                "channel_id": "C054RSTT0S2",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054RSTT0S2\/p1698660180802759",
+                "fallback": "[October 30th, 2023 3:03 AM] jirabot: @Jabelic[10\/28(土)不在] commented on AT-590 FE: すでに追加済みの商品は選択不可とする(現在は登録時に422が返ってくる)",
+                "text": "*<slack:\/\/user?team=T04TGFGMK7C&amp;id=U04T9TDB58W|@Jabelic[10\/28(土)不在]> commented on a タスク in `To Do`*\n*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-590?atlOrigin=eyJpIjoiNzQxYjNhODk0NjY1NGE2Mjg4ZWIxODc0ODA5YmZiYWYiLCJwIjoiamlyYS1zbGFjay1pbnQifQ&amp;focusedCommentId=10218&amp;page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-10218|AT-590 FE: すでに追加済みの商品は選択不可とする(現在は登録時に422が返ってくる)>*\n&gt;&gt;&gt;レスポンシブ対応中なので着手を次のスプリントへ見送ります〜\nComment button\n\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054RSTT0S2\/p1698660180802759|View original message>",
+                "author_name": "Jira Cloud",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/services\/B054V2LRMFX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-30\/493753869479_4b703f4119efe3d7d0ff_48.png",
+                "author_subname": "jirabot",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c9f2cf3-ad2d-4638-8723-4f17ba618c47",
+        "type": "message",
+        "text": "<@U04U66DSPEU>\nこんばんは、今日はハドルお願いします:pray:",
+        "user": "U04TDHFKJ85",
+        "ts": "1698663738.746229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OgILb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこんばんは、今日はハドルお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698582551.546879",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "ca8e072c-6edd-4feb-ae8e-50249c13d174",
+        "type": "message",
+        "text": "ハドル今からかけても大丈夫ですか？",
+        "user": "U04TDHFKJ85",
+        "ts": "1698663771.498809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rn4+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ハドル今からかけても大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698582551.546879",
+        "parent_user_id": "U04TDHFKJ85",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C054R4216MB",
+        "room": {
+            "id": "R063RC0QFB3",
+            "name": "",
+            "media_server": "",
+            "created_by": "U04U66DSPEU",
+            "date_start": 1698663842,
+            "date_end": 1698671774,
+            "participants": [],
+            "participant_history": [
+                "U04U66DSPEU",
+                "U04TDHFKJ85"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1698663842.722769",
+            "thread_root_ts": "1698663842.722769",
+            "channels": [
+                "C054R4216MB"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "STAR_GAZING",
+            "canvas_background": "STAR_GAZING",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "3a7854ef-32e1-407d-9b37-a53da5d40706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/chubachi-pt-2023.slack.com\/call\/R063RC0QFB3",
+        "subtype": "huddle_thread",
+        "ts": "1698663842.722769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoEcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T04TGFGMK7C",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

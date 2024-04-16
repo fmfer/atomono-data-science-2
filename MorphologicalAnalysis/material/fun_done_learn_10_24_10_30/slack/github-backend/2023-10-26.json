@@ -1,0 +1,139 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698357222.414419",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1698373216.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698357218,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/rubocop\/rubocop|rubocop> from 1.57.1 to 1.57.2.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/releases|rubocop's releases>._\n\n&gt; *RuboCop 1.57.2*\n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12274|#12274>: Fix a false positive for `Lint\/Void` when `each`'s receiver is an object of `Enumerator` to which `filter` has been applied. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12291|#12291>: Fix a false positive for `Metrics\/ClassLength` when a class with a singleton class definition. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12293|#12293>: Fix a false positive for `Style\/RedundantDoubleSplatHashBraces` when using double splat hash braces with `merge` and method chain. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12298|#12298>: Fix a false positive for `Style\/RedundantParentheses` when using a parenthesized hash literal as the first argument in a method call without parentheses. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12283|#12283>: Fix an error for `Style\/SingleLineDoEndBlock` when using single line `do`...`end` with no body. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12312|#12312>: Fix an incorrect autocorrect for `Style\/HashSyntax` when braced hash key and value are the same and it is used in `if`...`else`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12307|#12307>: Fix an infinite loop error for `Layout\/EndAlignment` when `EnforcedStyleAlignWith: variable` and using a conditional statement in a method argument on the same line and `end` with method call is not aligned. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11652|#11652>: Make `--auto-gen-config` generate `inherit_from` correctly inside ERB `if`. (<https:\/\/github.com\/jonas054|`@​jonas054`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12310|#12310>: Drop `base64` gem from runtime dependency. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12300|#12300>: Fix an error for `Style\/IdenticalConditionalBranches` when `if`...`else` with identical leading lines and using index assign. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12286|#12286>: Fix false positives for `Style\/RedundantDoubleSplatHashBraces` when using double splat with a hash literal enclosed in parenthesized ternary operator. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12279|#12279>: Fix false positives for `Lint\/EmptyConditionalBody` when missing 2nd `if` body with a comment. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12275|#12275>: Fix a false positive for `Style\/RedundantDoubleSplatHashBraces` when using double splat within block argument containing a hash literal in an array literal. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12284|#12284>: Fix false positives for `Style\/SingleArgumentDig` when using some anonymous argument syntax. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12301|#12301>: Make `Style\/RedundantFilterChain` aware of safe navigation operator. (<https:\/\/github.com\/koic|`@​koic`>)\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/blob\/master\/CHANGELOG.md|rubocop's changelog>._\n\n&gt; *1.57.2 (2023-10-26)*\n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12274|#12274>: Fix a false positive for `Lint\/Void` when `each`'s receiver is an object of `Enumerator` to which `filter` has been applied. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12291|#12291>: Fix a false positive for `Metrics\/ClassLength` when a class with a singleton class definition. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12293|#12293>: Fix a false positive for `Style\/RedundantDoubleSplatHashBraces` when using double splat hash braces with `merge` and method chain. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12298|#12298>: Fix a false positive for `Style\/RedundantParentheses` when using a parenthesized hash literal as the first argument in a method call without parentheses. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12283|#12283>: Fix an error for `Style\/SingleLineDoEndBlock` when using single line `do`...`end` with no body. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12312|#12312>: Fix an incorrect autocorrect for `Style\/HashSyntax` when braced hash key and value are the same and it is used in `if`...`else`. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12307|#12307>: Fix an infinite loop error for `Layout\/EndAlignment` when `EnforcedStyleAlignWith: variable` and using a conditional statement in a method argument on the same line and `end` with method call is not aligned. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/11652|#11652>: Make `--auto-gen-config` generate `inherit_from` correctly inside ERB `if`. ([<https:\/\/github.com\/jonas054|`@​jonas054`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12310|#12310>: Drop `base64` gem from runtime dependency. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12300|#12300>: Fix an error for `Style\/IdenticalConditionalBranches` when `if`...`else` with identical leading lines and using index assign. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12286|#12286>: Fix false positives for `Style\/RedundantDoubleSplatHashBraces` when using double splat with a hash literal enclosed in parenthesized ternary operator. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12279|#12279>: Fix false positives for `Lint\/EmptyConditionalBody` when missing 2nd `if` body with a comment. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12275|#12275>: Fix a false positive for `Style\/RedundantDoubleSplatHashBraces` when using double splat within block argument containing a hash literal in an array literal. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12284|#12284>: Fix false positives for `Style\/SingleArgumentDig` when using some anonymous argument syntax. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12301|#12301>: Make `Style\/RedundantFilterChain` aware of safe navigation operator. ([<https:\/\/github.com\/koic|`@​koic`>][])\n\nCommits\n\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/47735efc2b410578a196fd2758da87d01802c655|`47735ef`> Cut 1.57.2\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/4ab36220f2cb0b13b45a2642024a1a33ac47efe5|`4ab3622`> Update Changelog\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/d995cb457b1ca24ba3b2f5bb11ec72f1a63d4343|`d995cb4`> Fix a changelog entry\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/d79ee4b3eefeabcef2de0894abe03bab69ab7ec5|`d79ee4b`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12312|#12312>] Fix an incorrect autocorrect for `Style\/HashSyntax`\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/b2b29da6406ed55fe42fe045435c29bed6635299|`b2b29da`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issue…",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/98|#98 build(deps-dev): bump rubocop from 1.57.1 to 1.57.2>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:98,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/98&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump rubocop from 1.57.1 to 1.57.2&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698373214.469819",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "fallback": "[chubachi-pt-2023\/atomono-api] 1 new commit pushed to _develop_ by huro3h",
+                "text": "`<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/commit\/5ca913102b45bb2a6c9fa3262d513895f3af1542|5ca91310>` - build(deps-dev): bump rubocop from 1.57.1 to 1.57.2 (#98)",
+                "pretext": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/compare\/4d33bab78ee5...5ca913102b45|1 new commit> pushed to `<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/tree\/develop|develop>` by <https:\/\/github.com\/huro3h|huro3h>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1698373215.533219",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1698357218,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request merged by huro3h",
+                "pretext": "Pull request merged by <https:\/\/github.com\/huro3h|huro3h>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/98|#98 build(deps-dev): bump rubocop from 1.57.1 to 1.57.2>",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>"
+            }
+        ]
+    }
+]

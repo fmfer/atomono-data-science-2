@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C056MC8LN8L",
+        "room": {
+            "id": "R062B8FAXUK",
+            "name": "",
+            "media_server": "",
+            "created_by": "U04TV4NASPK",
+            "date_start": 1698056925,
+            "date_end": 1698059031,
+            "participants": [],
+            "participant_history": [
+                "U04TV4NASPK",
+                "U04T201950F",
+                "U04T9TDB58W"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1698056925.273279",
+            "thread_root_ts": "1698056925.273279",
+            "channels": [
+                "C056MC8LN8L"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "ARIZONA",
+            "canvas_background": "ARIZONA",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "b5d83bb3-db42-4903-91f5-0a8faa250706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": true,
+        "permalink": "https:\/\/chubachi-pt-2023.slack.com\/call\/R062B8FAXUK",
+        "subtype": "huddle_thread",
+        "ts": "1698056925.273279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoEcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T04TGFGMK7C",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "424c8cc4-8690-4164-b919-f333b2f4c97d",
+        "type": "message",
+        "text": "officeなのでしばらく聞き専です",
+        "user": "U04T9TDB58W",
+        "ts": "1698058840.578549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rp1Uu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "officeなのでしばらく聞き専です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1fa2f7cf-b09e-47ac-a305-fb9bf4cc049c",
+        "type": "message",
+        "text": "PBIの粒度は課題ですね",
+        "user": "U04T9TDB58W",
+        "ts": "1698058893.013069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "706EV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PBIの粒度は課題ですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

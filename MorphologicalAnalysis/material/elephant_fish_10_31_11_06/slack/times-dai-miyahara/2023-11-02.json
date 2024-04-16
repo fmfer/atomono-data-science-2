@@ -1,0 +1,672 @@
+[
+    {
+        "client_msg_id": "8b236fb4-4055-40aa-8fe1-0cf948072918",
+        "type": "message",
+        "text": "rails側は基本コンテナ内に環境変数を定義して読み込ませる",
+        "user": "U04T201950F",
+        "ts": "1698912688.358229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJDJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rails側は基本コンテナ内に環境変数を定義して読み込ませる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698912688.358229",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1698916060.750549",
+        "reply_users": [
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1698915153.377469"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698915218.623859"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698915687.871929"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698916060.750549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "環境変数の定義について\n1. インフラ構築時に定義する\n    a. タスク定義内のcontainerConfigurationの中にenvironmentを定義する\n    b. メリット\n        i. Docker imageに環境変数が残らないためセキュア\n        ii. AWS CDKで構築したリソースの値等はパラメータストアを利用しなくても定義できる\n    c. デメリット\n        i. 環境変数の変更をインフラ側で管理しなければならないため運用性が悪い（変更のたびに環境をデプロイする必要がある）\n2. アプリデプロイ時に定義する\n    a. Dockerfileとbuildspec.ymlを利用して定義する\n    b. メリット\n        i. アプリ側で変更を管理できる\n        ii. docker build時に環境変数が必要な場合に有用\n    c. デメリット\n        i. Docker imageに環境変数の値が載ってしまう\n        ii. Dockerfileの記述が面倒（ARGとENVで定義する必要があるため）\n        iii. AWS CDKで構築したリソースを参照する際、一度パラメータストアにいれるか、CodeBuildサービス上で定義する必要がある",
+        "user": "U04T201950F",
+        "ts": "1698915153.377469",
+        "thread_ts": "1698912688.358229",
+        "root": {
+            "client_msg_id": "8b236fb4-4055-40aa-8fe1-0cf948072918",
+            "type": "message",
+            "text": "rails側は基本コンテナ内に環境変数を定義して読み込ませる",
+            "user": "U04T201950F",
+            "ts": "1698912688.358229",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vJDJI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "rails側は基本コンテナ内に環境変数を定義して読み込ませる"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T04TGFGMK7C",
+            "thread_ts": "1698912688.358229",
+            "reply_count": 4,
+            "reply_users_count": 1,
+            "latest_reply": "1698916060.750549",
+            "reply_users": [
+                "U04T201950F"
+            ],
+            "replies": [
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698915153.377469"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698915218.623859"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698915687.871929"
+                },
+                {
+                    "user": "U04T201950F",
+                    "ts": "1698916060.750549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXSEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "環境変数の定義について\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インフラ構築時に定義する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "タスク定義内のcontainerConfigurationの中にenvironmentを定義する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メリット"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Docker imageに環境変数が残らないためセキュア"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AWS CDKで構築したリソースの値等はパラメータストアを利用しなくても定義できる"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "デメリット"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "環境変数の変更をインフラ側で管理しなければならないため運用性が悪い（変更のたびに環境をデプロイする必要がある）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アプリデプロイ時に定義する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dockerfileとbuildspec.ymlを利用して定義する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メリット"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "アプリ側で変更を管理できる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "docker build時に環境変数が必要な場合に有用"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "デメリット"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Docker imageに環境変数の値が載ってしまう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dockerfileの記述が面倒（ARGとENVで定義する必要があるため）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AWS CDKで構築したリソースを参照する際、一度パラメータストアにいれるか、CodeBuildサービス上で定義する必要がある"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3e2200c9-e8ec-4dde-b694-67764e928842",
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1698915299.000000"
+        }
+    },
+    {
+        "client_msg_id": "d4ad0df7-afc7-4bd5-b86c-847caff228c5",
+        "type": "message",
+        "text": "運用面と、Docker imageはプライベートなリポジトリで管理している点を考慮して、2でやろう",
+        "user": "U04T201950F",
+        "ts": "1698915218.623859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Arj06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "運用面と、Docker imageはプライベートなリポジトリで管理している点を考慮して、2でやろう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698912688.358229",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "aa0edeed-e4e9-4f5a-9077-6122f08ac457",
+        "type": "message",
+        "text": "&gt; AWS CDKで構築したリソースを参照する際、一度パラメータストアにいれるか、CodeBuildサービス上で定義する必要がある\n• パラメータストアを利用する場合\n    a. AWS CDKで構築\n    b. 構築したリソースをパラメータストアに登録\n    c. buildspec.ymlでパラメータストアから呼び出した値を環境変数に格納\n    d. docker buildコマンドに--build-argオプションを付けて環境変数を渡す\n    e. dockerfile上で、ARG・ENVコマンドを利用して環境変数を定義\n    f. コンテナ展開後、rails側で呼び出す\n• CodeBuild上で定義する場合\n    a. AWS CDKで構築\n    b. 構築したリソースをCodeBuildの環境変数として登録\n    c. buildspec.ymlで必要な環境変数を呼び出す\n    d. docker buildコマンドに--build-argオプションを付けて環境変数を渡す\n    e. dockerfile上で、ARG・ENVコマンドを利用して環境変数を定義\n    f. コンテナ展開後、rails側で呼び出す",
+        "user": "U04T201950F",
+        "ts": "1698915687.871929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "369ad",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AWS CDKで構築したリソースを参照する際、一度パラメータストアにいれるか、CodeBuildサービス上で定義する必要がある"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "パラメータストアを利用する場合"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AWS CDKで構築"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "構築したリソースをパラメータストアに登録"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "buildspec.ymlでパラメータストアから呼び出した値を環境変数に格納"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "docker buildコマンドに--build-argオプションを付けて環境変数を渡す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dockerfile上で、ARG・ENVコマンドを利用して環境変数を定義"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コンテナ展開後、rails側で呼び出す"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CodeBuild上で定義する場合"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AWS CDKで構築"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "構築したリソースをCodeBuildの環境変数として登録"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "buildspec.ymlで必要な環境変数を呼び出す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "docker buildコマンドに--build-argオプションを付けて環境変数を渡す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dockerfile上で、ARG・ENVコマンドを利用して環境変数を定義"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コンテナ展開後、rails側で呼び出す"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698912688.358229",
+        "parent_user_id": "U04T201950F"
+    },
+    {
+        "client_msg_id": "61786af8-f5da-489f-8503-00bd3c222f09",
+        "type": "message",
+        "text": "結局CodeBuildで定義した場合だと、CodeBuild以外の箇所で使えないので、パラメータストアで一括管理して呼び出す形の方がシンプルでわかりやすいと思う。",
+        "user": "U04T201950F",
+        "ts": "1698916060.750549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mheze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結局CodeBuildで定義した場合だと、CodeBuild以外の箇所で使えないので、パラメータストアで一括管理して呼び出す形の方がシンプルでわかりやすいと思う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698912688.358229",
+        "parent_user_id": "U04T201950F"
+    }
+]

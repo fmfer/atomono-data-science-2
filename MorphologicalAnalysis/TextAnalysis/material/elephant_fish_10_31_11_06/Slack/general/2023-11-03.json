@@ -1,0 +1,35 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : <!here> 日曜日の23:55は週報の締切になります。忘れないように提出しましょう。",
+        "user": "USLACKBOT",
+        "ts": "1699056007.364339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wui3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 日曜日の23:55は週報の締切になります。忘れないように提出しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    }
+]

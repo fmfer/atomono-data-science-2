@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "7d97955f-1259-4f4c-bcc8-09e96062cbc9",
+        "type": "message",
+        "text": "2023\/10\/14(土)\n認証認可周りの修正 2h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697367453.010249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xR9rO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/14(土)\n認証認可周りの修正 2h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697367470.000000"
+        }
+    },
+    {
+        "client_msg_id": "16ae2144-6c7c-48b0-ba3e-18b6f229a87c",
+        "type": "message",
+        "text": "2023\/10\/15(日)\nユーザの所持品リストに商品を追加するAPIの再設計 1.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697367485.448979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HxQv7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/15(日)\nユーザの所持品リストに商品を追加するAPIの再設計 1.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697418041.000000"
+        }
+    },
+    {
+        "client_msg_id": "9b3548a3-ab3b-4bb7-9560-fa275f4a3b03",
+        "type": "message",
+        "text": "2023\/10\/16(月)\nユーザの所持品リストに商品を追加するAPI実装 4.5h",
+        "user": "U04TGBZ4XEX",
+        "ts": "1697418066.455729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zqSb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2023\/10\/16(月)\nユーザの所持品リストに商品を追加するAPI実装 4.5h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1697473149.000000"
+        }
+    }
+]

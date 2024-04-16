@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "1b29b318-0d39-4e76-9405-c782e698182f",
+        "type": "message",
+        "text": "PBLやりたい時にインシデントおこるという",
+        "user": "U04TV4NASPK",
+        "ts": "1697130039.180679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7\/ibn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PBLやりたい時にインシデントおこるという"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DNCRE",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f08a226b-6ed0-440c-892a-c5dfb4084895",
+        "type": "message",
+        "text": "週報書かないといけない",
+        "user": "U04TV4NASPK",
+        "ts": "1697132622.221019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PmdwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報書かないといけない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8b51afc4-a6ed-4e82-a5f8-b71d018c0dbd",
+        "type": "message",
+        "text": "毎週金曜夜は私用で作業できない。",
+        "user": "U04TV4NASPK",
+        "ts": "1697132929.045499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pxkaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "毎週金曜夜は私用で作業できない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TV4NASPK",
+            "ts": "1697132962.000000"
+        }
+    }
+]

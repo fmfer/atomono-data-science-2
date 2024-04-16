@@ -1,0 +1,218 @@
+[
+    {
+        "client_msg_id": "89955846-e3b8-4a4d-93d8-a211e6187b3f",
+        "type": "message",
+        "text": "れびゅーします〜",
+        "user": "U04T9TDB58W",
+        "ts": "1697123203.166319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3Tlh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "れびゅーします〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697068803.845989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1697155225.449279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「所持品リストのページを作って所持品を表示する」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1697155225.449279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697211965.662839",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DNCRE"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1697158894.993549"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1697211965.662839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : <!here> \"明日は9:30~10:00 中間共有MTGです。参加できない方は<https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4|Notion>に記載しましょう。\"  eve.",
+        "user": "USLACKBOT",
+        "ts": "1697155229.524479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QxpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"明日は9:30~10:00 中間共有MTGです。参加できない方は"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4",
+                                "text": "Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に記載しましょう。\"  eve."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "102A4858-A5B2-497B-9DF6-DA76FC646106",
+        "type": "message",
+        "text": "追加画面用の商品カードのプルリク出す",
+        "user": "U04U66DNCRE",
+        "ts": "1697156588.515529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXbae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加画面用の商品カードのプルリク出す"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697068803.845989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "43e92927-6782-4d95-a7c8-92c351c44ad0",
+        "type": "message",
+        "text": "何やろうかな(レビュー等はします)\nそろそろ画面作りはじめても良さそうかなと考えています\n今日は多分できなくて、明日やることになりそうです",
+        "user": "U04T9TDB58W",
+        "ts": "1697158894.993549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diFha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何やろうかな(レビュー等はします)\nそろそろ画面作りはじめても良さそうかなと考えています\n今日は多分できなくて、明日やることになりそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697155225.449279",
+        "parent_user_id": "USLACKBOT"
+    }
+]

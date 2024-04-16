@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "c1f4f0bd-a649-4539-8f37-0b2a3b4a307a",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\nこちらのタスクのPRを作成しました：【UI修正】小さい画面サイズでヘッダーが崩れる不具合を修正\n\n<https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/77>\n\nお時間のある時にご確認ください:man-bowing:",
+        "user": "U04U66DSPEU",
+        "ts": "1698078770.930269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qi5Uk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらのタスクのPRを作成しました：【UI修正】小さい画面サイズでヘッダーが崩れる不具合を修正\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-front\/pull\/77"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nお時間のある時にご確認ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

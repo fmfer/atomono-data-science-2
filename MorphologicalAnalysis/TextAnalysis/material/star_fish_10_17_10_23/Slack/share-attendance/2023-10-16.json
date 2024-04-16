@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "F5B6A945-0C89-49CF-8778-3AC5C8693FA6",
+        "type": "message",
+        "text": "お疲れ様です。\n本日もトラブル再発して対応が必要になり、状況次第では会議に遅れる、もしくは欠席になるかもしれないです、、、 \n申し訳ありません :man-bowing: ",
+        "user": "U04U66DNCRE",
+        "ts": "1697515317.528459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYb3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n本日もトラブル再発して対応が必要になり、状況次第では会議に遅れる、もしくは欠席になるかもしれないです、、、 \n申し訳ありません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "odaijini",
+                "users": [
+                    "U04U66DSPEU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

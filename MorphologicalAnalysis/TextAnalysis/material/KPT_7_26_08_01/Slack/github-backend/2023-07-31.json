@@ -1,0 +1,69 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1690839552.553049",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1691017303.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1690839550,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/rubocop\/rubocop|rubocop> from 1.55.0 to 1.55.1.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/releases|rubocop's releases>._\n\n&gt; *RuboCop 1.55.1*\n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12068|#12068>: Fix a false positive for `Style\/ReturnNilInPredicateMethodDefinition` when the last method argument in method definition is `nil`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12082|#12082>: Fix an error for `Lint\/UselessAssignment` when a variable is assigned and unreferenced in `for` with multiple variables. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12079|#12079>: Fix an error for `Style\/MixinGrouping` when mixin method has no arguments. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/11637|#11637>: Correct Rubocop for `private_class_method` method documentation. (<https:\/\/github.com\/bigzed|`@​bigzed`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12070|#12070>: Fix false positive in `Style\/ArgumentsForwarding` when receiver forwards args\/kwargs. (<https:\/\/github.com\/owst|`@​owst`>)\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/blob\/master\/CHANGELOG.md|rubocop's changelog>._\n\n&gt; *1.55.1 (2023-07-31)*\n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12068|#12068>: Fix a false positive for `Style\/ReturnNilInPredicateMethodDefinition` when the last method argument in method definition is `nil`. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12082|#12082>: Fix an error for `Lint\/UselessAssignment` when a variable is assigned and unreferenced in `for` with multiple variables. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12079|#12079>: Fix an error for `Style\/MixinGrouping` when mixin method has no arguments. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/11637|#11637>: Correct Rubocop for `private_class_method` method documentation. ([<https:\/\/github.com\/bigzed|`@​bigzed`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12070|#12070>: Fix false positive in `Style\/ArgumentsForwarding` when receiver forwards args\/kwargs. ([<https:\/\/github.com\/owst|`@​owst`>][])\n\nCommits\n\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/000ae5784e4e14657c4927376be41ac2be2c323b|`000ae57`> Cut 1.55.1\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/89c304547e43e5cfb8ca87ebda24e79732f4ca8c|`89c3045`> Update Changelog\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/6e01713b5dc3144374ff71e849e402654c7ab287|`6e01713`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12079|#12079>] Fix an error for `Style\/MixinGrouping`\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/ee26d06619af5a95f12a337d943fba0dec96a57a|`ee26d06`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12082|#12082>] Fix an error for `Lint\/UselessAssignment`\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/59e940bbd7e3beb28c29a7230b771092776c8de1|`59e940b`> Use RuboCop RSpec 2.23\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/28e14569786103e875c9d7381c5cbb67fc9c219d|`28e1456`> Make `InternalAffairs\/ExampleDescription` aware of an incorrect term\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/2e1d3f9d2c745823572b66a25c6023068f7391bb|`2e1d3f9`> Fix a typo\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/24f6e997b9f30e90eb964248c674417d0c0f7e3a|`24f6e99`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12070|#12070>] Fix false positive in `Style\/ArgumentsForwarding`\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/14e81adc3c11a2129d4e9c3f2991b15fb58ed528|`14e81ad`> [Fix <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12068|#12068>] Fix a false positive for `Style\/ReturnNilInPredicateMethodDefini...\n• <https:\/\/github.com\/rubocop\/rubocop\/commit\/d5b52dc23a1d6179ba7dc500360cd5a0e7e8917e|`d5b52dc`> [Docs] Tweak examples for `Bundler\/OrderedGems` and `Gemspec\/OrderedDependenc...\n• Additional commits viewable in <https:\/\/github.com\/rubocop\/rubocop\/compare\/v1.55.0...v1.55.1|compare view>\n\n  \n\n<https:\/\/docs.github.com\/en\/github\/managing-security-vulnerabilities\/about-dependabot-security-updates#about-compatibility-scores|Dependabot compatibility score>\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n* * *\n\nDependabot commands and options  \n\nYou can trigger Dependabot actions by commenting on this PR:\n\n• `@dependabot rebase` will rebase this PR\n• `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n• `@dependabot merge` will merge this PR after your CI passes on it\n• `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n• `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n• `@dependabot reopen` will reopen this PR if it is closed\n• `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n• `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n• `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/61|#61 build(deps-dev): bump rubocop from 1.55.0 to 1.55.1>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:61,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/61&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump rubocop from 1.55.0 to 1.55.1&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    }
+]

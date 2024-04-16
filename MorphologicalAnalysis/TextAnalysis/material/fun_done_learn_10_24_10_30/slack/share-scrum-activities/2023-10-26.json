@@ -1,0 +1,69 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1698364819.950959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfuV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : <!here> \"明日は9:30~10:00 中間共有MTGです。参加できない方は<https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4|Notion>に記載しましょう。\"  eve.",
+        "user": "USLACKBOT",
+        "ts": "1698364821.166899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/l8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"明日は9:30~10:00 中間共有MTGです。参加できない方は"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Meetings-b96fa7ac63684ce0b8296f4cfa67604a?pvs=4",
+                                "text": "Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に記載しましょう。\"  eve."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C"
+    }
+]

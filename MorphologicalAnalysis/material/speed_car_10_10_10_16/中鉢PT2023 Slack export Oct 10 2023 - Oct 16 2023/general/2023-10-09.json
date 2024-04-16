@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "4fb56b45-ac79-45b8-9c8e-ea25c4fca940",
+        "type": "message",
+        "text": "テスト協力ていう文言がなんかガッツリアイスタイルさんがなんかしてくれてるというふうな表現で気になった以上はないです。アイスタイルさんは軽く触って感想くれる以上は無いので。",
+        "user": "U04TV4NASPK",
+        "ts": "1696913441.855539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Vf9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テスト協力ていう文言がなんかガッツリアイスタイルさんがなんかしてくれてるというふうな表現で気になった以上はないです。アイスタイルさんは軽く触って感想くれる以上は無いので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696646645.275889",
+        "parent_user_id": "U04TDHFKJ85"
+    },
+    {
+        "client_msg_id": "5fa6ed2a-0f4f-4189-9e1a-bf2c721bddf6",
+        "type": "message",
+        "text": "承知です。そしたら、プロダクトの使用体験の感想を依頼できるまでプロダクトの品質を高めるに訂正します:pencil2:",
+        "user": "U04TDHFKJ85",
+        "ts": "1696918671.846219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdKFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知です。そしたら、プロダクトの使用体験の感想を依頼できるまでプロダクトの品質を高めるに訂正します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil2",
+                                "unicode": "270f-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696646645.275889",
+        "parent_user_id": "U04TDHFKJ85"
+    }
+]

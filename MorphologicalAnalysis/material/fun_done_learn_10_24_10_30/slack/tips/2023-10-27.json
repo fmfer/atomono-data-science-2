@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "7eed2188-b329-438e-9c84-e1e638623f6b",
+        "type": "message",
+        "text": "<https:\/\/product.st.inc\/entry\/2021\/11\/17\/185608>\n\nいいなぁ、お金払って使ってみよかな",
+        "user": "U04T9TDB58W",
+        "ts": "1698392065.771329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bq7s\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/product.st.inc\/entry\/2021\/11\/17\/185608"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nいいなぁ、お金払って使ってみよかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/n\/nannany\/20211105\/20211105192022.png",
+                "image_width": 1161,
+                "image_height": 1200,
+                "image_bytes": 185428,
+                "from_url": "https:\/\/product.st.inc\/entry\/2021\/11\/17\/185608",
+                "service_icon": "https:\/\/product.st.inc\/icon\/touch",
+                "ts": 1637142968,
+                "id": 1,
+                "original_url": "https:\/\/product.st.inc\/entry\/2021\/11\/17\/185608",
+                "fallback": "STORES Product Blog: ソースコードのクオリティを上げてくれる \"Codacy\" - STORES Product Blog",
+                "text": "はじめに はじめまして、5月からSTORES 決済でバックエンドエンジニアをしている @nannany です。 STORES 決済チームでは、ソースコードのクオリティ向上を目的としたツールである\"Codacy\"を開発サイクルに組み込んでいます。 ここではCodacyの特徴、導入方法、導入して感じたことについて振り返っていきます。 Codacyの特徴 CodacyのドキュメントにはCodacyでできる様々なことが網羅されていますが、ここでは料金体系、静的解析機能、ダッシュボード、GitHubとの連携について触れていきます。 料金体系 パブリックリポジトリであればCodacyの大半の機能を無料で使…",
+                "title": "ソースコードのクオリティを上げてくれる \"Codacy\" - STORES Product Blog",
+                "title_link": "https:\/\/product.st.inc\/entry\/2021\/11\/17\/185608",
+                "service_name": "STORES Product Blog"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6686a368-977c-462a-b281-9ed16c15c3f0",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Codium-ai\/pr-agent> こんなやつもある",
+        "user": "U04T9TDB58W",
+        "ts": "1698392266.952309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NB0wf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Codium-ai\/pr-agent"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんなやつもある"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B059VDWGJ78",
+                "app_unfurl_url": "https:\/\/github.com\/Codium-ai\/pr-agent",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Codium-ai\/pr-agent",
+                "text": ":rocket:CodiumAI PR-Agent: An AI-Powered :robot_face: Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! :computer::mag:",
+                "title": "Codium-ai\/pr-agent",
+                "fields": [
+                    {
+                        "value": "2445",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Python",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5ae3dbd-c388-40a9-8f12-f69814793016",
+        "type": "message",
+        "text": "ここら辺はcodecovとreviewdog使ってたな",
+        "user": "U04TV4NASPK",
+        "ts": "1698392576.930339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6im1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここら辺はcodecovとreviewdog使ってたな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9543495a-b350-4ad3-8ea7-81efa47cf1b8",
+        "type": "message",
+        "text": "<https:\/\/coderabbit.ai\/|https:\/\/coderabbit.ai\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1698456204.920899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9W\/+L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coderabbit.ai\/",
+                                "text": "https:\/\/coderabbit.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/coderabbit.ai\/preview_meta.jpg",
+                "image_width": 600,
+                "image_height": 300,
+                "image_bytes": 28080,
+                "from_url": "https:\/\/coderabbit.ai\/",
+                "service_icon": "https:\/\/coderabbit.ai\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/coderabbit.ai\/",
+                "fallback": "CodeRabbit: AI-powered Code Reviews",
+                "text": "Accelerate Code Reviews with AI",
+                "title": "CodeRabbit: AI-powered Code Reviews",
+                "title_link": "https:\/\/coderabbit.ai\/",
+                "service_name": "coderabbit.ai"
+            }
+        ]
+    }
+]

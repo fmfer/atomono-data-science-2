@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "84694d98-ef15-46f2-91b0-e8a8fe7fbebc",
+        "type": "message",
+        "text": "<!channel>\n最後のスクラムマスターアンケートです。ご回答あればよろしくお願いします。\nわざと同じ質問項目にしてます。特になければないで大丈夫です。\n<https:\/\/forms.gle\/ods2obXYJAY324UN8>",
+        "user": "U04TV4NASPK",
+        "ts": "1698758696.497179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W8t80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最後のスクラムマスターアンケートです。ご回答あればよろしくお願いします。\nわざと同じ質問項目にしてます。特になければないで大丈夫です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ods2obXYJAY324UN8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "done",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DSPEU",
+                    "U04U66DNCRE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86090111-3f37-466f-8feb-a12bac33daa4",
+        "type": "message",
+        "text": "スプリント閉じていただけると (どっちにお願いすればいい？)",
+        "user": "U04T9TDB58W",
+        "ts": "1698764398.100559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "skSLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スプリント閉じていただけると (どっちにお願いすればいい？)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "446790dd-a1f7-4927-b783-00371cd07feb",
+        "type": "message",
+        "text": "cc <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1698764407.609909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJoew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68e86f0b-337b-4770-8345-d285e03cc0b3",
+        "type": "message",
+        "text": "閉じた",
+        "user": "U04TV4NASPK",
+        "ts": "1698765557.597709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7vOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉じた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61635b23-5864-4c38-817f-a13386ba618e",
+        "type": "message",
+        "text": "<!here> QA話すの忘れてました。土曜に聞こうと思います。",
+        "user": "U04TV4NASPK",
+        "ts": "1698765597.980449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GdfRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " QA話すの忘れてました。土曜に聞こうと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

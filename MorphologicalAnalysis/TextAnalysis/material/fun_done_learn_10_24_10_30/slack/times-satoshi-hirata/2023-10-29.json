@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "931902c7-6a30-4685-90c0-0b6216591ade",
+        "type": "message",
+        "text": "カテゴリカスケード構造になったら検索機能見直しと同時にFinderクラス作って移行かも\nrequestでついでにやってるテストで網羅的なテストパターンがちょとしんどいかもしれない",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698631159.047919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCwsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カテゴリカスケード構造になったら検索機能見直しと同時にFinderクラス作って移行かも\nrequestでついでにやってるテストで網羅的なテストパターンがちょとしんどいかもしれない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698631203.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6af6d03d-f2cd-4ffe-85f8-e82f3e83fdff",
+        "type": "message",
+        "text": ">  日本時間10月31日午前9時から。\nいつも深夜2時とかなのに\n\n<https:\/\/www.apple.com\/jp\/apple-events\/>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698645681.457689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRwAd",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 日本時間10月31日午前9時から。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nいつも深夜2時とかなのに\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.apple.com\/jp\/apple-events\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698645711.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.apple.com\/v\/apple-events\/home\/ac\/images\/meta\/overview__bcphzsdb4fpu_og.png?202310241739",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 135301,
+                "from_url": "https:\/\/www.apple.com\/jp\/apple-events\/",
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apple.com\/jp\/apple-events\/",
+                "fallback": "Apple（日本）: Appleのイベント",
+                "text": "Appleの最新の発表をストリーミングでお届けします。Appleの製品とサービスに関するこれまでのスペシャルイベントも、アーカイブにまとめてあります。",
+                "title": "Appleのイベント",
+                "title_link": "https:\/\/www.apple.com\/jp\/apple-events\/",
+                "service_name": "Apple（日本）"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

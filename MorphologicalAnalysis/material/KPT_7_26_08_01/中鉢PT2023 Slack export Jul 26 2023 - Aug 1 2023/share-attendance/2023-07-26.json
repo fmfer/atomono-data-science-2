@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "607a4971-e14c-4124-9c6d-6786cf042b8b",
+        "type": "message",
+        "text": "来週のコアミーティング18:30~20:00 まで授業の試験があるので参加遅れます。",
+        "user": "U04TV4NASPK",
+        "ts": "1690412325.172359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週のコアミーティング18:30~20:00 まで授業の試験があるので参加遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

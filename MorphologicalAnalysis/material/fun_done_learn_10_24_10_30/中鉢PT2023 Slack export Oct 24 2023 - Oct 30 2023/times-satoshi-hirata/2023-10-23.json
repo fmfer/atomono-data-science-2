@@ -1,0 +1,326 @@
+[
+    {
+        "client_msg_id": "ebedadd2-88ca-4afc-a682-0f810d270f6c",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#e584a687621c47819686f9c9ad1b424e> こちらできれば対応をお願いしたいです… :pray: (mustではないが、デモしにくいかも)\n<@U04TGBZ4XEX> cc <@U04T201950F> <@U04TV4NASPK>",
+        "user": "U04T9TDB58W",
+        "ts": "1698073772.875639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKxD7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#e584a687621c47819686f9c9ad1b424e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらできれば対応をお願いしたいです… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (mustではないが、デモしにくいかも)\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/notion.so\/images\/logo-for-slack-integration.png",
+                "ts": 1696944900,
+                "color": "E8E7E4",
+                "bot_id": "B0551QLP8AU",
+                "app_unfurl_url": "https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=4#e584a687621c47819686f9c9ad1b424e",
+                "is_app_unfurl": true,
+                "app_id": "A049JV0H0KC",
+                "fallback": "10\/24",
+                "text": "ちょっと所持品が多いので、(もしDBを直接いじれるのなら)減らしておいてもらえると助かります :pray: @satoshi.hirata",
+                "title": "10\/24",
+                "title_link": "https:\/\/www.notion.so\/10-24-9adf1172b72c48a7aeaa7eca7c5601c9?pvs=6&utm_content=9adf1172-b72c-48a7-aeaa-7eca7c5601c9&utm_campaign=T04TGFGMK7C&n=slack&n=slack_link_unfurl#e584a687621c47819686f9c9ad1b424e",
+                "footer": "Created by Kenta Nakayama"
+            }
+        ],
+        "thread_ts": "1698073772.875639",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1698141439.665759",
+        "reply_users": [
+            "U04TGBZ4XEX",
+            "U04T9TDB58W",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698107142.922659"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698120194.085399"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698141115.720919"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698141200.723179"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698141295.221459"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698141323.420509"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698141343.809479"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698141343.826589"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1698141439.665759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ccc4743-4090-4694-a4c0-e0e7c8d85539",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n5件くらいに減らしましたがいかがでしょうか? :woman-raising-hand:\n<https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products>",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698107142.922659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMzuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5件くらいに減らしましたがいかがでしょうか? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atomono-api-dev.herokuapp.com\/api\/v1\/users\/1\/products"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e32a311f-41eb-47ba-8aea-728cb3cd1307",
+        "type": "message",
+        "text": "所持品削除APIは次スプリントの早めに実装してしまいたい。API経由で叩けたら開発に都合よさそう",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698113629.817909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7rph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品削除APIは次スプリントの早めに実装してしまいたい。API経由で叩けたら開発に都合よさそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698114158.000000"
+        }
+    },
+    {
+        "client_msg_id": "ae362d7c-cc0b-41ad-a2b7-b631239aedf0",
+        "type": "message",
+        "text": "ありがとうございます!\nフロントでも確認しました。<@U04TGBZ4XEX>\n\ncacheが効いちゃってるのでプライベートブラウジングでデモしたほうが良いかも:eyes:\n\ncc <@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1698120194.085399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HW4MU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます!\nフロントでも確認しました。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ncacheが効いちゃってるのでプライベートブラウジングでデモしたほうが良いかも"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698073772.875639",
+        "parent_user_id": "U04T9TDB58W",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

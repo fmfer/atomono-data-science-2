@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "2dd68793-fcc3-411a-8a40-7b88155caa46",
+        "type": "message",
+        "text": "仕事で遅くなりそう22時ぐらいから少しやる感じ",
+        "user": "U04TV4NASPK",
+        "ts": "1697455228.221679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GCU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "仕事で遅くなりそう22時ぐらいから少しやる感じ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697455228.221679",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697471834.522929",
+        "reply_users": [
+            "U04TV4NASPK"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697464952.872209"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1697471834.522929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fef79e92-4073-478a-9d97-a5a3c995e43e",
+        "type": "message",
+        "text": "始めます",
+        "user": "U04TV4NASPK",
+        "ts": "1697464952.872209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HScdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "始めます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697455228.221679",
+        "parent_user_id": "U04TV4NASPK"
+    }
+]

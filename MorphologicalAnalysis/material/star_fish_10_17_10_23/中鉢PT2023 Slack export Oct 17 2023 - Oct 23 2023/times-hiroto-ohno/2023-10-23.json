@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "9E7B9FAE-5906-4033-BCF3-DBD146DACF90",
+        "type": "message",
+        "text": "教育給付金の申請引越し終わったら出しに行こうと思ったのに申請書一式消えたんだけど、これ失くしたら終わりなやつか、、？",
+        "user": "U04U66DNCRE",
+        "ts": "1698058063.926349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bc5gJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教育給付金の申請引越し終わったら出しに行こうと思ったのに申請書一式消えたんだけど、これ失くしたら終わりなやつか、、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "457B9A16-2863-474D-93CE-FB2B9AEBFA48",
+        "type": "message",
+        "text": "色々しんどいな",
+        "user": "U04U66DNCRE",
+        "ts": "1698059059.397199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BlTd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "色々しんどいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

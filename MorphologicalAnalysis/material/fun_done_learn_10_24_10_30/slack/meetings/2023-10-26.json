@@ -1,0 +1,677 @@
+[
+    {
+        "client_msg_id": "7fd34c21-064e-4fe3-8e43-190acd46ed85",
+        "type": "message",
+        "text": "<!channel>\nマンスリレビューの資料作成しました。気になる点などあればスレッドでください。\n<https:\/\/docs.google.com\/presentation\/d\/1ih8MoMUKRO5Xw7ew8O-IUc-KBt4f4xWweMFW_0iwppU\/edit?usp=sharing>",
+        "user": "U04TV4NASPK",
+        "ts": "1698346973.362829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5J\/CF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマンスリレビューの資料作成しました。気になる点などあればスレッドでください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1ih8MoMUKRO5Xw7ew8O-IUc-KBt4f4xWweMFW_0iwppU\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08633fe7-b779-43bb-aa1d-b81ab0495f74",
+        "type": "message",
+        "text": "<!channel> <@U04T9TDB58W> <@U04TGBZ4XEX>\n本日のマンスリーレビューのデモですが、\n上記中山さんに共有していただいたスライドにある通り、以下ストーリーを発表予定です。\n• ユーザーが所持品リストを利用できること\n<https:\/\/front-jabelic.vercel.app\/|デモサイト>の所持品リストは現在空なのですが、登録を実施しても問題ないでしょうか？\n前回の発表のときのようにキャッシュ残らないかも含めて私の端末で確認したい次第です。",
+        "user": "U04T201950F",
+        "ts": "1698362071.312199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbtYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日のマンスリーレビューのデモですが、\n上記中山さんに共有していただいたスライドにある通り、以下ストーリーを発表予定です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーが所持品リストを利用できること"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-jabelic.vercel.app\/",
+                                "text": "デモサイト"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の所持品リストは現在空なのですが、登録を実施しても問題ないでしょうか？\n前回の発表のときのようにキャッシュ残らないかも含めて私の端末で確認したい次第です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698362071.312199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698364719.391129",
+        "reply_users": [
+            "U04T201950F",
+            "U04T9TDB58W"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1698363739.237369"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698364719.391129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04TGBZ4XEX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04T201950F>\n\n>  <https:\/\/front-jabelic.vercel.app\/|デモサイト>の所持品リストは現在空\nログイン機能が実装されて、何でもいいのでgoogleアカウントでログインすると\n所持品リストが表示されるようになります :pray:\n登録は大丈夫です:woman-gesturing-ok:\n\n<https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698239910329599>",
+        "files": [
+            {
+                "id": "F063E2RP9BK",
+                "created": 1698362316,
+                "timestamp": 1698362316,
+                "name": "ss 4.png",
+                "title": "ss 4.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04TGBZ4XEX",
+                "user_team": "T04TGFGMK7C",
+                "editable": false,
+                "size": 804681,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F063E2RP9BK\/ss_4.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04TGFGMK7C-F063E2RP9BK\/download\/ss_4.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_64.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_80.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_360.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_480.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_160.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_720.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_800.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_960.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_960_w": 960,
+                "thumb_960_h": 599,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04TGFGMK7C-F063E2RP9BK-9e9853148d\/ss_4_1024.png?t=xoxe-4934526733250-6371883538245-6387447778801-5039a585954037f5d95452e64be2e165",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 639,
+                "original_w": 3456,
+                "original_h": 2158,
+                "thumb_tiny": "AwAdADCyLGAE5U\/99UfYLc\/wn\/vo1M3+tzg9OtPHTtQBW\/s+3\/un\/vo0fYLf+6f++jVkn6UxOrcEc96AIvsFv\/c\/Wk+wQZ+7x6VaoPSgCNv9b36fhTwB6ClooAMU1U2556nNK2cfKQD7ihc4+Ygn2FAC0HpRRQB\/\/9k=",
+                "permalink": "https:\/\/chubachi-pt-2023.slack.com\/files\/U04TGBZ4XEX\/F063E2RP9BK\/ss_4.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04TGFGMK7C-F063E2RP9BK-2d433337fa",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04TGBZ4XEX",
+        "display_as_bot": false,
+        "ts": "1698362326.186869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/nbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/front-jabelic.vercel.app\/",
+                                "text": "デモサイト"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の所持品リストは現在空"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nログイン機能が実装されて、何でもいいのでgoogleアカウントでログインすると\n所持品リストが表示されるようになります "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n登録は大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698239910329599"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04TGBZ4XEX",
+            "ts": "1698362678.000000"
+        },
+        "client_msg_id": "8de04e08-5db9-4fc7-9805-10c477235ac2",
+        "thread_ts": "1698362326.186869",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698363826.945989",
+        "reply_users": [
+            "U04T201950F",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04T201950F",
+                "ts": "1698363541.524789"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698363826.945989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698239910329599",
+                "ts": "1698239910.329599",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C054R4216MB",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C054R4216MB",
+                        "ts": "1698239910.329599",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "2O8p+",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "ログインをしてください "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "pray",
+                                                    "unicode": "1f64f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TGBZ4XEX"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U04TV4NASPK"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C054R4216MB\/p1698239910329599",
+                "fallback": "[October 25th, 2023 6:18 AM] a2239hm: ログインをしてください :pray: <@U04TGBZ4XEX> <@U04TV4NASPK>",
+                "text": "ログインをしてください :pray: <@U04TGBZ4XEX> <@U04TV4NASPK>",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T201950F",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c484c5f-1c84-44ca-b07c-fd5159549338",
+        "type": "message",
+        "text": "<@U04TGBZ4XEX> <@U04T9TDB58W>\nありがとうございます。\nログインしたら表示され、所持品登録できました。\n今日のデモではログイン機能が実装されたことは触れない予定なのですが、ログアウト機能まだ実装されてない認識であってますよね？\n\nデモのときはログインされている状態のまま進めれば問題ないと思うのですが、念のため確認です。",
+        "user": "U04T201950F",
+        "ts": "1698363541.524789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zn4sL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TGBZ4XEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\nログインしたら表示され、所持品登録できました。\n今日のデモではログイン機能が実装されたことは触れない予定なのですが、ログアウト機能まだ実装されてない認識であってますよね？\n\nデモのときはログインされている状態のまま進めれば問題ないと思うのですが、念のため確認です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698362326.186869",
+        "parent_user_id": "U04TGBZ4XEX",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04TGBZ4XEX",
+                    "U04T9TDB58W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf465b62-48f5-4dc5-95ff-37fe81e1d251",
+        "type": "message",
+        "text": "<@U04T9TDB58W>\n```所持品リスト登録 → リロード → 登録した商品が表示される```\n通常ブラウザでここまで確認できました:v:",
+        "user": "U04T201950F",
+        "ts": "1698363739.237369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZAgD3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T9TDB58W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "所持品リスト登録 → リロード → 登録した商品が表示される"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "通常ブラウザでここまで確認できました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698362071.312199",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "arigatougozaimasu",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a57cbfc-2344-4a1a-ac92-e64179cdb30e",
+        "type": "message",
+        "text": "ログアウト機能はたぶんまだです",
+        "user": "U04TGBZ4XEX",
+        "ts": "1698363826.945989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30ENR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ログアウト機能はたぶんまだです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "824241a82bdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-03\/5205694948836_824241a82bdf37206daa_72.jpg",
+            "first_name": "satoshi.​hirata",
+            "real_name": "satoshi.​hirata",
+            "display_name": "satoshi.hirata",
+            "team": "T04TGFGMK7C",
+            "name": "a2236sh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698362326.186869",
+        "parent_user_id": "U04TGBZ4XEX",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b95eeba6-7f92-4643-964e-b984a570f16c",
+        "type": "message",
+        "text": "それ以降は開発中の認識です！:man-bowing: <@U04T201950F>",
+        "user": "U04T9TDB58W",
+        "ts": "1698364719.391129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UW9J+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それ以降は開発中の認識です！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698362071.312199",
+        "parent_user_id": "U04T201950F",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04T201950F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

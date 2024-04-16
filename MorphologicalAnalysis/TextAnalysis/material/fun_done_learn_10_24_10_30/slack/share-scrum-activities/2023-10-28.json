@@ -1,0 +1,450 @@
+[
+    {
+        "client_msg_id": "cd80005d-e673-4dd4-a038-0fcab1f1dafb",
+        "type": "message",
+        "text": "体調悪いので今日は休みます",
+        "user": "U04TV4NASPK",
+        "ts": "1698488558.831369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VTuag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調悪いので今日は休みます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451229.038259",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "odaijini",
+                "users": [
+                    "U04TDHFKJ85",
+                    "U04U66DNCRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e103b5fe-0c2d-4740-b33b-2c765bd2ef1e",
+        "type": "message",
+        "text": "代替品詳細画面のレスポンシブ対応",
+        "user": "U04TDHFKJ85",
+        "ts": "1698500841.249309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5TsWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "代替品詳細画面のレスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "4f9ceaf45fef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5158348926726_4f9ceaf45fefba755a9b_72.jpg",
+            "first_name": "鈴木真希",
+            "real_name": "鈴木真希",
+            "display_name": "",
+            "team": "T04TGFGMK7C",
+            "name": "a2216ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451229.038259",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。",
+        "user": "USLACKBOT",
+        "ts": "1698537611.047569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CyxsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : 今週のスプリントゴールは「ユーザーがログインできる」ことです。今日やることを記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1698537611.047569",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1698627866.020429",
+        "reply_users": [
+            "U04TV4NASPK",
+            "U04U66DNCRE",
+            "U04T9TDB58W",
+            "U04U66DSPEU",
+            "U04TGBZ4XEX"
+        ],
+        "replies": [
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698545946.002269"
+            },
+            {
+                "user": "U04TV4NASPK",
+                "ts": "1698545975.878719"
+            },
+            {
+                "user": "U04U66DNCRE",
+                "ts": "1698550781.923069"
+            },
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1698561708.463089"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1698562440.173149"
+            },
+            {
+                "user": "U04TGBZ4XEX",
+                "ts": "1698627866.020429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f0e87fdf-39ca-4e56-b2a6-926338acda10",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&amp;cid=C0522LSK3A5|https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&amp;cid=C0522LSK3A5>",
+        "user": "U04TV4NASPK",
+        "ts": "1698545946.002269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUikT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&cid=C0522LSK3A5",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&cid=C0522LSK3A5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&amp;cid=C0522LSK3A5",
+                "ts": "1698454283.632189",
+                "author_id": "U04TV4NASPK",
+                "channel_id": "C0522LSK3A5",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C0522LSK3A5",
+                        "ts": "1698454283.632189",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "zxGo2",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "週報、０件表示対応　夕方から"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C0522LSK3A5\/p1698454283632189?thread_ts=1698451229.038259&amp;cid=C0522LSK3A5",
+                "fallback": "[October 27th, 2023 5:51 PM] a2231kn: 週報、０件表示対応　夕方から",
+                "text": "週報、０件表示対応　夕方から",
+                "author_name": "Nakayama Kenta",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04TV4NASPK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_48.jpg",
+                "author_subname": "Nakayama Kenta",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話内のスレッド"
+            }
+        ],
+        "thread_ts": "1698537611.047569",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5f86c7a6-4ffc-47ee-8b0a-030d00a006c6",
+        "type": "message",
+        "text": "昨日の内容やる予定。午後から",
+        "user": "U04TV4NASPK",
+        "ts": "1698545975.878719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJFhY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の内容やる予定。午後から"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698537611.047569",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "ED0DAA2B-A48A-4537-B0F7-6E8889B5BA39",
+        "type": "message",
+        "text": "モーダル画面のレスポンシブ対応",
+        "user": "U04U66DNCRE",
+        "ts": "1698550763.678339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPhAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モーダル画面のレスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451229.038259",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "FDC39793-50C0-4D1E-9A66-BD88A1E2865B",
+        "type": "message",
+        "text": "週報、モーダル画面のレスポンシブ対応",
+        "user": "U04U66DNCRE",
+        "ts": "1698550781.923069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8ov6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報、モーダル画面のレスポンシブ対応"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "0e82c2c0bd34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5161183917605_0e82c2c0bd34f978f1fd_72.jpg",
+            "first_name": "Ohno",
+            "real_name": "Ohno Hiroto",
+            "display_name": "Ohno Hiroto",
+            "team": "T04TGFGMK7C",
+            "name": "a2206ho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698537611.047569",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9be84e37-9e82-4333-8e98-df489cf51399",
+        "type": "message",
+        "text": "週報から。\nmobileでの口コミ投稿ボタンのUIもやります\nモバイルheaderのページへの適用とモバイルのメニューもやります",
+        "user": "U04T9TDB58W",
+        "ts": "1698561708.463089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6nqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報から。\nmobileでの口コミ投稿ボタンのUIもやります\nモバイルheaderのページへの適用とモバイルのメニューもやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T9TDB58W",
+            "ts": "1698604391.000000"
+        },
+        "thread_ts": "1698537611.047569",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "bfee9433-0807-4768-95f1-1aab4a2c29d0",
+        "type": "message",
+        "text": "週報、メニューについて試作",
+        "user": "U04U66DSPEU",
+        "ts": "1698562440.173149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WwrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "週報、メニューについて試作"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698537611.047569",
+        "parent_user_id": "USLACKBOT"
+    }
+]

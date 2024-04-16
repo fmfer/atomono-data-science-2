@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "af779c55-1f8c-4452-af50-dd72b08a9c1a",
+        "type": "message",
+        "text": "<@U04TV4NASPK>\nケンティーに質問なんですが、今日の定例までにドキュメント等（KPT等）記載するもの有りましたっけ？",
+        "user": "U04T201950F",
+        "ts": "1696929313.335449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgLH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04TV4NASPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nケンティーに質問なんですが、今日の定例までにドキュメント等（KPT等）記載するもの有りましたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "37195c285ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5193192270752_37195c285ebdc8d65709_72.jpg",
+            "first_name": "Dai",
+            "real_name": "Dai Miyahara",
+            "display_name": "Dai Miyahara",
+            "team": "T04TGFGMK7C",
+            "name": "a2240dm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04T201950F",
+            "ts": "1696929336.000000"
+        }
+    },
+    {
+        "client_msg_id": "6a419da7-3971-409d-ac0e-0312cf49db8f",
+        "type": "message",
+        "text": "<@U04T201950F> <@U04TDHFKJ85> <@U04U66DNCRE> <@U04U66DSPEU>\n特にないけど見せれるものあるなら見せる準備してほしい。所持品リストのコンポーネント",
+        "user": "U04TV4NASPK",
+        "ts": "1696931120.898799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15X+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04T201950F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04TDHFKJ85"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DNCRE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04U66DSPEU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n特にないけど見せれるものあるなら見せる準備してほしい。所持品リストのコンポーネント"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04T201950F",
+                    "U04U66DSPEU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

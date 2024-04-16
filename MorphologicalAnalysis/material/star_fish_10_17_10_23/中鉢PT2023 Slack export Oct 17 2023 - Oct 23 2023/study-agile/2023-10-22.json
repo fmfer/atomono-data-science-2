@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "13f685ab-332b-4e1e-a48c-20c12807322d",
+        "type": "message",
+        "text": "<https:\/\/slide.meguro.ryuzee.com\/slides\/107|https:\/\/slide.meguro.ryuzee.com\/slides\/107>",
+        "user": "U04TV4NASPK",
+        "ts": "1698036103.891019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9wL+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                                "text": "https:\/\/slide.meguro.ryuzee.com\/slides\/107"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/slidehub.azureedge.net\/images\/b3839f37cee2ad4d7e097414bc246c90\/thumbnail-middle.jpg",
+                "image_width": 1200,
+                "image_height": 674,
+                "image_bytes": 123434,
+                "from_url": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                "service_icon": "https:\/\/slide.meguro.ryuzee.com\/assets\/apple-touch-icon-144x144-precomposed-6634309b3a885ca57fcbb2ad12f6df1ee2c0ea44bb3cdb12ccdc62f9630df861.png",
+                "id": 1,
+                "original_url": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                "fallback": "プロダクトバックログ Deep Dive",
+                "text": "2022年1月5-7日に行われたRegional Scrum Gathering Tokyo 2022の登壇資料です。再配布や複製等はご遠慮ください。共有したい場合は本ページのリンクを共有するよ...",
+                "title": "プロダクトバックログ Deep Dive",
+                "title_link": "https:\/\/slide.meguro.ryuzee.com\/slides\/107",
+                "service_name": "slide.meguro.ryuzee.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04T9TDB58W",
+                    "U04TGBZ4XEX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : *<!here>*   今日やることは何？",
+        "user": "USLACKBOT",
+        "ts": "1690332328.664679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lyd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー : "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "   今日やることは何？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "thread_ts": "1690332328.664679",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1690412495.838049",
+        "reply_users": [
+            "U04T9TDB58W",
+            "U04U66DSPEU",
+            "U04T201950F"
+        ],
+        "replies": [
+            {
+                "user": "U04T9TDB58W",
+                "ts": "1690350038.989609"
+            },
+            {
+                "user": "U04U66DSPEU",
+                "ts": "1690386145.738359"
+            },
+            {
+                "user": "U04T201950F",
+                "ts": "1690412495.838049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e143ed0a-0182-43e8-89e3-b5db0b450cd0",
+        "type": "message",
+        "text": "スライド(付録)のfigma移行",
+        "user": "U04T9TDB58W",
+        "ts": "1690350038.989609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gu0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スライド(付録)のfigma移行"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690332328.664679",
+        "parent_user_id": "USLACKBOT"
+    }
+]

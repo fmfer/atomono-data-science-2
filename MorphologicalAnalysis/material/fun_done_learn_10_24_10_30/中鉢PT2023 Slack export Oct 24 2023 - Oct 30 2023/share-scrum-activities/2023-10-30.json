@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "76de9343-6a5f-41de-926e-046db0f599db",
+        "type": "message",
+        "text": "モバイルヘッダーのログアウトの部分を考えます",
+        "user": "U04U66DSPEU",
+        "ts": "1698655363.906909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hB90",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モバイルヘッダーのログアウトの部分を考えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "eded816e5002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-25\/5164292307843_eded816e5002d89cd475_72.png",
+            "first_name": "FABIAN",
+            "real_name": "FABIAN M. FERNANDEZ",
+            "display_name": "Fernandez",
+            "team": "T04TGFGMK7C",
+            "name": "a2237mf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

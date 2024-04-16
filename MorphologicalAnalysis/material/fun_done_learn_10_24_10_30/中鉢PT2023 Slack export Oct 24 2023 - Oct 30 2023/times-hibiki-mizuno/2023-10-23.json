@@ -1,0 +1,515 @@
+[
+    {
+        "client_msg_id": "f6af89f1-7835-48c2-878b-682c0d97ba8a",
+        "type": "message",
+        "text": "ちょっと所持品多いよね",
+        "user": "U04T9TDB58W",
+        "ts": "1698073566.037959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWYx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと所持品多いよね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c244abb5-d561-4e7b-be84-865320a3e910",
+        "type": "message",
+        "text": "減らすAPI叩くか",
+        "user": "U04T9TDB58W",
+        "ts": "1698073571.990229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83Ja1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "減らすAPI叩くか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ce51ff4-69f3-45ba-b604-3cdf72118f29",
+        "type": "message",
+        "text": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231023>\nあ、そっちか、repeatsとかか。",
+        "user": "U04T9TDB58W",
+        "ts": "1698073664.682199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rAusa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/releases\/tag\/20231023"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあ、そっちか、repeatsとかか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96769238-47a1-4227-9ab6-bc925a570623",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-574> デザインカンプ起こしておいた",
+        "user": "U04T9TDB58W",
+        "ts": "1698087559.961399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "THtUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-574"
+                            },
+                            {
+                                "type": "text",
+                                "text": " デザインカンプ起こしておいた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "uf:ih:10596::4644d44071d611ee9fa84d9966ebe28e",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*<https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-574?atlOrigin=eyJpIjoiMWQ0YzRjYzMzMGQ4NGVhODg4YjZmY2VmNmIyNDY3MWIiLCJwIjoiamlyYS1zbGFjay1pbnQifQ|AT-574 デザインカンプ>*",
+                            "verbatim": false
+                        }
+                    },
+                    {
+                        "type": "context",
+                        "block_id": "uf:cx:10596::4644d44271d611ee9fa84d9966ebe28e",
+                        "elements": [
+                            {
+                                "type": "mrkdwn",
+                                "text": "Status: *In Review*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-issuetype\/task.png",
+                                "alt_text": "Task"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Type: *Task*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/icons\/unknown-user.png",
+                                "alt_text": "Unassigned"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Assignee: *Unassigned*",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "image",
+                                "image_url": "https:\/\/product-integrations-cdn.atl-paas.net\/jira-priority\/medium.png",
+                                "alt_text": "Medium"
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": "Priority: *Medium*",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "uf:issueFooterActions:10596::4644d44171d611ee9fa84d9966ebe28e",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "{\"issueId\":\"10596\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"action\":\"watch\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"main\"}",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "watch"
+                            },
+                            {
+                                "type": "static_select",
+                                "action_id": "{\"issueId\":\"10596\",\"instanceId\":\"5c23e16f-eefd-3c64-9603-064f32c410c0\",\"projectId\":\"10002\",\"nType\":\"ISSUE_UNFURL\",\"nPlace\":\"menu\"}",
+                                "placeholder": {
+                                    "type": "plain_text",
+                                    "text": "More actions...",
+                                    "emoji": true
+                                },
+                                "options": [
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Comment",
+                                            "emoji": true
+                                        },
+                                        "value": "comment"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Assign",
+                                            "emoji": true
+                                        },
+                                        "value": "assign"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Transition",
+                                            "emoji": true
+                                        },
+                                        "value": "transition"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Why am I seeing this?",
+                                            "emoji": true
+                                        },
+                                        "value": "why"
+                                    },
+                                    {
+                                        "text": {
+                                            "type": "plain_text",
+                                            "text": "Receive updates in channel",
+                                            "emoji": true
+                                        },
+                                        "value": "connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "color": "#2684FF",
+                "fallback": "[no preview available]",
+                "bot_id": "B054V2LRMFX",
+                "app_unfurl_url": "https:\/\/chubachi-pt-2023.atlassian.net\/browse\/AT-574",
+                "is_app_unfurl": true,
+                "app_id": "A2RPP3NFR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b944fe30-9745-4297-a8bd-ee0ff42c5e81",
+        "type": "message",
+        "text": "これをもとにフロントエンドはticketを切る",
+        "user": "U04T9TDB58W",
+        "ts": "1698087624.027969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdFIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これをもとにフロントエンドはticketを切る"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "adff419a-9d60-42c4-9dda-6aafe1e97f95",
+        "type": "message",
+        "text": "<@U05KW1T3HBQ> <https:\/\/eslint.org\/blog\/2023\/10\/flat-config-rollout-plans\/> をようやくして日本語で書き下せ",
+        "user": "U04T9TDB58W",
+        "ts": "1698123823.175619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eKvGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05KW1T3HBQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eslint.org\/blog\/2023\/10\/flat-config-rollout-plans\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " をようやくして日本語で書き下せ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/eslint.org\/icon-512.png",
+                "image_width": 512,
+                "image_height": 512,
+                "image_bytes": 4244,
+                "from_url": "https:\/\/eslint.org\/blog\/2023\/10\/flat-config-rollout-plans\/",
+                "service_icon": "https:\/\/eslint.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/eslint.org\/blog\/2023\/10\/flat-config-rollout-plans\/",
+                "fallback": "Flat config rollout plans - ESLint - Pluggable JavaScript Linter",
+                "text": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+                "title": "Flat config rollout plans - ESLint - Pluggable JavaScript Linter",
+                "title_link": "https:\/\/eslint.org\/blog\/2023\/10\/flat-config-rollout-plans\/",
+                "service_name": "eslint.org"
+            }
+        ],
+        "thread_ts": "1698123823.175619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698123824.708489",
+        "reply_users": [
+            "U05KW1T3HBQ"
+        ],
+        "replies": [
+            {
+                "user": "U05KW1T3HBQ",
+                "ts": "1698123824.708489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B05L54QHYHJ",
+        "type": "message",
+        "text": " はい、日本語で返事します。\n\nESLintの新しい設定システムのロールアウト計画について、平たく言えば以下のようになります:\n\n- ESLint v9.0.0 (2023年末頃)で、flat configがデフォルトになります。eslintrcは非推奨になりますが、まだ使えます。\n\n- ESLint v10.0.0 (2025年初頭頃)で、eslintrcが完全に削除されます。flat configのみが残ります。\n\nv9からv10への移行期間は1年以上ありますので、ゆっくりとflat configに移行していただけると思います。\n\nCLIユーザーはeslint.config.jsを使うように設定を変更する必要があります。\nルール開発者はRuleTesterクラスの変更に注意が必要です。\nConfigパッケージ作者はflat config形式に変換する必要があります。\n\nAPIユーザーは、v9でFlatESLintからESLintクラスに変更、v10でLegacyESLintが削除されることに注意が必要です。\n\n詳細は英語の記事をご覧ください。ご不明な点があればぜひDiscordで質問してください。皆さんのスムーズな移行のお手伝いをさせていただきます。",
+        "user": "U05KW1T3HBQ",
+        "ts": "1698123824.708489",
+        "app_id": "A04KGS7N9A8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADEZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、日本語で返事します。\n\nESLintの新しい設定システムのロールアウト計画について、平たく言えば以下のようになります:\n\n- ESLint v9.0.0 (2023年末頃)で、flat configがデフォルトになります。eslintrcは非推奨になりますが、まだ使えます。\n\n- ESLint v10.0.0 (2025年初頭頃)で、eslintrcが完全に削除されます。flat configのみが残ります。\n\nv9からv10への移行期間は1年以上ありますので、ゆっくりとflat configに移行していただけると思います。\n\nCLIユーザーはeslint.config.jsを使うように設定を変更する必要があります。\nルール開発者はRuleTesterクラスの変更に注意が必要です。\nConfigパッケージ作者はflat config形式に変換する必要があります。\n\nAPIユーザーは、v9でFlatESLintからESLintクラスに変更、v10でLegacyESLintが削除されることに注意が必要です。\n\n詳細は英語の記事をご覧ください。ご不明な点があればぜひDiscordで質問してください。皆さんのスムーズな移行のお手伝いをさせていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B05L54QHYHJ",
+            "deleted": false,
+            "name": "Claude",
+            "updated": 1691033238,
+            "app_id": "A04KGS7N9A8",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4682316783575_bbab0cdcdb3685eb5c87_72.png"
+            },
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B05L54QHYHJ",
+            "ts": "1698123850.000000"
+        },
+        "thread_ts": "1698123823.175619",
+        "parent_user_id": "U04T9TDB58W"
+    },
+    {
+        "client_msg_id": "6baec9bb-d3be-4927-b4ba-23cc9d2f8adb",
+        "type": "message",
+        "text": "<https:\/\/zenn.dev\/yopiidev\/articles\/2856be7274215c> これをやりたくてやれてない",
+        "user": "U04T9TDB58W",
+        "ts": "1698127226.063719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zupDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenn.dev\/yopiidev\/articles\/2856be7274215c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これをやりたくてやれてない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/res.cloudinary.com\/zenn\/image\/upload\/s--CesIo7ZJ--\/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%2586%25E3%2581%25A0%2520Next.js%252013%25E3%2581%25A7Dependency%2520Injection%25E3%2580%2581%25E3%2581%2597%25E3%2582%2588%25E3%2581%2586%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100\/g_south_west%2Cl_text:notosansjp-medium.otf_37:yopiidev%2Cx_203%2Cy_121\/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNmZhcEs1OEtWVWJTRWpZOENSZk9xQ2xlYXVJSEppZ3ExcklBalQ9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95\/v1627283836\/default\/og-base-w1200-v2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 30322,
+                "from_url": "https:\/\/zenn.dev\/yopiidev\/articles\/2856be7274215c",
+                "service_icon": "https:\/\/zenn.dev\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zenn.dev\/yopiidev\/articles\/2856be7274215c",
+                "fallback": "Zenn: そうだ Next.js 13でDependency Injection、しよう。",
+                "title": "そうだ Next.js 13でDependency Injection、しよう。",
+                "title_link": "https:\/\/zenn.dev\/yopiidev\/articles\/2856be7274215c",
+                "service_name": "Zenn"
+            }
+        ]
+    }
+]

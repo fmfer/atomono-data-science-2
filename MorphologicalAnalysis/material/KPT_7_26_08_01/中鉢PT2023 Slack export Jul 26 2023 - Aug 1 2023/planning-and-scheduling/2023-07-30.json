@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "9d69065a-e56c-4b67-8e88-f585b7fe51bf",
+        "type": "message",
+        "text": "<https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449|https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449>",
+        "user": "U04TV4NASPK",
+        "ts": "1690759700.139979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHpr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449",
+                                "text": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449",
+                "ts": "1690723258.511449",
+                "author_id": "U04T9TDB58W",
+                "channel_id": "C053FF1M4AY",
+                "channel_team": "T04TGFGMK7C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04TGFGMK7C",
+                        "channel": "C053FF1M4AY",
+                        "ts": "1690723258.511449",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Gah6P",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "夏休み, 1on1やろうよ"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/chubachi-pt-2023.slack.com\/archives\/C053FF1M4AY\/p1690723258511449",
+                "fallback": "[July 30th, 2023 6:20 AM] a2239hm: 夏休み, 1on1やろうよ",
+                "text": "夏休み, 1on1やろうよ",
+                "author_name": "Hibiki Mizuno",
+                "author_link": "https:\/\/chubachi-pt-2023.slack.com\/team\/U04T9TDB58W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_48.jpg",
+                "author_subname": "Hibiki Mizuno",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack の会話"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf2a14bd-c6d5-4b45-976a-0163bb6e4686",
+        "type": "message",
+        "text": "横軸1on1も必要だなぁと思いまして:face_with_peeking_eye:",
+        "user": "U04T9TDB58W",
+        "ts": "1690759794.928419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xFG\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "横軸1on1も必要だなぁと思いまして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "183a619e0408",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4958815898464_183a619e0408c53031fd_72.jpg",
+            "first_name": "Hibiki",
+            "real_name": "Hibiki Mizuno",
+            "display_name": "Jabelic スクラムマスター",
+            "team": "T04TGFGMK7C",
+            "name": "a2239hm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

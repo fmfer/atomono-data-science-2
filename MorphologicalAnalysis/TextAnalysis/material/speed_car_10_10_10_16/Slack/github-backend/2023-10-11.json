@@ -1,0 +1,69 @@
+[
+    {
+        "bot_id": "B059VDWGJ78",
+        "type": "message",
+        "text": "",
+        "user": "U05ARP37D96",
+        "ts": "1697059988.089829",
+        "app_id": "A01BP7R4KNY",
+        "team": "T04TGFGMK7C",
+        "bot_profile": {
+            "id": "B059VDWGJ78",
+            "app_id": "A01BP7R4KNY",
+            "name": "GitHub",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1527503386626_319578f21381f9641cd8_72.png"
+            },
+            "deleted": false,
+            "updated": 1685444374,
+            "team_id": "T04TGFGMK7C"
+        },
+        "edited": {
+            "user": "B059VDWGJ78",
+            "ts": "1697096372.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1697059985,
+                "color": "6f42c1",
+                "fallback": "[chubachi-pt-2023\/atomono-api] Pull request opened by dependabot[bot]",
+                "text": "Bumps <https:\/\/github.com\/rubocop\/rubocop|rubocop> from 1.56.4 to 1.57.0.\n\nRelease notes\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/releases|rubocop's releases>._\n\n&gt; *RuboCop 1.57*\n&gt; *New features*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12227|#12227>: Add new `Style\/SingleLineDoEndBlock` cop. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12246|#12246>: Make `Lint\/RedundantSafeNavigation` aware of constant receiver. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12257|#12257>: Make `Style\/RedundantDoubleSplatHashBraces` aware of `merge` methods. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12244|#12244>: Fix a false negative for `Lint\/Debugger` when using debugger method inside block. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12231|#12231>: Fix a false negative for `Metrics\/ModuleLength` when defining a singleton class in a module. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12249|#12249>: Fix a false positive `Style\/IdenticalConditionalBranches` when `if`..`else` with identical leading lines and assign to condition value. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12253|#12253>: Fix `Lint\/LiteralInInterpolation` to accept an empty string literal interpolated in words literal. (<https:\/\/github.com\/knu|`@​knu`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12198|#12198>: Fix an error for flip-flop with beginless or endless ranges. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12259|#12259>: Fix an error for `Lint\/MixedCaseRange` when using nested character class in regexp. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12237|#12237>: Fix an error for `Style\/NestedTernaryOperator` when a ternary operator has a nested ternary operator within an `if`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12228|#12228>: Fix false negatives for `Style\/MultilineBlockChain` when using multiline block chain with safe navigation operator. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12247|#12247>: Fix false negatives for `Style\/RedundantParentheses` when using logical or comparison expressions with redundant parentheses. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12226|#12226>: Fix false positives for `Layout\/MultilineMethodCallIndentation` when aligning methods in multiline block chain. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12076|#12076>: Fixed an issue where the top-level cache folder was named differently during two consecutive rubocop runs. (<https:\/\/github.com\/K-S-A|`@​K-S-A`>)\n&gt; \n&gt; *Changes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12235|#12235>: Enable auto parallel inspection when config file is specified. (<https:\/\/github.com\/aboutNisblee|`@​aboutNisblee`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12234|#12234>: Enhance `Style\/FormatString`'s autocorrection when using known conversion methods whose return value is not an array. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12128|#12128>: Make `Style\/GuardClause` aware of `define_method`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12126|#12126>: Make `Style\/RedundantFilterChain` aware of `select.present?` when `ActiveSupportExtensionsEnabled` config is `true`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12250|#12250>: Mark `Lint\/RedundantRequireStatement` as unsafe autocorrect. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12097|#12097>: Mark unsafe autocorrect for `Style\/ClassEqualityComparison`. (<https:\/\/github.com\/koic|`@​koic`>)\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12210|#12210>: Mark `Style\/RedundantFilterChain` as unsafe autocorrect. (<https:\/\/github.com\/koic|`@​koic`>)\n\nChangelog\n\n_Sourced from <https:\/\/github.com\/rubocop\/rubocop\/blob\/master\/CHANGELOG.md|rubocop's changelog>._\n\n&gt; *1.57.0 (2023-10-11)*\n&gt; *New features*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12227|#12227>: Add new `Style\/SingleLineDoEndBlock` cop. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12246|#12246>: Make `Lint\/RedundantSafeNavigation` aware of constant receiver. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12257|#12257>: Make `Style\/RedundantDoubleSplatHashBraces` aware of `merge` methods. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; \n&gt; *Bug fixes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12244|#12244>: Fix a false negative for `Lint\/Debugger` when using debugger method inside block. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12231|#12231>: Fix a false negative for `Metrics\/ModuleLength` when defining a singleton class in a module. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12249|#12249>: Fix a false positive `Style\/IdenticalConditionalBranches` when `if`..`else` with identical leading lines and assign to condition value. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12253|#12253>: Fix `Lint\/LiteralInInterpolation` to accept an empty string literal interpolated in words literal. ([<https:\/\/github.com\/knu|`@​knu`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12198|#12198>: Fix an error for flip-flop with beginless or endless ranges. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12259|#12259>: Fix an error for `Lint\/MixedCaseRange` when using nested character class in regexp. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12237|#12237>: Fix an error for `Style\/NestedTernaryOperator` when a ternary operator has a nested ternary operator within an `if`. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12228|#12228>: Fix false negatives for `Style\/MultilineBlockChain` when using multiline block chain with safe navigation operator. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12247|#12247>: Fix false negatives for `Style\/RedundantParentheses` when using logical or comparison expressions with redundant parentheses. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12226|#12226>: Fix false positives for `Layout\/MultilineMethodCallIndentation` when aligning methods in multiline block chain. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/issues\/12076|#12076>: Fixed an issue where the top-level cache folder was named differently during two consecutive rubocop runs. ([<https:\/\/github.com\/K-S-A|`@​K-S-A`>][])\n&gt; \n&gt; *Changes*\n&gt; \n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12235|#12235>: Enable auto parallel inspection when config file is specified. ([<https:\/\/github.com\/aboutNisblee|`@​aboutNisblee`>][])\n&gt; • <https:\/\/redirect.github.com\/rubocop\/rubocop\/pull\/12234|#12234>: Enhance `Style\/FormatString`'s autocorrection when using known conversion methods whose return value is not an array. ([<https:\/\/github.com\/koic|`@​koic`>][])\n&gt; • <…",
+                "pretext": "Pull request opened by <https:\/\/github.com\/apps\/dependabot|dependabot[bot]>",
+                "title": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/89|#89 build(deps-dev): bump rubocop from 1.56.4 to 1.57.0>",
+                "callback_id": "pr-opened-interaction",
+                "footer": "<https:\/\/github.com\/chubachi-pt-2023\/atomono-api|chubachi-pt-2023\/atomono-api>",
+                "fields": [
+                    {
+                        "value": "dependencies",
+                        "title": "Labels",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "comment",
+                        "text": "Comment",
+                        "type": "button",
+                        "value": "{&amp;amp;quot;selectedOrg&amp;amp;quot;:&amp;amp;quot;chubachi-pt-2023&amp;amp;quot;,&amp;amp;quot;selectedOrgId&amp;amp;quot;:132067701,&amp;amp;quot;selectedRepo&amp;amp;quot;:&amp;amp;quot;atomono-api&amp;amp;quot;,&amp;amp;quot;selectedRepoId&amp;amp;quot;:633841661,&amp;amp;quot;number&amp;amp;quot;:89,&amp;amp;quot;htmlUrl&amp;amp;quot;:&amp;amp;quot;https:\/\/github.com\/chubachi-pt-2023\/atomono-api\/pull\/89&amp;amp;quot;,&amp;amp;quot;title&amp;amp;quot;:&amp;amp;quot;build(deps-dev): bump rubocop from 1.56.4 to 1.57.0&amp;amp;quot;}",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "28a745",
+                "fallback": "All checks have passed",
+                "text": ":white_check_mark: All checks have passed",
+                "footer": "3\/3 successful checks"
+            }
+        ]
+    }
+]

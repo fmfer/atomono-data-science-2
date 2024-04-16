@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "419565b3-7912-4484-9061-bda0c440308b",
+        "type": "message",
+        "text": "<https:\/\/supabase.com\/|https:\/\/supabase.com\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1698396277.352259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMS2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/supabase.com\/",
+                                "text": "https:\/\/supabase.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/supabase.com\/images\/og\/og-image-v2.jpg",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 83065,
+                "from_url": "https:\/\/supabase.com\/",
+                "service_icon": "https:\/\/supabase.com\/favicon\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/supabase.com\/",
+                "fallback": "Supabase: Supabase | The Open Source Firebase Alternative",
+                "text": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free.",
+                "title": "Supabase | The Open Source Firebase Alternative",
+                "title_link": "https:\/\/supabase.com\/",
+                "service_name": "Supabase"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04T9TDB58W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2a04a8f-2dcb-4c10-b166-2badfebf7a1a",
+        "type": "message",
+        "text": "<https:\/\/www.squarespace.com\/|https:\/\/www.squarespace.com\/>",
+        "user": "U04TV4NASPK",
+        "ts": "1698396569.818509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gy7sp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.squarespace.com\/",
+                                "text": "https:\/\/www.squarespace.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04TGFGMK7C",
+        "user_team": "T04TGFGMK7C",
+        "source_team": "T04TGFGMK7C",
+        "user_profile": {
+            "avatar_hash": "342942264635",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-11\/4927985433382_34294226463524804a2d_72.jpg",
+            "first_name": "Nakayama",
+            "real_name": "Nakayama Kenta",
+            "display_name": "Nakayama",
+            "team": "T04TGFGMK7C",
+            "name": "a2231kn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "http:\/\/static1.squarespace.com\/static\/5134cbefe4b0c6fb04df8065\/t\/651d798348d6f96ee0f6f284\/1696430468212\/squarespace.com-social-share-2023.jpg?format=1500w",
+                "image_width": 1500,
+                "image_height": 790,
+                "image_bytes": 143619,
+                "from_url": "https:\/\/www.squarespace.com\/",
+                "service_icon": "https:\/\/media-www.sqspcdn.com\/logos\/apple-touch-icon-120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.squarespace.com\/",
+                "fallback": "Squarespace: Website Builder — Create a Website in Minutes — Squarespace",
+                "text": "Create a customizable website or online store with an all-in-one solution from Squarespace. Choose a website template and start your free trial today.",
+                "title": "Website Builder — Create a Website in Minutes — Squarespace",
+                "title_link": "https:\/\/www.squarespace.com\/",
+                "service_name": "Squarespace"
+            }
+        ]
+    }
+]
