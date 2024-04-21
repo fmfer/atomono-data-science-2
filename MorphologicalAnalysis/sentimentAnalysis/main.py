@@ -67,7 +67,7 @@ def elephant_fish_res():
     print("振り返り　象、死んだ魚、嘔吐 (11月分)")
     for key, value in _elephant_fish_retro_by_user.items():
         print(" {}: {}".format(key, value))
-    print("FigJam total: ", sum([value for key, value in _elephant_fish_retro_by_user.items()])/len(_elephant_fish_retro_by_user.items()))
+    print("FigJam avg: ", sum([value for key, value in _elephant_fish_retro_by_user.items()])/len(_elephant_fish_retro_by_user.items()))
 
     # Notion
     print("Notion: \n Content: ", sentiment_analyse(_elephant_fish['notion']))
@@ -79,7 +79,7 @@ def elephant_fish_res():
         if len(value) > 0:
             res = sentiment_analyse("".join(value))
             print(" {}: {}".format(key, res))
-    print("Slack total: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
+    print("Slack avg: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
 
 
 def fun_done_learn_res():
@@ -142,7 +142,7 @@ def fun_done_learn_res():
     print("振り返り　fun,done,learn")
     for key, value in fun_done_learn_retro_by_user.items():
         print(" {}: {}".format(key, value))
-    print("FigJam total: ", sum([value for key, value in fun_done_learn_retro_by_user.items()])/len(fun_done_learn_retro_by_user.items()))
+    print("FigJam avg: ", sum([value for key, value in fun_done_learn_retro_by_user.items()])/len(fun_done_learn_retro_by_user.items()))
 
     # Notion
     print("Notion: \n Content: ", sentiment_analyse(_fun_done_learn['notion']))
@@ -154,11 +154,11 @@ def fun_done_learn_res():
         if len(value) > 0:
             res = sentiment_analyse("".join(value))
             print(" {}: {}".format(key, res))
-    print("Slack total: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
+    print("Slack avg: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
 
 
 def speed_car_res():
-    # === speed car ===
+    ## === speed car ===
     _speed_car = speed_car()
 
     # Jira
@@ -217,7 +217,7 @@ def speed_car_res():
     print("振り返り　speed car")
     for key, value in _speed_car_retro_by_user.items():
         print(" {}: {}".format(key, value))
-    print("FigJam total: ", sum([value for key, value in _speed_car_retro_by_user.items()])/len(_speed_car_retro_by_user.items()))
+    print("FigJam avg: ", sum([value for key, value in _speed_car_retro_by_user.items()])/len(_speed_car_retro_by_user.items()))
 
     # Notion
     print("Notion: \n Content: ", sentiment_analyse(_speed_car['notion']))
@@ -229,7 +229,7 @@ def speed_car_res():
         if len(value) > 0:
             res = sentiment_analyse("".join(value))
             print(" {}: {}".format(key, res))
-    print("Slack total: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
+    print("Slack avg: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
 
 
 def star_fish_res():
@@ -288,10 +288,10 @@ def star_fish_res():
     _star_fish_retro_by_user = {}
     for name, val in group_values_by_key(_star_fish_retro_result).items():
         _star_fish_retro_by_user[name] = sum(val)/len(val)
-    print("振り返り　start fish")
+    print("振り返り　star fish")
     for key, value in _star_fish_retro_by_user.items():
         print(" {}: {}".format(key, value))
-    print("FigJam total: ", sum([value for key, value in _star_fish_retro_by_user.items()])/len(_star_fish_retro_by_user.items()))
+    print("FigJam avg: ", sum([value for key, value in _star_fish_retro_by_user.items()])/len(_star_fish_retro_by_user.items()))
 
 
     # Notion
@@ -304,7 +304,7 @@ def star_fish_res():
         if len(value) > 0:
             res = sentiment_analyse("".join(value))
             print(" {}: {}".format(key, res))
-    print("Slack total: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
+    print("Slack avg: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
 
 
 def kpt_res():
@@ -361,7 +361,7 @@ def kpt_res():
         if len(value) > 0:
             res = sentiment_analyse("".join(value))
             print(" {}: {}".format(key, res))
-    print("Slack total: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
+    print("Slack avg: ", sum([sentiment_analyse("".join(value)) for key, value in _slack.items()])/len(_slack.items()))
 
 if __name__ == '__main__':
     # 参考: 
