@@ -6,7 +6,6 @@ import pprint
 # 中鉢PT.* というでディレクトリの名前を取る。その中の各チャンネル名のディレクトリ内のjsonファイルを取得する。
 def slack(dir_name):
     res = read_json_files(dir_name)
-    # all_texts = []
     all_text_dic = {} # ユーザー別にtextを配列に格納
     for json_data in res:
         dic = extract_text_from_slack(json_data)
@@ -62,14 +61,12 @@ def extract_text_from_slack(data: list):
     """
     results = []
     dic = {}
-    text = ''
     username = ''
     for datum in data:
         if 'user_profile' in datum:
             username = datum['user_profile']['first_name']
             dic[username] = []
-    if len(username) == 0: return dic
-    for datum in data:
+        if len(username) == 0: return dic
         if 'blocks' in datum:
             for block in datum['blocks']:
                 if 'elements' in block:
@@ -78,9 +75,7 @@ def extract_text_from_slack(data: list):
                             for item in element['elements']:
                                 if 'text' in item:
                                     txt = item['text']
-                                    text += item['text']
                                     if txt:
                                         results.append(txt)
                                         dic[username].append([txt])
-    # pprint.pprint(dic)
     return dic
