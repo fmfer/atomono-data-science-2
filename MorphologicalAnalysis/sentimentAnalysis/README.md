@@ -68,22 +68,23 @@ Jira
  中山建太: 0.5281966666666666
  平田聖: 0.49728
  水野響: 0.44598444444444446
- 鈴木真希: 0.38031
+ 鈴木真希: 0.38452
  Dai Miyahara: 0.41870500000000005
  大野寛人: 0.404905
-FigJam total:  0.4458968518518518
-Notion:
+ FABIAN M. FERNANDEZ: 0.20968
+FigJam avg:  0.4127530158730158
+Notion: 
  Content:  0.5173
-Slack:
- satoshi.​hirata: 0.49932
- Hibiki: 0.4982
- Nakayama: 0.46128
- 鈴木真希: 0.49856
- Ohno: 0.31736
- FABIAN: 0.51539
- Dai: 0.50052
+Slack: 
+ satoshi.hirata: 0.48091
+ Hibiki: 0.51682
+ Nakayama: 0.49089
+ Dai: 0.51706
+ FABIAN: 0.49275
+ 鈴木真希: 0.49057
  slackbot: 0.57489
-Slack total:  0.48318999999999995
+ Ohno: 0.45871
+Slack avg:  0.502825
 
 
 
@@ -107,25 +108,25 @@ Jira
  鈴木真希: 0.4967966666666667
  水野響: 0.4395716666666667
  FABIAN M. FERNANDEZ: 0.4372275
-FigJam total:  0.4414610416666666
-Notion:
+FigJam avg:  0.4414610416666666
+Notion: 
  Content:  0.49459
-Slack:
- satoshi.​hirata: 0.44329
- Hibiki: 0.47592
- FABIAN: 0.45105
- Nakayama: 0.47701
- Dai: 0.5051
- 鈴木真希: 0.50514
- Ohno: 0.47143
- slackbot: 0.58098
-Slack total:  0.48874000000000006
+Slack: 
+ satoshi.hirata: 0.42283
+ Hibiki: 0.46276
+ Dai: 0.48348
+ FABIAN: 0.44623
+ Nakayama: 0.43466
+ Ohno: 0.47745
+ 鈴木真希: 0.49272
+ slackbot: 0.57489
+Slack avg:  0.4743775
 
 
 
 speed car
 
-['中鉢PT2023 Member Analytics Oct 10, 2023 - Oct 16, 2023.csv', '中鉢PT2023 Channel Analytics Oct 10, 2023 - Oct 16, 2023.csv', 'Jira2.csv', 'Jira.csv', 'ふりかえり：speed car.csv']
+['ふりかえり：speed car.csv', '中鉢PT2023 Member Analytics Oct 10, 2023 - Oct 16, 2023.csv', 'Jira2.csv', 'Jira.csv', '中鉢PT2023 Channel Analytics Oct 10, 2023 - Oct 16, 2023.csv']
 Jira2
  summary:  0.379226
  comment:  0.1037252
@@ -144,17 +145,18 @@ Jira
  Dai Miyahara: 0.40676125
  鈴木真希: 0.43363999999999997
  中山建太: 0.4579915384615385
-FigJam total:  0.41265780128205126
-Notion:
+FigJam avg:  0.41265780128205126
+Notion: 
  Content:  0.50054
-Slack:
- satoshi.​hirata: 0.47883
- Hibiki: 0.5056
- Nakayama: 0.44404
- Dai: 0.49514
- 鈴木真希: 0.48675
- Ohno: 0.50484
-Slack total:  0.4164571428571428
+Slack: 
+ satoshi.hirata: 0.46931
+ Hibiki: 0.52144
+ Dai: 0.47949
+ Nakayama: 0.44894
+ Ohno: 0.44281
+ 鈴木真希: 0.50608
+ FABIAN: 0.53205
+Slack avg:  0.48573142857142854
 
 
 
@@ -178,18 +180,19 @@ Jira
  水野響: 0.45076714285714287
  平田聖: 0.513345
  FABIAN M. FERNANDEZ: 0.41741
-FigJam total:  0.44850221088435377
-Notion:
+FigJam avg:  0.44850221088435377
+Notion: 
  Content:  0.51854
-Slack:
- satoshi.​hirata: 0.44383
- Hibiki: 0.49772
- Dai: 0.48431
- Ohno: 0.46097
- Nakayama: 0.46753
- FABIAN: 0.49188
- 鈴木真希: 0.52967
-Slack total:  0.42198875
+Slack: 
+ satoshi.hirata: 0.43245
+ Nakayama: 0.47048
+ Hibiki: 0.4953
+ Dai: 0.4798
+ FABIAN: 0.4877
+ Ohno: 0.47565
+ 鈴木真希: 0.50792
+ slackbot: 0.57489
+Slack avg:  0.49052375
 
 
 
@@ -205,15 +208,19 @@ Jira
  comment:  0.282762
  description:  0.256562
  トータル:  0.30363733333333337
-Notion:
+Notion: 
  Content:  0.50962
-Slack:
- satoshi.​hirata: 0.45457
- Hibiki: 0.50643
- FABIAN: 0.50836
- Ohno: 0.4885
- Nakayama: 0.50446
- Dai: 0.48537
- 鈴木真希: 0.63555
-Slack total:  0.447905
+Slack: 
+ satoshi.hirata: 0.47021
+ Dai: 0.47733
+ FABIAN: 0.49935
+ Nakayama: 0.51475
+ 鈴木真希: 0.56867
+ Ohno: 0.49829
+ Hibiki: 0.51886
+ slackbot: 0.57489
+Slack avg:  0.51529375
+
+
+(base) 
 ```
