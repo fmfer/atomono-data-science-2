@@ -28,6 +28,7 @@ def sentiment_analyse(text):
     tokens = t.tokenize(text)
     sentiment_val = 0
     word_cnt = 0
+    # 一文字のひらがな、日本語以外（urlが多い）を排除
     p = re.compile('^([あ-ん]|[A-Za-z0-9_!-]+)$')
     for token in tokens:
         #単語の基本形を取り出し
@@ -40,12 +41,6 @@ def sentiment_analyse(text):
         sentiment_val = sentiment_val + score
         word_cnt += 1
 
-        # sentiment_val = sentiment_val + float(analyzer.analyze(word))
-        # word_cnt += 1
-        # if word in sentiment_dic:
-        #     # sentiment_val = sentiment_val + float(sentiment_dic[word])
-        #     sentiment_val = sentiment_val + float(analyzer.analyze(word))
-        #     word_cnt += 1
     if word_cnt == 0:
         return 0
     else:
